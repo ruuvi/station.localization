@@ -49,20 +49,20 @@
       "sv": "g"
     },
     {
-      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\\n",
+      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\n",
       "ident_android": "",
-      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\\n",
-      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittausjärjestysnumero,Lähetysteho\\n",
-      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (г/м³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (гПа),Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения,Мощность Передачи\\n",
-      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Acceleration X,Acceleration Y,Acceleration Z,Spänning,Rörelseräknare,Mätningssekvensnummer,Sändningseffekt\\n"
+      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\n",
+      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittausjärjestysnumero,Lähetysteho\n",
+      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (г/м³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (гПа),Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения,Мощность Передачи\n",
+      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Acceleration X,Acceleration Y,Acceleration Z,Spänning,Rörelseräknare,Mätningssekvensnummer,Sändningseffekt\n"
     },
     {
-      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\\n",
+      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\n",
       "ident_android": "",
-      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\\n",
-      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Sijainti\\n",
-      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (g/m³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (hPa),Локация\\n",
-      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Plats\\n"
+      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\n",
+      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Sijainti\n",
+      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (g/m³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (hPa),Локация\n",
+      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Plats\n"
     },
     {
       "ident_ios": "About.Version.text",
@@ -755,10 +755,10 @@
     {
       "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.message",
       "ident_android": "",
-      "en": "You are going to clear humidity offset. This can\u0027t be undone. Tap \\\"Confirm\\\" to continue.",
-      "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения",
-      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta"
+      "en": "You are going to clear humidity offset. This can't be undone. Tap \"Confirm\" to continue.",
+      "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \"Vahvista\" .",
+      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \"Подтвердить\" для продолжения",
+      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \"Bekräfta\" för att fortsätta"
     },
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.title",
@@ -771,10 +771,10 @@
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.message",
       "ident_android": "",
-      "en": "You are going to calibrate humidity offset. Tap \\\"Confirm\\\" to continue",
-      "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения",
-      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta"
+      "en": "You are going to calibrate humidity offset. Tap \"Confirm\" to continue",
+      "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \"Vahvista\" .",
+      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \"Подтвердить\" для продолжения",
+      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \"Bekräfta\" för att fortsätta"
     },
     {
       "ident_ios": "Language.English",
@@ -1139,9 +1139,9 @@
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
       "ident_android": "",
-      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a RuuviTag.\\nOr update your sensor with the latest firmware.",
+      "en": "In order to see missing values:\nIf you are using the latest firmware, set RAWv2 mode by pressing \"B\" on a RuuviTag.\nOr update your sensor with the latest firmware.",
       "fi": "Puuttuvat arvot voidaan näyttää ainoastaan uudemmalla laiteohjelmistoversiolla.",
-      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем RuuviTag.\\nИли обновите ваш RuuviTag с последней прошивкой.",
+      "ru": "Для того, чтобы увидеть отсутствующие значения:\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \"B\" на вашем RuuviTag.\nИли обновите ваш RuuviTag с последней прошивкой.",
       "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format."
     },
     {
@@ -1171,7 +1171,7 @@
     {
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.message",
       "ident_android": "",
-      "en": "Humidity value is greater than 100.0% after calibration. This value doesn\u0027t make sense, so the value is adjusted to 100.0%",
+      "en": "Humidity value is greater than 100.0% after calibration. This value doesn't make sense, so the value is adjusted to 100.0%",
       "fi": "Kalibroinnin jälkeinen kosteusarvo on suurempi kuin 100%. Tämä ei käy järkeen, joten maksimiarvona näytetään 100%.",
       "ru": "Значение относительной влажности больше 100% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%.",
       "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%. Detta är inte rimligt, så det maximala värdet visas som 100%."
@@ -1587,9 +1587,9 @@
     {
       "ident_ios": "WebTagSettings.Label.BackgroundImage.text",
       "ident_android": "",
-      "en": "BACKGROUND\\nIMAGE",
+      "en": "BACKGROUND\nIMAGE",
       "fi": "TAUSTAKUVA",
-      "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
+      "ru": "ФОНОВОЕ\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD"
     },
     {
@@ -1907,9 +1907,9 @@
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
-      "en": "BACKGROUND\\nIMAGE",
+      "en": "BACKGROUND\nIMAGE",
       "fi": "TAUSTAKUVA",
-      "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
+      "ru": "ФОНОВОЕ\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD"
     },
     {
@@ -1963,7 +1963,7 @@
     {
       "ident_ios": "",
       "ident_android": "calibration_hint",
-      "en": "%1$d%% -\u0026gt; 75%%",
+      "en": "%1$d%% -> 75%%",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -1987,7 +1987,7 @@
     {
       "ident_ios": "HumidityCalibration.Label.note.text",
       "ident_android": "calibration_humidity_disclaimer",
-      "en": "Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall \u0026 install, you may need to recalibrate.",
+      "en": "Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall & install, you may need to recalibrate.",
       "fi": "Huomaathan, että kalibrointitieto tallennetaan paikallisesti mobiililaitteeseesi. Kalibrointi joudutaan suorittamaan uudelleen sovelluksen poistamisen ja uudelleenasennuksen jälkeen.",
       "ru": "Данные для калибровки будут сохранены локально. Если вы переустановите приложение будет нужно произвести калибровку заново.",
       "sv": "Observera att kalibreringsdata lagras lokalt i din mobila enhet. Om du tar bort Ruuvi Station appen och installerar den igen behöver du kalibrera på nytt."
@@ -2003,7 +2003,7 @@
     {
       "ident_ios": "",
       "ident_android": "calibration_humidity_link_url",
-      "en": "https://www.youtube.com/results?search_query\u003dhygrometer+salt+calibration",
+      "en": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -2187,7 +2187,7 @@
     {
       "ident_ios": "About.AboutHelp.contents",
       "ident_android": "help_about_text",
-      "en": "Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Just add some sensors and you\u0027re ready to go.",
+      "en": "Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Just add some sensors and you're ready to go.",
       "fi": "Ruuvi Station on helppokäyttöinen sovellus Ruuvin tuotteiden hallinnointiin. Aloita lisäämällä antureita.",
       "ru": "Ruuvi Station - простой в использовании, но мощный инструмент для работы с вашими Ruuvi сенсорами.",
       "sv": "Ruuvi State är en lättanvänt och kraftfullt program för Ruuvi sensorer. Sätt igång genom att lägga till sensorer."
@@ -2227,10 +2227,10 @@
     {
       "ident_ios": "About.More.contents",
       "ident_android": "help_more_to_read_text",
-      "en": "Ruuvi\u0027s website: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi on Twitter: twitter.com/ruuvicom",
-      "fi": "Ruuvin kotisivu: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi Twitter: twitter.com/ruuvicom",
-      "ru": "Веб-сайт: ruuvi.com\\nФорум: f.ruuvi.com\\nБлог: blog.ruuvi.com\\nTwitter: twitter.com/ruuvicom",
-      "sv": "Ruuvis hemsida: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi Twitter: twitter.com/ruuvicom"
+      "en": "Ruuvi's website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi on Twitter: twitter.com/ruuvicom",
+      "fi": "Ruuvin kotisivu: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi Twitter: twitter.com/ruuvicom",
+      "ru": "Веб-сайт: ruuvi.com\nФорум: f.ruuvi.com\nБлог: blog.ruuvi.com\nTwitter: twitter.com/ruuvicom",
+      "sv": "Ruuvis hemsida: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi Twitter: twitter.com/ruuvicom"
     },
     {
       "ident_ios": "About.More.header",
@@ -2259,7 +2259,7 @@
     {
       "ident_ios": "About.OperationsManual.contents",
       "ident_android": "help_operations_text",
-      "en": "We\u0027ve designed the app to be self-explanatory but also comprehensive manuals are available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/manuals",
+      "en": "We've designed the app to be self-explanatory but also comprehensive manuals are available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/manuals",
       "fi": "Olemme suunnitelleet ohjelman ja laitteemme mahdollisimman helppokäyttöisiksi, mutta myös ohjeet ovat saatavilla osoitteessa ruuvi.com/manuals",
       "ru": "Мы разработали приложение так, чтобы оно было интуитивно понятным. В то же время, руководства доступны здесь: ruuvi.com/manuals",
       "sv": "Vi har designat appen så att den ska vara självförklarande men det finns också heltäckande manualer för både Ruuvi sensorer och Ruuvi Station: ruuvi.com/manuals"
@@ -2275,7 +2275,7 @@
     {
       "ident_ios": "About.Privacy.contents",
       "ident_android": "help_privacy_policy_text",
-      "en": "By using the application, you accept Ruuvi\u0027s standard terms and conditions\nruuvi.com/terms",
+      "en": "By using the application, you accept Ruuvi's standard terms and conditions\nruuvi.com/terms",
       "fi": "",
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\nruuvi.com/terms",
       "sv": ""
@@ -2523,7 +2523,7 @@
     {
       "ident_ios": "",
       "ident_android": "permission_dialog_background_request_message",
-      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click allow all the time if you\u0027d like to use the background scanning feature. \n\nRuuvi doesn\u0027t track your movements. You\u0027re safe.",
+      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click allow all the time if you'd like to use the background scanning feature. \n\nRuuvi doesn't track your movements. You're safe.",
       "fi": "",
       "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\n\nПожалуйста разрешите постоянный доспуп к местоположению\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": ""
@@ -2531,7 +2531,7 @@
     {
       "ident_ios": "",
       "ident_android": "permission_dialog_request_message",
-      "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn\u0027t track your movements. You\u0027re safe.",
+      "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn't track your movements. You're safe.",
       "fi": "",
       "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": ""
@@ -2747,7 +2747,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_common_instructions",
-      "en": "Go to Android Settings -\u003e Apps -\u003e Ruuvi Station -\u003e Battery -\u003e Battery Optimization and select Don\u0027t Optimize for Ruuvi Station",
+      "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimization and select Don't Optimize for Ruuvi Station",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -2755,7 +2755,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_huawei_instructions",
-      "en": "On Huawei devices go to Android Settings -\u003e Apps -\u003e Ruuvi Station -\u003e Power usage details -\u003e App launch. Disable Manage Automatically and enable options: Auto-Launch, Secondary Launch and Run in background.",
+      "en": "On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable Manage Automatically and enable options: Auto-Launch, Secondary Launch and Run in background.",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -2763,7 +2763,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung23_instructions",
-      "en": "On Samsung devices go to Android Settings -\u003e Battery -\u003e App power saving detail and set option \u0027Turned off\u0027 for Ruuvi Station.",
+      "en": "On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -2771,7 +2771,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung_instructions",
-      "en": "On Samsung devices go to Android Settings -\u003e Device Maintenance (or Device Care) -\u003e Battery. Disable Put unused apps to sleep. Disable Auto-disable unused apps. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.",
+      "en": "On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable Put unused apps to sleep. Disable Auto-disable unused apps. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -2787,7 +2787,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_xiaomi_instructions",
-      "en": "On Xiaomi devices go to Android Settings -\u003e Apps -\u003e Manage apps -\u003e Ruuvi Station. Enable Autostart and set Battery Saver to \u0027No restrictions\u0027.",
+      "en": "On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.",
       "fi": "",
       "ru": "",
       "sv": ""
@@ -3278,6 +3278,14 @@
       "en": "Yes",
       "fi": "",
       "ru": "Да",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "app_name",
+      "en": "Ruuvi Station",
+      "fi": "",
+      "ru": "",
       "sv": ""
     }
   ]
