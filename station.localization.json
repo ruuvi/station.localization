@@ -778,7 +778,7 @@
     },
     {
       "ident_ios": "Language.English",
-      "ident_android": "",
+      "ident_android": "language_english",
       "en": "English",
       "fi": "English",
       "ru": "English",
@@ -786,7 +786,7 @@
     },
     {
       "ident_ios": "Language.Finnish",
-      "ident_android": "",
+      "ident_android": "language_finnish",
       "en": "Suomi",
       "fi": "Suomi",
       "ru": "Suomi",
@@ -794,7 +794,7 @@
     },
     {
       "ident_ios": "Language.Russian",
-      "ident_android": "",
+      "ident_android": "language_russian",
       "en": "Русский",
       "fi": "Русский",
       "ru": "Русский",
@@ -802,7 +802,7 @@
     },
     {
       "ident_ios": "Language.Swedish",
-      "ident_android": "",
+      "ident_android": "language_swedish",
       "en": "Svenska",
       "fi": "Svenska",
       "ru": "Svenska",
@@ -954,7 +954,7 @@
     },
     {
       "ident_ios": "Settings.Label.Language.text",
-      "ident_android": "",
+      "ident_android": "settings_language",
       "en": "Language",
       "fi": "Kieli",
       "ru": "Язык",
