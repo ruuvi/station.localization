@@ -292,7 +292,7 @@
       "ident_ios": "Defaults.WelcomeShown.title",
       "ident_android": "",
       "en": "Welcome Shown",
-      "fi": "Kiertoajelu",
+      "fi": "Esittely näytetään",
       "ru": "Приветствие Показано",
       "sv": "Välkomst Visad"
     },
@@ -460,7 +460,7 @@
       "ident_ios": "DiscoverTable.NoDevicesSection.NotFound.text",
       "ident_android": "",
       "en": "(No sensors on Bluetooth range)",
-      "fi": "Ei havaittuja antureita Bluetooth-verkon alueella",
+      "fi": "(Ei havaittuja antureita Bluetooth-verkon alueella)",
       "ru": "(Bluetooth устройства не найдены)",
       "sv": "(Inga sensorer inom Bluetooths räckvidd)"
     },
@@ -468,7 +468,7 @@
       "ident_ios": "DiscoverTable.NoDevicesSection.BluetoothDisabled.text",
       "ident_android": "",
       "en": "(Bluetooth is disabled)",
-      "fi": "Bluetooth ei ole käytössä",
+      "fi": "(Bluetooth ei ole käytössä)",
       "ru": "(Bluetooth отключен)",
       "sv": "(Bluetooth är avaktiverat)"
     },
@@ -1684,7 +1684,7 @@
       "ident_ios": "WebTagSettings.AirHumidityAlert.title",
       "ident_android": "",
       "en": "Air Humidity",
-      "fi": "Air Humidity",
+      "fi": "Ilmankosteus",
       "ru": "Относительная Влажность",
       "sv": "Luftfuktighet"
     },
@@ -1692,7 +1692,7 @@
       "ident_ios": "WebTagSettings.Alerts.Humidity.description",
       "ident_android": "",
       "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Alert when less than %.0f or more than %.0f",
+      "fi": "Hälytä, mikäli alle %.0f tai yli %.0f",
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f"
     },
@@ -1764,7 +1764,7 @@
       "ident_ios": "",
       "ident_android": "add_tag_not_found",
       "en": "No sensors found",
-      "fi": "",
+      "fi": "Antureita ei löydetty",
       "ru": "Датчиков не обнаружено",
       "sv": ""
     },
@@ -1788,7 +1788,7 @@
       "ident_ios": "",
       "ident_android": "alarm_notification_disable",
       "en": "Disable this alarm",
-      "fi": "",
+      "fi": "Poista tämä hälytys käytöstä",
       "ru": "Отключить это уведомление",
       "sv": ""
     },
@@ -1852,7 +1852,7 @@
       "ident_ios": "",
       "ident_android": "alert_notification_rssi_high",
       "en": "Signal strength too high!",
-      "fi": "",
+      "fi": "Signaalin voimakkuus liian korkea!",
       "ru": "Высокий уровень сигнала!",
       "sv": ""
     },
@@ -1860,7 +1860,7 @@
       "ident_ios": "",
       "ident_android": "alert_notification_rssi_low",
       "en": "Signal strength too low!",
-      "fi": "",
+      "fi": "Signaalin voimakkuus liian alhainen!",
       "ru": "Низкий уровен сигнала!",
       "sv": ""
     },
@@ -1916,7 +1916,7 @@
       "ident_ios": "",
       "ident_android": "background_notification_message",
       "en": "You can disable background scanning in settings",
-      "fi": "",
+      "fi": "Poista taustaskannaus käytöstä muokkaamalla asetuksia",
       "ru": "Вы можете отключить фоновое сканирование в настройках",
       "sv": ""
     },
@@ -1924,7 +1924,7 @@
       "ident_ios": "",
       "ident_android": "background_notification_scanning_every",
       "en": "Scanning every",
-      "fi": "",
+      "fi": "Skannataan joka",
       "ru": "Сканирование каждые",
       "sv": ""
     },
@@ -1980,7 +1980,7 @@
       "ident_ios": "",
       "ident_android": "calibration_humidity_button",
       "en": "Calibrate hygrometer",
-      "fi": "",
+      "fi": "Kosteusmittarin kalibrointi",
       "ru": "Калибровать гигрометр",
       "sv": ""
     },
@@ -2004,7 +2004,7 @@
       "ident_ios": "",
       "ident_android": "calibration_humidity_link_url",
       "en": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
-      "fi": "",
+      "fi": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
       "ru": "",
       "sv": ""
     },
@@ -2012,7 +2012,7 @@
       "ident_ios": "",
       "ident_android": "camera",
       "en": "Camera",
-      "fi": "",
+      "fi": "Kamera",
       "ru": "Камера",
       "sv": ""
     },
@@ -2020,7 +2020,7 @@
       "ident_ios": "",
       "ident_android": "camera_fail",
       "en": "Could not start camera",
-      "fi": "",
+      "fi": "Kameran käynnistäminen epäonnistui",
       "ru": "Не удалось запустить камеру",
       "sv": ""
     },
@@ -2036,7 +2036,7 @@
       "ident_ios": "",
       "ident_android": "charts_background_dialog_title",
       "en": "Charts feature works best with background scanning enabled.",
-      "fi": "",
+      "fi": "Historiatietojen kerääminen toimii parhaiten taustaskannauksen ollessa käytössä.",
       "ru": "Графики работают лучше всего с включенным фоновым сканированием",
       "sv": ""
     },
@@ -2044,7 +2044,7 @@
       "ident_ios": "",
       "ident_android": "charts_background_dialog_title_question",
       "en": "Would you like to enable background scanning?",
-      "fi": "",
+      "fi": "Haluatko ottaa käyttöön taustaskannauksen?",
       "ru": "Включить фоновое сканирование?",
       "sv": ""
     },
@@ -2092,7 +2092,7 @@
       "ident_ios": "",
       "ident_android": "dashboard",
       "en": "Dashboard",
-      "fi": "",
+      "fi": "Koontinäyttö",
       "ru": "Панель датчиков",
       "sv": ""
     },
@@ -2100,7 +2100,7 @@
       "ident_ios": "",
       "ident_android": "dashboard_description",
       "en": "Use dashboard view to see multiple sensors at a glance. Restart the app after enabled.",
-      "fi": "",
+      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla. Toiminto otetaan käyttöön sovelluksen uudelleenkäynnistyksen yhteydessä.",
       "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно. Перезапустите приложение после включения функции",
       "sv": ""
     },
@@ -2108,7 +2108,7 @@
       "ident_ios": "",
       "ident_android": "dashboard_empty",
       "en": "Your dashboard \nis empty",
-      "fi": "",
+      "fi": "Koontinäyttö on tyhjä",
       "ru": "Панель датчиков пуста",
       "sv": ""
     },
@@ -2116,7 +2116,7 @@
       "ident_ios": "",
       "ident_android": "data_points_read",
       "en": "%1$,d measurements read, saving..",
-      "fi": "",
+      "fi": "%1$,d mittausta luettu, tallennetaan...",
       "ru": "%1$,d измерений прочитано, сохраняем..",
       "sv": ""
     },
@@ -2140,7 +2140,7 @@
       "ident_ios": "",
       "ident_android": "file_not_supported",
       "en": "File type not supported",
-      "fi": "",
+      "fi": "Tiedostoa ei tueta",
       "ru": "Тип файла не поддерживается",
       "sv": ""
     },
@@ -2148,7 +2148,7 @@
       "ident_ios": "",
       "ident_android": "gallery",
       "en": "Gallery",
-      "fi": "",
+      "fi": "Galleria",
       "ru": "Галерея",
       "sv": ""
     },
@@ -2156,7 +2156,7 @@
       "ident_ios": "",
       "ident_android": "gateway_disabled",
       "en": "Disabled",
-      "fi": "",
+      "fi": "Pois käytöstä",
       "ru": "Отключено",
       "sv": ""
     },
@@ -2164,7 +2164,7 @@
       "ident_ios": "",
       "ident_android": "gateway_url",
       "en": "Gateway URL",
-      "fi": "",
+      "fi": "Välityspalvelimen URL-osoite",
       "ru": "URL шлюза",
       "sv": ""
     },
@@ -2172,7 +2172,7 @@
       "ident_ios": "",
       "ident_android": "gateway_url_hint",
       "en": "https://your.gateway/...",
-      "fi": "",
+      "fi": "https://välitys.palvelin/...",
       "ru": "https://your.gateway/...",
       "sv": ""
     },
@@ -2180,7 +2180,7 @@
       "ident_ios": "h",
       "ident_android": "h",
       "en": "h",
-      "fi": "h",
+      "fi": "t",
       "ru": "ч",
       "sv": "h"
     },
@@ -2204,7 +2204,7 @@
       "ident_ios": "",
       "ident_android": "help_added_tags",
       "en": "Added sensors: %1$,d",
-      "fi": "",
+      "fi": "Lisätyt anturit: %1$,d",
       "ru": "Добавленных датчиков: %1$,d",
       "sv": ""
     },
@@ -2212,7 +2212,7 @@
       "ident_ios": "",
       "ident_android": "help_db_data_points",
       "en": "Stored measurements: %1$,d",
-      "fi": "",
+      "fi": "Tallennetut mittaukset: %1$,d",
       "ru": "Кол-во сохраненных измерений: %1$,d",
       "sv": ""
     },
@@ -2220,7 +2220,7 @@
       "ident_ios": "",
       "ident_android": "help_db_size",
       "en": "Database size: %1$,d kB",
-      "fi": "",
+      "fi": "Tietokannan koko: %1$,d kt",
       "ru": "Размер базы данных: %1$,d кБ",
       "sv": ""
     },
@@ -2276,7 +2276,7 @@
       "ident_ios": "About.Privacy.contents",
       "ident_android": "help_privacy_policy_text",
       "en": "By using the application, you accept Ruuvi's standard terms and conditions\nruuvi.com/terms",
-      "fi": "",
+      "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen\nruuvi.com/terms",
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\nruuvi.com/terms",
       "sv": ""
     },
@@ -2284,7 +2284,7 @@
       "ident_ios": "About.Privacy.header",
       "ident_android": "help_privacy_policy_title",
       "en": "PRIVACY POLICY",
-      "fi": "",
+      "fi": "TIETOSUOJAKÄYTÄNTÖ",
       "ru": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
       "sv": ""
     },
@@ -2292,7 +2292,7 @@
       "ident_ios": "",
       "ident_android": "help_seen_tags",
       "en": "Seen sensors: %1$,d",
-      "fi": "",
+      "fi": "Havaitut anturit: %1$,d",
       "ru": "Датчиков обнаружено: %1$,d",
       "sv": ""
     },
@@ -2316,7 +2316,7 @@
       "ident_ios": "",
       "ident_android": "hours",
       "en": "Hours",
-      "fi": "",
+      "fi": "Tuntia",
       "ru": "Часов",
       "sv": ""
     },
@@ -2396,7 +2396,7 @@
       "ident_ios": "",
       "ident_android": "mac_copied",
       "en": "MAC address copied to clipboard",
-      "fi": "",
+      "fi": "MAC-osoite kopioitu leikepöydälle",
       "ru": "MAC адрес скопирован в буфер обмена",
       "sv": ""
     },
@@ -2452,7 +2452,7 @@
       "ident_ios": "",
       "ident_android": "minutes",
       "en": "Minutes",
-      "fi": "",
+      "fi": "Minuuttia",
       "ru": "Минут",
       "sv": ""
     },
@@ -2476,7 +2476,7 @@
       "ident_ios": "",
       "ident_android": "navigation_drawer_close",
       "en": "Close the navigation drawer",
-      "fi": "",
+      "fi": "Sulje siirtymisvalikko",
       "ru": "Закрыть навигационную панель",
       "sv": ""
     },
@@ -2484,7 +2484,7 @@
       "ident_ios": "",
       "ident_android": "navigation_drawer_open",
       "en": "Open the navigation drawer",
-      "fi": "",
+      "fi": "Avaa siirtymisvalikko",
       "ru": "Открыть навигационную панель",
       "sv": ""
     },
@@ -2492,7 +2492,7 @@
       "ident_ios": "",
       "ident_android": "no",
       "en": "No",
-      "fi": "",
+      "fi": "Ei",
       "ru": "Нет",
       "sv": ""
     },
@@ -2500,7 +2500,7 @@
       "ident_ios": "",
       "ident_android": "no_new_data_points",
       "en": "No new data points available",
-      "fi": "",
+      "fi": "Uusia mittaustietoja ei saatavilla",
       "ru": "Нет новых измерений",
       "sv": ""
     },
@@ -2516,7 +2516,7 @@
       "ident_ios": "",
       "ident_android": "permission_background_dialog_title",
       "en": "Enable Background Scanning",
-      "fi": "",
+      "fi": "Ota käyttöön taustaskannaus",
       "ru": "Включить сканирование в фоне",
       "sv": ""
     },
@@ -2524,7 +2524,7 @@
       "ident_ios": "",
       "ident_android": "permission_dialog_background_request_message",
       "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click allow all the time if you'd like to use the background scanning feature. \n\nRuuvi doesn't track your movements. You're safe.",
-      "fi": "",
+      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \n\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\n\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
       "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\n\nПожалуйста разрешите постоянный доспуп к местоположению\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": ""
     },
@@ -2532,7 +2532,7 @@
       "ident_ios": "",
       "ident_android": "permission_dialog_request_message",
       "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn't track your movements. You're safe.",
-      "fi": "",
+      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \n\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
       "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": ""
     },
@@ -2540,7 +2540,7 @@
       "ident_ios": "",
       "ident_android": "permission_dialog_title",
       "en": "Enable Bluetooth Scanning",
-      "fi": "",
+      "fi": "Ota Bluetooth-skannaus käyttöön",
       "ru": "Включить сканирование Bluetooth",
       "sv": ""
     },
@@ -2548,7 +2548,7 @@
       "ident_ios": "",
       "ident_android": "permission_location_needed",
       "en": "Please enable location permission in settings to see sensors.",
-      "fi": "",
+      "fi": "Salli sijaintitietojen käyttö ensin asetuksista.",
       "ru": "Разрешите доступ к местоположению чтобы увидеть датчики",
       "sv": ""
     },
@@ -2556,7 +2556,7 @@
       "ident_ios": "",
       "ident_android": "press_to_add",
       "en": "No sensors added,\npress here to add sensors",
-      "fi": "",
+      "fi": "Ei antureita. Lisää antureita napsauttamalla tästä",
       "ru": "Нет добавленных датчиков,\nнажмите чтобы добавить",
       "sv": ""
     },
@@ -2652,7 +2652,7 @@
       "ident_ios": "",
       "ident_android": "reading_history",
       "en": "Reading history",
-      "fi": "",
+      "fi": "Historiatietoja luetaan",
       "ru": "Чтение истории",
       "sv": ""
     },
@@ -2660,7 +2660,7 @@
       "ident_ios": "",
       "ident_android": "reading_history_not_supported",
       "en": "Firmware not supported",
-      "fi": "",
+      "fi": "Laiteohjelmistoa ei tueta",
       "ru": "Прошивка не поддерживается",
       "sv": ""
     },
@@ -2668,7 +2668,7 @@
       "ident_ios": "",
       "ident_android": "rssi",
       "en": "Signal strength (RSSI)",
-      "fi": "",
+      "fi": "Signaalin voimakkuus (RSSI)",
       "ru": "Сила сигнала (RSSI)",
       "sv": ""
     },
@@ -2700,7 +2700,7 @@
       "ident_ios": "",
       "ident_android": "seconds",
       "en": "Seconds",
-      "fi": "",
+      "fi": "Sekuntia",
       "ru": "Секунд",
       "sv": ""
     },
@@ -2708,7 +2708,7 @@
       "ident_ios": "",
       "ident_android": "select_picture",
       "en": "Select Picture",
-      "fi": "",
+      "fi": "Valitse kuva",
       "ru": "Выберите изображение",
       "sv": ""
     },
@@ -2716,7 +2716,7 @@
       "ident_ios": "",
       "ident_android": "send_email",
       "en": "Send Email",
-      "fi": "",
+      "fi": "Lähetä sähköpostia",
       "ru": "Отправить электронное письмо",
       "sv": ""
     },
@@ -2724,7 +2724,7 @@
       "ident_ios": "",
       "ident_android": "sensor_already_added",
       "en": "Sensor is already added",
-      "fi": "",
+      "fi": "Anturi on jo lisätty",
       "ru": "Датчик уже добавлен",
       "sv": ""
     },
@@ -2740,7 +2740,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization",
       "en": "If you experience any issues with background scanning you should disable battery optimization for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.",
-      "fi": "",
+      "fi": "Poista virransäästöominaisuudet käytöstä, mikäli taustaskannauks ei toimi luotettavasti. Virransäästötoiminnot saattavat sijaita eri paikassa Android käyttöjärjestelmäversiosta ja laitteen valmistajasta riippuen.",
       "ru": "Если у вас нестабильно работает фоновое сканировани, то следует отключить оптимизацию батареии для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
       "sv": ""
     },
@@ -2748,7 +2748,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_common_instructions",
       "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimization and select Don't Optimize for Ruuvi Station",
-      "fi": "",
+      "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Paristo -> Virransäästö ja valitse Älä käytä",
       "ru": "",
       "sv": ""
     },
@@ -2756,7 +2756,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_huawei_instructions",
       "en": "On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable Manage Automatically and enable options: Auto-Launch, Secondary Launch and Run in background.",
-      "fi": "",
+      "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankäyttötiedot -> Sovellusten käynnistys. ",
       "ru": "",
       "sv": ""
     },
@@ -2764,7 +2764,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung23_instructions",
       "en": "On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.",
-      "fi": "",
+      "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku -> Virrankäytön optimoinnin asetukset ja valitse Pois käytöstä.",
       "ru": "",
       "sv": ""
     },
@@ -2772,7 +2772,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung_instructions",
       "en": "On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable Put unused apps to sleep. Disable Auto-disable unused apps. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.",
-      "fi": "",
+      "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku. Poista käyttämättömien sovellusten lepotila käytöstä. Poista Ruuvi Station lepotilaa käyttävien sovellusten listalta. Poista sovelluksen tausta-ajoon mahdollisesti vaikuttavat muut rajoitukset.",
       "ru": "",
       "sv": ""
     },
@@ -2780,7 +2780,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_title",
       "en": "Background scan important note",
-      "fi": "",
+      "fi": "Taustaskannaus - tärkeää",
       "ru": "Важное замечание по поводу фонового сканирования",
       "sv": ""
     },
@@ -2788,7 +2788,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_xiaomi_instructions",
       "en": "On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.",
-      "fi": "",
+      "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Sovelluksen käynnistys -> Ruuvi Station -> Hallitse manuaalisesti.",
       "ru": "",
       "sv": ""
     },
@@ -2796,7 +2796,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_continuous",
       "en": "Continuous background scanning",
-      "fi": "",
+      "fi": "Jatkuva skannaus",
       "ru": "Фоновое сканирование",
       "sv": ""
     },
@@ -2804,7 +2804,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_continuous_description",
       "en": "Continuous background scanning mode is enabled.\nData logging interval: %1$s",
-      "fi": "",
+      "fi": "Jatkuva skannaus on käytössä.\nHistorian tallennusväli: %1$s ",
       "ru": "Фоновое сканироваение включено.\nИнтервал сканирования: %1$s",
       "sv": ""
     },
@@ -2812,7 +2812,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_disabled",
       "en": "No background scanning",
-      "fi": "",
+      "fi": "Ei skannausta",
       "ru": "Без фонового сканирования",
       "sv": ""
     },
@@ -2820,7 +2820,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_disabled_description",
       "en": "No background scanning mode is enabled",
-      "fi": "",
+      "fi": "Taustaskannaus pois käytöstä",
       "ru": "Фоновое сканироваение выключено",
       "sv": ""
     },
@@ -2828,7 +2828,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan",
       "en": "Background Scanning Settings",
-      "fi": "",
+      "fi": "Taustaskannauksen asetukset",
       "ru": "Настройки сканирования в фоне",
       "sv": ""
     },
@@ -2836,7 +2836,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan_details",
       "en": "This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.",
-      "fi": "",
+      "fi": "Tämä mahdollistaa historiatietojen tallentamisen taustalla, jolloin laitteesi hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "При включении этой функции ваш телефон будет переодически получать сигналы от датчиков в фоновом режиме.",
       "sv": ""
     },
@@ -2844,7 +2844,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan_details_continuous",
       "en": "The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.",
-      "fi": "",
+      "fi": "Sovellus hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение",
       "sv": ""
     },
@@ -2852,7 +2852,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan_interval",
       "en": "Data logging interval",
-      "fi": "",
+      "fi": "Historiatietojen tallennusväli",
       "ru": "Интервал сканирования",
       "sv": ""
     },
@@ -2860,7 +2860,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan_interval_description",
       "en": "Define how often the background scanning will run",
-      "fi": "",
+      "fi": "Määritä taustaskannauksen toteutusväli",
       "ru": "Установите как часто должно включаться фоновое сканирование",
       "sv": ""
     },
@@ -2868,7 +2868,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart",
       "en": "Chart Settings",
-      "fi": "",
+      "fi": "Historiatietojen asetukset",
       "ru": "Настройки графиков",
       "sv": ""
     },
@@ -2876,7 +2876,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_all_points",
       "en": "Display all data in chart",
-      "fi": "",
+      "fi": "Näytä kaikki kerätyt mittaukset",
       "ru": "Отображать все данные",
       "sv": ""
     },
@@ -2884,7 +2884,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_all_points_description",
       "en": "Enabling it may cause charts to update slowly",
-      "fi": "",
+      "fi": "Ominaisuuden käyttäminen saattaa hidastaa historiatietojen päivittymistä",
       "ru": "Это может привести к медленному обновлению графиков",
       "sv": ""
     },
@@ -2892,7 +2892,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_description",
       "en": "Configure interval between points shown on chart and history diapason",
-      "fi": "",
+      "fi": "Määritä tietopisteiden näyttöväli",
       "ru": "Установите интервал между точками и диапазон истории для графиков",
       "sv": ""
     },
@@ -2900,7 +2900,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_draw_dots",
       "en": "Draw dots in chart",
-      "fi": "",
+      "fi": "Näytä tietopisteet",
       "ru": "Показывать точки на графике",
       "sv": ""
     },
@@ -2908,7 +2908,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_draw_dots_description",
       "en": "Small dots will help to understand when measurements were collected",
-      "fi": "",
+      "fi": "Tietopisteiden näyttäminen helpottaa tallennetun historiatiedon tutkimista",
       "ru": "Маленькие точки помогут точно понять когда были получены данные",
       "sv": ""
     },
@@ -2924,7 +2924,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_interval_description",
       "en": "Set interval between points for chart from 1 to 60 minutes. Less value means more accurate chart, but higher requirements to performance of your device",
-      "fi": "",
+      "fi": "Aseta historian tallennusväli 1 - 60 minuuttia. Tiheämpi tallennusväli mahdollistaa tarkempien historiatietojen esittämisen, mutta tämä käyttää enemmän laitteen resursseja",
       "ru": "Установите интервал между точками на графиках от 1 до 60 минут. Чем меньше значение, тем выше точность отображения. Но в тоже время повышаются требования к быстродействию вашего телефона.",
       "sv": ""
     },
@@ -2932,7 +2932,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_view_period",
       "en": "Chart history view period",
-      "fi": "",
+      "fi": "Historian tarkastelujakso",
       "ru": "Диапазон отображения графиков",
       "sv": ""
     },
@@ -2940,7 +2940,7 @@
       "ident_ios": "",
       "ident_android": "settings_chart_view_period_description",
       "en": "Configure history diapason to be shown on chart from 1 to 72 hours",
-      "fi": "",
+      "fi": "Määritä historian tarkastelujakso 1 - 72 tuntia",
       "ru": "Установите диапазон для отображения на графиках от 1-го до 72-х часов",
       "sv": ""
     },
@@ -2948,7 +2948,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway",
       "en": "Gateway Settings.",
-      "fi": "",
+      "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
       "sv": ""
     },
@@ -2956,7 +2956,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway_details",
       "en": "When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \n\nFor more info, check the documentation.",
-      "fi": "",
+      "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \n\nLue lisää ohjesivulta.",
       "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\n\nИзучите документацию",
       "sv": ""
     },
@@ -2964,7 +2964,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway_details_link",
       "en": "check the documentation.",
-      "fi": "",
+      "fi": "ohjesivu",
       "ru": "документацию",
       "sv": ""
     },
@@ -2980,7 +2980,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway_device_identifier",
       "en": "Device identifier",
-      "fi": "",
+      "fi": "Laitteen tunniste",
       "ru": "Идентификатор устройства",
       "sv": ""
     },
@@ -2988,7 +2988,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway_test",
       "en": "Test gateway",
-      "fi": "",
+      "fi": "Testaa välityspalvelin",
       "ru": "Тест шлюза",
       "sv": ""
     },
@@ -3068,7 +3068,7 @@
       "ident_ios": "",
       "ident_android": "something_went_wrong",
       "en": "Something went wrong",
-      "fi": "",
+      "fi": "Tapahtui virhe",
       "ru": "Что-то пошло не так",
       "sv": ""
     },
@@ -3084,7 +3084,7 @@
       "ident_ios": "",
       "ident_android": "sync_complete",
       "en": "Sync complete",
-      "fi": "",
+      "fi": "Synkronointi valmis",
       "ru": "Синхронизация завершена",
       "sv": ""
     },
@@ -3100,7 +3100,7 @@
       "ident_ios": "WebTagSettings.Label.TagName.text",
       "ident_android": "tag_name",
       "en": "Sensor Name",
-      "fi": "Nimi",
+      "fi": "Anturin nimi",
       "ru": "Имя",
       "sv": "Sensornamn"
     },
@@ -3108,7 +3108,7 @@
       "ident_ios": "",
       "ident_android": "tag_not_in_range",
       "en": "Sensor not found, is it in range?",
-      "fi": "",
+      "fi": "Anturia ei löydetty. Onko laite lähettyvillä?",
       "ru": "Датчик не найден",
       "sv": ""
     },
@@ -3228,7 +3228,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_0",
       "en": "Swipe to see what Ruuvi Station can do for you",
-      "fi": "",
+      "fi": "Tutustu Ruuvi Station -sovellukseen",
       "ru": "Проведите пальцем чтобы узнать, чем Ruuvi Station может помочь вам",
       "sv": ""
     },
@@ -3236,7 +3236,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_1",
       "en": "Measure environmental data: temperature, relative humidity and air pressure",
-      "fi": "",
+      "fi": "Mittaa ympäristösi olosuhteita: lämpötilaa, ilmankosteutta ja ilmanpainetta",
       "ru": "Измеряйте параметры окружающей среды: температуру, влажность и атмосферное давление",
       "sv": ""
     },
@@ -3244,7 +3244,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_2",
       "en": "Access data for each linked sensor in real time and explore history graphs",
-      "fi": "",
+      "fi": "Tarkastele anturitietoja reaaliaikaisesti tai tutki laitteelle tallennettuja historiatietoja",
       "ru": "В реальном времени считывайте показатели с датчиков и просматривайте историю на графиках",
       "sv": ""
     },
@@ -3252,7 +3252,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_3",
       "en": "Set alerts and get notified whenever your limits are hit",
-      "fi": "",
+      "fi": "Aseta hälytyksiä ja huomautuksia haluamallasi tavalla",
       "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление",
       "sv": ""
     },
@@ -3260,7 +3260,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_4",
       "en": "Let the app act as a gateway",
-      "fi": "",
+      "fi": "Lähetä sovelluksen tiedot ulkoiselle palvelimelle",
       "ru": "Используйте приложение как гейтвей",
       "sv": ""
     },
@@ -3268,7 +3268,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_5",
       "en": "Press SCAN to find and add nearby sensors to your Ruuvi Station",
-      "fi": "",
+      "fi": "Näytä lähietäisyydellä olevat anturit napauttamalla SKANNAA",
       "ru": "Нажмите СКАНИРОВАТЬ, чтобы найти и добавить датчики в Ruuvi Station",
       "sv": ""
     },
@@ -3276,7 +3276,7 @@
       "ident_ios": "",
       "ident_android": "yes",
       "en": "Yes",
-      "fi": "",
+      "fi": "Kyllä",
       "ru": "Да",
       "sv": ""
     },
@@ -3284,7 +3284,7 @@
       "ident_ios": "",
       "ident_android": "app_name",
       "en": "Ruuvi Station",
-      "fi": "",
+      "fi": "Ruuvi Station",
       "ru": "",
       "sv": ""
     }
