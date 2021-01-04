@@ -3299,8 +3299,8 @@
     {
       "ident_ios": "",
       "ident_android": "export_csv_failed",
-      "en": "Failed to create CSV fileu",
-      "fi": "",
+      "en": "Failed to create CSV file",
+      "fi": "CSV-tiedoston luonti epäonnistui",
       "ru": "Не удалось сформировать CSV файл",
       "sv": ""
     },
@@ -3308,7 +3308,7 @@
       "ident_ios": "",
       "ident_android": "export_csv_chooser_title",
       "en": "Sensor %1$s csv export",
-      "fi": "",
+      "fi": "Anturin %1$s CSV-lokitiedosto",
       "ru": "Датчик %1$s экспорт CSV'",
       "sv": ""
     },
@@ -3348,7 +3348,7 @@
       "ident_ios": "",
       "ident_android": "gateway_testing",
       "en": "Testing...",
-      "fi": "",
+      "fi": "Testataan...",
       "ru": "Проверка...",
       "sv": ""
     }
