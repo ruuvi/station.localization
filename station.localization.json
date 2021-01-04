@@ -2947,7 +2947,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_gateway",
-      "en": "Gateway Settings.",
+      "en": "Gateway Settings",
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
       "sv": ""
@@ -2964,7 +2964,7 @@
       "ident_ios": "",
       "ident_android": "settings_gateway_details_link",
       "en": "check the documentation.",
-      "fi": "ohjesivu",
+      "fi": "ohjesivulta",
       "ru": "документацию",
       "sv": ""
     },
