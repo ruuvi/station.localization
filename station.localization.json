@@ -3287,6 +3287,70 @@
       "fi": "Ruuvi Station",
       "ru": "",
       "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_created",
+      "en": ".csv created, opening share menu",
+      "fi": ".csv tiedosto luotu, avataan tiedostonjako-ikkuna",
+      "ru": ".csv создан, открываем меню отправки файла",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_failed",
+      "en": "Failed to create CSV fileu",
+      "fi": "",
+      "ru": "Не удалось сформировать CSV файл",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_chooser_title",
+      "en": "Sensor %1$s csv export",
+      "fi": "",
+      "ru": "Датчик %1$s экспорт CSV'",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sensor_settings",
+      "en": "Sensor Settings",
+      "fi": "Asetukset",
+      "ru": "Настройки датчика'",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gateway_test_exception",
+      "en": "Nope, did not work. Is the URL correct?",
+      "fi": "Tapahtui virhe. Onko osoite varmasti oikein?",
+      "ru": "Произошла ошибка. Адрес правильный?'",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gateway_test_success",
+      "en": "Gateway works! Response code: %1$d",
+      "fi": "Palvelin vastasi! Palautekoodi: %1$d",
+      "ru": "Гейтвей работает! Код ответа: %1$d",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gateway_test_fail",
+      "en": "Nope, did not work. Response code: %1$d",
+      "fi": "Tapahtui virhe. Palautekoodi: %1$d",
+      "ru": "Произошла ошибка. Код ответа: %1$d",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gateway_testing",
+      "en": "Testing...",
+      "fi": "",
+      "ru": "Проверка...",
+      "sv": ""
     }
   ]
 }
