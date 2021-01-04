@@ -1956,7 +1956,7 @@
       "ident_ios": "",
       "ident_android": "calibration_done",
       "en": "Calibration done!",
-      "fi": "",
+      "fi": "Kalibrointi valmis!",
       "ru": "Калибровка закончена!",
       "sv": ""
     },
@@ -2100,7 +2100,7 @@
       "ident_ios": "",
       "ident_android": "dashboard_description",
       "en": "Use dashboard view to see multiple sensors at a glance. Restart the app after enabled.",
-      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla. Toiminto otetaan käyttöön sovelluksen uudelleenkäynnistyksen yhteydessä.",
+      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla. Koontinäyttö otetaan käyttöön sovelluksen uudelleenkäynnistyksen yhteydessä.",
       "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно. Перезапустите приложение после включения функции",
       "sv": ""
     },
@@ -2556,7 +2556,7 @@
       "ident_ios": "",
       "ident_android": "press_to_add",
       "en": "No sensors added,\npress here to add sensors",
-      "fi": "Ei antureita. Lisää antureita napsauttamalla tästä",
+      "fi": "Ei antureita. Lisää antureita napauttamalla tästä",
       "ru": "Нет добавленных датчиков,\nнажмите чтобы добавить",
       "sv": ""
     },
@@ -2740,7 +2740,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization",
       "en": "If you experience any issues with background scanning you should disable battery optimization for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.",
-      "fi": "Poista virransäästöominaisuudet käytöstä, mikäli taustaskannauks ei toimi luotettavasti. Virransäästötoiminnot saattavat sijaita eri paikassa Android käyttöjärjestelmäversiosta ja laitteen valmistajasta riippuen.",
+      "fi": "Poista virransäästötoiminnot käytöstä, mikäli taustaskannaus ei toimi luotettavasti. Virransäästötoiminnot saattavat sijaita eri paikassa Android käyttöjärjestelmäversiosta ja laitteen valmistajasta riippuen.",
       "ru": "Если у вас нестабильно работает фоновое сканировани, то следует отключить оптимизацию батареии для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
       "sv": ""
     },
@@ -2780,7 +2780,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_title",
       "en": "Background scan important note",
-      "fi": "Taustaskannaus - tärkeää",
+      "fi": "Lisätietoja taustaskannauksesta",
       "ru": "Важное замечание по поводу фонового сканирования",
       "sv": ""
     },
@@ -2836,7 +2836,7 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan_details",
       "en": "This feature enables background scanning, meaning that your phone will periodically search for beacons, even when you are not using it.",
-      "fi": "Tämä mahdollistaa historiatietojen tallentamisen taustalla, jolloin laitteesi hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
+      "fi": "Mahdollistaa historiatietojen tallentamisen taustalla, jolloin laitteesi hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "При включении этой функции ваш телефон будет переодически получать сигналы от датчиков в фоновом режиме.",
       "sv": ""
     },
@@ -3252,7 +3252,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_3",
       "en": "Set alerts and get notified whenever your limits are hit",
-      "fi": "Aseta hälytyksiä ja huomautuksia haluamallasi tavalla",
+      "fi": "Aseta hälytyksiä ja ilmoituksia haluamallasi tavalla",
       "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление",
       "sv": ""
     },
@@ -3260,7 +3260,7 @@
       "ident_ios": "",
       "ident_android": "welcome_text_4",
       "en": "Let the app act as a gateway",
-      "fi": "Lähetä sovelluksen tiedot ulkoiselle palvelimelle",
+      "fi": "Lähetä sovelluksen keräämät tiedot ulkoiselle palvelimelle",
       "ru": "Используйте приложение как гейтвей",
       "sv": ""
     },
