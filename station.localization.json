@@ -3351,6 +3351,30 @@
       "fi": "Testataan...",
       "ru": "Проверка...",
       "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_header_format3",
+      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage",
+      "fi": "",
+      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_header_format5",
+      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number",
+      "fi": "",
+      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_header_format2_4",
+      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI",
+      "fi": "",
+      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
+      "sv": ""
     }
   ]
 }
