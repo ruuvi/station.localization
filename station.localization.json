@@ -2034,7 +2034,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "charts_background_dialog_title",
+      "ident_android": "charts_background_dialog_description",
       "en": "Charts feature works best with background scanning enabled.",
       "fi": "Historiatietojen kerääminen toimii parhaiten taustaskannauksen ollessa käytössä.",
       "ru": "Графики работают лучше всего с включенным фоновым сканированием",
