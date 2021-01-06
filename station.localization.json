@@ -3356,7 +3356,7 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format3",
       "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage",
-      "fi": "",
+      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи",
       "sv": ""
     },
@@ -3364,7 +3364,7 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format5",
       "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number",
-      "fi": "",
+      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittajärjestysnumero",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения",
       "sv": ""
     },
@@ -3372,7 +3372,7 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format2_4",
       "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI",
-      "fi": "",
+      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": ""
     }
