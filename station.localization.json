@@ -2749,7 +2749,7 @@
       "ident_android": "settings_background_battery_optimization_common_instructions",
       "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimization and select Don't Optimize for Ruuvi Station",
       "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Paristo -> Virransäästö ja valitse Älä käytä",
-      "ru": "",
+      "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд",
       "sv": "Gå till operativsystemets Inställningar ->  Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station"
     },
     {
@@ -2757,7 +2757,7 @@
       "ident_android": "settings_background_battery_optimization_huawei_instructions",
       "en": "On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable Manage Automatically and enable options: Auto-Launch, Secondary Launch and Run in background.",
       "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankäyttötiedot -> Sovellusten käynnistys. ",
-      "ru": "",
+      "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме",
       "sv": ""
     },
     {
@@ -2765,7 +2765,7 @@
       "ident_android": "settings_background_battery_optimization_samsung23_instructions",
       "en": "On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.",
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku -> Virrankäytön optimoinnin asetukset ja valitse Pois käytöstä.",
-      "ru": "",
+      "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
       "sv": ""
     },
     {
@@ -2773,7 +2773,7 @@
       "ident_android": "settings_background_battery_optimization_samsung_instructions",
       "en": "On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable Put unused apps to sleep. Disable Auto-disable unused apps. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.",
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku. Poista käyttämättömien sovellusten lepotila käytöstä. Poista Ruuvi Station lepotilaa käyttävien sovellusten listalta. Poista sovelluksen tausta-ajoon mahdollisesti vaikuttavat muut rajoitukset.",
-      "ru": "",
+      "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": ""
     },
     {
@@ -2789,7 +2789,7 @@
       "ident_android": "settings_background_battery_optimization_xiaomi_instructions",
       "en": "On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.",
       "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Sovelluksen käynnistys -> Ruuvi Station -> Hallitse manuaalisesti.",
-      "ru": "",
+      "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений",
       "sv": ""
     },
     {
