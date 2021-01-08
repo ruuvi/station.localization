@@ -3317,7 +3317,7 @@
       "ident_android": "export_csv_chooser_title",
       "en": "Sensor %1$s csv export",
       "fi": "Anturin %1$s CSV-lokitiedosto",
-      "ru": "Датчик %1$s экспорт CSV'",
+      "ru": "Датчик %1$s экспорт CSV",
       "sv": "Sensor %1$s csv export"
     },
     {
@@ -3325,7 +3325,7 @@
       "ident_android": "sensor_settings",
       "en": "Sensor Settings",
       "fi": "Asetukset",
-      "ru": "Настройки датчика'",
+      "ru": "Настройки датчика",
       "sv": "Sensorinställningar"
     },
     {
@@ -3333,7 +3333,7 @@
       "ident_android": "gateway_test_exception",
       "en": "Nope, did not work. Is the URL correct?",
       "fi": "Tapahtui virhe. Onko osoite varmasti oikein?",
-      "ru": "Произошла ошибка. Адрес правильный?'",
+      "ru": "Произошла ошибка. Адрес правильный?",
       "sv": "Fel uppstod. Är adressen korrekt?"
     },
     {
