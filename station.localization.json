@@ -49,20 +49,20 @@
       "sv": "g"
     },
     {
-      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\n",
+      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\\n",
       "ident_android": "",
-      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\n",
-      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittausjärjestysnumero,Lähetysteho\n",
-      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (г/м³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (гПа),Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения,Мощность Передачи\n",
-      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Acceleration X,Acceleration Y,Acceleration Z,Spänning,Rörelseräknare,Mätningssekvensnummer,Sändningseffekt\n"
+      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement Counter,Measurement Sequence Number,TX Power\\n",
+      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittausjärjestysnumero,Lähetysteho\\n",
+      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (г/м³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (гПа),Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения,Мощность Передачи\\n",
+      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Acceleration X,Acceleration Y,Acceleration Z,Spänning,Rörelseräknare,Mätningssekvensnummer,Sändningseffekt\\n"
     },
     {
-      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\n",
+      "ident_ios": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\\n",
       "ident_android": "",
-      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\n",
-      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Sijainti\n",
-      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (g/m³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (hPa),Локация\n",
-      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Plats\n"
+      "en": "Date,ISO8601,Celsius,Fahrenheit,Kelvin,Relative Humidity (%),Absolute Humidity (g/m³),Dew point (°C),Dew point (°F),Dew point (K),Pressure (hPa),Location\\n",
+      "fi": "Päivämäärä,ISO8601,Celsius,Fahrenheit,Kelvin,Suhteellinen kosteus (%),Absoluuttinen kosteus (g/m³),Kastepiste (°C),Kastepiste (°F),Kastepiste (K),Ilmanpaine (hPa),Sijainti\\n",
+      "ru": "Дата,ISO8601,Цельсий,Фаренгейт,Кельвин,Относительная Влажность (%),Абсолютная Влажность (g/m³),Точка Росы (°C),Точка Росы (°F),Точка Росы (K),Давление (hPa),Локация\\n",
+      "sv": "Datum,ISO8601,Celsius,Fahrenheit,Kelvin,Relativ Luftfuktighet (%),Absolut Luftfuktighet (g/m³),Daggpunkt (°C),Daggpunkt (°F),Daggpunkt (K),Lufttryck (hPa),Plats\\n"
     },
     {
       "ident_ios": "About.Version.text",
@@ -755,10 +755,10 @@
     {
       "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.message",
       "ident_android": "",
-      "en": "You are going to clear humidity offset. This can't be undone. Tap \"Confirm\" to continue.",
-      "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \"Vahvista\" .",
-      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \"Подтвердить\" для продолжения",
-      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \"Bekräfta\" för att fortsätta"
+      "en": "You are going to clear humidity offset. This can't be undone. Tap \\\"Confirm\\\" to continue.",
+      "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \\\"Vahvista\\\" .",
+      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения",
+      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta"
     },
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.title",
@@ -771,10 +771,10 @@
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.message",
       "ident_android": "",
-      "en": "You are going to calibrate humidity offset. Tap \"Confirm\" to continue",
-      "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \"Vahvista\" .",
-      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \"Подтвердить\" для продолжения",
-      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \"Bekräfta\" för att fortsätta"
+      "en": "You are going to calibrate humidity offset. Tap \\\"Confirm\\\" to continue",
+      "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \\\"Vahvista\\\" .",
+      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения",
+      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta"
     },
     {
       "ident_ios": "Language.English",
@@ -1139,9 +1139,9 @@
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
       "ident_android": "",
-      "en": "In order to see missing values:\nIf you are using the latest firmware, set RAWv2 mode by pressing \"B\" on a RuuviTag.\nOr update your sensor with the latest firmware.",
+      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a RuuviTag.\\nOr update your sensor with the latest firmware.",
       "fi": "Puuttuvat arvot voidaan näyttää ainoastaan uudemmalla laiteohjelmistoversiolla.",
-      "ru": "Для того, чтобы увидеть отсутствующие значения:\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \"B\" на вашем RuuviTag.\nИли обновите ваш RuuviTag с последней прошивкой.",
+      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем RuuviTag.\\nИли обновите ваш RuuviTag с последней прошивкой.",
       "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format."
     },
     {
@@ -1587,9 +1587,9 @@
     {
       "ident_ios": "WebTagSettings.Label.BackgroundImage.text",
       "ident_android": "",
-      "en": "BACKGROUND\nIMAGE",
+      "en": "BACKGROUND\\nIMAGE",
       "fi": "TAUSTAKUVA",
-      "ru": "ФОНОВОЕ\nИЗОБРАЖЕНИЕ",
+      "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD"
     },
     {
@@ -1891,10 +1891,10 @@
     {
       "ident_ios": "TagSettings.Alerts.Temperature.description",
       "ident_android": "alert_subtitle_on",
-      "en": "Alert when less than {%.0f|%1$,d} or more than {%.0f|%2$,d}",
-      "fi": "Hälytä, mikäli lämpötila alle {%.0f|%1$,d} tai yli {%.0f|%2$,d}",
-      "ru": "Уведомление если меньше {%.0f|%1$,d} или больше {%.0f|%2$,d}",
-      "sv": "Alarmera när mindre än {%.0f|%1$,d} eller mer än {%.0f|%2$,d}"
+      "en": "Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}",
+      "fi": "Hälytä, mikäli lämpötila alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
+      "ru": "Уведомление если меньше {%.0f^%1$,d} или больше {%.0f^%2$,d}",
+      "sv": "Alarmera när mindre än {%.0f^%1$,d} eller mer än {%.0f^%2$,d}"
     },
     {
       "ident_ios": "TagSettings.Label.alerts.text",
@@ -1907,9 +1907,9 @@
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
-      "en": "BACKGROUND\nIMAGE",
+      "en": "BACKGROUND\\nIMAGE",
       "fi": "TAUSTAKUVA",
-      "ru": "ФОНОВОЕ\nИЗОБРАЖЕНИЕ",
+      "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD"
     },
     {
@@ -1947,10 +1947,10 @@
     {
       "ident_ios": "HumidityCalibration.lastCalibrationDate.format",
       "ident_android": "calibrated",
-      "en": "Calibrated: {%@|%1$s}",
-      "fi": "Kalibroitu: {%@|%1$s}",
-      "ru": "Откалибровано: {%@|%1$s}",
-      "sv": "Kalibrerad: {%@|%1$s}"
+      "en": "Calibrated: {%@^%1$s}",
+      "fi": "Kalibroitu: {%@^%1$s}",
+      "ru": "Откалибровано: {%@^%1$s}",
+      "sv": "Kalibrerad: {%@^%1$s}"
     },
     {
       "ident_ios": "",
@@ -2107,7 +2107,7 @@
     {
       "ident_ios": "",
       "ident_android": "dashboard_empty",
-      "en": "Your dashboard \nis empty",
+      "en": "Your dashboard \\nis empty",
       "fi": "Koontinäyttö on tyhjä",
       "ru": "Панель датчиков пуста",
       "sv": "Översikt vyn är tom"
@@ -2227,10 +2227,10 @@
     {
       "ident_ios": "About.More.contents",
       "ident_android": "help_more_to_read_text",
-      "en": "Ruuvi's website: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi on Twitter: twitter.com/ruuvicom",
-      "fi": "Ruuvin kotisivu: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi Twitter: twitter.com/ruuvicom",
-      "ru": "Веб-сайт: ruuvi.com\nФорум: f.ruuvi.com\nБлог: blog.ruuvi.com\nTwitter: twitter.com/ruuvicom",
-      "sv": "Ruuvis hemsida: ruuvi.com\nRuuvi Forum: f.ruuvi.com\nRuuvi Blog: blog.ruuvi.com\nRuuvi Twitter: twitter.com/ruuvicom"
+      "en": "Ruuvi's website: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi on Twitter: twitter.com/ruuvicom",
+      "fi": "Ruuvin kotisivu: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi Twitter: twitter.com/ruuvicom",
+      "ru": "Веб-сайт: ruuvi.com\\nФорум: f.ruuvi.com\\nБлог: blog.ruuvi.com\\nTwitter: twitter.com/ruuvicom",
+      "sv": "Ruuvis hemsida: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: blog.ruuvi.com\\nRuuvi Twitter: twitter.com/ruuvicom"
     },
     {
       "ident_ios": "About.More.header",
@@ -2275,10 +2275,10 @@
     {
       "ident_ios": "About.Privacy.contents",
       "ident_android": "help_privacy_policy_text",
-      "en": "By using the application, you accept Ruuvi's standard terms and conditions\nruuvi.com/terms",
-      "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen\nruuvi.com/terms",
-      "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\nruuvi.com/terms",
-      "sv": "Användning av applikationen kräver godkännande av användarvillkoren\nruuvi.com/terms"
+      "en": "By using the application, you accept Ruuvi's standard terms and conditions\\nruuvi.com/terms",
+      "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen\\nruuvi.com/terms",
+      "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\\nruuvi.com/terms",
+      "sv": "Användning av applikationen kräver godkännande av användarvillkoren\\nruuvi.com/terms"
     },
     {
       "ident_ios": "About.Privacy.header",
@@ -2323,10 +2323,10 @@
     {
       "ident_ios": "TagSettings.AirHumidityAlert.title",
       "ident_android": "humidity",
-      "en": "Air Humidity ({%@|%1$s})",
-      "fi": "Ilmankosteus ({%@|%1$s})",
-      "ru": "Влажность воздуха ({%@|%1$s})",
-      "sv": "Luftfuktighet ({%@|%1$s})"
+      "en": "Air Humidity ({%@^%1$s})",
+      "fi": "Ilmankosteus ({%@^%1$s})",
+      "ru": "Влажность воздуха ({%@^%1$s})",
+      "sv": "Luftfuktighet ({%@^%1$s})"
     },
     {
       "ident_ios": "HumidityUnit.gm3.title",
@@ -2523,18 +2523,18 @@
     {
       "ident_ios": "",
       "ident_android": "permission_dialog_background_request_message",
-      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \n\nPlease click allow all the time if you'd like to use the background scanning feature. \n\nRuuvi doesn't track your movements. You're safe.",
-      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \n\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\n\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
-      "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\n\nПожалуйста разрешите постоянный доспуп к местоположению\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
-      "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \n\nTillåt om du vill använda bakgrundsskanning\n\n Ruuvi delar aldrig din platsinformation. Användningen är säker."
+      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \\n\\nPlease click allow all the time if you'd like to use the background scanning feature. \\n\\nRuuvi doesn't track your movements. You're safe.",
+      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
+      "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
+      "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\nTillåt om du vill använda bakgrundsskanning\\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker."
     },
     {
       "ident_ios": "",
       "ident_android": "permission_dialog_request_message",
-      "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \n\nRuuvi doesn't track your movements. You're safe.",
-      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \n\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
-      "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\n\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
-      "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \n\n Ruuvi delar aldrig din platsinformation. Användningen är säker."
+      "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \\n\\nRuuvi doesn't track your movements. You're safe.",
+      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
+      "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
+      "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker."
     },
     {
       "ident_ios": "",
@@ -2555,18 +2555,18 @@
     {
       "ident_ios": "",
       "ident_android": "press_to_add",
-      "en": "No sensors added,\npress here to add sensors",
+      "en": "No sensors added,\\npress here to add sensors",
       "fi": "Ei antureita. Lisää antureita napauttamalla tästä",
-      "ru": "Нет добавленных датчиков,\nнажмите чтобы добавить",
-      "sv": "Inga sensorer har lags till,\ntryck här för att lägga till sensorer"
+      "ru": "Нет добавленных датчиков,\\nнажмите чтобы добавить",
+      "sv": "Inga sensorer har lags till,\\ntryck här för att lägga till sensorer"
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
       "ident_android": "pressure",
-      "en": "Air Pressure ({%@|%1$s})",
-      "fi": "Ilmanpaine ({%@|%1$s})",
-      "ru": "Атмосферное Давление ({%@|%1$s})",
-      "sv": "Lufttryck ({%@|%1$s})"
+      "en": "Air Pressure ({%@^%1$s})",
+      "fi": "Ilmanpaine ({%@^%1$s})",
+      "ru": "Атмосферное Давление ({%@^%1$s})",
+      "sv": "Lufttryck ({%@^%1$s})"
     },
     {
       "ident_ios": "UnitPressure.hectopascal.title",
@@ -2741,40 +2741,39 @@
       "ident_android": "settings_background_battery_optimization",
       "en": "If you experience any issues with background scanning you should disable battery optimization for Ruuvi Station. This procedure may vary depending on your device vendor, model and Android version.",
       "fi": "Poista virransäästötoiminnot käytöstä, mikäli taustaskannaus ei toimi luotettavasti. Virransäästötoiminnot saattavat sijaita eri paikassa Android käyttöjärjestelmäversiosta ja laitteen valmistajasta riippuen.",
-      "ru": "Если у вас нестабильно работает фоновое сканировани, то следует отключить оптимизацию батареии для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
+      "ru": "Если у вас нестабильно работает фоновое сканирование, то следует отключить оптимизацию батареи для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
       "sv": "Om du har problem med bakgrundsskanningen så kan det hjälpa att stänga av batterioptimering. Denna inställning hittas på olika ställen beroende på telefonens tillverkare, modell och Android version."
     },
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_common_instructions",
       "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimization and select Don't Optimize for Ruuvi Station",
-      "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Paristo -> Virransäästö ja valitse Älä käytä",
-      "ru": "",
+      "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Akku -> Virransäästö ja valitse 'Älä käytä'",
+      "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station"
     },
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_huawei_instructions",
       "en": "On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable Manage Automatically and enable options: Auto-Launch, Secondary Launch and Run in background.",
-      "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankäyttötiedot -> Sovellusten käynnistys. ",
-      "ru": "",
+      "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankulutustiedot -> Sovelluksen käynnistys -> poista käytöstä 'Hallitse automaattisesti' ja varmista, että kaikki manuaalisen hallinnan alla olevat vaihtoehdot ovat käytössä.",
+      "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Appar -> Ruuvi Station -> Information om energiförbrukning -> Appstart. Avaktivera Hantera automatiskt och aktivera Autostart, Sekundär start och Kör i bakgrunden."
-
     },
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung23_instructions",
       "en": "On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.",
-      "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku -> Virrankäytön optimoinnin asetukset ja valitse Pois käytöstä.",
-      "ru": "",
-      "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv"
+      "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Akku -> Sovelluksen virransäästö -> Ruuvi Station ja valitse 'Ei käytössä'.",
+      "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
+      "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv."
     },
     {
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_samsung_instructions",
       "en": "On Samsung devices go to Android Settings -> Device Maintenance (or Device Care) -> Battery. Disable Put unused apps to sleep. Disable Auto-disable unused apps. Remove Ruuvi Station from the list of sleeping apps. Disable background restrictions for Ruuvi Station.",
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku. Poista käyttämättömien sovellusten lepotila käytöstä. Poista Ruuvi Station lepotilaa käyttävien sovellusten listalta. Poista sovelluksen tausta-ajoon mahdollisesti vaikuttavat muut rajoitukset.",
-      "ru": "",
+      "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Tryck på menyn i högra övre hörnet -> Särskild åtkomst -> Optimera batterianvändning. Välj Allt, sök efter Ruuvi Station och välj bort appen från optimerade appar."
     },
     {
@@ -2789,8 +2788,8 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_xiaomi_instructions",
       "en": "On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.",
-      "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Sovelluksen käynnistys -> Ruuvi Station -> Hallitse manuaalisesti.",
-      "ru": "",
+      "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Hallitse sovelluksia -> Ruuvi Station -> ota käyttöön Automaattinen käynnistys ja valitse 'Ei rajoituksia' kohdasta Virransäästö.",
+      "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Hantera Appar -> Ruuvi Station. Aktivera Starta automatiskt, gå sedan till Batterisparare och välj Inga restriktioner."
     },
     {
@@ -2804,10 +2803,10 @@
     {
       "ident_ios": "",
       "ident_android": "settings_background_continuous_description",
-      "en": "Continuous background scanning mode is enabled.\nData logging interval: %1$s",
-      "fi": "Jatkuva skannaus on käytössä.\nHistorian tallennusväli: %1$s ",
-      "ru": "Фоновое сканироваение включено.\nИнтервал сканирования: %1$s",
-      "sv": "Kontinuerlig bakgrundsskanning är aktiverad\nDataloggningsintervall: %1$s"
+      "en": "Continuous background scanning mode is enabled.\\nData logging interval: %1$s",
+      "fi": "Jatkuva skannaus on käytössä.\\nHistorian tallennusväli: %1$s ",
+      "ru": "Фоновое сканироваение включено.\\nИнтервал сканирования: %1$s",
+      "sv": "Kontinuerlig bakgrundsskanning är aktiverad\\nDataloggningsintervall: %1$s"
     },
     {
       "ident_ios": "",
@@ -2956,10 +2955,10 @@
     {
       "ident_ios": "",
       "ident_android": "settings_gateway_details",
-      "en": "When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \n\nFor more info, check the documentation.",
-      "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \n\nLue lisää ohjesivulta.",
-      "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\n\nИзучите документацию",
-      "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \n\nFör mer information, läs dokumentationen."
+      "en": "When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \\n\\nFor more info, check the documentation.",
+      "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \\n\\nLue lisää ohjesivulta.",
+      "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию",
+      "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \\n\\nFör mer information, läs dokumentationen."
     },
     {
       "ident_ios": "",
@@ -2967,7 +2966,7 @@
       "en": "check the documentation.",
       "fi": "ohjesivulta",
       "ru": "документацию",
-      "sv": "läs dokumentation"
+      "sv": "läs dokumentationen"
     },
     {
       "ident_ios": "",
@@ -3132,10 +3131,10 @@
     {
       "ident_ios": "TagSettings.temperatureAlertTitleLabel.text",
       "ident_android": "temperature",
-      "en": "Temperature ({%@|%1$s})",
-      "fi": "Lämpötila ({%@|%1$s})",
-      "ru": "Температура ({%@|%1$s})",
-      "sv": "Temperatur ({%@|%1$s})"
+      "en": "Temperature ({%@^%1$s})",
+      "fi": "Lämpötila ({%@^%1$s})",
+      "ru": "Температура ({%@^%1$s})",
+      "sv": "Temperatur ({%@^%1$s})"
     },
     {
       "ident_ios": "TemperatureUnit.Celsius.title",
@@ -3194,12 +3193,20 @@
       "sv": "%1$,.2f%2$s"
     },
     {
-      "ident_ios": "Updated",
+      "ident_ios": "",
       "ident_android": "updated",
-      "en": "Updated {%@|%1$s}",
-      "fi": "Päivitetty {%@|%1$s}",
-      "ru": "Обновлено {%@|%1$s}",
-      "sv": "Uppdaterad {%@|%1$s}"
+      "en": "Updated {%@^%1$s}",
+      "fi": "Päivitetty {%@^%1$s}",
+      "ru": "Обновлено {%@^%1$s}",
+      "sv": "Uppdaterad {%@^%1$s}"
+    },
+    {
+      "ident_ios": "Updated",
+      "ident_android": "",
+      "en": "Updated",
+      "fi": "Päivitetty",
+      "ru": "Обновлено",
+      "sv": "Uppdaterad"
     },
     {
       "ident_ios": "",
