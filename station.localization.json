@@ -1998,15 +1998,15 @@
       "en": "video tutorials",
       "fi": "Video-ohje.",
       "ru": "обучающие видео",
-      "sv": "Videohandledning"
+      "sv": "Se videor"
     },
     {
       "ident_ios": "",
       "ident_android": "calibration_humidity_link_url",
       "en": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
       "fi": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
-      "ru": "",
-      "sv": ""
+      "ru": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
+      "sv": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration"
     },
     {
       "ident_ios": "",
@@ -2294,7 +2294,7 @@
       "en": "Seen sensors: %1$,d",
       "fi": "Havaitut anturit: %1$,d",
       "ru": "Датчиков обнаружено: %1$,d",
-      "sv": "Upptäckta sensorer"
+      "sv": "Upptäckta sensorer: %1$,d"
     },
     {
       "ident_ios": "About.Troubleshooting.contents",
