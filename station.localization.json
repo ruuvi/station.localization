@@ -3383,6 +3383,246 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
+    },
+    {
+      "ident_ios": "SignIn.Title.text",
+      "ident_android": "sign_in",
+      "en": "Sign in",
+      "fi": "",
+      "ru": "Войти",
+      "sv": ""
+    },
+    {
+      "ident_ios": "TagsManager.SignOutButton",
+      "ident_android": "sign_out",
+      "en": "Sign out",
+      "fi": "",
+      "ru": "Выйти из сети",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SignIn.SignInBenefits",
+      "ident_android": "sign_in_benefits",
+      "en": "Sign in benefits, the information is saved in the cloud:\\n- sensors list\\n- sensor name",
+      "fi": "",
+      "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SignIn.RequestSignLink",
+      "ident_android": "sign_in_request_register",
+      "en": "Register or request new sign in link",
+      "fi": "",
+      "ru": "Зарегистрируйтесь или получите ссылку для входа",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SignIn.EmailPlaceholder",
+      "ident_android": "email",
+      "en": "Email",
+      "fi": "",
+      "ru": "Email",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_submit_button",
+      "en": "Submit",
+      "fi": "",
+      "ru": "Отправить",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_manual_code",
+      "en": "Enter code manually",
+      "fi": "",
+      "ru": "Ввести код вручную",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SignIn.EmailSent",
+      "ident_android": "sign_in_email_sent",
+      "en": "Email sent",
+      "fi": "",
+      "ru": "Email отправлен",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SignIn.CheckMailbox",
+      "ident_android": "sign_in_check_email",
+      "en": "Please check your email inbox for further instructions",
+      "fi": "",
+      "ru": "Пожалуйста проверьте email для дальнейших инструкций",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_code_hint",
+      "en": "Sign in code",
+      "fi": "",
+      "ru": "Код для входа",
+      "sv": ""
+    },
+    {
+      "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
+      "ident_android": "sign_out_confirm",
+      "en": "Do you want sign out?",
+      "fi": "",
+      "ru": "Хотите выйти их сети?",
+      "sv": ""
+    },
+    {
+      "ident_ios": "TagSettings.ClaimTagButton.Claim",
+      "ident_android": "tagsettings_claim_button",
+      "en": "Claim",
+      "fi": "",
+      "ru": "Мой датчик",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tagsettings_share_button",
+      "en": "Share",
+      "fi": "",
+      "ru": "Поделиться",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_syncing",
+      "en": "Syncing…",
+      "fi": "",
+      "ru": "Синхронизация…",
+      "sv": ""
+    },
+    {
+      "ident_ios": "Synchronized",
+      "ident_android": "network_synced",
+      "en": "Synchronized: {%@^%1$s}",
+      "fi": "",
+      "ru": "Синхронизировано: {%@^%1$s}",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "never",
+      "en": "never",
+      "fi": "",
+      "ru": "никогда",
+      "sv": ""
+    },
+    {
+      "ident_ios": "MenuTableViewController.None",
+      "ident_android": "none",
+      "en": "none",
+      "fi": "",
+      "ru": "нет",
+      "sv": ""
+    },
+    {
+      "ident_ios": "MenuTableViewController.User",
+      "ident_android": "network_user",
+      "en": "User: {%@^%1$s}",
+      "fi": "",
+      "ru": "Пользователь: {%@^%1$s}",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_sync_result_success",
+      "en": "Synchronized successfully!",
+      "fi": "",
+      "ru": "Синхронизировано успешно!",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_sync_result_exception",
+      "en": "Synchronization failed: %1$s",
+      "fi": "",
+      "ru": "Ошибка синхронизации: %1$s",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_sync_result_not_logged",
+      "en": "Synchronization failed: need to log in first",
+      "fi": "",
+      "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
+      "sv": ""
+    },
+    {
+      "ident_ios": "ShareViewController.Title",
+      "ident_android": "share_sensor_title",
+      "en": "Share Ruuvi sensor",
+      "fi": "",
+      "ru": "Поделиться датчиком Ruuvi",
+      "sv": ""
+    },
+    {
+      "ident_ios": "ShareViewController.Description",
+      "ident_android": "share_sensor_description",
+      "en": "Share your Ruuvi sensor. Add your friend email address (10 max)",
+      "fi": "",
+      "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
+      "sv": ""
+    },
+    {
+      "ident_ios": "ShareViewController.addFriend.Title",
+      "ident_android": "share_sensor_add_friend",
+      "en": "Add friend",
+      "fi": "",
+      "ru": "Добавить друга",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "share_sensor_send_button",
+      "en": "Send",
+      "fi": "",
+      "ru": "Отправить",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "share_sensor_already_shared",
+      "en": "Already shared",
+      "fi": "",
+      "ru": "Поделились",
+      "sv": ""
+    },
+    {
+      "ident_ios": "SharePresenter.UnshareSensor.Message",
+      "ident_android": "share_sensor_unshare_confirm",
+      "en": "Do you want to unshare sensor for {%@^%1$s}?",
+      "fi": "",
+      "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
+      "sv": ""
+    },
+    {
+      "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
+      "ident_android": "tagsettings_network_info",
+      "en": "NETWORK INFO",
+      "fi": "",
+      "ru": "Данные сети",
+      "sv": ""
+    },
+    {
+      "ident_ios": "TagSettings.NetworkInfo.Owner",
+      "ident_android": "tagsettings_owner",
+      "en": "Owner",
+      "fi": "",
+      "ru": "Владелец",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_status_title",
+      "en": "Ruuvi Network status",
+      "fi": "",
+      "ru": "Статус сети Ruuvi",
+      "sv": ""
     }
   ]
 }
