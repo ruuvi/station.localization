@@ -515,82 +515,82 @@
     {
       "ident_ios": "ExportService.Date",
       "ident_android": "",
-      "en": "\"Date\"",
-      "fi": "\"Päivämäärä\"",
-      "ru": "\"Дата\"",
-      "sv": "\"Tidpunkt\""
+      "en": "\\\"Date\\\"",
+      "fi": "\\\"Päivämäärä\\\"",
+      "ru": "\\\"Дата\\\"",
+      "sv": "\\\"Tidpunkt\\\""
     },
     {
       "ident_ios": "ExportService.ISO8601",
       "ident_android": "",
-      "en": "\"ISO8601\"",
-      "fi": "\"ISO8601\"",
-      "ru": "\"ISO8601\"",
-      "sv": "\"ISO8601\""
+      "en": "\\\"ISO8601\\\"",
+      "fi": "\\\"ISO8601\\\"",
+      "ru": "\\\"ISO8601\\\"",
+      "sv": "\\\"ISO8601\\\""
     },
     {
       "ident_ios": "ExportService.Temperature",
       "ident_android": "",
-      "en": "\"Temperature (%@)\"",
-      "fi": "\"Lämpötila (%@)\"",
-      "ru": "\"Температура (%@)\"",
-      "sv": "\"Temperatur (%@)\""
+      "en": "\\\"Temperature (%@)\\\"",
+      "fi": "\\\"Lämpötila (%@)\\\"",
+      "ru": "\\\"Температура (%@)\\\"",
+      "sv": "\\\"Temperatur (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Humidity",
       "ident_android": "",
-      "en": "\"Humidity (%@)\"",
-      "fi": "\"Kosteus (%@)\"",
-      "ru": "\"Влажность (%@)\"",
-      "sv": "\"Luftfuktighet (%@)\""
+      "en": "\\\"Humidity (%@)\\\"",
+      "fi": "\\\"Kosteus (%@)\\\"",
+      "ru": "\\\"Влажность (%@)\\\"",
+      "sv": "\\\"Luftfuktighet (%@)\\\""
     },
     {
       "ident_ios": "ExportService.DewPoint",
       "ident_android": "",
-      "en": "\"Dew point (%@)\"",
-      "fi": "\"Kastepiste (%@)\"",
-      "ru": "\"Точка росы (%@)\"",
-      "sv": "\"Daggpunkt (%@)\""
+      "en": "\\\"Dew point (%@)\\\"",
+      "fi": "\\\"Kastepiste (%@)\\\"",
+      "ru": "\\\"Точка росы (%@)\\\"",
+      "sv": "\\\"Daggpunkt (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Pressure",
       "ident_android": "",
-      "en": "\"Pressure (%@)\"",
-      "fi": "\"Ilmanpaine (%@)\"",
-      "ru": "\"Давление (%@)\"",
-      "sv": "\"Lufttryck (%@)\""
+      "en": "\\\"Pressure (%@)\\\"",
+      "fi": "\\\"Ilmanpaine (%@)\\\"",
+      "ru": "\\\"Давление (%@)\\\"",
+      "sv": "\\\"Lufttryck (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Voltage",
       "ident_android": "",
-      "en": "\"Voltage (V)\"",
-      "fi": "\"Jännite (V)\"",
-      "ru": "\"Напряжение (В)\"",
-      "sv": "\"Spänning (V)\""
+      "en": "\\\"Voltage (V)\\\"",
+      "fi": "\\\"Jännite (V)\\\"",
+      "ru": "\\\"Напряжение (В)\\\"",
+      "sv": "\\\"Spänning (V)\\\""
     },
     {
       "ident_ios": "ExportService.MovementCounter",
       "ident_android": "",
-      "en": "\"Movement Counter\"",
-      "fi": "\"Liikelaskuri\"",
-      "ru": "\"Счетчик Движения\"",
-      "sv": "\"Rörelseräknare\""
+      "en": "\\\"Movement Counter\\\"",
+      "fi": "\\\"Liikelaskuri\\\"",
+      "ru": "\\\"Счетчик Движения\\\"",
+      "sv": "\\\"Rörelseräknare\\\""
     },
     {
       "ident_ios": "ExportService.MeasurementSequenceNumber",
       "ident_android": "",
-      "en": "\"Measurement Sequence Number\"",
-      "fi": "\"Mittajärjestysnumero\"",
-      "ru": "\"Порядковый Номер Измерения\"",
-      "sv": "\"Mätningssekvensnummer\""
+      "en": "\\\"Measurement Sequence Number\\\"",
+      "fi": "\\\"Mittajärjestysnumero\\\"",
+      "ru": "\\\"Порядковый Номер Измерения\\\"",
+      "sv": "\\\"Mätningssekvensnummer\\\""
     },
     {
       "ident_ios": "ExportService.TXPower",
       "ident_android": "",
-      "en": "\"TX Power\"",
-      "fi": "\"Lähetysteho\"",
-      "ru": "\"Мощность Передачи\"",
-      "sv": "\"Sändningseffekt\""
+      "en": "\\\"TX Power\\\"",
+      "fi": "\\\"Lähetysteho\\\"",
+      "ru": "\\\"Мощность Передачи\\\"",
+      "sv": "\\\"Sändningseffekt\\\""
     },
     {
       "ident_ios": "ForegroundRow.advertisement.section",
