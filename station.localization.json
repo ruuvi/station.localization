@@ -1876,7 +1876,7 @@
       "ident_ios": "TagSettings.Alerts.Temperature.description",
       "ident_android": "alert_subtitle_on",
       "en": "Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}",
-      "fi": "Hälytä, mikäli lämpötila alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
+      "fi": "Hälytä, mikäli alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
       "ru": "Уведомление если меньше {%.0f^%1$,d} или больше {%.0f^%2$,d}",
       "sv": "Alarmera när mindre än {%.0f^%1$,d} eller mer än {%.0f^%2$,d}"
     },
