@@ -1378,7 +1378,7 @@
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
-      "ident_android": "",
+      "ident_android": "alarm_custom_title_hint",
       "en": "Set custom description...",
       "fi": "Muokkaa kuvausta...",
       "ru": "Введите описание...",
@@ -3367,6 +3367,14 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_mute_for_hour",
+      "en": "Mute for an hour",
+      "fi": "",
+      "ru": "Отключить на час",
+      "sv": ""
     }
   ]
 }
