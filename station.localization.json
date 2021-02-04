@@ -3375,6 +3375,14 @@
       "fi": "",
       "ru": "Отключить на час",
       "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_muted_till",
+      "en": "Mute till %1$s",
+      "fi": "",
+      "ru": "Отключено до %1$s",
+      "sv": ""
     }
   ]
 }
