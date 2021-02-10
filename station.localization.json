@@ -507,10 +507,10 @@
     {
       "ident_ios": "ExpectedError.failedToDeleteTag",
       "ident_android": "",
-      "en": "The RuuviTag could not be deleted. Wait for the RuuviTag to be connected or disconnected",
-      "fi": "Anturia ei voitu poistaa. Odota anturin yhdistämistä tai yhteyden katkaisua.",
-      "ru": "RuuviTag не удалось удалить. Подождите, пока RuuviTag будет подключен или отключен",
-      "sv": "Kunde inte ta bort RuuviTagen. Vänta tills den är ansluten eller frånkopplad"
+      "en": "Unable to remove a connected device that is not reachable. Please check your Bluetooth connection.",
+      "fi": "Aiemmin yhdistettyä laitetta ei voida poistaa ilman Bluetooth-yhteyttä. Tarkasta Bluetooth-yhteyden tila.",
+      "ru": "Не удалось удалить подключенный сенсор, так как он недоступен. Пожалуйста, проверьте соединение по Bluetooth.",
+      "sv": "Det går inte att ta bort en ansluten enhet som inte kan nås. Kontrollera Bluetooth-anslutningen."
     },
     {
       "ident_ios": "ExportService.Date",
