@@ -1210,7 +1210,7 @@
     },
     {
       "ident_ios": "TagSettings.dataFormatTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "data_format",
       "en": "Data Format",
       "fi": "Dataformaatti",
       "ru": "Формат Данных",
@@ -1242,7 +1242,7 @@
     },
     {
       "ident_ios": "TagSettings.txPowerTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "tx_power",
       "en": "Tx Power",
       "fi": "Lähetysteho",
       "ru": "Мощность Передачи",
@@ -1250,7 +1250,7 @@
     },
     {
       "ident_ios": "TagSettings.mcTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "movement_counter",
       "en": "Movement Counter",
       "fi": "Liikelaskuri",
       "ru": "Счетчик Движения",
@@ -1258,7 +1258,7 @@
     },
     {
       "ident_ios": "TagSettings.msnTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "measurement_sequence_number",
       "en": "Measurement Sequence Number",
       "fi": "Mittausjärjestysnumero",
       "ru": "Порядковый Номер Измерения",
@@ -1378,7 +1378,7 @@
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
-      "ident_android": "",
+      "ident_android": "alarm_custom_title_hint",
       "en": "Set custom description...",
       "fi": "Muokkaa kuvausta...",
       "ru": "Введите описание...",
@@ -1876,7 +1876,7 @@
       "ident_ios": "TagSettings.Alerts.Temperature.description",
       "ident_android": "alert_subtitle_on",
       "en": "Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}",
-      "fi": "Hälytä, mikäli lämpötila alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
+      "fi": "Hälytä, mikäli alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
       "ru": "Уведомление если меньше {%.0f^%1$,d} или больше {%.0f^%2$,d}",
       "sv": "Alarmera när mindre än {%.0f^%1$,d} eller mer än {%.0f^%2$,d}"
     },
@@ -3367,6 +3367,30 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_mute_for_hour",
+      "en": "Mute for an hour",
+      "fi": "",
+      "ru": "Отключить на час",
+      "sv": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_reading",
+      "en": "%1$,.3f g",
+      "fi": "%1$,.3f g",
+      "ru": "%1$,.3f g",
+      "sv": "%1$,.3f g"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tx_power_reading",
+      "en": "%1$,.0f dBm",
+      "fi": "%1$,.0f dBm",
+      "ru": "%1$,.0f дБм",
+      "sv": "%1$,.0f dBm"
     }
   ]
 }
