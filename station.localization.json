@@ -133,7 +133,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -421,7 +421,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -501,7 +501,7 @@
       "ident_android": "",
       "en": "App is already in process of syncing logs with this sensor",
       "fi": "Sovellus on jo määritetty synkronoimaan lokitietoja tämän anturin kanssa",
-      "ru": "Приложение уже в процессе синхронизации логов с данным RuuviTag",
+      "ru": "Приложение уже в процессе синхронизации логов с данным сенсоры",
       "sv": "Applikationen håller redan på att synkronisera logginformation med denna sensor"
     },
     {
@@ -1029,7 +1029,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver Bluetooth för att lyssna efter sensorer. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -1123,9 +1123,9 @@
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
       "ident_android": "",
-      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a RuuviTag.\\nOr update your sensor with the latest firmware.",
+      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a sensor.\\nOr update your sensor with the latest firmware.",
       "fi": "Puuttuvat arvot voidaan näyttää ainoastaan uudemmalla laiteohjelmistoversiolla.",
-      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем RuuviTag.\\nИли обновите ваш RuuviTag с последней прошивкой.",
+      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем сенсоре.\\nИли обновите ваш сенсор с последней прошивкой.",
       "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format."
     },
     {
@@ -1171,7 +1171,7 @@
     {
       "ident_ios": "TagSettings.navigationItem.title",
       "ident_android": "",
-      "en": "Tag Settings",
+      "en": "Sensor Settings",
       "fi": "Asetukset",
       "ru": "Настройки",
       "sv": "Inställningar"
@@ -1179,7 +1179,7 @@
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
       "ident_android": "",
-      "en": "Tag Name",
+      "en": "Sensor Name",
       "fi": "Anturin nimi",
       "ru": "Имя",
       "sv": "Sensornamn"
@@ -1461,7 +1461,7 @@
       "ident_android": "",
       "en": "Failed to find sensor",
       "fi": "Anturia ei löydetty",
-      "ru": "Не удалось найти RuuviTag",
+      "ru": "Не удалось найти сенсор",
       "sv": "Hittade inte sensorn"
     },
     {
@@ -1469,7 +1469,7 @@
       "ident_android": "",
       "en": "Failed to find logs for the sensor",
       "fi": "Anturin lokitietoja ei löydetty",
-      "ru": "Не удалось найти логи для RuuviTag",
+      "ru": "Не удалось найти логи сенсора",
       "sv": "Ingen sensorlogginformation hittades"
     },
     {
@@ -1717,7 +1717,7 @@
       "ident_android": "",
       "en": "To find nearby sensors and receive live sensor data, press scan.",
       "fi": "Etsi lähistöllä olevia antureita napauttamalla Skannaa.",
-      "ru": "Чтобы найти RuuviTags рядом и получать текущие данные с сенсоров, нажмите сканировать.",
+      "ru": "Чтобы найти сенсор рядом и получать текущие данные, нажмите сканировать.",
       "sv": "Klicka på Skanna för att hitta sensorer i närheten."
     },
     {
@@ -2227,10 +2227,10 @@
     {
       "ident_ios": "About.OpenSource.contents",
       "ident_android": "help_opensource_text",
-      "en": "Just like RuuviTag, Ruuvi Station is also open-source: github.com/ruuvi",
+      "en": "Just like Ruuvi sensor, Ruuvi Station is also open-source: github.com/ruuvi",
       "fi": "Kuten muutkin Ruuvin tuotteet, myös Ruuvi Station perustuu avoimeen lähdekoodiin: github.com/ruuvi",
-      "ru": "Как и RuuviTag, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
-      "sv": "Likt RuuviTag är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi"
+      "ru": "Как и сенсоры Ruuvi, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
+      "sv": "Likt Ruuvi sensor är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi"
     },
     {
       "ident_ios": "About.OpenSource.header",
@@ -3101,7 +3101,7 @@
       "ident_android": "tagsettings_sensor_remove",
       "en": "Remove sensor",
       "fi": "Poista",
-      "ru": "Удалить RuuviTag",
+      "ru": "Удалить сенсор",
       "sv": "Ta bort sensor"
     },
     {
@@ -3109,7 +3109,7 @@
       "ident_android": "tagsettings_sensor_remove_confirm",
       "en": "Are you sure you want to remove this sensor?",
       "fi": "Haluatko varmasti poistaa tämän anturin?",
-      "ru": "Вы уверены что хотите удалить этот RuuviTag?",
+      "ru": "Вы уверены что хотите удалить этот сенсор?",
       "sv": "Är du säker på att du vill ta bort den här sensorn?"
     },
     {
