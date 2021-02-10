@@ -501,7 +501,7 @@
       "ident_android": "",
       "en": "App is already in process of syncing logs with this sensor",
       "fi": "Sovellus on jo määritetty synkronoimaan lokitietoja tämän anturin kanssa",
-      "ru": "Приложение уже в процессе синхронизации логов с данным сенсоры",
+      "ru": "Приложение уже в процессе синхронизации логов с данным сенсором",
       "sv": "Applikationen håller redan på att synkronisera logginformation med denna sensor"
     },
     {
