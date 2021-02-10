@@ -3372,9 +3372,9 @@
       "ident_ios": "",
       "ident_android": "alarm_mute_for_hour",
       "en": "Mute for an hour",
-      "fi": "",
+      "fi": "Mykistä tunniksi",
       "ru": "Отключить на час",
-      "sv": ""
+      "sv": "Pausa alarmet i en timme"
     },
     {
       "ident_ios": "",
