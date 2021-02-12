@@ -133,7 +133,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -421,7 +421,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -501,96 +501,96 @@
       "ident_android": "",
       "en": "App is already in process of syncing logs with this sensor",
       "fi": "Sovellus on jo määritetty synkronoimaan lokitietoja tämän anturin kanssa",
-      "ru": "Приложение уже в процессе синхронизации логов с данным RuuviTag",
+      "ru": "Приложение уже в процессе синхронизации логов с данным сенсором",
       "sv": "Applikationen håller redan på att synkronisera logginformation med denna sensor"
     },
     {
       "ident_ios": "ExpectedError.failedToDeleteTag",
       "ident_android": "",
-      "en": "The RuuviTag could not be deleted. Wait for the RuuviTag to be connected or disconnected",
-      "fi": "Anturia ei voitu poistaa. Odota anturin yhdistämistä tai yhteyden katkaisua.",
-      "ru": "RuuviTag не удалось удалить. Подождите, пока RuuviTag будет подключен или отключен",
-      "sv": "Kunde inte ta bort RuuviTagen. Vänta tills den är ansluten eller frånkopplad"
+      "en": "Unable to remove a connected device that is not reachable. Please check your Bluetooth connection.",
+      "fi": "Aiemmin yhdistettyä laitetta ei voida poistaa ilman Bluetooth-yhteyttä. Tarkasta Bluetooth-yhteyden tila.",
+      "ru": "Не удалось удалить подключенный сенсор, так как он недоступен. Пожалуйста, проверьте соединение по Bluetooth.",
+      "sv": "Det går inte att ta bort en ansluten enhet som inte kan nås. Kontrollera Bluetooth-anslutningen."
     },
     {
       "ident_ios": "ExportService.Date",
       "ident_android": "",
-      "en": "\"Date\"",
-      "fi": "\"Päivämäärä\"",
-      "ru": "\"Дата\"",
-      "sv": "\"Tidpunkt\""
+      "en": "\\\"Date\\\"",
+      "fi": "\\\"Päivämäärä\\\"",
+      "ru": "\\\"Дата\\\"",
+      "sv": "\\\"Tidpunkt\\\""
     },
     {
       "ident_ios": "ExportService.ISO8601",
       "ident_android": "",
-      "en": "\"ISO8601\"",
-      "fi": "\"ISO8601\"",
-      "ru": "\"ISO8601\"",
-      "sv": "\"ISO8601\""
+      "en": "\\\"ISO8601\\\"",
+      "fi": "\\\"ISO8601\\\"",
+      "ru": "\\\"ISO8601\\\"",
+      "sv": "\\\"ISO8601\\\""
     },
     {
       "ident_ios": "ExportService.Temperature",
       "ident_android": "",
-      "en": "\"Temperature (%@)\"",
-      "fi": "\"Lämpötila (%@)\"",
-      "ru": "\"Температура (%@)\"",
-      "sv": "\"Temperatur (%@)\""
+      "en": "\\\"Temperature (%@)\\\"",
+      "fi": "\\\"Lämpötila (%@)\\\"",
+      "ru": "\\\"Температура (%@)\\\"",
+      "sv": "\\\"Temperatur (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Humidity",
       "ident_android": "",
-      "en": "\"Humidity (%@)\"",
-      "fi": "\"Kosteus (%@)\"",
-      "ru": "\"Влажность (%@)\"",
-      "sv": "\"Luftfuktighet (%@)\""
+      "en": "\\\"Humidity (%@)\\\"",
+      "fi": "\\\"Kosteus (%@)\\\"",
+      "ru": "\\\"Влажность (%@)\\\"",
+      "sv": "\\\"Luftfuktighet (%@)\\\""
     },
     {
       "ident_ios": "ExportService.DewPoint",
       "ident_android": "",
-      "en": "\"Dew point (%@)\"",
-      "fi": "\"Kastepiste (%@)\"",
-      "ru": "\"Точка росы (%@)\"",
-      "sv": "\"Daggpunkt (%@)\""
+      "en": "\\\"Dew point (%@)\\\"",
+      "fi": "\\\"Kastepiste (%@)\\\"",
+      "ru": "\\\"Точка росы (%@)\\\"",
+      "sv": "\\\"Daggpunkt (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Pressure",
       "ident_android": "",
-      "en": "\"Pressure (%@)\"",
-      "fi": "\"Ilmanpaine (%@)\"",
-      "ru": "\"Давление (%@)\"",
-      "sv": "\"Lufttryck (%@)\""
+      "en": "\\\"Pressure (%@)\\\"",
+      "fi": "\\\"Ilmanpaine (%@)\\\"",
+      "ru": "\\\"Давление (%@)\\\"",
+      "sv": "\\\"Lufttryck (%@)\\\""
     },
     {
       "ident_ios": "ExportService.Voltage",
       "ident_android": "",
-      "en": "\"Voltage (V)\"",
-      "fi": "\"Jännite (V)\"",
-      "ru": "\"Напряжение (В)\"",
-      "sv": "\"Spänning (V)\""
+      "en": "\\\"Voltage (V)\\\"",
+      "fi": "\\\"Jännite (V)\\\"",
+      "ru": "\\\"Напряжение (В)\\\"",
+      "sv": "\\\"Spänning (V)\\\""
     },
     {
       "ident_ios": "ExportService.MovementCounter",
       "ident_android": "",
-      "en": "\"Movement Counter\"",
-      "fi": "\"Liikelaskuri\"",
-      "ru": "\"Счетчик Движения\"",
-      "sv": "\"Rörelseräknare\""
+      "en": "\\\"Movement Counter\\\"",
+      "fi": "\\\"Liikelaskuri\\\"",
+      "ru": "\\\"Счетчик Движения\\\"",
+      "sv": "\\\"Rörelseräknare\\\""
     },
     {
       "ident_ios": "ExportService.MeasurementSequenceNumber",
       "ident_android": "",
-      "en": "\"Measurement Sequence Number\"",
-      "fi": "\"Mittajärjestysnumero\"",
-      "ru": "\"Порядковый Номер Измерения\"",
-      "sv": "\"Mätningssekvensnummer\""
+      "en": "\\\"Measurement Sequence Number\\\"",
+      "fi": "\\\"Mittajärjestysnumero\\\"",
+      "ru": "\\\"Порядковый Номер Измерения\\\"",
+      "sv": "\\\"Mätningssekvensnummer\\\""
     },
     {
       "ident_ios": "ExportService.TXPower",
       "ident_android": "",
-      "en": "\"TX Power\"",
-      "fi": "\"Lähetysteho\"",
-      "ru": "\"Мощность Передачи\"",
-      "sv": "\"Sändningseffekt\""
+      "en": "\\\"TX Power\\\"",
+      "fi": "\\\"Lähetysteho\\\"",
+      "ru": "\\\"Мощность Передачи\\\"",
+      "sv": "\\\"Sändningseffekt\\\""
     },
     {
       "ident_ios": "ForegroundRow.advertisement.section",
@@ -1029,7 +1029,7 @@
       "ident_android": "",
       "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать RuuviTag-и. Откройте Настройки и включите Bluetooth.",
+      "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver Bluetooth för att lyssna efter sensorer. Gå till Inställningar och aktivera Bluetooth."
     },
     {
@@ -1123,9 +1123,9 @@
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
       "ident_android": "",
-      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a RuuviTag.\\nOr update your sensor with the latest firmware.",
+      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a sensor.\\nOr update your sensor with the latest firmware.",
       "fi": "Puuttuvat arvot voidaan näyttää ainoastaan uudemmalla laiteohjelmistoversiolla.",
-      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем RuuviTag.\\nИли обновите ваш RuuviTag с последней прошивкой.",
+      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем сенсоре.\\nИли обновите ваш сенсор с последней прошивкой.",
       "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format."
     },
     {
@@ -1171,7 +1171,7 @@
     {
       "ident_ios": "TagSettings.navigationItem.title",
       "ident_android": "",
-      "en": "Tag Settings",
+      "en": "Sensor Settings",
       "fi": "Asetukset",
       "ru": "Настройки",
       "sv": "Inställningar"
@@ -1179,7 +1179,7 @@
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
       "ident_android": "",
-      "en": "Tag Name",
+      "en": "Sensor Name",
       "fi": "Anturin nimi",
       "ru": "Имя",
       "sv": "Sensornamn"
@@ -1210,7 +1210,7 @@
     },
     {
       "ident_ios": "TagSettings.dataFormatTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "data_format",
       "en": "Data Format",
       "fi": "Dataformaatti",
       "ru": "Формат Данных",
@@ -1242,7 +1242,7 @@
     },
     {
       "ident_ios": "TagSettings.txPowerTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "tx_power",
       "en": "Tx Power",
       "fi": "Lähetysteho",
       "ru": "Мощность Передачи",
@@ -1250,7 +1250,7 @@
     },
     {
       "ident_ios": "TagSettings.mcTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "movement_counter",
       "en": "Movement Counter",
       "fi": "Liikelaskuri",
       "ru": "Счетчик Движения",
@@ -1258,7 +1258,7 @@
     },
     {
       "ident_ios": "TagSettings.msnTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "measurement_sequence_number",
       "en": "Measurement Sequence Number",
       "fi": "Mittausjärjestysnumero",
       "ru": "Порядковый Номер Измерения",
@@ -1378,7 +1378,7 @@
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
-      "ident_android": "",
+      "ident_android": "alarm_custom_title_hint",
       "en": "Set custom description...",
       "fi": "Muokkaa kuvausta...",
       "ru": "Введите описание...",
@@ -1461,7 +1461,7 @@
       "ident_android": "",
       "en": "Failed to find sensor",
       "fi": "Anturia ei löydetty",
-      "ru": "Не удалось найти RuuviTag",
+      "ru": "Не удалось найти сенсор",
       "sv": "Hittade inte sensorn"
     },
     {
@@ -1469,7 +1469,7 @@
       "ident_android": "",
       "en": "Failed to find logs for the sensor",
       "fi": "Anturin lokitietoja ei löydetty",
-      "ru": "Не удалось найти логи для RuuviTag",
+      "ru": "Не удалось найти логи сенсора",
       "sv": "Ingen sensorlogginformation hittades"
     },
     {
@@ -1717,7 +1717,7 @@
       "ident_android": "",
       "en": "To find nearby sensors and receive live sensor data, press scan.",
       "fi": "Etsi lähistöllä olevia antureita napauttamalla Skannaa.",
-      "ru": "Чтобы найти RuuviTags рядом и получать текущие данные с сенсоров, нажмите сканировать.",
+      "ru": "Чтобы найти сенсор рядом и получать текущие данные, нажмите сканировать.",
       "sv": "Klicka på Skanna för att hitta sensorer i närheten."
     },
     {
@@ -2227,10 +2227,10 @@
     {
       "ident_ios": "About.OpenSource.contents",
       "ident_android": "help_opensource_text",
-      "en": "Just like RuuviTag, Ruuvi Station is also open-source: github.com/ruuvi",
+      "en": "Just like Ruuvi sensor, Ruuvi Station is also open-source: github.com/ruuvi",
       "fi": "Kuten muutkin Ruuvin tuotteet, myös Ruuvi Station perustuu avoimeen lähdekoodiin: github.com/ruuvi",
-      "ru": "Как и RuuviTag, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
-      "sv": "Likt RuuviTag är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi"
+      "ru": "Как и сенсоры Ruuvi, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
+      "sv": "Likt Ruuvi sensor är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi"
     },
     {
       "ident_ios": "About.OpenSource.header",
@@ -3101,7 +3101,7 @@
       "ident_android": "tagsettings_sensor_remove",
       "en": "Remove sensor",
       "fi": "Poista",
-      "ru": "Удалить RuuviTag",
+      "ru": "Удалить сенсор",
       "sv": "Ta bort sensor"
     },
     {
@@ -3109,7 +3109,7 @@
       "ident_android": "tagsettings_sensor_remove_confirm",
       "en": "Are you sure you want to remove this sensor?",
       "fi": "Haluatko varmasti poistaa tämän anturin?",
-      "ru": "Вы уверены что хотите удалить этот RuuviTag?",
+      "ru": "Вы уверены что хотите удалить этот сенсор?",
       "sv": "Är du säker på att du vill ta bort den här sensorn?"
     },
     {
@@ -3367,6 +3367,30 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_mute_for_hour",
+      "en": "Mute for an hour",
+      "fi": "Mykistä tunniksi",
+      "ru": "Отключить на час",
+      "sv": "Pausa alarmet i en timme"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_reading",
+      "en": "%1$,.3f g",
+      "fi": "%1$,.3f g",
+      "ru": "%1$,.3f g",
+      "sv": "%1$,.3f g"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tx_power_reading",
+      "en": "%1$,.0f dBm",
+      "fi": "%1$,.0f dBm",
+      "ru": "%1$,.0f дБм",
+      "sv": "%1$,.0f dBm"
     },
     {
       "ident_ios": "SignIn.Title.text",
