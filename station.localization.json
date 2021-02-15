@@ -3822,7 +3822,8 @@
       "en": "Sign in",
       "fi": "",
       "ru": "Войти",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagsManager.SignOutButton",
@@ -3830,7 +3831,8 @@
       "en": "Sign out",
       "fi": "",
       "ru": "Выйти из сети",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -3838,7 +3840,8 @@
       "en": "Sign in benefits, the information is saved in the cloud:\\n- sensors list\\n- sensor name",
       "fi": "",
       "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.RequestSignLink",
@@ -3846,7 +3849,8 @@
       "en": "Register or request new sign in link",
       "fi": "",
       "ru": "Зарегистрируйтесь или получите ссылку для входа",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -3854,7 +3858,8 @@
       "en": "Email",
       "fi": "",
       "ru": "Email",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3862,7 +3867,8 @@
       "en": "Submit",
       "fi": "",
       "ru": "Отправить",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3870,7 +3876,8 @@
       "en": "Enter code manually",
       "fi": "",
       "ru": "Ввести код вручную",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.EmailSent",
@@ -3878,7 +3885,8 @@
       "en": "Email sent",
       "fi": "",
       "ru": "Email отправлен",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
@@ -3886,7 +3894,8 @@
       "en": "Please check your email inbox for further instructions",
       "fi": "",
       "ru": "Пожалуйста проверьте email для дальнейших инструкций",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3894,7 +3903,8 @@
       "en": "Sign in code",
       "fi": "",
       "ru": "Код для входа",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
@@ -3902,7 +3912,8 @@
       "en": "Do you want sign out?",
       "fi": "",
       "ru": "Хотите выйти их сети?",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Claim",
@@ -3910,7 +3921,8 @@
       "en": "Claim",
       "fi": "",
       "ru": "Мой датчик",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3918,7 +3930,8 @@
       "en": "Share",
       "fi": "",
       "ru": "Поделиться",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3926,7 +3939,8 @@
       "en": "Syncing…",
       "fi": "",
       "ru": "Синхронизация…",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "Synchronized",
@@ -3934,7 +3948,8 @@
       "en": "Synchronized: {%@^%1$s}",
       "fi": "",
       "ru": "Синхронизировано: {%@^%1$s}",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3942,7 +3957,8 @@
       "en": "never",
       "fi": "",
       "ru": "никогда",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "MenuTableViewController.None",
@@ -3950,7 +3966,8 @@
       "en": "none",
       "fi": "",
       "ru": "нет",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "MenuTableViewController.User",
@@ -3958,7 +3975,8 @@
       "en": "User: {%@^%1$s}",
       "fi": "",
       "ru": "Пользователь: {%@^%1$s}",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3966,7 +3984,8 @@
       "en": "Synchronized successfully!",
       "fi": "",
       "ru": "Синхронизировано успешно!",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3974,7 +3993,8 @@
       "en": "Synchronization failed: %1$s",
       "fi": "",
       "ru": "Ошибка синхронизации: %1$s",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3982,7 +4002,8 @@
       "en": "Synchronization failed: need to log in first",
       "fi": "",
       "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.Title",
@@ -3990,7 +4011,8 @@
       "en": "Share Ruuvi sensor",
       "fi": "",
       "ru": "Поделиться датчиком Ruuvi",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.Description",
@@ -3998,7 +4020,8 @@
       "en": "Share your Ruuvi sensor. Add your friend email address (10 max)",
       "fi": "",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.addFriend.Title",
@@ -4006,7 +4029,8 @@
       "en": "Add friend",
       "fi": "",
       "ru": "Добавить друга",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4014,7 +4038,8 @@
       "en": "Send",
       "fi": "",
       "ru": "Отправить",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4022,7 +4047,8 @@
       "en": "Already shared",
       "fi": "",
       "ru": "Поделились",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
@@ -4030,7 +4056,8 @@
       "en": "Do you want to unshare sensor for {%@^%1$s}?",
       "fi": "",
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
@@ -4038,7 +4065,8 @@
       "en": "NETWORK INFO",
       "fi": "",
       "ru": "Данные сети",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
@@ -4046,7 +4074,8 @@
       "en": "Owner",
       "fi": "",
       "ru": "Владелец",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4054,7 +4083,8 @@
       "en": "Ruuvi Network status",
       "fi": "",
       "ru": "Статус сети Ruuvi",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     }
   ]
 }
