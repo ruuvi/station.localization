@@ -22,20 +22,23 @@ data class Translations(
         val writerFi = PrintWriter("../../com.ruuvi.station.github/app/src/main/res/values-fi/strings.xml")
         val writerSv = PrintWriter("../../com.ruuvi.station.github/app/src/main/res/values-sv/strings.xml")
         val writerRu = PrintWriter("../../com.ruuvi.station.github/app/src/main/res/values-ru/strings.xml")
+        val writerFr = PrintWriter("../../com.ruuvi.station.github/app/src/main/res/values-fr/strings.xml")
 
         startFile(writer)
         startFile(writerFi)
         startFile(writerSv)
         startFile(writerRu)
+        startFile(writerFr)
 
         for (entry in translations.sortedBy { it.ident_android }) {
-            if (entry.ident_android.isNotEmpty()) entry.export(writer, writerFi, writerSv, writerRu)
+            if (entry.ident_android.isNotEmpty()) entry.export(writer, writerFi, writerSv, writerRu, writerFr)
         }
 
         closeFile(writer)
         closeFile(writerFi)
         closeFile(writerSv)
         closeFile(writerRu)
+        closeFile(writerFr)
     }
 
     fun startFile(writer: PrintWriter) {
