@@ -3013,7 +3013,7 @@
       "fi": "sek",
       "ru": "сек",
       "sv": "sek",
-      "fr": ""
+      "fr": "sec"
     },
     {
       "ident_ios": "",
@@ -3022,7 +3022,7 @@
       "fi": "Sekuntia",
       "ru": "Секунд",
       "sv": "Sekunder",
-      "fr": ""
+      "fr": "Secondes"
     },
     {
       "ident_ios": "",
@@ -3031,7 +3031,7 @@
       "fi": "Valitse kuva",
       "ru": "Выберите изображение",
       "sv": "Välj bild",
-      "fr": ""
+      "fr": "Choisissez une photo"
     },
     {
       "ident_ios": "",
@@ -3040,7 +3040,7 @@
       "fi": "Lähetä sähköpostia",
       "ru": "Отправить электронное письмо",
       "sv": "Skicka email",
-      "fr": ""
+      "fr": "Envoyer un email"
     },
     {
       "ident_ios": "",
@@ -3049,7 +3049,7 @@
       "fi": "Anturi on jo lisätty",
       "ru": "Датчик уже добавлен",
       "sv": "Sensorn har redan lagts till",
-      "fr": ""
+      "fr": "Ce capteur a déjà été ajouté"
     },
     {
       "ident_ios": "Settings.navigationItem.title",
@@ -3058,7 +3058,7 @@
       "fi": "Asetukset",
       "ru": "Настройки",
       "sv": "Inställningar",
-      "fr": ""
+      "fr": "Réglages"
     },
     {
       "ident_ios": "",
@@ -3067,7 +3067,7 @@
       "fi": "Poista virransäästötoiminnot käytöstä, mikäli taustaskannaus ei toimi luotettavasti. Virransäästötoiminnot saattavat sijaita eri paikassa Android käyttöjärjestelmäversiosta ja laitteen valmistajasta riippuen.",
       "ru": "Если у вас нестабильно работает фоновое сканирование, то следует отключить оптимизацию батареи для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
       "sv": "Om du har problem med bakgrundsskanningen så kan det hjälpa att stänga av batterioptimering. Denna inställning hittas på olika ställen beroende på telefonens tillverkare, modell och Android version.",
-      "fr": ""
+      "fr": "Si le balayage en arrière plan ne fonctionne pas, désactivez le mode économie d'énergie de votre téléphone. "
     },
     {
       "ident_ios": "",
@@ -3076,7 +3076,7 @@
       "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Akku -> Virransäästö ja valitse 'Älä käytä'",
       "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station",
-      "fr": ""
+      "fr": "Allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Économie d'énergie -> Désactiver"
     },
     {
       "ident_ios": "",
@@ -3085,7 +3085,7 @@
       "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankulutustiedot -> Sovelluksen käynnistys -> poista käytöstä 'Hallitse automaattisesti' ja varmista, että kaikki manuaalisen hallinnan alla olevat vaihtoehdot ovat käytössä.",
       "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Appar -> Ruuvi Station -> Information om energiförbrukning -> Appstart. Avaktivera Hantera automatiskt och aktivera Autostart, Sekundär start och Kör i bakgrunden.",
-      "fr": ""
+      "fr": "Pour les appareils Huawei allez dans : Réglages -> Applications -> RuuviStation -> Utilisation de la batterie -> Démarrage de l'application -> Désactiver 'contrôle automatique' et assurez-vous que les options de contrôle manuel sont activées. "
     },
     {
       "ident_ios": "",
@@ -3094,7 +3094,7 @@
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Akku -> Sovelluksen virransäästö -> Ruuvi Station ja valitse 'Ei käytössä'.",
       "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
       "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv.",
-      "fr": ""
+      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan"
     },
     {
       "ident_ios": "",
@@ -3103,7 +3103,7 @@
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku. Poista käyttämättömien sovellusten lepotila käytöstä. Poista Ruuvi Station lepotilaa käyttävien sovellusten listalta. Poista sovelluksen tausta-ajoon mahdollisesti vaikuttavat muut rajoitukset.",
       "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Tryck på menyn i högra övre hörnet -> Särskild åtkomst -> Optimera batterianvändning. Välj Allt, sök efter Ruuvi Station och välj bort appen från optimerade appar.",
-      "fr": ""
+      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan"
     },
     {
       "ident_ios": "",
@@ -3112,7 +3112,7 @@
       "fi": "Lisätietoja taustaskannauksesta",
       "ru": "Важное замечание по поводу фонового сканирования",
       "sv": "Läs mer om bakgrundsskanning",
-      "fr": ""
+      "fr": "Plus d'infos sur le balayage en arrière-plan"
     },
     {
       "ident_ios": "",
@@ -3121,7 +3121,7 @@
       "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Hallitse sovelluksia -> Ruuvi Station -> ota käyttöön Automaattinen käynnistys ja valitse 'Ei rajoituksia' kohdasta Virransäästö.",
       "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Hantera Appar -> Ruuvi Station. Aktivera Starta automatiskt, gå sedan till Batterisparare och välj Inga restriktioner.",
-      "fr": ""
+      "fr": "Sur les appareils Xiaomi allez dans : Réglages -> Applications -> Gérer les applications -> Ruuvi Station -> Utiliser le lancement automatique et choisir 'aucune restriction' pour l'économie d'énergie"
     },
     {
       "ident_ios": "",
@@ -3130,7 +3130,7 @@
       "fi": "Jatkuva skannaus",
       "ru": "Фоновое сканирование",
       "sv": "Kontinuerlig bakgrundsskanning",
-      "fr": ""
+      "fr": "Balayage en continu"
     },
     {
       "ident_ios": "",
@@ -3139,7 +3139,7 @@
       "fi": "Jatkuva skannaus on käytössä.\\nHistorian tallennusväli: %1$s ",
       "ru": "Фоновое сканироваение включено.\\nИнтервал сканирования: %1$s",
       "sv": "Kontinuerlig bakgrundsskanning är aktiverad\\nDataloggningsintervall: %1$s",
-      "fr": ""
+      "fr": "Balayage en continu activé.\\nDonnées intervalles: %1$s",
     },
     {
       "ident_ios": "",
@@ -3148,7 +3148,7 @@
       "fi": "Ei skannausta",
       "ru": "Без фонового сканирования",
       "sv": "Ingen bakgrundsskanning",
-      "fr": ""
+      "fr": "Balayage désactivé",
     },
     {
       "ident_ios": "",
@@ -3157,7 +3157,7 @@
       "fi": "Taustaskannaus pois käytöstä",
       "ru": "Фоновое сканироваение выключено",
       "sv": "Bakgrundsskanning är avaktiverad",
-      "fr": ""
+      "fr": "Balayage en arrière-plan désactivé"
     },
     {
       "ident_ios": "",
@@ -3166,7 +3166,7 @@
       "fi": "Taustaskannauksen asetukset",
       "ru": "Настройки сканирования в фоне",
       "sv": "Bakgrundsskanningsinställningar",
-      "fr": ""
+      "fr": "Réglages du balayage en arrière-plan"
     },
     {
       "ident_ios": "",
@@ -3184,7 +3184,7 @@
       "fi": "Sovellus hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение",
       "sv": "Programmet hämtar regelbundet data från sensorer i närheten medan appen körs i bakgrunden.",
-      "fr": ""
+      "fr": "L'application va régulièrement chercher des capteurs en utilisant la fonction de balayage en continu même lorsque vous n'êtes pas sur l'application"
     },
     {
       "ident_ios": "",
@@ -3193,7 +3193,7 @@
       "fi": "Historiatietojen tallennusväli",
       "ru": "Интервал сканирования",
       "sv": "Dataloggningsintervall",
-      "fr": ""
+      "fr": "Intervalle d'acquisition des données"
     },
     {
       "ident_ios": "",
@@ -3202,7 +3202,7 @@
       "fi": "Määritä taustaskannauksen toteutusväli",
       "ru": "Установите как часто должно включаться фоновое сканирование",
       "sv": "Ange intervallet för bakgrundsskanning",
-      "fr": ""
+      "fr": "Définir l'intervalle d'acquisition",
     },
     {
       "ident_ios": "",
@@ -3211,7 +3211,7 @@
       "fi": "Historiatietojen asetukset",
       "ru": "Настройки графиков",
       "sv": "Historik",
-      "fr": ""
+      "fr": "Paramètress de l'histogramme",
     },
     {
       "ident_ios": "",
@@ -3220,7 +3220,7 @@
       "fi": "Näytä kaikki kerätyt mittaukset",
       "ru": "Отображать все данные",
       "sv": "Visa all insamlad data i graferna",
-      "fr": ""
+      "fr": "Afficher toutes les données mesurées",
     },
     {
       "ident_ios": "",
@@ -3229,7 +3229,7 @@
       "fi": "Ominaisuuden käyttäminen saattaa hidastaa historiatietojen päivittymistä",
       "ru": "Это может привести к медленному обновлению графиков",
       "sv": "Den här funktionen kan göra appen laddar historik långsammare",
-      "fr": ""
+      "fr": "L'utilisation de cette fonction peut ralentir la mise à jour de l'histogramme"
     },
     {
       "ident_ios": "",
@@ -3238,7 +3238,7 @@
       "fi": "Määritä tietopisteiden näyttöväli",
       "ru": "Установите интервал между точками и диапазон истории для графиков",
       "sv": "Ange visningsintervallet för datapunkter",
-      "fr": ""
+      "fr": "Définir l'intervalle entre deux mesures"
     },
     {
       "ident_ios": "",
@@ -3247,7 +3247,7 @@
       "fi": "Näytä tietopisteet",
       "ru": "Показывать точки на графике",
       "sv": "Visa datapunkter",
-      "fr": ""
+      "fr": "Afficher les points"
     },
     {
       "ident_ios": "",
@@ -3256,7 +3256,7 @@
       "fi": "Tietopisteiden näyttäminen helpottaa tallennetun historiatiedon tutkimista",
       "ru": "Маленькие точки помогут точно понять когда были получены данные",
       "sv": "Datapunkter gör det lättare att utforska lagrad historikinformation",
-      "fr": ""
+      "fr": "L'affichage des points facilite l'analyse de l'histogramme"
     },
     {
       "ident_ios": "Defaults.ChartIntervalSeconds.title",
@@ -3265,7 +3265,7 @@
       "fi": "Historian tarkkuus",
       "ru": "Интервал Графиков",
       "sv": "Historikens noggrannhet",
-      "fr": ""
+      "fr": "Précision de l'histogramme"
     },
     {
       "ident_ios": "",
@@ -3274,7 +3274,7 @@
       "fi": "Aseta historian tallennusväli 1 - 60 minuuttia. Tiheämpi tallennusväli mahdollistaa tarkempien historiatietojen esittämisen, mutta tämä käyttää enemmän laitteen resursseja",
       "ru": "Установите интервал между точками на графиках от 1 до 60 минут. Чем меньше значение, тем выше точность отображения. Но в тоже время повышаются требования к быстродействию вашего телефона.",
       "sv": "Ställ in intervallet för datapunkter i graferna från 1 till 60 minuter. Ett tätare intervall gör det möjligt att visa mer exakt historikinformation, men detta använder mer enhetsresurser",
-      "fr": ""
+      "fr": "Définir l'intervalle de l'histogramme 1 - 60 minutes. Un intervalle plus faible permet une analyse plus précise mais utilise d'avantage les ressources de votre appareil."
     },
     {
       "ident_ios": "",
@@ -3283,7 +3283,7 @@
       "fi": "Historian tarkastelujakso",
       "ru": "Диапазон отображения графиков",
       "sv": "Historik",
-      "fr": ""
+      "fr": "Période de l'histogramme"
     },
     {
       "ident_ios": "",
@@ -3292,7 +3292,7 @@
       "fi": "Määritä historian tarkastelujakso 1 - 72 tuntia",
       "ru": "Установите диапазон для отображения на графиках от 1-го до 72-х часов",
       "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 72 timmar",
-      "fr": ""
+      "fr": "Définir la période de l'histogramme 1 - 72 heures"
     },
     {
       "ident_ios": "",
@@ -3301,7 +3301,7 @@
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
       "sv": "Proxyinställningar",
-      "fr": ""
+      "fr": "Paramètres du routeur"
     },
     {
       "ident_ios": "",
@@ -3310,7 +3310,7 @@
       "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \\n\\nLue lisää ohjesivulta.",
       "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию",
       "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \\n\\nFör mer information, läs dokumentationen.",
-      "fr": ""
+      "fr": "L'application envoi les données du capteur via la fonction HTTP POST à une adresse de routage définie pendant le balayage en arrière-plan\\n\\nnPour plus d'informations, consultez les pages de support."
     },
     {
       "ident_ios": "",
@@ -3319,7 +3319,7 @@
       "fi": "ohjesivulta",
       "ru": "документацию",
       "sv": "läs dokumentationen",
-      "fr": ""
+      "fr": "page de support"
     },
     {
       "ident_ios": "",
@@ -3328,7 +3328,7 @@
       "fi": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
       "ru": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
       "sv": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
-      "fr": ""
+      "fr": "https://docs.ruuvi.com/ruuvi-station-app/gateway"
     },
     {
       "ident_ios": "",
@@ -3337,7 +3337,7 @@
       "fi": "Laitteen tunniste",
       "ru": "Идентификатор устройства",
       "sv": "Enhetsidentifikation",
-      "fr": ""
+      "fr": "Identifiant de l'appareil"
     },
     {
       "ident_ios": "",
@@ -3346,7 +3346,7 @@
       "fi": "Testaa välityspalvelin",
       "ru": "Тест шлюза",
       "sv": "Testa proxyn",
-      "fr": ""
+      "fr": "Tester le routeur"
     },
     {
       "ident_ios": "Settings.Label.HumidityUnit.text",
@@ -3355,7 +3355,7 @@
       "fi": "Kosteusyksikkö",
       "ru": "Ед. изм. Влажности",
       "sv": "Luftfuktighetsenhet",
-      "fr": ""
+      "fr": "Unité d'humidité"
     },
     {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
@@ -3364,7 +3364,7 @@
       "fi": "Valitse sovelluksessa käytettävä kosteusyksikkö",
       "ru": "Выберите единицу измерения влажности для отображения",
       "sv": "Välj den fuktighetsenhet som du vill ska visas",
-      "fr": ""
+      "fr": "Choisissez l'unité souhaitée pour l'humidité"
     },
     {
       "ident_ios": "Settings.Label.PressureUnit.text",
@@ -3373,7 +3373,7 @@
       "fi": "Paineyksikkö",
       "ru": "Ед. изм. Давления",
       "sv": "Tryckenhet",
-      "fr": ""
+      "fr": "Unité de pression",
     },
     {
       "ident_ios": "Settings.ChoosePressureUnit.text",
@@ -3382,7 +3382,7 @@
       "fi": "Valitse sovelluksessa käytettävä paineyksikkö",
       "ru": "Выберите единицу измерения давления для отображения",
       "sv": "Välj den tryckenhet du vill ska visas",
-      "fr": ""
+      "fr": "Choisissez l'unité souhaitée pour la pression",
     },
     {
       "ident_ios": "Settings.Label.TemperatureUnit.text",
@@ -3391,7 +3391,7 @@
       "fi": "Lämpötilayksikkö",
       "ru": "Ед. изм. Температуры",
       "sv": "Temperaturenhet",
-      "fr": ""
+      "fr": "Unité de température"
     },
     {
       "ident_ios": "Settings.ChooseTemperatureUnit.text",
@@ -3400,7 +3400,7 @@
       "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö",
       "ru": "Выберите единицу измерения температуры для отображения",
       "sv": "Välj den temperaturenhet som du vill ska visas",
-      "fr": ""
+      "fr": "Choisissez l'unité souhaitée pour la température"
     },
     {
       "ident_ios": "",
@@ -3409,7 +3409,7 @@
       "fi": "%1$,d %2$s",
       "ru": "%1$,d %2$s",
       "sv": "%1$,d %2$s",
-      "fr": ""
+      "fr": "%1$,d %2$s"
     },
     {
       "ident_ios": "",
@@ -3418,7 +3418,7 @@
       "fi": "- %1$s",
       "ru": "- %1$s",
       "sv": "- %1$s",
-      "fr": ""
+      "fr": "- %1$s"
     },
     {
       "ident_ios": "dBm",
@@ -3427,7 +3427,7 @@
       "fi": "dBm",
       "ru": "дБм",
       "sv": "dBm",
-      "fr": ""
+      "fr": "dBm"
     },
     {
       "ident_ios": "",
@@ -3436,7 +3436,7 @@
       "fi": "Tapahtui virhe",
       "ru": "Что-то пошло не так",
       "sv": "Något gick fel",
-      "fr": ""
+      "fr": "Erreur"
     },
     {
       "ident_ios": "TagCharts.Sync.title",
@@ -3445,7 +3445,7 @@
       "fi": "SYNKRONOI",
       "ru": "СКАЧАТЬ",
       "sv": "SYNK",
-      "fr": ""
+      "fr": "SYNCHRONISATION",
     },
     {
       "ident_ios": "",
@@ -3454,7 +3454,7 @@
       "fi": "Synkronointi valmis",
       "ru": "Синхронизация завершена",
       "sv": "Synkronisering klar",
-      "fr": ""
+      "fr": "Synchronisation terminée"
     },
     {
       "ident_ios": "TagCharts.SyncConfirmationDialog.message",
@@ -3463,7 +3463,7 @@
       "fi": "Ladataanko historiatiedot anturista?",
       "ru": "Вы уверены что хотите синхронизировать данные с устройством?",
       "sv": "Ladda ner historik-data från sensorn?",
-      "fr": ""
+      "fr": "Souhaitez vous importer les données du capteur?"
     },
     {
       "ident_ios": "WebTagSettings.Label.TagName.text",
@@ -3472,7 +3472,7 @@
       "fi": "Anturin nimi",
       "ru": "Имя",
       "sv": "Sensornamn",
-      "fr": ""
+      "fr": "Nom du capteur"
     },
     {
       "ident_ios": "",
@@ -3481,7 +3481,7 @@
       "fi": "Anturia ei löydetty. Onko laite lähettyvillä?",
       "ru": "Датчик не найден",
       "sv": "Sensorn hittades inte, är den innom räckvidd?",
-      "fr": ""
+      "fr": "Capteur introuvable. Le capteur est-il à proximité?"
     },
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.title",
@@ -3490,7 +3490,7 @@
       "fi": "Poista",
       "ru": "Удалить сенсор",
       "sv": "Ta bort sensor",
-      "fr": ""
+      "fr": "Supprimer le capteur"
     },
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.message",
