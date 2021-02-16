@@ -2518,7 +2518,7 @@
       "fi": "AVOIN LÄHDEKOODI",
       "ru": "ОТКРЫТЫЙ ИСХОДНЫЙ КОД",
       "sv": "ÖPPEN KÄLLKOD",
-      "fr": ""
+      "fr": "OPEN-SOURCE"
     },
     {
       "ident_ios": "About.OperationsManual.contents",
@@ -2527,7 +2527,7 @@
       "fi": "Olemme suunnitelleet ohjelman ja laitteemme mahdollisimman helppokäyttöisiksi, mutta myös ohjeet ovat saatavilla osoitteessa ruuvi.com/manuals",
       "ru": "Мы разработали приложение так, чтобы оно было интуитивно понятным. В то же время, руководства доступны здесь: ruuvi.com/manuals",
       "sv": "Vi har designat appen så att den ska vara självförklarande men det finns också heltäckande manualer för både Ruuvi sensorer och Ruuvi Station: ruuvi.com/manuals",
-      "fr": ""
+      "fr": "Nous avons conçu notre produit et son application pour qu'ils soient le plus simple possible à utiliser. Une notice est cependant disponible : ruuvi.com/manuals"
     },
     {
       "ident_ios": "About.OperationsManual.header",
@@ -2536,7 +2536,7 @@
       "fi": "KÄYTTÖOHJE",
       "ru": "РУКОВОДСТВО",
       "sv": "BRUKSANVISNING",
-      "fr": ""
+      "fr": "NOTICE D'UTILISATION"
     },
     {
       "ident_ios": "About.Privacy.contents",
@@ -2545,7 +2545,7 @@
       "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen\\nruuvi.com/terms",
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\\nruuvi.com/terms",
       "sv": "Användning av applikationen kräver godkännande av användarvillkoren\\nruuvi.com/terms",
-      "fr": ""
+      "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi conditions\\nruuvi.com/terms"
     },
     {
       "ident_ios": "About.Privacy.header",
@@ -2554,7 +2554,7 @@
       "fi": "TIETOSUOJAKÄYTÄNTÖ",
       "ru": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
       "sv": "INTEGRITETSPOLICY",
-      "fr": ""
+      "fr": "PROTECTION DES DONNÉES PERSONNELLES"
     },
     {
       "ident_ios": "",
@@ -2563,7 +2563,7 @@
       "fi": "Havaitut anturit: %1$,d",
       "ru": "Датчиков обнаружено: %1$,d",
       "sv": "Upptäckta sensorer: %1$,d",
-      "fr": ""
+      "fr": "Capteurs détectés : %1$,d"
     },
     {
       "ident_ios": "About.Troubleshooting.contents",
@@ -2572,7 +2572,7 @@
       "fi": "Jos törmäät ongelmiin ja ohjeet eivät auttaneet, tarkista vianetsintäkysymykset:  ruuvi.com/troubles",
       "ru": "Если вы испытываете какие либо проблемы или наши руководства не помогли вам, посмотрите наши многочисленные темы с решением проблем здесь: ruuvi.com/troubles",
       "sv": "Om du stöter på problem och våra manualer inte hjälper så kan det hjälpa att ta en titt på våra många felsökningsämnen: ruuvi.com/troubles",
-      "fr": ""
+      "fr": "Si vous rencontrez des problèmes et que vous ne trouvez pas la réponse dans la notice, veuillez consulter la page de dépannage technique : ruuvi.com/troubles"
     },
     {
       "ident_ios": "About.Troubleshooting.header",
@@ -2581,7 +2581,7 @@
       "fi": "VIANETSINTÄ",
       "ru": "РЕШЕНИЕ ПРОБЛЕМ",
       "sv": "FELSÖKNING",
-      "fr": ""
+      "fr": "DÉPANNAGE TECHNIQUE"
     },
     {
       "ident_ios": "",
@@ -2590,7 +2590,7 @@
       "fi": "Tuntia",
       "ru": "Часов",
       "sv": "Timmar",
-      "fr": ""
+      "fr": "Heures"
     },
     {
       "ident_ios": "TagSettings.AirHumidityAlert.title",
@@ -2599,7 +2599,7 @@
       "fi": "Ilmankosteus ({%@^%1$s})",
       "ru": "Влажность воздуха ({%@^%1$s})",
       "sv": "Luftfuktighet ({%@^%1$s})",
-      "fr": ""
+      "fr": "Humidité de l'air"
     },
     {
       "ident_ios": "HumidityUnit.gm3.title",
@@ -2608,7 +2608,7 @@
       "fi": "Absoluuttinen (gr/m³)",
       "ru": "Абсолютная влажность (гр/м³)",
       "sv": "Absolut (gr/m³)",
-      "fr": ""
+      "fr": "Absolue"
     },
     {
       "ident_ios": "g/m³",
@@ -2617,7 +2617,7 @@
       "fi": "g/m³",
       "ru": "г/м³",
       "sv": "g/m³",
-      "fr": ""
+      "fr": "g/m³"
     },
     {
       "ident_ios": "",
@@ -2626,7 +2626,7 @@
       "fi": "Kastepiste (°)",
       "ru": "Точка росы (°)",
       "sv": "Daggpunkt (°)",
-      "fr": ""
+      "fr": "Point de rosée (°)"
     },
     {
       "ident_ios": "",
@@ -2635,7 +2635,7 @@
       "fi": "°",
       "ru": "°",
       "sv": "°",
-      "fr": ""
+      "fr": "°"
     },
     {
       "ident_ios": "",
@@ -2644,7 +2644,7 @@
       "fi": "%1$,.2f %2$s",
       "ru": "%1$,.2f %2$s",
       "sv": "%1$,.2f %2$s",
-      "fr": ""
+      "fr": "%1$,.2f %2$s",
     },
     {
       "ident_ios": "HumidityUnit.Percent.title",
@@ -2653,7 +2653,7 @@
       "fi": "Suhteellinen (%)",
       "ru": "Относительная влажность (%)",
       "sv": "Relativ (%)",
-      "fr": ""
+      "fr": "Relative (%)"
     },
     {
       "ident_ios": "%",
@@ -2662,7 +2662,7 @@
       "fi": "%",
       "ru": "%",
       "sv": "%",
-      "fr": ""
+      "fr": "%",
     },
     {
       "ident_ios": "TagSettings.Mac.Alert.title",
@@ -2671,7 +2671,7 @@
       "fi": "MAC-osoite",
       "ru": "MAC адрес",
       "sv": "MAC Adress",
-      "fr": ""
+      "fr": "Adresse MAC",
     },
     {
       "ident_ios": "",
@@ -2680,7 +2680,7 @@
       "fi": "MAC-osoite kopioitu leikepöydälle",
       "ru": "MAC адрес скопирован в буфер обмена",
       "sv": "MAC-adressen kopierad till urklippet",
-      "fr": ""
+      "fr": "Adreesse MAC copiée dans le presse-papiers"
     },
     {
       "ident_ios": "Menu.Label.AboutHelp.text",
@@ -2689,7 +2689,7 @@
       "fi": "Tietoa / Apua",
       "ru": "О Приложении",
       "sv": "Om / Hjälp",
-      "fr": ""
+      "fr": "Infos/Aide"
     },
     {
       "ident_ios": "Menu.Label.AddAnNewSensor.text",
@@ -2698,7 +2698,7 @@
       "fi": "Lisää uusi anturi",
       "ru": "Добавить Сенсор",
       "sv": "Lägg till en ny Sensor",
-      "fr": ""
+      "fr": "Ajouter un capteur"
     },
     {
       "ident_ios": "Menu.Label.AppSettings.text",
@@ -2707,7 +2707,7 @@
       "fi": "Asetukset",
       "ru": "Настройки",
       "sv": "App Inställningar",
-      "fr": ""
+      "fr": "Réglages"
     },
     {
       "ident_ios": "Menu.Label.GetMoreSensors.text",
@@ -2716,7 +2716,7 @@
       "fi": "Osta lisää antureita",
       "ru": "Больше Сенсоров",
       "sv": "Köp fler Sensorer",
-      "fr": ""
+      "fr": "Acheter plus de capteurs"
     },
     {
       "ident_ios": "Menu.Label.Feedback.text",
@@ -2725,7 +2725,7 @@
       "fi": "Lähetä palautetta",
       "ru": "Отправить Отзыв",
       "sv": "Skicka Feedback",
-      "fr": ""
+      "fr": "Donnez-nous votre avis!"
     },
     {
       "ident_ios": "min",
@@ -2734,7 +2734,7 @@
       "fi": "min",
       "ru": "мин",
       "sv": "min",
-      "fr": ""
+      "fr": "min"
     },
     {
       "ident_ios": "",
@@ -2743,7 +2743,7 @@
       "fi": "Minuuttia",
       "ru": "Минут",
       "sv": "Minuter",
-      "fr": ""
+      "fr": "Minutes"
     },
     {
       "ident_ios": "TagSettings.Label.moreInfo.text",
@@ -2752,7 +2752,7 @@
       "fi": "LISÄTIETOA",
       "ru": "ДОПОЛНИТЕЛЬНО",
       "sv": "MER INFO",
-      "fr": ""
+      "fr": "PLUS D'INFOS"
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Name.title",
@@ -2761,7 +2761,7 @@
       "fi": "NIMI",
       "ru": "ИМЯ",
       "sv": "NAMN",
-      "fr": ""
+      "fr": "NOM"
     },
     {
       "ident_ios": "",
@@ -2770,7 +2770,7 @@
       "fi": "Sulje siirtymisvalikko",
       "ru": "Закрыть навигационную панель",
       "sv": "Stäng navigationslådan",
-      "fr": ""
+      "fr": "Fermer le menu"
     },
     {
       "ident_ios": "",
@@ -2779,7 +2779,7 @@
       "fi": "Avaa siirtymisvalikko",
       "ru": "Открыть навигационную панель",
       "sv": "Öppna navigationslådan",
-      "fr": ""
+      "fr": "Ouvrir le menu"
     },
     {
       "ident_ios": "",
@@ -2788,7 +2788,7 @@
       "fi": "Ei",
       "ru": "Нет",
       "sv": "Nej",
-      "fr": ""
+      "fr": "Non",
     },
     {
       "ident_ios": "",
@@ -2797,7 +2797,7 @@
       "fi": "Uusia mittaustietoja ei saatavilla",
       "ru": "Нет новых измерений",
       "sv": "Inga nya mätningar tillgängliga",
-      "fr": ""
+      "fr": "Pas de nouvelles données disponibles"
     },
     {
       "ident_ios": "OK",
@@ -2806,7 +2806,7 @@
       "fi": "OK",
       "ru": "OK",
       "sv": "OK",
-      "fr": ""
+      "fr": "OK",
     },
     {
       "ident_ios": "",
@@ -2815,7 +2815,7 @@
       "fi": "Ota käyttöön taustaskannaus",
       "ru": "Включить сканирование в фоне",
       "sv": "Aktivera bakgrundsskanning",
-      "fr": ""
+      "fr": "Activer le balayage en arrière plan"
     },
     {
       "ident_ios": "",
@@ -2824,7 +2824,7 @@
       "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
       "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\nTillåt om du vill använda bakgrundsskanning\\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
-      "fr": ""
+      "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nAutorisez l'utilisation de votre position pour utiliser le balayage en arrière plan. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle."
     },
     {
       "ident_ios": "",
@@ -2833,7 +2833,7 @@
       "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
       "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
-      "fr": ""
+      "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \n\\nRuuvi ne partage jamais votre position, elle reste confidentielle."
     },
     {
       "ident_ios": "",
@@ -2842,7 +2842,7 @@
       "fi": "Ota Bluetooth-skannaus käyttöön",
       "ru": "Включить сканирование Bluetooth",
       "sv": "Aktivera bluetooth skanning",
-      "fr": ""
+      "fr": "Activer le balayage Bluetooth"
     },
     {
       "ident_ios": "",
@@ -2851,7 +2851,7 @@
       "fi": "Salli sijaintitietojen käyttö ensin asetuksista.",
       "ru": "Разрешите доступ к местоположению чтобы увидеть датчики",
       "sv": "Tillåt åtkomst av platsinfomration för att se sensorer.",
-      "fr": ""
+      "fr": "Autoriser la géolocalisation"
     },
     {
       "ident_ios": "",
@@ -2860,7 +2860,7 @@
       "fi": "Ei antureita. Lisää antureita napauttamalla tästä",
       "ru": "Нет добавленных датчиков,\\nнажмите чтобы добавить",
       "sv": "Inga sensorer har lags till,\\ntryck här för att lägga till sensorer",
-      "fr": ""
+      "fr": "Pas de capteurs. Ajoutez-en en cliquant ici"
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
@@ -2869,7 +2869,7 @@
       "fi": "Ilmanpaine ({%@^%1$s})",
       "ru": "Атмосферное Давление ({%@^%1$s})",
       "sv": "Lufttryck ({%@^%1$s})",
-      "fr": ""
+      "fr": "Pression de l'air ({%@^%1$s})"
     },
     {
       "ident_ios": "UnitPressure.hectopascal.title",
@@ -2878,7 +2878,7 @@
       "fi": "Hehtopascal (hPa)",
       "ru": "Гектопаскаль (гПа)",
       "sv": "Hektopascal (hPa)",
-      "fr": ""
+      "fr": "Hectopascal (hPa)",
     },
     {
       "ident_ios": "hPa",
@@ -2887,7 +2887,7 @@
       "fi": "hPa",
       "ru": "гПа",
       "sv": "hPa",
-      "fr": ""
+      "fr": "hPa",
     },
     {
       "ident_ios": "UnitPressure.inchOfMercury.title",
@@ -2896,7 +2896,7 @@
       "fi": "Elohopeatuuma (inHg)",
       "ru": "Дюймов ртутного столба (inHg)",
       "sv": "Tum kvicksilver (inHg)",
-      "fr": ""
+      "fr": "Pouce de mercure (inHg)"
     },
     {
       "ident_ios": "",
@@ -2905,7 +2905,7 @@
       "fi": "inHg",
       "ru": "д. рт. ст.",
       "sv": "inHg",
-      "fr": ""
+      "fr": "inHg"
     },
     {
       "ident_ios": "UnitPressure.millimetreOfMercury.title",
@@ -2914,7 +2914,7 @@
       "fi": "Elohopeamillimetri (mmHg)",
       "ru": "Миллиметров ртутного столба (мм.рт.ст.)",
       "sv": "Millimeter kvicksilver (mmHg)",
-      "fr": ""
+      "fr": "Millimètre de mercure (mmHg)"
     },
     {
       "ident_ios": "",
@@ -2923,7 +2923,7 @@
       "fi": "mmHg",
       "ru": "мм рт. ст.",
       "sv": "mmHg",
-      "fr": ""
+      "fr": "mmHg"
     },
     {
       "ident_ios": "",
@@ -2932,7 +2932,7 @@
       "fi": "Pascal (Pa)",
       "ru": "Паскаль (Па)",
       "sv": "Pascal (Pa)",
-      "fr": ""
+      "fr": "Pascal (Pa)",
     },
     {
       "ident_ios": "",
@@ -2941,7 +2941,7 @@
       "fi": "Pa",
       "ru": "Па",
       "sv": "Pa",
-      "fr": ""
+      "fr": "Pa",
     },
     {
       "ident_ios": "",
@@ -2950,7 +2950,7 @@
       "fi": "%1$,.2f %2$s",
       "ru": "%1$,.2f %2$s",
       "sv": "%1$,.2f %2$s",
-      "fr": ""
+      "fr": "%1$,.2f %2$s",
     },
     {
       "ident_ios": "",
@@ -2959,7 +2959,7 @@
       "fi": "%1$,.0f %2$s",
       "ru": "%1$,.0f %2$s",
       "sv": "%1$,.0f %2$s",
-      "fr": ""
+      "fr": "%1$,.0f %2$s",
     },
     {
       "ident_ios": "",
@@ -2968,7 +2968,7 @@
       "fi": "Historiatietoja luetaan",
       "ru": "Чтение истории",
       "sv": "Läser historik",
-      "fr": ""
+      "fr": "Analyse de l'historique"
     },
     {
       "ident_ios": "",
@@ -2977,7 +2977,7 @@
       "fi": "Laiteohjelmistoa ei tueta",
       "ru": "Прошивка не поддерживается",
       "sv": "Firmware versionen stöds inte",
-      "fr": ""
+      "fr": "Firmware non supporté"
     },
     {
       "ident_ios": "",
@@ -2986,7 +2986,7 @@
       "fi": "Signaalin voimakkuus (RSSI)",
       "ru": "Сила сигнала (RSSI)",
       "sv": "Signalstyrka (RSSI)",
-      "fr": ""
+      "fr": "Puissance du signal (RSSI)"
     },
     {
       "ident_ios": "s",
@@ -2995,7 +2995,7 @@
       "fi": "s",
       "ru": "с",
       "sv": "s",
-      "fr": ""
+      "fr": "s"
     },
     {
       "ident_ios": "Welcome.scan.title",
@@ -3004,7 +3004,7 @@
       "fi": "SKANNAA",
       "ru": "СКАНИРОВАТЬ",
       "sv": "SKANNA",
-      "fr": ""
+      "fr": "BALAYAGE EN COURS"
     },
     {
       "ident_ios": "Background.Interval.Sec.string",
