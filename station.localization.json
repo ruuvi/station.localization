@@ -3499,7 +3499,7 @@
       "fi": "Haluatko varmasti poistaa tämän anturin?",
       "ru": "Вы уверены что хотите удалить этот сенсор?",
       "sv": "Är du säker på att du vill ta bort den här sensorn?",
-      "fr": ""
+      "fr": "Êtes-vous certain de vouloir supprimer ce capteur?"
     },
     {
       "ident_ios": "TagSettings.temperatureAlertTitleLabel.text",
@@ -3508,7 +3508,7 @@
       "fi": "Lämpötila ({%@^%1$s})",
       "ru": "Температура ({%@^%1$s})",
       "sv": "Temperatur ({%@^%1$s})",
-      "fr": ""
+      "fr": "Température ({%@^%1$s})"
     },
     {
       "ident_ios": "TemperatureUnit.Celsius.title",
@@ -3517,7 +3517,7 @@
       "fi": "Celsius (℃)",
       "ru": "Цельсий (℃)",
       "sv": "Celsius (℃)",
-      "fr": ""
+      "fr": "Celsius (℃)",
     },
     {
       "ident_ios": "",
@@ -3526,7 +3526,7 @@
       "fi": "°C",
       "ru": "°C",
       "sv": "°C",
-      "fr": ""
+      "fr": "°C"
     },
     {
       "ident_ios": "TemperatureUnit.Fahrenheit.title",
@@ -3535,7 +3535,7 @@
       "fi": "Fahrenheit (℉)",
       "ru": "Фаренгейт (℉)",
       "sv": "Fahrenheit (℉)",
-      "fr": ""
+      "fr": "Fahrenheit (℉)"
     },
     {
       "ident_ios": "",
@@ -3544,7 +3544,7 @@
       "fi": "°F",
       "ru": "°F",
       "sv": "°F",
-      "fr": ""
+      "fr": "°F"
     },
     {
       "ident_ios": "TemperatureUnit.Kelvin.title",
@@ -3553,7 +3553,7 @@
       "fi": "Kelvin (K)",
       "ru": "Кельвин (K)",
       "sv": "Kelvin (K)",
-      "fr": ""
+      "fr": "Kelvin (K)"
     },
     {
       "ident_ios": "",
@@ -3562,7 +3562,7 @@
       "fi": "K",
       "ru": "K",
       "sv": "K",
-      "fr": ""
+      "fr": "K"
     },
     {
       "ident_ios": "",
@@ -3571,7 +3571,7 @@
       "fi": "%1$,.2f%2$s",
       "ru": "%1$,.2f%2$s",
       "sv": "%1$,.2f%2$s",
-      "fr": ""
+      "fr": "%1$,.2f%2$s"
     },
     {
       "ident_ios": "",
@@ -3580,7 +3580,7 @@
       "fi": "Päivitetty {%@^%1$s}",
       "ru": "Обновлено {%@^%1$s}",
       "sv": "Uppdaterad {%@^%1$s}",
-      "fr": ""
+      "fr": "Mis à jour {%@^%1$s}",
     },
     {
       "ident_ios": "Updated",
@@ -3589,7 +3589,7 @@
       "fi": "Päivitetty",
       "ru": "Обновлено",
       "sv": "Uppdaterad",
-      "fr": ""
+      "fr": "Mis à jour"
     },
     {
       "ident_ios": "",
@@ -3598,7 +3598,7 @@
       "fi": "Versio: %1$s",
       "ru": "Версия: %1$s",
       "sv": "Version: %1$s",
-      "fr": ""
+      "fr": "Version: %1$s",
     },
     {
       "ident_ios": "",
@@ -3607,7 +3607,7 @@
       "fi": "%1$s %2$s",
       "ru": "%1$s %2$s",
       "sv": "%1$s %2$s",
-      "fr": ""
+      "fr": "%1$s %2$s"
     },
     {
       "ident_ios": "V",
@@ -3616,7 +3616,7 @@
       "fi": "V",
       "ru": "В",
       "sv": "V",
-      "fr": ""
+      "fr": "V",
     },
     {
       "ident_ios": "",
@@ -3625,7 +3625,7 @@
       "fi": "Tutustu Ruuvi Station -sovellukseen",
       "ru": "Проведите пальцем чтобы узнать, чем Ruuvi Station может помочь вам",
       "sv": "Det här kan Ruuvi Station göra för dig",
-      "fr": ""
+      "fr": "Découvrez l'application Ruuvi Station"
     },
     {
       "ident_ios": "",
@@ -3634,7 +3634,7 @@
       "fi": "Mittaa ympäristösi olosuhteita: lämpötilaa, ilmankosteutta ja ilmanpainetta",
       "ru": "Измеряйте параметры окружающей среды: температуру, влажность и атмосферное давление",
       "sv": "Mät förhållandena i din miljö: temperatur, luftfuktighet och lufttryck",
-      "fr": ""
+      "fr": "Mesurer votre environnement : température, humidité, et pression de l'air",
     },
     {
       "ident_ios": "",
@@ -3643,7 +3643,7 @@
       "fi": "Tarkastele anturitietoja reaaliaikaisesti tai tutki laitteelle tallennettuja historiatietoja",
       "ru": "В реальном времени считывайте показатели с датчиков и просматривайте историю на графиках",
       "sv": "Visa sensordata i realtid eller granska historisk data som är lagrad på enheten",
-      "fr": ""
+      "fr": "Vérifier les données en temps réels ou consultez les histogrammes"
     },
     {
       "ident_ios": "",
@@ -3652,7 +3652,7 @@
       "fi": "Aseta hälytyksiä ja ilmoituksia haluamallasi tavalla",
       "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление",
       "sv": "Ställ in alarm och få notiser om dem",
-      "fr": ""
+      "fr": "Définir des alarmes et des notifications comme vous le souhaitez",
     },
     {
       "ident_ios": "",
@@ -3661,7 +3661,7 @@
       "fi": "Lähetä sovelluksen keräämät tiedot ulkoiselle palvelimelle",
       "ru": "Используйте приложение как гейтвей",
       "sv": "Skicka den information som samlas in av applikationen till en extern server",
-      "fr": ""
+      "fr": "Exporter les données mesurées vers un autre support",
     },
     {
       "ident_ios": "",
@@ -3670,7 +3670,7 @@
       "fi": "Näytä lähietäisyydellä olevat anturit napauttamalla SKANNAA",
       "ru": "Нажмите СКАНИРОВАТЬ, чтобы найти и добавить датчики в Ruuvi Station",
       "sv": "Tryck på SCAN för att se sensorerna i närheten",
-      "fr": ""
+      "fr": "Afficher les capteurs à proximité en appuyant sur BALAYAGE"
     },
     {
       "ident_ios": "",
@@ -3679,7 +3679,7 @@
       "fi": "Kyllä",
       "ru": "Да",
       "sv": "Ja",
-      "fr": ""
+      "fr": "Oui"
     },
     {
       "ident_ios": "",
@@ -3688,7 +3688,7 @@
       "fi": "Ruuvi Station",
       "ru": "",
       "sv": "",
-      "fr": ""
+      "fr": "Ruuvi Station"
     },
     {
       "ident_ios": "",
@@ -3697,7 +3697,7 @@
       "fi": ".csv tiedosto luotu, avataan tiedostonjako-ikkuna",
       "ru": ".csv создан, открываем меню отправки файла",
       "sv": ".csv skapad, öppnar dela menyn",
-      "fr": ""
+      "fr": "fichier .csv créé, ouverture du menu d'export"
     },
     {
       "ident_ios": "",
@@ -3706,7 +3706,7 @@
       "fi": "CSV-tiedoston luonti epäonnistui",
       "ru": "Не удалось сформировать CSV файл",
       "sv": "Kunde inte skapa CSV filen",
-      "fr": ""
+      "fr": "Echec de la création du fichier CSV"
     },
     {
       "ident_ios": "",
@@ -3715,7 +3715,7 @@
       "fi": "Anturin %1$s CSV-lokitiedosto",
       "ru": "Датчик %1$s экспорт CSV",
       "sv": "Sensor %1$s csv export",
-      "fr": ""
+      "fr": "Capteur %1$s "
     },
     {
       "ident_ios": "",
@@ -3724,7 +3724,7 @@
       "fi": "Asetukset",
       "ru": "Настройки датчика",
       "sv": "Sensorinställningar",
-      "fr": ""
+      "fr": "Paramètres"
     },
     {
       "ident_ios": "",
@@ -3733,7 +3733,7 @@
       "fi": "Tapahtui virhe. Onko osoite varmasti oikein?",
       "ru": "Произошла ошибка. Адрес правильный?",
       "sv": "Fel uppstod. Är adressen korrekt?",
-      "fr": ""
+      "fr": "Erreur. L'adresse est-elle correcte?"
     },
     {
       "ident_ios": "",
@@ -3742,7 +3742,7 @@
       "fi": "Palvelin vastasi! Palautekoodi: %1$d",
       "ru": "Гейтвей работает! Код ответа: %1$d",
       "sv": "Proxyn fungerar! HTTP svarskod: %1$d",
-      "fr": ""
+      "fr": "Le routeur fonctionne ! Réponse : %1$d"
     },
     {
       "ident_ios": "",
@@ -3751,7 +3751,7 @@
       "fi": "Tapahtui virhe. Palautekoodi: %1$d",
       "ru": "Произошла ошибка. Код ответа: %1$d",
       "sv": "Fel uppstod. HTTP svarskod: %1$d",
-      "fr": ""
+      "fr": "Erreur. Réponse : %1$d",
     },
     {
       "ident_ios": "",
@@ -3760,7 +3760,7 @@
       "fi": "Testataan...",
       "ru": "Проверка...",
       "sv": "Testar...",
-      "fr": ""
+      "fr": "Test en cours..."
     },
     {
       "ident_ios": "",
@@ -3769,7 +3769,7 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning",
-      "fr": ""
+      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension",
     },
     {
       "ident_ios": "",
@@ -3778,7 +3778,7 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittajärjestysnumero",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning, Rörelseräknare,Mätningssekvensnummer",
-      "fr": ""
+      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension, Compteur de mouvements, "
     },
     {
       "ident_ios": "",
@@ -3787,7 +3787,7 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka",
-      "fr": ""
+      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission"
     },
     {
       "ident_ios": "",
@@ -3796,7 +3796,7 @@
       "fi": "Mykistä tunniksi",
       "ru": "Отключить на час",
       "sv": "Pausa alarmet i en timme",
-      "fr": ""
+      "fr": "Désactiver les notifications pendant une heure",
     },
     {
       "ident_ios": "",
@@ -3805,7 +3805,7 @@
       "fi": "%1$,.3f g",
       "ru": "%1$,.3f g",
       "sv": "%1$,.3f g",
-      "fr": ""
+      "fr": "%1$,.3f g",
     },
     {
       "ident_ios": "",
@@ -3814,7 +3814,7 @@
       "fi": "%1$,.0f dBm",
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
-      "fr": ""
+      "fr": "%1$,.0f dBm",
     }
   ]
 }
