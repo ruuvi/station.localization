@@ -3844,15 +3844,6 @@
       "fr": ""
     },
     {
-      "ident_ios": "SignIn.RequestSignLink",
-      "ident_android": "sign_in_request_register",
-      "en": "Register or request new sign in link",
-      "fi": "",
-      "ru": "Зарегистрируйтесь или получите ссылку для входа",
-      "sv": "",
-      "fr": ""
-    },
-    {
       "ident_ios": "SignIn.EmailPlaceholder",
       "ident_android": "email",
       "en": "Email",
@@ -3863,46 +3854,37 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "sign_in_submit_button",
-      "en": "Submit",
+      "ident_android": "sign_in_login_button",
+      "en": "Login",
       "fi": "",
-      "ru": "Отправить",
+      "ru": "Войти",
       "sv": "",
       "fr": ""
     },
     {
       "ident_ios": "",
-      "ident_android": "sign_in_manual_code",
-      "en": "Enter code manually",
+      "ident_android": "sign_in_request_code",
+      "en": "Request a Code",
       "fi": "",
-      "ru": "Ввести код вручную",
-      "sv": "",
-      "fr": ""
-    },
-    {
-      "ident_ios": "SignIn.EmailSent",
-      "ident_android": "sign_in_email_sent",
-      "en": "Email sent",
-      "fi": "",
-      "ru": "Email отправлен",
+      "ru": "Запросить код",
       "sv": "",
       "fr": ""
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
       "ident_android": "sign_in_check_email",
-      "en": "Please check your email inbox for further instructions",
+      "en": "Check your email for an activation code.",
       "fi": "",
-      "ru": "Пожалуйста проверьте email для дальнейших инструкций",
+      "ru": "Пожалуйста проверьте email для получения кода активации",
       "sv": "",
       "fr": ""
     },
     {
       "ident_ios": "",
       "ident_android": "sign_in_code_hint",
-      "en": "Sign in code",
+      "en": "Code",
       "fi": "",
-      "ru": "Код для входа",
+      "ru": "Код",
       "sv": "",
       "fr": ""
     },
@@ -4083,6 +4065,42 @@
       "en": "Ruuvi Network status",
       "fi": "",
       "ru": "Статус сети Ruuvi",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "login_to_ruuvi_network",
+      "en": "Login to\\nRuuvi\\nNetwork",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "login_description",
+      "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "skip",
+      "en": "SKIP",
+      "fi": "",
+      "ru": "ПРОПУСТИТЬ",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "beta",
+      "en": "beta",
+      "fi": "",
+      "ru": "бета",
       "sv": "",
       "fr": ""
     }
