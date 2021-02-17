@@ -2226,6 +2226,7 @@
     {
       "ident_ios": "HumidityCalibration.VideoTutorials.link",
       "ident_android": "calibration_humidity_link",
+      "_COMMENT_": "Translated text here should be exact part of HumidityCalibration.Description.text (calibration_humidity for Android). It will be highlighted as hyperlink in app",
       "en": "video tutorials",
       "fi": "Video-ohje.",
       "ru": "обучающие видео",
@@ -3315,6 +3316,7 @@
     {
       "ident_ios": "",
       "ident_android": "settings_gateway_details_link",
+      "_COMMENT_": "Translated text here should be exact part of settings_gateway_details. It will be highlighted as hyperlink in app",
       "en": "check the documentation.",
       "fi": "ohjesivulta",
       "ru": "документацию",
