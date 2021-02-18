@@ -925,7 +925,7 @@
       "fi": "Kastepiste liian alhainen!",
       "ru": "Ниже Точки Росы!",
       "sv": "För låg Daggpunkt!",
-      "fr": "Point de rosée trop bas!"
+      "fr": "Point de rosée trop bas !"
     },
     {
       "ident_ios": "LocalNotificationsManager.HighDewPoint.title",
@@ -934,7 +934,7 @@
       "fi": "Kastepiste liian korkea!",
       "ru": "Выше Точки Росы!",
       "sv": "För hög Daggpunkt!",
-      "fr": "Point de rosée trop haut!"
+      "fr": "Point de rosée trop haut !"
     },
     {
       "ident_ios": "PermissionPresenter.NoPhotoLibraryAccess.message",
@@ -1159,7 +1159,7 @@
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
       "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver Bluetooth för att lyssna efter sensorer. Gå till Inställningar och aktivera Bluetooth.",
-      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Veuillez l'activer dans les paramètres de votre appareil. "
+      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Veuillez l'activer dans les paramètres de votre appareil."
     },
     {
       "ident_ios": "TagCharts.Clear.title",
@@ -1987,7 +1987,7 @@
       "fi": "sitten",
       "ru": "назад",
       "sv": "sedan",
-      "fr": ""
+      "fr": " "
     },
     {
       "ident_ios": "",
@@ -3212,7 +3212,7 @@
       "fi": "Historiatietojen asetukset",
       "ru": "Настройки графиков",
       "sv": "Historik",
-      "fr": "Paramètress de l'histogramme"
+      "fr": "Paramètres de l'histogramme"
     },
     {
       "ident_ios": "",
