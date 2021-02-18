@@ -3838,10 +3838,19 @@
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
-      "ident_android": "sign_in_benefits",
-      "en": "Sign in benefits, the information is saved in the cloud:\\n- sensors list\\n- sensor name",
+      "ident_android": "sign_in_benefits_description",
+      "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
-      "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_benefits_title",
+      "en": "Benefits of Ruuvi Network",
+      "fi": "",
+      "ru": "",
       "sv": "",
       "fr": ""
     },
