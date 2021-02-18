@@ -151,7 +151,7 @@
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
       "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
-      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Rendez-vous dans les paramètres de votre téléphone pour l'activer.",
+      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre téléphone.",
     },
     {
       "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.title",
@@ -178,7 +178,7 @@
       "fi": "Laitteessasi on yhteyden säilyttämiseen pystyvä laiteohjelmisto. Haluatko pitää yhteyden avoinna tähän Ruuvi-laitteeseen ohjelman ollessa taustalla? Tämä mahdollistaa historian ja hälytysten toiminnan ohjelman ollessa pienennettynä.",
       "ru": "На вашем устройстве установлена прошивка, поддерживающая соединение. Хотите поддерживать соединение активным для этого устройства в фоновом режиме? Это позволит использовать графики и уведомления даже когда приложение закрыто.",
       "sv": "Det ser ut som din Ruuvi enhet har anslutningsbar firmware. Vill du att anslutningen till enheten skall hållas öppen i bakgrunden? Detta gör att histogram och alarm fungerar även om applikationen är minimerad.",
-      "fr": "Votre appareil est équipé d'un programme pour conserver la connection. Souhaitez-vous maintenir la connection en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée.",
+      "fr": "Votre appareil est programmé pour conserver la connection. Souhaitez-vous maintenir la connection en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée.",
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
@@ -232,7 +232,7 @@
       "fi": "Taustakuvahakemistoa ei löydy",
       "ru": "Не удалось получить директорию для фоновых изображений",
       "sv": "Det gick inte att hämta bakgrundskatalog",
-      "fr": "Répertoire d'arrière plan introuvable",
+      "fr": "Répertoire d'arrière-plan introuvable",
     },
     {
       "ident_ios": "CoreError.failedToGetCurrentLocation",
@@ -268,7 +268,7 @@
       "fi": "Sijainnin käyttöoikeuden tilaa ei ole päätetty",
       "ru": "Права на использование локационных сервисов не определены",
       "sv": "Status för platstillstånd kunde inte fastställas",
-      "fr": "L'accès aux données de géolocalisation n'est pas determiné",
+      "fr": "L'accès aux données de géolocalisation n'est pas déterminé",
     },
     {
       "ident_ios": "CoreError.objectNotFound",
@@ -277,7 +277,7 @@
       "fi": "Kohdetta ei löydy",
       "ru": "Объект не найден",
       "sv": "Inget objekt hittades",
-      "fr": "Destinataire introuvable",
+      "fr": "Objet introuvable",
     },
     {
       "ident_ios": "CoreError.objectInvalidated",
@@ -286,7 +286,7 @@
       "fi": "Kohde mitätöity",
       "ru": "Объект инвалидирован",
       "sv": "Objekt ogiltigt",
-      "fr": "Destinataire invalide",
+      "fr": "Objet invalide",
     },
     {
       "ident_ios": "CoreError.unableToSendEmail",
@@ -475,7 +475,7 @@
       "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
       "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
-      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Rendez-vous dans les paramètres de votre téléphone pour l'activer.",
+      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre appareil.",
     },
     {
       "ident_ios": "DiscoverTable.NavigationItem.title",
@@ -556,7 +556,7 @@
       "fi": "OpenWeatherMap API-avain puuttuu. Hanki avain openweathermap.org -sivustolta ja lisää saamasi avain station/Classes/Networking/Assembly/Networking.plist -tiedostoon",
       "ru": "Не указан API-ключ для OpenWeatherMap. Пожалуйста, получите его на сайте openweathermap.org и поместите в файл station/Classes/Networking/Assembly/Networking.plist",
       "sv": "OpenWeatherMap API Key saknas. Du kan få en från openweathermap.org website och sätt den sedan i filen station/Classes/Networking/Assembly/Networking.plist",
-      "fr": "Clé API OpenWeatherMap manquante. Obtenez une clé à l'adresse openweathermap.org et ajoutez-la dans le fichier station/Classes/Networking/Assembly/Networking.plist",
+      "fr": "Clé API OpenWeatherMap manquante. Obtenez une clé sur openweathermap.org et ajoutez-la dans le fichier station/Classes/Networking/Assembly/Networking.plist",
     },
     {
       "ident_ios": "ExpectedError.isAlreadySyncingLogsWithThisTag",
@@ -826,7 +826,7 @@
       "fi": "Oletko varma?",
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr?",
+      "fr": "Êtes-vous sûr ?",
     },
     {
       "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.message",
@@ -844,7 +844,7 @@
       "fi": "Oletko varma?",
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr?",
+      "fr": "Êtes-vous sûr ?",
     },
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.message",
@@ -943,7 +943,7 @@
       "fi": "Tämä ominaisuus vaatii oikeuden gallerian käyttöön.",
       "ru": "Ruuvi Station необходим доступ к вашей библиотеке фотографий для того, чтобы использовать эту функцию.",
       "sv": "Ruuvi Station behöver tillgång till dina bilder för att använda den här funktionen.",
-      "fr": "Veuillez autoriser l'accès aux fichiers multimédia de votre appareil.",
+      "fr": "Veuillez autoriser l'accès aux fichiers multimédias de votre appareil.",
     },
     {
       "ident_ios": "PermissionPresenter.NoCameraAccess.message",
@@ -1177,7 +1177,7 @@
       "fi": "Oletko varma?",
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr?",
+      "fr": "Êtes-vous sûr ?",
     },
     {
       "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.button.delete.title",
@@ -1195,7 +1195,7 @@
       "fi": "Oletko varma?",
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr?",
+      "fr": "Êtes-vous sûr ?",
     },
     {
       "ident_ios": "TagCharts.Status.Disconnecting",
@@ -1438,7 +1438,7 @@
       "fi": "EI ARVOJA?",
       "ru": "НЕТ ЗНАЧЕНИЙ?",
       "sv": "INGA VÄRDEN?",
-      "fr": "PAS DE VALEURS?",
+      "fr": "PAS DE VALEURS ?",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Calibration.title",
@@ -1555,7 +1555,7 @@
       "fi": "Muokkaa kuvausta...",
       "ru": "Введите описание...",
       "sv": "Redigera beskrivningen...",
-      "fr": "Modifier la déscription...",
+      "fr": "Modifier la description...",
     },
     {
       "ident_ios": "TagSettings.Alerts.Humidity.description",
@@ -1861,7 +1861,7 @@
       "fi": "Virtuaalisten antureiden hälytysominaisuus tarvitsee oikeuden sekä paikkatiedon että palveluilmoitusten näyttämiseen. Tarkasta sovellusasetukset.",
       "ru": "Чтобы включить уведомления для Виртуальных Сенсоров, пожалуйста дайте разрешение на использование геолокации в Настройках.",
       "sv": "Den virtuella sensorns alarmfunktion kräver rätt att visa både platsinformation och push-meddelanden. Kontrollera applikationsinställningarna.",
-      "fr": "Pour activer les notifications, veuillez autoriser la géolocalisation ainsi que l'affichage de notifications dans les réglages de votre appareil.",
+      "fr": "Pour activer les notifications, veuillez autoriser la géolocalisation ainsi que l'affichage des notifications dans les réglages de votre appareil.",
     },
     {
       "ident_ios": "WebTagSettings.AlertsAreDisabled.Dialog.Settings.title",
@@ -1987,7 +1987,7 @@
       "fi": "sitten",
       "ru": "назад",
       "sv": "sedan",
-      "fr": "écoulées",
+      "fr": "",
     },
     {
       "ident_ios": "",
@@ -2050,7 +2050,7 @@
       "fi": "Ilmanpaine liian korkea!",
       "ru": "Высокое Атмосферное Давление!",
       "sv": "För högt Lufttryck!",
-      "fr": "Pression de l'air trop haute !",
+      "fr": "La pression de l'air est trop haute !",
     },
     {
       "ident_ios": "LocalNotificationsManager.LowPressure.title",
@@ -2059,7 +2059,7 @@
       "fi": "Ilmanpaine liian alhainen!",
       "ru": "Низкое Атмосферное Давление!",
       "sv": "För lågt Lufttryck!",
-      "fr": "Pression de l'air trop basse !",
+      "fr": "La pression de l'air est trop basse !",
     },
     {
       "ident_ios": "",
@@ -2275,7 +2275,7 @@
       "fi": "Historiatietojen kerääminen toimii parhaiten taustaskannauksen ollessa käytössä.",
       "ru": "Графики работают лучше всего с включенным фоновым сканированием",
       "sv": "Historiken fungerar bäst när bakgrundsskanning är aktiverad.",
-      "fr": "L'histogramme fonctionne le mieux avec le balayage en arrière-plan activé.",
+      "fr": "L'histogramme fonctionne mieux avec le balayage en arrière-plan activé.",
     },
     {
       "ident_ios": "",
@@ -2338,7 +2338,7 @@
       "fi": "Koontinäyttö",
       "ru": "Панель датчиков",
       "sv": "Översikt vy",
-      "fr": "Tableau de bord",
+      "fr": "Affichage tableau de bord",
     },
     {
       "ident_ios": "",
@@ -2347,7 +2347,7 @@
       "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla. Koontinäyttö otetaan käyttöön sovelluksen uudelleenkäynnistyksen yhteydessä.",
       "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно. Перезапустите приложение после включения функции",
       "sv": "Använd översikt vy för att se flera sensorer på samma gång. Starta om appen för att ändringen ska träda i kraft.",
-      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord. Le tableau de bord est activé après redémarrage de l'application.",
+      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord. Le tableau de bord s'affiche après redémarrage de l'application.",
     },
     {
       "ident_ios": "",
@@ -2446,7 +2446,7 @@
       "fi": "Ruuvi Station on helppokäyttöinen sovellus Ruuvin tuotteiden hallinnointiin. Aloita lisäämällä antureita.",
       "ru": "Ruuvi Station - простой в использовании, но мощный инструмент для работы с вашими Ruuvi сенсорами.",
       "sv": "Ruuvi State är en lättanvänt och kraftfullt program för Ruuvi sensorer. Sätt igång genom att lägga till sensorer.",
-      "fr": "Ruuvi Station est une application facile d'usage pour contôler vos capteurs Ruuvi. Commencez en ajoutant des capteurs.",
+      "fr": "Ruuvi Station est une application intuitive pour contôler vos capteurs Ruuvi. Commencez en jumelant des capteurs.",
     },
     {
       "ident_ios": "About.AboutHelp.header",
@@ -2527,7 +2527,7 @@
       "fi": "Olemme suunnitelleet ohjelman ja laitteemme mahdollisimman helppokäyttöisiksi, mutta myös ohjeet ovat saatavilla osoitteessa ruuvi.com/manuals",
       "ru": "Мы разработали приложение так, чтобы оно было интуитивно понятным. В то же время, руководства доступны здесь: ruuvi.com/manuals",
       "sv": "Vi har designat appen så att den ska vara självförklarande men det finns också heltäckande manualer för både Ruuvi sensorer och Ruuvi Station: ruuvi.com/manuals",
-      "fr": "Nous avons conçu notre produit et son application pour qu'ils soient le plus simple possible à utiliser. Une notice est cependant disponible : ruuvi.com/manuals",
+      "fr": "Nous avons conçu nos produits et leur application pour qu'ils soient faciles à utiliser. Une notice est cependant disponible : ruuvi.com/manuals",
     },
     {
       "ident_ios": "About.OperationsManual.header",
@@ -2545,7 +2545,7 @@
       "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen\\nruuvi.com/terms",
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi\\nruuvi.com/terms",
       "sv": "Användning av applikationen kräver godkännande av användarvillkoren\\nruuvi.com/terms",
-      "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi conditions\\nruuvi.com/terms",
+      "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi \\nruuvi.com/terms",
     },
     {
       "ident_ios": "About.Privacy.header",
@@ -2572,7 +2572,7 @@
       "fi": "Jos törmäät ongelmiin ja ohjeet eivät auttaneet, tarkista vianetsintäkysymykset:  ruuvi.com/troubles",
       "ru": "Если вы испытываете какие либо проблемы или наши руководства не помогли вам, посмотрите наши многочисленные темы с решением проблем здесь: ruuvi.com/troubles",
       "sv": "Om du stöter på problem och våra manualer inte hjälper så kan det hjälpa att ta en titt på våra många felsökningsämnen: ruuvi.com/troubles",
-      "fr": "Si vous rencontrez des problèmes et que vous ne trouvez pas la réponse dans la notice, veuillez consulter la page de dépannage technique : ruuvi.com/troubles",
+      "fr": "Si vous rencontrez des problèmes et que vous ne trouvez pas la réponse dans la notice, veuillez consulter la page d'assistance technique : ruuvi.com/troubles",
     },
     {
       "ident_ios": "About.Troubleshooting.header",
@@ -2608,7 +2608,7 @@
       "fi": "Absoluuttinen (gr/m³)",
       "ru": "Абсолютная влажность (гр/м³)",
       "sv": "Absolut (gr/m³)",
-      "fr": "Absolue",
+      "fr": "Absolue (gr/m³",
     },
     {
       "ident_ios": "g/m³",
@@ -2851,7 +2851,7 @@
       "fi": "Salli sijaintitietojen käyttö ensin asetuksista.",
       "ru": "Разрешите доступ к местоположению чтобы увидеть датчики",
       "sv": "Tillåt åtkomst av platsinfomration för att se sensorer.",
-      "fr": "Autoriser la géolocalisation",
+      "fr": "Autoriser la géolocalisation.",
     },
     {
       "ident_ios": "",
@@ -3094,7 +3094,7 @@
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Akku -> Sovelluksen virransäästö -> Ruuvi Station ja valitse 'Ei käytössä'.",
       "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
       "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv.",
-      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan",
+      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
     },
     {
       "ident_ios": "",
@@ -3103,7 +3103,7 @@
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Laitteen ylläpito -> Akku. Poista käyttämättömien sovellusten lepotila käytöstä. Poista Ruuvi Station lepotilaa käyttävien sovellusten listalta. Poista sovelluksen tausta-ajoon mahdollisesti vaikuttavat muut rajoitukset.",
       "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Tryck på menyn i högra övre hörnet -> Särskild åtkomst -> Optimera batterianvändning. Välj Allt, sök efter Ruuvi Station och välj bort appen från optimerade appar.",
-      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan",
+      "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
     },
     {
       "ident_ios": "",
@@ -3139,7 +3139,7 @@
       "fi": "Jatkuva skannaus on käytössä.\\nHistorian tallennusväli: %1$s ",
       "ru": "Фоновое сканироваение включено.\\nИнтервал сканирования: %1$s",
       "sv": "Kontinuerlig bakgrundsskanning är aktiverad\\nDataloggningsintervall: %1$s",
-      "fr": "Balayage en continu activé.\\nDonnées intervalles: %1$s",
+      "fr": "Balayage en continu activé.\\nDonnées intervalles : %1$s",
     },
     {
       "ident_ios": "",
@@ -3175,7 +3175,7 @@
       "fi": "Mahdollistaa historiatietojen tallentamisen taustalla, jolloin laitteesi hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "При включении этой функции ваш телефон будет переодически получать сигналы от датчиков в фоновом режиме.",
       "sv": "Den här funktionen gör så att data hämtas regelbundet från närliggande sensorer i bakgrunden, även medan du inte har appen öppen.",
-      "fr": ""
+      "fr": "Cette fonction permet le balayage en arrière-plan. Votre téléphone va rechercher des capteurs même lorsque vous n'utilisez pas l'application."
     },
     {
       "ident_ios": "",
@@ -3184,7 +3184,7 @@
       "fi": "Sovellus hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
       "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение",
       "sv": "Programmet hämtar regelbundet data från sensorer i närheten medan appen körs i bakgrunden.",
-      "fr": "L'application va régulièrement chercher des capteurs en utilisant la fonction de balayage en continu même lorsque vous n'êtes pas sur l'application",
+      "fr": "L'application va régulièrement rechercher des capteurs en utilisant la fonction de balayage en continu même lorsque vous n'êtes pas sur l'application",
     },
     {
       "ident_ios": "",
@@ -3580,7 +3580,7 @@
       "fi": "Päivitetty {%@^%1$s}",
       "ru": "Обновлено {%@^%1$s}",
       "sv": "Uppdaterad {%@^%1$s}",
-      "fr": "Mis à jour {%@^%1$s}",
+      "fr": "Mis à jour il y'a {%@^%1$s}",
     },
     {
       "ident_ios": "Updated",
@@ -3589,7 +3589,7 @@
       "fi": "Päivitetty",
       "ru": "Обновлено",
       "sv": "Uppdaterad",
-      "fr": "Mis à jour",
+      "fr": "Mis à jour il y'a",
     },
     {
       "ident_ios": "",
@@ -3598,7 +3598,7 @@
       "fi": "Versio: %1$s",
       "ru": "Версия: %1$s",
       "sv": "Version: %1$s",
-      "fr": "Version: %1$s",
+      "fr": "Version : %1$s",
     },
     {
       "ident_ios": "",
@@ -3697,7 +3697,7 @@
       "fi": ".csv tiedosto luotu, avataan tiedostonjako-ikkuna",
       "ru": ".csv создан, открываем меню отправки файла",
       "sv": ".csv skapad, öppnar dela menyn",
-      "fr": "fichier .csv créé, ouverture du menu d'export",
+      "fr": "fichier .csv créé, ouverture du menu de partage",
     },
     {
       "ident_ios": "",
