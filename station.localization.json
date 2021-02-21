@@ -1495,6 +1495,15 @@
       "fr": "Messages des capteurs"
     },
     {
+      "ident_ios": "TagSettings.DataSource.Network.title",
+      "ident_android": "",
+      "en": "Network",
+      "fi": "Network",
+      "ru": "Сеть",
+      "sv": "Network",
+      "fr": ""
+    },
+    {
       "ident_ios": "TagSettings.Label.disabled.text",
       "ident_android": "",
       "en": "DISABLED?",
@@ -3788,7 +3797,8 @@
       "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI",
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
-      "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
+      "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.Title.text",
@@ -3796,7 +3806,8 @@
       "en": "Sign in",
       "fi": "",
       "ru": "Войти",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagsManager.SignOutButton",
@@ -3804,7 +3815,8 @@
       "en": "Sign out",
       "fi": "",
       "ru": "Выйти из сети",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -3812,7 +3824,8 @@
       "en": "Sign in benefits, the information is saved in the cloud:\\n- sensors list\\n- sensor name",
       "fi": "",
       "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.RequestSignLink",
@@ -3820,7 +3833,8 @@
       "en": "Register or request new sign in link",
       "fi": "",
       "ru": "Зарегистрируйтесь или получите ссылку для входа",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -3828,7 +3842,8 @@
       "en": "Email",
       "fi": "",
       "ru": "Email",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3836,7 +3851,8 @@
       "en": "Submit",
       "fi": "",
       "ru": "Отправить",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3844,7 +3860,8 @@
       "en": "Enter code manually",
       "fi": "",
       "ru": "Ввести код вручную",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.EmailSent",
@@ -3852,7 +3869,8 @@
       "en": "Email sent",
       "fi": "",
       "ru": "Email отправлен",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
@@ -3860,7 +3878,8 @@
       "en": "Please check your email inbox for further instructions",
       "fi": "",
       "ru": "Пожалуйста проверьте email для дальнейших инструкций",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3868,7 +3887,8 @@
       "en": "Sign in code",
       "fi": "",
       "ru": "Код для входа",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
@@ -3876,7 +3896,8 @@
       "en": "Do you want sign out?",
       "fi": "",
       "ru": "Хотите выйти их сети?",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Claim",
@@ -3884,15 +3905,17 @@
       "en": "Claim",
       "fi": "",
       "ru": "Мой датчик",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.ShareButton",
       "ident_android": "tagsettings_share_button",
       "en": "Share",
       "fi": "",
       "ru": "Поделиться",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3900,7 +3923,8 @@
       "en": "Syncing…",
       "fi": "",
       "ru": "Синхронизация…",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "Synchronized",
@@ -3908,15 +3932,17 @@
       "en": "Synchronized",
       "fi": "",
       "ru": "Синхронизировано",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
-      "ident_ios": "Synchronized",
+      "ident_ios": "TagChartsPresenter.NumberOfPointsSynchronizedOverNetwork",
       "ident_android": "network_synced",
       "en": "Synchronized: {%@^%1$s}",
       "fi": "",
       "ru": "Синхронизировано: {%@^%1$s}",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3924,7 +3950,8 @@
       "en": "never",
       "fi": "",
       "ru": "никогда",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "MenuTableViewController.None",
@@ -3932,7 +3959,8 @@
       "en": "none",
       "fi": "",
       "ru": "нет",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "MenuTableViewController.User",
@@ -3940,7 +3968,8 @@
       "en": "User: {%@^%1$s}",
       "fi": "",
       "ru": "Пользователь: {%@^%1$s}",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3948,7 +3977,8 @@
       "en": "Synchronized successfully!",
       "fi": "",
       "ru": "Синхронизировано успешно!",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3956,7 +3986,8 @@
       "en": "Synchronization failed: %1$s",
       "fi": "",
       "ru": "Ошибка синхронизации: %1$s",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3964,7 +3995,8 @@
       "en": "Synchronization failed: need to log in first",
       "fi": "",
       "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.Title",
@@ -3972,7 +4004,8 @@
       "en": "Share Ruuvi sensor",
       "fi": "",
       "ru": "Поделиться датчиком Ruuvi",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.Description",
@@ -3980,7 +4013,8 @@
       "en": "Share your Ruuvi sensor. Add your friend email address (10 max)",
       "fi": "",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "ShareViewController.addFriend.Title",
@@ -3988,7 +4022,8 @@
       "en": "Add friend",
       "fi": "",
       "ru": "Добавить друга",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -3996,7 +4031,8 @@
       "en": "Send",
       "fi": "",
       "ru": "Отправить",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4004,7 +4040,8 @@
       "en": "Already shared",
       "fi": "",
       "ru": "Поделились",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
@@ -4012,7 +4049,8 @@
       "en": "Do you want to unshare sensor for {%@^%1$s}?",
       "fi": "",
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
@@ -4020,7 +4058,8 @@
       "en": "NETWORK INFO",
       "fi": "",
       "ru": "Данные сети",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
@@ -4028,7 +4067,8 @@
       "en": "Owner",
       "fi": "",
       "ru": "Владелец",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4036,7 +4076,8 @@
       "en": "Ruuvi Network status",
       "fi": "",
       "ru": "Статус сети Ruuvi",
-      "sv": ""
+      "sv": "",
+      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4064,6 +4105,204 @@
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
       "fr": "%1$,.0f dBm"
-    }
+    },
+    {
+      "ident_ios": "SignIn.VerificationCodePlaceholder",
+      "ident_android": "",
+      "en": "verification code in format: CJSM",
+      "fi": "",
+      "ru": "код подтверждения в формате: CJSM",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_FORBIDDEN",
+      "ident_android": "",
+      "en": "Forbiden",
+      "fi": "",
+      "ru": "Запрещено",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_UNAUTHORIZED",
+      "ident_android": "",
+      "en": "Unauthorized",
+      "fi": "",
+      "ru": "Требуется авторизация",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INTERNAL",
+      "ident_android": "",
+      "en": "Internal error",
+      "fi": "",
+      "ru": "Внутренняя ошибка",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_FORMAT",
+      "ident_android": "",
+      "en": "Invalid request format",
+      "fi": "",
+      "ru": "Неправильный формат запроса",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_USER_NOT_FOUND",
+      "ident_android": "",
+      "en": "User not found",
+      "fi": "",
+      "ru": "Пользователь не найден",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_NOT_FOUND",
+      "ident_android": "",
+      "en": "Sensor not found",
+      "fi": "",
+      "ru": "Сенсор не найден",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
+      "ident_android": "",
+      "en": "Token is expired",
+      "fi": "",
+      "ru": "Токен истек",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
+      "ident_android": "",
+      "en": "Subscription is not found",
+      "fi": "",
+      "ru": "Подписка не найдена",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
+      "ident_android": "",
+      "en": "Share count is reached",
+      "fi": "",
+      "ru": "Достигнут лимит количества общих сенсоров",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
+      "ident_android": "",
+      "en": "Sensor share count is reached",
+      "fi": "",
+      "ru": "Превышено количество общих сенсоров",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
+      "ident_android": "",
+      "en": "No data to share sensor",
+      "fi": "",
+      "ru": "Нет данных для того чтобы поделиться сенсором",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
+      "ident_android": "",
+      "en": "This sensor already is shared",
+      "fi": "",
+      "ru": "Вы уже делились этим сенсором",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
+      "ident_android": "",
+      "en": "Unable to send e-mail",
+      "fi": "",
+      "ru": "Не удалось отправить e-mail",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_MISSING_ARGUMENT",
+      "ident_android": "",
+      "en": "Missing argument",
+      "fi": "",
+      "ru": "Пропущен аргумент запроса",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_DENSITY_MODE",
+      "ident_android": "",
+      "en": "Invalid density mode",
+      "fi": "",
+      "ru": "Недопустимый режим плотности",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_SORT_MODE",
+      "ident_android": "",
+      "en": "Invalid sort mode",
+      "fi": "",
+      "ru": "Выбран недопустимый метод сортировки",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_TIME_RANGE",
+      "ident_android": "",
+      "en": "Invalid time range",
+      "fi": "",
+      "ru": "Выбран недопустимый промежуток времени",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
+      "ident_android": "",
+      "en": "Invalid email address",
+      "fi": "",
+      "ru": "Недопустимый e-mail",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
+      "ident_android": "",
+      "en": "Invalid mac address",
+      "fi": "",
+      "ru": "Недопустимый mac-адрес",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
+      "ident_android": "",
+      "en": "Data storage error",
+      "fi": "",
+      "ru": "Ошибка сохранения данных",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_NO_USER",
+      "ident_android": "",
+      "en": "No user",
+      "fi": "",
+      "ru": "Нет пользователя",
+      "sv": "",
+      "fr": ""
+    },
   ]
 }
