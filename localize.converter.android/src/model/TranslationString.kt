@@ -8,18 +8,21 @@ data class TranslationString (
     var en: String,
     var fi: String,
     var ru: String,
-    var sv: String
+    var sv: String,
+    var fr: String
 ) {
     fun export(
         writer: PrintWriter,
         writerFi: PrintWriter,
         writerSv: PrintWriter,
-        writerRu: PrintWriter
+        writerRu: PrintWriter,
+        writerFr: PrintWriter
     ) {
         if (en.isNotEmpty()) writer.println(prepareString(en))
         if (fi.isNotEmpty()) writerFi.println(prepareString(fi))
         if (sv.isNotEmpty()) writerSv.println(prepareString(sv))
         if (ru.isNotEmpty()) writerRu.println(prepareString(ru))
+        if (fr.isNotEmpty()) writerFr.println(prepareString(fr))
     }
 
     private fun prepareString(sourceString: String): String {
