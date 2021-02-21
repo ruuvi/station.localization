@@ -3798,7 +3798,34 @@
       "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka",
-      "fr": ""
+      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_mute_for_hour",
+      "en": "Mute for an hour",
+      "fi": "Mykistä tunniksi",
+      "ru": "Отключить на час",
+      "sv": "Pausa alarmet i en timme",
+      "fr": "Désactiver les notifications pendant une heure"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_reading",
+      "en": "%1$,.3f g",
+      "fi": "%1$,.3f g",
+      "ru": "%1$,.3f g",
+      "sv": "%1$,.3f g",
+      "fr": "%1$,.3f g"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tx_power_reading",
+      "en": "%1$,.0f dBm",
+      "fi": "%1$,.0f dBm",
+      "ru": "%1$,.0f дБм",
+      "sv": "%1$,.0f dBm",
+      "fr": "%1$,.0f dBm"
     },
     {
       "ident_ios": "SignIn.Title.text",
@@ -3820,17 +3847,17 @@
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
-      "ident_android": "sign_in_benefits",
-      "en": "Sign in benefits, the information is saved in the cloud:\\n- sensors list\\n- sensor name",
+      "ident_android": "sign_in_benefits_description",
+      "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
       "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
       "sv": "",
       "fr": ""
     },
     {
-      "ident_ios": "SignIn.RequestSignLink",
-      "ident_android": "sign_in_request_register",
-      "en": "Register or request new sign in link",
+      "ident_ios": "",
+      "ident_android": "sign_in_benefits_title",
+      "en": "Benefits of Ruuvi Network",
       "fi": "",
       "ru": "Зарегистрируйтесь или получите ссылку для входа",
       "sv": "",
@@ -3842,6 +3869,26 @@
       "en": "Email",
       "fi": "",
       "ru": "Email",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_login_button",
+      "en": "Login",
+      "fi": "",
+      "ru": "Войти",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_request_code",
+      "en": "Request a Code",
+      "fi": "",
+      "ru": "Запросить код",
+      "sv": "",
+      "fr": ""
       "sv": "",
       "fr": ""
     },
@@ -3875,7 +3922,7 @@
     {
       "ident_ios": "SignIn.CheckMailbox",
       "ident_android": "sign_in_check_email",
-      "en": "Please check your email inbox for further instructions",
+      "en": "Check your email for an activation code.",
       "fi": "",
       "ru": "Пожалуйста проверьте email для дальнейших инструкций",
       "sv": "",
@@ -3884,7 +3931,7 @@
     {
       "ident_ios": "",
       "ident_android": "sign_in_code_hint",
-      "en": "Sign in code",
+      "en": "Code",
       "fi": "",
       "ru": "Код для входа",
       "sv": "",
@@ -4076,6 +4123,45 @@
       "en": "Ruuvi Network status",
       "fi": "",
       "ru": "Статус сети Ruuvi",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "login_to_ruuvi_network",
+      "en": "Login to\\nRuuvi\\nNetwork",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "login_description",
+      "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "skip",
+      "en": "SKIP",
+      "fi": "",
+      "ru": "ПРОПУСТИТЬ",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "beta",
+      "en": "beta",
+      "fi": "",
+      "ru": "бета",
+      "sv": "",
+      "fr": ""
+    }
       "sv": "",
       "fr": ""
     },
