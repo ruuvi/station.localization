@@ -3482,6 +3482,14 @@
     },
     {
       "ident_ios": "Synchronized",
+      "ident_android": "",
+      "en": "Synchronized",
+      "fi": "",
+      "ru": "Синхронизировано",
+      "sv": ""
+    },
+    {
+      "ident_ios": "Synchronized",
       "ident_android": "network_synced",
       "en": "Synchronized: {%@^%1$s}",
       "fi": "",
