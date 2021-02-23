@@ -3889,8 +3889,6 @@
       "ru": "Запросить код",
       "sv": "",
       "fr": ""
-      "sv": "",
-      "fr": ""
     },
     {
       "ident_ios": "",
@@ -4303,7 +4301,7 @@
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
       "ident_android": "",
-      "en": "This sensor already is shared",
+      "en": "This sensor is already shared",
       "fi": "",
       "ru": "Вы уже делились этим сенсором",
       "sv": "",
