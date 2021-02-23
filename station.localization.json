@@ -3850,7 +3850,7 @@
       "ident_android": "sign_in_benefits_description",
       "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
-      "ru": "Войдя в сеть вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
+      "ru": "Войдя в сеть, вы сможете сохранить свои данные в облаке:\\n- список датчиков\\n- названия датчиков",
       "sv": "",
       "fr": ""
     },
@@ -3859,7 +3859,7 @@
       "ident_android": "sign_in_benefits_title",
       "en": "Benefits of Ruuvi Network",
       "fi": "",
-      "ru": "Зарегистрируйтесь или получите ссылку для входа",
+      "ru": "Преимущества Ruuvi Network",
       "sv": "",
       "fr": ""
     },
@@ -4204,7 +4204,7 @@
     {
       "ident_ios": "UserApiError.ER_FORBIDDEN",
       "ident_android": "",
-      "en": "Forbiden",
+      "en": "Forbidden",
       "fi": "",
       "ru": "Запрещено",
       "sv": "",
@@ -4276,7 +4276,7 @@
     {
       "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
       "ident_android": "",
-      "en": "Share count is reached",
+      "en": "The share limit is reached",
       "fi": "",
       "ru": "Достигнут лимит количества общих сенсоров",
       "sv": "",
@@ -4285,7 +4285,7 @@
     {
       "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
       "ident_android": "",
-      "en": "Sensor share count is reached",
+      "en": "Sensor share limit is reached",
       "fi": "",
       "ru": "Превышено количество общих сенсоров",
       "sv": "",
@@ -4294,9 +4294,9 @@
     {
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
       "ident_android": "",
-      "en": "No data to share sensor",
+      "en": "In order to share the sensor, you need to save data to the Ruuvi Network first",
       "fi": "",
-      "ru": "Нет данных для того чтобы поделиться сенсором",
+      "ru": "Чтобы поделиться сенсором, нужны сохраненные данные в Ruuvi Network",
       "sv": "",
       "fr": ""
     },
@@ -4357,7 +4357,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
       "ident_android": "",
-      "en": "Invalid email address",
+      "en": "Invalid e-mail address",
       "fi": "",
       "ru": "Недопустимый e-mail",
       "sv": "",
@@ -4366,9 +4366,9 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
       "ident_android": "",
-      "en": "Invalid mac address",
+      "en": "Invalid MAC-address",
       "fi": "",
-      "ru": "Недопустимый mac-адрес",
+      "ru": "Недопустимый MAC-адрес",
       "sv": "",
       "fr": ""
     },
