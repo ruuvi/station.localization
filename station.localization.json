@@ -3850,7 +3850,7 @@
       "ident_android": "sign_in_benefits_description",
       "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
-      "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших датчиков Ruuvi. Заявленные датчики будут восстановлены после повторной установки приложения. \\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные датчики и делиться ими со своими друзьями.",
+      "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
       "sv": "",
       "fr": ""
     },
@@ -3922,7 +3922,7 @@
       "ident_android": "sign_in_check_email",
       "en": "Check your email for an activation code.",
       "fi": "",
-      "ru": "Пожалуйста проверьте email для дальнейших инструкций",
+      "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
       "sv": "",
       "fr": ""
     },
