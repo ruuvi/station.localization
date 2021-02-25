@@ -3369,7 +3369,7 @@
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "LocalNotificationsManager.Mute.button",
       "ident_android": "alarm_mute_for_hour",
       "en": "Mute for an hour",
       "fi": "Mykistä tunniksi",
@@ -3391,6 +3391,14 @@
       "fi": "%1$,.0f dBm",
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm"
+    },
+    {
+      "ident_ios": "Defaults.AlertsMuteInterval.title",
+      "ident_android": "",
+      "en": "Alerts Mute Interval",
+      "fi": "TODO: Alerts Mute Interval",
+      "ru": "Интервал Отключения Уведомлений",
+      "sv": "TODO: Alerts Mute Interval"
     }
   ]
 }
