@@ -892,6 +892,15 @@
       "fr": "Svenska"
     },
     {
+      "ident_ios": "Language.French",
+      "ident_android": "language_french",
+      "en": "Français",
+      "fi": "Français",
+      "ru": "Français",
+      "sv": "Français",
+      "fr": "Français"
+    },
+    {
       "ident_ios": "LocalNotificationsManager.DidConnect.title",
       "ident_android": "",
       "en": "Connected",
