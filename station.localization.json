@@ -1495,6 +1495,15 @@
       "fr": "Messages des capteurs"
     },
     {
+      "ident_ios": "TagSettings.DataSource.Network.title",
+      "ident_android": "",
+      "en": "Network",
+      "fi": "Network",
+      "ru": "Сеть",
+      "sv": "Network",
+      "fr": ""
+    },
+    {
       "ident_ios": "TagSettings.Label.disabled.text",
       "ident_android": "",
       "en": "DISABLED?",
@@ -3841,7 +3850,7 @@
       "ident_android": "sign_in_benefits_description",
       "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
-      "ru": "",
+      "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
       "sv": "",
       "fr": ""
     },
@@ -3850,7 +3859,7 @@
       "ident_android": "sign_in_benefits_title",
       "en": "Benefits of Ruuvi Network",
       "fi": "",
-      "ru": "",
+      "ru": "Преимущества Ruuvi Network",
       "sv": "",
       "fr": ""
     },
@@ -3882,11 +3891,38 @@
       "fr": ""
     },
     {
+      "ident_ios": "",
+      "ident_android": "sign_in_submit_button",
+      "en": "Submit",
+      "fi": "",
+      "ru": "Отправить",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_manual_code",
+      "en": "Enter code manually",
+      "fi": "",
+      "ru": "Ввести код вручную",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EmailSent",
+      "ident_android": "sign_in_email_sent",
+      "en": "Email sent",
+      "fi": "",
+      "ru": "Email отправлен",
+      "sv": "",
+      "fr": ""
+    },
+    {
       "ident_ios": "SignIn.CheckMailbox",
       "ident_android": "sign_in_check_email",
       "en": "Check your email for an activation code.",
       "fi": "",
-      "ru": "Пожалуйста проверьте email для получения кода активации",
+      "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
       "sv": "",
       "fr": ""
     },
@@ -3895,7 +3931,7 @@
       "ident_android": "sign_in_code_hint",
       "en": "Code",
       "fi": "",
-      "ru": "Код",
+      "ru": "Код для входа",
       "sv": "",
       "fr": ""
     },
@@ -3918,7 +3954,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.ShareButton",
       "ident_android": "tagsettings_share_button",
       "en": "Share",
       "fi": "",
@@ -3937,6 +3973,15 @@
     },
     {
       "ident_ios": "Synchronized",
+      "ident_android": "",
+      "en": "Synchronized",
+      "fi": "",
+      "ru": "Синхронизировано",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagChartsPresenter.NumberOfPointsSynchronizedOverNetwork",
       "ident_android": "network_synced",
       "en": "Synchronized: {%@^%1$s}",
       "fi": "",
@@ -4115,5 +4160,233 @@
       "sv": "",
       "fr": ""
     }
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alarm_mute_for_hour",
+      "en": "Mute for an hour",
+      "fi": "Mykistä tunniksi",
+      "ru": "Отключить на час",
+      "sv": "Pausa alarmet i en timme",
+      "fr": "Désactiver les notifications pendant une heure"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_reading",
+      "en": "%1$,.3f g",
+      "fi": "%1$,.3f g",
+      "ru": "%1$,.3f g",
+      "sv": "%1$,.3f g",
+      "fr": "%1$,.3f g"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tx_power_reading",
+      "en": "%1$,.0f dBm",
+      "fi": "%1$,.0f dBm",
+      "ru": "%1$,.0f дБм",
+      "sv": "%1$,.0f dBm",
+      "fr": "%1$,.0f dBm"
+    },
+    {
+      "ident_ios": "SignIn.VerificationCodePlaceholder",
+      "ident_android": "",
+      "en": "verification code in format: CJSM",
+      "fi": "",
+      "ru": "код подтверждения в формате: CJSM",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_FORBIDDEN",
+      "ident_android": "",
+      "en": "Forbidden",
+      "fi": "",
+      "ru": "Запрещено",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_UNAUTHORIZED",
+      "ident_android": "",
+      "en": "Unauthorized",
+      "fi": "",
+      "ru": "Требуется авторизация",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INTERNAL",
+      "ident_android": "",
+      "en": "Internal error",
+      "fi": "",
+      "ru": "Внутренняя ошибка",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_FORMAT",
+      "ident_android": "",
+      "en": "Invalid request format",
+      "fi": "",
+      "ru": "Неправильный формат запроса",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_USER_NOT_FOUND",
+      "ident_android": "",
+      "en": "User not found",
+      "fi": "",
+      "ru": "Пользователь не найден",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_NOT_FOUND",
+      "ident_android": "",
+      "en": "Sensor not found",
+      "fi": "",
+      "ru": "Сенсор не найден",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
+      "ident_android": "",
+      "en": "Token is expired",
+      "fi": "",
+      "ru": "Токен истек",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
+      "ident_android": "",
+      "en": "Subscription is not found",
+      "fi": "",
+      "ru": "Подписка не найдена",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
+      "ident_android": "",
+      "en": "The share limit is reached",
+      "fi": "",
+      "ru": "Достигнут лимит количества общих сенсоров",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
+      "ident_android": "",
+      "en": "Sensor share limit is reached",
+      "fi": "",
+      "ru": "Превышено количество общих сенсоров",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
+      "ident_android": "",
+      "en": "In order to share the sensor, you need to save data to the Ruuvi Network first",
+      "fi": "",
+      "ru": "Чтобы поделиться сенсором, нужны сохраненные данные в Ruuvi Network",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
+      "ident_android": "",
+      "en": "This sensor is already shared",
+      "fi": "",
+      "ru": "Вы уже делились этим сенсором",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
+      "ident_android": "",
+      "en": "Unable to send e-mail",
+      "fi": "",
+      "ru": "Не удалось отправить e-mail",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_MISSING_ARGUMENT",
+      "ident_android": "",
+      "en": "Missing argument",
+      "fi": "",
+      "ru": "Пропущен аргумент запроса",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_DENSITY_MODE",
+      "ident_android": "",
+      "en": "Invalid density mode",
+      "fi": "",
+      "ru": "Недопустимый режим плотности",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_SORT_MODE",
+      "ident_android": "",
+      "en": "Invalid sort mode",
+      "fi": "",
+      "ru": "Выбран недопустимый метод сортировки",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_TIME_RANGE",
+      "ident_android": "",
+      "en": "Invalid time range",
+      "fi": "",
+      "ru": "Выбран недопустимый промежуток времени",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
+      "ident_android": "",
+      "en": "Invalid e-mail address",
+      "fi": "",
+      "ru": "Недопустимый e-mail",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
+      "ident_android": "",
+      "en": "Invalid MAC-address",
+      "fi": "",
+      "ru": "Недопустимый MAC-адрес",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
+      "ident_android": "",
+      "en": "Data storage error",
+      "fi": "",
+      "ru": "Ошибка сохранения данных",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_NO_USER",
+      "ident_android": "",
+      "en": "No user",
+      "fi": "",
+      "ru": "Нет пользователя",
+      "sv": "",
+      "fr": ""
+    },
   ]
 }
