@@ -3949,7 +3949,16 @@
       "ident_android": "tagsettings_claim_button",
       "en": "Claim",
       "fi": "",
-      "ru": "Мой датчик",
+      "ru": "Мой сенсор",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.ClaimTagButton.Unclaim",
+      "ident_android": "",
+      "en": "Unclaim",
+      "fi": "",
+      "ru": "Отвязать",
       "sv": "",
       "fr": ""
     },
@@ -4067,6 +4076,24 @@
       "en": "Add friend",
       "fi": "",
       "ru": "Добавить друга",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "ShareViewController.emailTextField.placeholder",
+      "ident_android": "",
+      "en": "Type email",
+      "fi": "",
+      "ru": "Введите email",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "ShareViewController.sharedEmails.Title",
+      "ident_android": "",
+      "en": "Already shared %d/%d",
+      "fi": "",
+      "ru": "Предоставлен доступ %d/%d",
       "sv": "",
       "fr": ""
     },
