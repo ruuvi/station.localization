@@ -3822,10 +3822,10 @@
       "ident_ios": "Defaults.AlertsMuteInterval.title",
       "ident_android": "",
       "en": "Alerts Mute Interval",
-      "fi": "TODO: Alerts Mute Interval",
+      "fi": "",
       "ru": "Интервал Отключения Уведомлений",
-      "sv": "TODO: Alerts Mute Interval",
-      "fr": "TODO: Alerts Mute Interval"
+      "sv": "",
+      "fr": ""
     }
   ]
 }
