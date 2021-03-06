@@ -3801,7 +3801,7 @@
       "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "LocalNotificationsManager.Mute.button",
       "ident_android": "alarm_mute_for_hour",
       "en": "Mute for an hour",
       "fi": "Mykistä tunniksi",
@@ -3826,6 +3826,15 @@
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
       "fr": "%1$,.0f dBm"
+    },
+    {
+      "ident_ios": "Defaults.AlertsMuteInterval.title",
+      "ident_android": "",
+      "en": "Alerts Mute Interval",
+      "fi": "",
+      "ru": "Интервал Отключения Уведомлений",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
