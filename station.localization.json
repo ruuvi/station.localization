@@ -4206,33 +4206,6 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
-      "ident_android": "alarm_mute_for_hour",
-      "en": "Mute for an hour",
-      "fi": "Mykistä tunniksi",
-      "ru": "Отключить на час",
-      "sv": "Pausa alarmet i en timme",
-      "fr": "Désactiver les notifications pendant une heure"
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "acceleration_reading",
-      "en": "%1$,.3f g",
-      "fi": "%1$,.3f g",
-      "ru": "%1$,.3f g",
-      "sv": "%1$,.3f g",
-      "fr": "%1$,.3f g"
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "tx_power_reading",
-      "en": "%1$,.0f dBm",
-      "fi": "%1$,.0f dBm",
-      "ru": "%1$,.0f дБм",
-      "sv": "%1$,.0f dBm",
-      "fr": "%1$,.0f dBm"
-    },
-    {
       "ident_ios": "SignIn.VerificationCodePlaceholder",
       "ident_android": "",
       "en": "verification code in format: CJSM",
@@ -4427,6 +4400,15 @@
       "en": "No user",
       "fi": "",
       "ru": "Нет пользователя",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "settings_experimental",
+      "en": "Experimental features",
+      "fi": "",
+      "ru": "Экспериментальные функции",
       "sv": "",
       "fr": ""
     }
