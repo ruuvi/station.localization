@@ -39,6 +39,6 @@ data class TranslationString (
                 result = result.replaceFirst(entry.value, entry.groupValues[2])
             }
         }
-        return "<string name=\"$ident_android\">$result</string>"
+        return "    <string name=\"$ident_android\">$result</string>"
     }
 }

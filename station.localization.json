@@ -20,7 +20,7 @@
     },
     {
       "ident_ios": "Confirm",
-      "ident_android": "",
+      "ident_android": "confirm",
       "en": "Confirm",
       "fi": "Vahvista",
       "ru": "Подтвердить",
@@ -2612,6 +2612,15 @@
       "fr": "Heures"
     },
     {
+      "ident_ios": "",
+      "ident_android": "days",
+      "en": "Days",
+      "fi": "Päivää",
+      "ru": "Дней",
+      "sv": "Dagar",
+      "fr": "Jours"
+    },
+    {
       "ident_ios": "TagSettings.AirHumidityAlert.title",
       "ident_android": "humidity",
       "en": "Air Humidity ({%@^%1$s})",
@@ -3307,11 +3316,11 @@
     {
       "ident_ios": "",
       "ident_android": "settings_chart_view_period_description",
-      "en": "Configure history diapason to be shown on chart from 1 to 72 hours",
-      "fi": "Määritä historian tarkastelujakso 1 - 72 tuntia",
-      "ru": "Установите диапазон для отображения на графиках от 1-го до 72-х часов",
-      "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 72 timmar",
-      "fr": "Définir la période de l'histogramme 1 - 72 heures"
+      "en": "Configure history diapason to be shown on chart from 1 to 10 days",
+      "fi": "Määritä historian tarkastelujakso 1 - 10 päivää",
+      "ru": "Установите диапазон для отображения на графиках от 1-го до 10-ти дней",
+      "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 10 dagar",
+      "fr": "Définir la période de l'histogramme 1 - 10 jours"
     },
     {
       "ident_ios": "",
@@ -4409,6 +4418,141 @@
       "en": "Experimental features",
       "fi": "",
       "ru": "Экспериментальные функции",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_description",
+      "en": "In normal use, it's not necessary to adjust the offset.\\n\\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\\n\\nCalibration tips are available on ruuvi.com/support",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_description_link",
+      "en": "ruuvi.com/support",
+      "fi": "ruuvi.com/support",
+      "ru": "ruuvi.com/support",
+      "sv": "ruuvi.com/support",
+      "fr": "ruuvi.com/support"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_description_link_url",
+      "en": "http://ruuvi.com/support",
+      "fi": "http://ruuvi.com/support",
+      "ru": "http://ruuvi.com/support",
+      "sv": "http://ruuvi.com/support",
+      "fr": "http://ruuvi.com/support"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_clear_confirm",
+      "en": "Clear calibration settings?",
+      "fi": "",
+      "ru": "Сбросить настройки калибровки?",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_offset",
+      "en": "(Offset {%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_setup",
+      "en": "Calibration setup",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_enter_temperature",
+      "en": "Enter temperature value expected from sensor in current conditions ({%@^%1$s}): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_enter_pressure",
+      "en": "Enter pressure value expected from sensor in current conditions ({%@^%1$s}): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_enter_humidity",
+      "en": "Enter humidity value expected from sensor in current conditions ({%@^%1$s}): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_original_value",
+      "en": "Original measured value",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_corrected_value",
+      "en": "Corrected value",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_temperature_offset",
+      "en": "Temperature offset",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_humidity_offset",
+      "en": "Humidity offset",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "calibration_pressure_offset",
+      "en": "Pressure offset",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "offset_correction",
+      "en": "Offset correction",
+      "fi": "",
+      "ru": "",
       "sv": "",
       "fr": ""
     }
