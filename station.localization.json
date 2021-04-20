@@ -1507,9 +1507,9 @@
       "ident_ios": "TagSettings.DataSource.Network.title",
       "ident_android": "",
       "en": "Network",
-      "fi": "Network",
+      "fi": "",
       "ru": "Сеть",
-      "sv": "Network",
+      "sv": "",
       "fr": ""
     },
     {
@@ -3864,7 +3864,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "SignIn.SignInBenefits",
+      "ident_ios": "SignIn.RequestSignLink",
       "ident_android": "sign_in_benefits_description",
       "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "",
@@ -3873,7 +3873,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.SignInBenefits",
       "ident_android": "sign_in_benefits_title",
       "en": "Benefits of Ruuvi Network",
       "fi": "",
@@ -4409,6 +4409,69 @@
       "en": "Experimental features",
       "fi": "",
       "ru": "Экспериментальные функции",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "Advanced.Charts.title",
+      "ident_android": "",
+      "en": "Charts",
+      "fi": "",
+      "ru": "Графики",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "Advanced.RuuviNetwork.Section.title",
+      "ident_android": "",
+      "en": "Network",
+      "fi": "",
+      "ru": "Сеть",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "NetworkSettings.title",
+      "ident_android": "",
+      "en": "Network settings",
+      "fi": "",
+      "ru": "Настройки сети",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "NetworkSettings.NetworkFeature",
+      "ident_android": "",
+      "en": "Ruuvi Network",
+      "fi": "",
+      "ru": "Сеть Ruuvi",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "NetworkSettings.NetworkFeature",
+      "ident_android": "",
+      "en": "Ruuvi Network",
+      "fi": "",
+      "ru": "Сеть Ruuvi",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EnterVerificationCode",
+      "ident_android": "",
+      "en": "Enter verification code",
+      "fi": "",
+      "ru": "Введите код подтверждения",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EnterCorrectEmail",
+      "ident_android": "",
+      "en": "Enter correct email",
+      "fi": "",
+      "ru": "Введите корректный email",
       "sv": "",
       "fr": ""
     }
