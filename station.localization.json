@@ -2335,7 +2335,7 @@
     {
       "ident_ios": "TagCharts.Status.Serving",
       "ident_android": "connected_reading_info",
-      "en": "Syncing...",
+      "en": "Synchronizing...",
       "fi": "Synkronoidaan...",
       "ru": "Обмениваюсь...",
       "sv": "Synkroniserar...",
@@ -4555,6 +4555,15 @@
       "ru": "",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "synchronizing",
+      "en": "Synchronizing",
+      "fi": "Synkronoidaan",
+      "ru": "Обмениваюсь",
+      "sv": "Synkroniserar",
+      "fr": "Synchronisation"
     }
   ]
 }
