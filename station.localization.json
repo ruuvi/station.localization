@@ -4091,7 +4091,7 @@
     {
       "ident_ios": "ShareViewController.Description",
       "ident_android": "share_sensor_description",
-      "en": "Share your Ruuvi sensor. Add your friend email address (10 max)",
+      "en": "Share your Ruuvi sensor. Add your friend's email address (10 max)",
       "fi": "",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
       "sv": "",
