@@ -1018,6 +1018,15 @@
       "fr": "Prendre une photo"
     },
     {
+      "ident_ios": "PhotoPicker.Sheet.files",
+      "ident_android": "",
+      "en": "Choose from files",
+      "fi": "Choose from files",
+      "ru": "Выбрать из файлов",
+      "sv": "Choose from files",
+      "fr": "Choose from files"
+    },
+    {
       "ident_ios": "Settings.SectionHeader.General.title",
       "ident_android": "",
       "en": "GENERAL",
@@ -1322,15 +1331,6 @@
       "ru": "Исправить",
       "sv": "Fixa",
       "fr": "Réparer"
-    },
-    {
-      "ident_ios": "TagSettings.navigationItem.title",
-      "ident_android": "",
-      "en": "Sensor Settings",
-      "fi": "Asetukset",
-      "ru": "Настройки",
-      "sv": "Inställningar",
-      "fr": "Réglages"
     },
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
@@ -3738,7 +3738,7 @@
       "fr": "Capteur %1$s export CSV"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.navigationItem.title",
       "ident_android": "sensor_settings",
       "en": "Sensor Settings",
       "fi": "Asetukset",
