@@ -4474,6 +4474,15 @@
       "ru": "Введите корректный email",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "RuuviNetworkError.NotAuthorized",
+      "ident_android": "",
+      "en": "Not authorized",
+      "fi": "",
+      "ru": "Не авторизован",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
