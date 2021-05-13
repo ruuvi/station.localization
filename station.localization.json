@@ -3549,7 +3549,7 @@
       "fr": "Celsius (℃)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ºC",
       "ident_android": "temperature_celsius_unit",
       "en": "°C",
       "fi": "°C",
@@ -3567,7 +3567,7 @@
       "fr": "Fahrenheit (℉)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ºF",
       "ident_android": "temperature_fahrenheit_unit",
       "en": "°F",
       "fi": "°F",
@@ -4422,7 +4422,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.CalibrationDescription.text",
       "ident_android": "calibration_description",
       "en": "In normal use, it's not necessary to adjust the offset.\\n\\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\\n\\nCalibration tips are available on ruuvi.com/support",
       "fi": "",
@@ -4449,7 +4449,7 @@
       "fr": "http://ruuvi.com/support"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.ClearConfirm",
       "ident_android": "calibration_clear_confirm",
       "en": "Clear calibration settings?",
       "fi": "",
@@ -4467,7 +4467,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.Title",
       "ident_android": "calibration_setup",
       "en": "Calibration setup",
       "fi": "",
@@ -4503,6 +4503,33 @@
       "fr": ""
     },
     {
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
+      "ident_android": "",
+      "en": "Enter temperature value expected from sensor in current conditions (%@): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
+      "ident_android": "",
+      "en": "Enter pressure value expected from sensor in current conditions (%@): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidify",
+      "ident_android": "",
+      "en": "Enter humidity value expected from sensor in current conditions (%@): ",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "calibration_original_value",
       "en": "Original measured value",
@@ -4521,7 +4548,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Temperature.Title",
       "ident_android": "calibration_temperature_offset",
       "en": "Temperature offset",
       "fi": "",
@@ -4530,7 +4557,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Humidity.Title",
       "ident_android": "calibration_humidity_offset",
       "en": "Humidity offset",
       "fi": "",
@@ -4539,7 +4566,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Pressure.Title",
       "ident_android": "calibration_pressure_offset",
       "en": "Pressure offset",
       "fi": "",
@@ -4564,6 +4591,42 @@
       "ru": "Обмениваюсь",
       "sv": "Synkroniserar",
       "fr": "Synchronisation"
+    },
+    {
+      "ident_ios": "TagSettings.SectionHeader.OffsetCorrection.Title",
+      "ident_android": "",
+      "en": "OFFSET CORRECTION",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.OffsetCorrection.Temperature",
+      "ident_android": "",
+      "en": "Temperature",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.OffsetCorrection.Humidity",
+      "ident_android": "",
+      "en": "Humidity",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.OffsetCorrection.Pressure",
+      "ident_android": "",
+      "en": "Pressure",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
