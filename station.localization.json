@@ -4476,7 +4476,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
       "ident_android": "calibration_enter_temperature",
       "en": "Enter temperature value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "",
@@ -4485,7 +4485,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
       "ident_android": "calibration_enter_pressure",
       "en": "Enter pressure value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "",
@@ -4495,35 +4495,8 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "calibration_enter_humidity",
+      "ident_android": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
       "en": "Enter humidity value expected from sensor in current conditions ({%@^%1$s}): ",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": ""
-    },
-    {
-      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
-      "ident_android": "",
-      "en": "Enter temperature value expected from sensor in current conditions (%@): ",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": ""
-    },
-    {
-      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
-      "ident_android": "",
-      "en": "Enter pressure value expected from sensor in current conditions (%@): ",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": ""
-    },
-    {
-      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidify",
-      "ident_android": "",
-      "en": "Enter humidity value expected from sensor in current conditions (%@): ",
       "fi": "",
       "ru": "",
       "sv": "",
