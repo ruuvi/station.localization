@@ -4494,8 +4494,8 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
-      "ident_android": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
+      "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
+      "ident_android": "calibration_enter_humidity",
       "en": "Enter humidity value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "",
       "ru": "",
