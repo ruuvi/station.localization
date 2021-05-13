@@ -3909,7 +3909,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.RequestCode",
       "ident_android": "sign_in_request_code",
       "en": "Request a Code",
       "fi": "",
@@ -3918,7 +3918,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.SubmitCode",
       "ident_android": "sign_in_submit_button",
       "en": "Submit",
       "fi": "",
@@ -3954,7 +3954,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.CodeHint",
       "ident_android": "sign_in_code_hint",
       "en": "Code",
       "fi": "",
@@ -4179,7 +4179,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.TitleLabel.text",
       "ident_android": "login_to_ruuvi_network",
       "en": "Login to\\nRuuvi\\nNetwork",
       "fi": "",
@@ -4188,7 +4188,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "SignIn.SubtitleLabel.text",
       "ident_android": "login_description",
       "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
       "fi": "",
