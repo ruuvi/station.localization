@@ -4600,6 +4600,33 @@
       "ru": "",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "Advanced.Charts.title",
+      "ident_android": "",
+      "en": "Charts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "Advanced.Network.title",
+      "ident_android": "",
+      "en": "Network",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "Advanced.NetworkInterval.title",
+      "ident_android": "",
+      "en": "Pull Interval",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
