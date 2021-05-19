@@ -4627,6 +4627,15 @@
       "ru": "",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "PhotoPicker.Sheet.files",
+      "ident_android": "",
+      "en": "Choose from files",
+      "fi": "",
+      "ru": "Выбрать из файлов",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
