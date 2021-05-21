@@ -2495,6 +2495,24 @@
       "fr": "Données enregistrées : %1$,d"
     },
     {
+      "ident_ios": "About.MeasurementsCount.text",
+      "ident_android": "",
+      "en": "Stored measurements: %d",
+      "fi": "Tallennetut mittaukset: %d",
+      "ru": "Кол-во сохраненных измерений: %d",
+      "sv": "Sparade mätningar: %d",
+      "fr": "Données enregistrées : %d"
+    },
+    {
+      "ident_ios": "About.DatabaseSize.text",
+      "ident_android": "",
+      "en": "Database size: %@",
+      "fi": "Tietokannan koko: %@",
+      "ru": "Размер базы данных: %@",
+      "sv": "Databasens storlek: %@",
+      "fr": "Taille de la base de données : %@"
+    },
+    {
       "ident_ios": "",
       "ident_android": "help_db_size",
       "en": "Database size: %1$,d kB",
@@ -2583,6 +2601,15 @@
       "ru": "Датчиков обнаружено: %1$,d",
       "sv": "Upptäckta sensorer: %1$,d",
       "fr": "Capteurs détectés : %1$,d"
+    },
+    {
+      "ident_ios": "About.TagsCount.text",
+      "ident_android": "",
+      "en": "Seen sensors: %d",
+      "fi": "Havaitut anturit: %d",
+      "ru": "Датчиков обнаружено: %d",
+      "sv": "Upptäckta sensorer: %d",
+      "fr": "Capteurs détectés : %d"
     },
     {
       "ident_ios": "About.Troubleshooting.contents",
@@ -3967,7 +3994,7 @@
       "ident_android": "sign_out_confirm",
       "en": "Do you want sign out?",
       "fi": "",
-      "ru": "Хотите выйти их сети?",
+      "ru": "Хотите выйти из сети?",
       "sv": "",
       "fr": ""
     },
@@ -4634,6 +4661,15 @@
       "en": "Choose from files",
       "fi": "",
       "ru": "Выбрать из файлов",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EnterVerificationCode",
+      "ident_android": "",
+      "en": "Please enter verification code",
+      "fi": "",
+      "ru": "Пожалуйста, введите код подтверждения",
       "sv": "",
       "fr": ""
     }
