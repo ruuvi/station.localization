@@ -4672,6 +4672,24 @@
       "ru": "Пожалуйста, введите код подтверждения",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "UnexpectedError.failedToFindOrGenerateBackgroundImage",
+      "ident_android": "",
+      "en": "Failed to find or generate background image",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UnexpectedError.bothLuidAndMacAreNil",
+      "ident_android": "",
+      "en": "Both local and MAC identifiers are nil",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
