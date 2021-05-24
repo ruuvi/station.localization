@@ -3035,7 +3035,7 @@
       "fr": "Firmware non supporté"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.rssiTitleLabel.text",
       "ident_android": "rssi",
       "en": "Signal strength (RSSI)",
       "fi": "Signaalin voimakkuus (RSSI)",
@@ -4670,6 +4670,24 @@
       "en": "Please enter verification code",
       "fi": "",
       "ru": "Пожалуйста, введите код подтверждения",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UnexpectedError.failedToFindOrGenerateBackgroundImage",
+      "ident_android": "",
+      "en": "Failed to find or generate background image",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UnexpectedError.bothLuidAndMacAreNil",
+      "ident_android": "",
+      "en": "Both local and MAC identifiers are nil",
+      "fi": "",
+      "ru": "",
       "sv": "",
       "fr": ""
     }
