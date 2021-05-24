@@ -3035,7 +3035,7 @@
       "fr": "Firmware non supporté"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.rssiTitleLabel.text",
       "ident_android": "rssi",
       "en": "Signal strength (RSSI)",
       "fi": "Signaalin voimakkuus (RSSI)",
