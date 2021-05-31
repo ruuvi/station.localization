@@ -4772,6 +4772,23 @@
       "sv": "",
       "fr": ""
     },
+      "ident_ios": "",
+      "ident_android": "time_since",
+      "en": "{%@^%1$s} ago",
+      "fi": "{%@^%1$s} sitten",
+      "ru": "{%@^%1$s} назад",
+      "sv": "{%@^%1$s} sedan",
+      "fr": "il y'a {%@^%1$s}"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "network_sharing_disabled",
+      "en": "Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one, get it on ruuvi.com",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
     {
       "ident_ios": "RuuviServiceError.bothLuidAndMacAreNil",
       "ident_android": "",
