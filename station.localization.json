@@ -4772,6 +4772,7 @@
       "sv": "",
       "fr": ""
     },
+    {
       "ident_ios": "",
       "ident_android": "time_since",
       "en": "{%@^%1$s} ago",
