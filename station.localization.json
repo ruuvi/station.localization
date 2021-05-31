@@ -4690,6 +4690,123 @@
       "ru": "",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "RuuviCloudApiError.emptyResponse",
+      "ident_android": "",
+      "en": "Empty response",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviCloudApiError.failedToGetDataFromResponse",
+      "ident_android": "",
+      "en": "Failed to get data from response",
+      "fi": "Vastaus ei sisällä tietoa",
+      "ru": "Не удалось получить данные из ответа",
+      "sv": "Svaret innehåller ingen information",
+      "fr": "La réponse ne contient pas de données"
+    },
+    {
+      "ident_ios": "RuuviCloudApiError.unexpectedHTTPStatusCode",
+      "ident_android": "",
+      "en": "Unexpected HTTP status code",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviCloudError.NotAuthorized",
+      "ident_android": "",
+      "en": "Not authorized",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviLocalError.failedToGetJpegRepresentation",
+      "ident_android": "",
+      "en": "Failed to get JPG representation",
+      "fi": "JPG-muunnosta ei voida tehdä",
+      "ru": "Не удалось получить данные в формате JPG",
+      "sv": "Det gick inte att få JPG-representation",
+      "fr": "Echec de la représentation JPG"
+    },
+    {
+      "ident_ios": "RuuviLocalError.failedToGetDocumentsDirectory",
+      "ident_android": "",
+      "en": "Failed to get background directory",
+      "fi": "Taustakuvahakemistoa ei löydy",
+      "ru": "Не удалось получить директорию для фоновых изображений",
+      "sv": "Det gick inte att hämta bakgrundskatalog",
+      "fr": "Répertoire d'arrière-plan introuvable"
+    },
+    {
+      "ident_ios": "RuuviPersistenceError.failedToFindRuuviTag",
+      "ident_android": "",
+      "en": "Failed to find sensor",
+      "fi": "Anturia ei löydetty",
+      "ru": "Не удалось найти сенсор",
+      "sv": "Hittade inte sensorn",
+      "fr": "Echec de jumelage"
+    },
+    {
+      "ident_ios": "RuuviServiceError.pictureUrlIsNil",
+      "ident_android": "",
+      "en": "Picture URL is nil",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviServiceError.macIdIsNil",
+      "ident_android": "",
+      "en": "MAC identifier is nil",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviServiceError.bothLuidAndMacAreNil",
+      "ident_android": "",
+      "en": "Both local and MAC identifiers are nil",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviServiceError.failedToParseNetworkResponse",
+      "ident_android": "",
+      "en": "Failed to parse response.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviServiceError.failedToFindOrGenerateBackgroundImage",
+      "ident_android": "",
+      "en": "Failed to find or generate background image",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviServiceError.failedToGetJpegRepresentation",
+      "ident_android": "",
+      "en": "Failed to get JPG representation",
+      "fi": "JPG-muunnosta ei voida tehdä",
+      "ru": "Не удалось получить данные в формате JPG",
+      "sv": "Det gick inte att få JPG-representation",
+      "fr": "Echec de la représentation JPG"
     }
   ]
 }
