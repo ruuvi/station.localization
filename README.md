@@ -25,6 +25,8 @@ Tool we use to convert from *station.localization.json* to *string.xml* files fo
 ## Structure of station.localization.json
 File consist of one root `translations` element with many childs. Each child is a translation of one specific string. If string is used in Android application `ident_android` will be filled. Same for iOS and `ident_ios`. These 2 fields are being filled by developers and should not be modified.
 
+You can modify `en` - for English, `fi` - for Finnish, `ru` - for Russian, `sv` - for Sweden and `fr` - for French. 
+
     {
     	"translations": [
     		{
