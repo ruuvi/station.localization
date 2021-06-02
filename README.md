@@ -16,7 +16,7 @@ If you want to add new language and ready to help with translation send email to
 Main file of repository containig all localized strings
 
 #### Directory localize.converter.android
-Tool we use to convert from *station.localization.json* to *string.xml* files for Android project
+Tool we use to convert from *station.localization.json* to *strings.xml* files for Android project
 
 ## Branches
 **master** - main branch for confirmed translations
