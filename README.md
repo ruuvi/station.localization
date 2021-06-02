@@ -57,9 +57,9 @@ Example:
 If specific string is used only in one platform you can leave your template as is: `%@` or `%1$s`. But if it used by Android and iOS at the same time please use format `{iOS_Pattern^Android_Pattern}`. 
 
 ## How to contribute
-Fork from https://github.com/ruuvi/station.localization
-Make changes to station.localization.json
-Create pull request to apply your changes
+1. Fork from https://github.com/ruuvi/station.localization
+2. Make changes to station.localization.json in dev branch
+3. Create pull request to apply your changes
 
 ## Get in touch
 
