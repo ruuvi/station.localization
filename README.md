@@ -21,7 +21,7 @@ Tool we use to convert from *station.localization.json* to *string.xml* files fo
 ## Branches
 **master** - main branch for confirmed translations
 
-**dev** - working branch. If you want to participate in translation project you should fork from this branch.
+**dev** - working branch
 
 ## Structure of station.localization.json
 File consist of one root `translations` element with many childs. Each child is a translation of one specific string. If string is used in Android application `ident_android` will be filled. Same for iOS and `ident_ios`. These 2 fields are being filled by developers and should not be modified.
