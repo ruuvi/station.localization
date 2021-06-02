@@ -20,6 +20,7 @@ Tool we use to convert from *station.localization.json* to *string.xml* files fo
 
 ## Branches
 **master** - main branch for confirmed translations
+
 **dev** - working branch. If you want to participate in translation project you should fork from this branch.
 
 ## Structure of station.localization.json
