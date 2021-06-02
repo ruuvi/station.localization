@@ -8,7 +8,7 @@ This project was created to get single place for localization strings used in Ru
 - French
 - Russian
 
-If you want to add new language and ready to help with translation send email to denis@ruuvi.com. We'll make preparations for new laguage. 
+If you want to add new language and ready to help with translation send email to denis@ruuvi.com. We'll make preparations for new language. 
 
 ## Repository structure
 
