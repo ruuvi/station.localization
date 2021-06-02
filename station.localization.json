@@ -1630,6 +1630,24 @@
       "fr": "Connection"
     },
     {
+      "ident_ios": "TagSettings.SectionHeader.Firmware.title",
+      "ident_android": "",
+      "en": "FIRMWARE",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.Firmware.UpdateFirmware",
+      "ident_android": "",
+      "en": "Update Firmware",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
       "ident_ios": "UnexpectedError.callbackErrorAndResultAreNil",
       "ident_android": "",
       "en": "Both callback result and error are nil",
@@ -4825,6 +4843,294 @@
       "ru": "Не удалось получить данные в формате JPG",
       "sv": "Det gick inte att få JPG-representation",
       "fr": "Echec de la représentation JPG"
+    },
+    {
+      "ident_ios": "UpdateFirmware.Title.text",
+      "ident_android": "",
+      "en": "Update Firmware",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UpdateFirmware.Download.header",
+      "ident_android": "",
+      "en": "DOWNLOAD LATEST FIRMWARE",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UpdateFirmware.Download.content",
+      "ident_android": "",
+      "en": "To start with the updating process, download first the latest software package on that device you're going to use for updating. Latest version is available on ruuvi.com/software-update",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UpdateFirmware.SetDfu.header",
+      "ident_android": "",
+      "en": "SET RUUVI TAG TO DFU MODE",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UpdateFirmware.SetDfu.content",
+      "ident_android": "",
+      "en": "Open the RuuviTag's enclosure by pulling it open by fingers or gently with a flat head screw driver.\\n\\nSet RuuviTag to bootloader mode by holding down button B and pressing reset button R. Red indicator LED light will light up and stay on. If your device has only 1 button, keep it pressed 10 seconds to enter the bootloader.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "UpdateFirmware.NextButton.title",
+      "ident_android": "",
+      "en": "NEXT",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.Title.text",
+      "ident_android": "",
+      "en": "Devices",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.Description.text",
+      "ident_android": "",
+      "en": "Find and select sensor \\\"RuuviBoot\\\"",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.NoDevice.text",
+      "ident_android": "",
+      "en": "(No sensors on Bluetooth range)",
+      "fi": "(Ei havaittuja antureita Bluetooth-verkon alueella)",
+      "ru": "(Bluetooth устройства не найдены)",
+      "sv": "(Inga sensorer inom Bluetooths räckvidd)",
+      "fr": "(Pas de capteurs à portée du Bluetooth)"
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.BluetoothDisabled.text",
+      "ident_android": "",
+      "en": "(Bluetooth is disabled)",
+      "fi": "(Bluetooth ei ole käytössä)",
+      "ru": "(Bluetooth отключен)",
+      "sv": "(Bluetooth är avaktiverat)",
+      "fr": "(Bluetooth désactivé)"
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.title",
+      "ident_android": "",
+      "en": "Bluetooth is not enabled",
+      "fi": "Bluetooth ei ole käytössä",
+      "ru": "Bluetooth выключен",
+      "sv": "Bluetooth är inte aktiverat",
+      "fr": "Bluetooth désactivé"
+    },
+    {
+      "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.message",
+      "ident_android": "",
+      "en": "Ruuvi Station needs bluetooth to be able to listen for sensors. Go to Settings and turn Bluetooth on.",
+      "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
+      "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
+      "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
+      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre appareil."
+    },
+    {
+      "ident_ios": "DfuFlash.Title.text",
+      "ident_android": "",
+      "en": "DFU Flash",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Progress.text",
+      "ident_android": "",
+      "en": "Progress",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Step.text",
+      "ident_android": "",
+      "en": "Step",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Steps.PackageSelection.text",
+      "ident_android": "",
+      "en": "Package Selection",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Steps.ReadyForUpload.text",
+      "ident_android": "",
+      "en": "Ready For Upload",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Steps.Uploading.text",
+      "ident_android": "",
+      "en": "Uploading",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Steps.Completed.text",
+      "ident_android": "",
+      "en": "Completed",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.OpenDocumentPicker.title",
+      "ident_android": "",
+      "en": "OPEN DOCUMENT PICKER",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.FirmwareSelectionGuide.text",
+      "ident_android": "",
+      "en": "Locate the previously downloaded ZIP file on your mobile",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Firmware.FileName.text",
+      "ident_android": "",
+      "en": "File Name",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Firmware.Parts.text",
+      "ident_android": "",
+      "en": "Parts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Firmware.Size.text",
+      "ident_android": "",
+      "en": "Size",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Firmware.SoftDeviceSize.text",
+      "ident_android": "",
+      "en": "Soft Device Size",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Firmware.BootloaderSize.text",
+      "ident_android": "",
+      "en": "Bootloader Size",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Cancel.text",
+      "ident_android": "",
+      "en": "CANCEL",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Start.text",
+      "ident_android": "",
+      "en": "Start",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.Finish.text",
+      "ident_android": "",
+      "en": "FINISH",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.FinishGuide.text",
+      "ident_android": "",
+      "en": "Firmware update process has completed successfully.\n\n\n\nYour RuuviTag sensor is ready for use!",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DfuFlash.CancelAlert.text",
+      "ident_android": "",
+      "en": "Are you sure you want to cancel firmware update process?",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviDfuError.invalidFirmwareFile",
+      "ident_android": "",
+      "en": "Invalid firmware file",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
