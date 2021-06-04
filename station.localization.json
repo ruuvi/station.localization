@@ -1634,7 +1634,7 @@
       "ident_android": "",
       "en": "FIRMWARE",
       "fi": "",
-      "ru": "",
+      "ru": "ПРОШИВКА",
       "sv": "",
       "fr": ""
     },
@@ -1643,7 +1643,7 @@
       "ident_android": "",
       "en": "Update Firmware",
       "fi": "",
-      "ru": "",
+      "ru": "Обновить прошивку",
       "sv": "",
       "fr": ""
     },
@@ -3760,7 +3760,7 @@
       "ident_android": "app_name",
       "en": "Ruuvi Station",
       "fi": "Ruuvi Station",
-      "ru": "",
+      "ru": "Ruuvi Station",
       "sv": "",
       "fr": "Ruuvi Station"
     },
@@ -3932,7 +3932,7 @@
       "en": "Benefits of Ruuvi Network",
       "fi": "Ruuvi Networkin etuja",
       "ru": "Преимущества Ruuvi Network",
-      "sv": ""
+      "sv": "",
       "fr": ""
     },
     {
@@ -4228,7 +4228,7 @@
       "ident_android": "login_to_ruuvi_network",
       "en": "Login to\\nRuuvi\\nNetwork",
       "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
-      "ru": "",
+      "ru": "Войти в\\nRuuvi\\nNetwork",
       "sv": "",
       "fr": ""
     },
@@ -4237,7 +4237,7 @@
       "ident_android": "login_description",
       "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
       "fi": "Hyödynnä kaikki Ruuvi Network mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
-      "ru": "",
+      "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
       "sv": "",
       "fr": ""
     },
@@ -4471,7 +4471,7 @@
       "ident_android": "calibration_description",
       "en": "In normal use, it's not necessary to adjust the offset.\\n\\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\\n\\nCalibration tips are available on ruuvi.com/support",
       "fi": "Anturin kalibrointi ei ole tarpeellista normaalissa käytössä.\\n\\nTämä ominaisuus on tarkoitettu edistyneille käyttäjille.\\n\\nKalibroinnin lisäohjeet löytyvät osoitteesta ruuvi.com/support",
-      "ru": "",
+      "ru": "Обычно нет необходимости калибровать датчики.\\n\\nОднако, если вы продивнутый пользователь и хотите вручную откалибровать настроенные на заводе сенсоры, это возможно.\\n\\nПодсказки и информация доступны на сайте ruuvi.com/support",
       "sv": "",
       "fr": ""
     },
@@ -4507,7 +4507,7 @@
       "ident_android": "calibration_offset",
       "en": "(Offset {%@^%1$s})",
       "fi": "(Poikkeama {%@^%1$s})",
-      "ru": "",
+      "ru": "(Калибровка {%@^%1$s})",
       "sv": "",
       "fr": ""
     },
@@ -4516,7 +4516,7 @@
       "ident_android": "calibration_setup",
       "en": "Calibration setup",
       "fi": "Kalibrointi",
-      "ru": "",
+      "ru": "Настройка калибровок",
       "sv": "",
       "fr": ""
     },
@@ -4525,7 +4525,7 @@
       "ident_android": "calibration_enter_temperature",
       "en": "Enter temperature value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu lämpötila tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
-      "ru": "",
+      "ru": "Введите ожидаемое значение температуры в текущих условиях ({%@^%1$s}): ",
       "sv": "",
       "fr": ""
     },
@@ -4534,7 +4534,7 @@
       "ident_android": "calibration_enter_pressure",
       "en": "Enter pressure value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu paine tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
-      "ru": "",
+      "ru": "Введите ожидаемое значение давления в текущих условиях ({%@^%1$s}): ",
       "sv": "",
       "fr": ""
     },
@@ -4543,7 +4543,7 @@
       "ident_android": "calibration_enter_humidity",
       "en": "Enter humidity value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu kosteus tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
-      "ru": "",
+      "ru": "Введите ожидаемое значение влажности в текущих условиях ({%@^%1$s}): ",
       "sv": "",
       "fr": ""
     },
@@ -4552,7 +4552,7 @@
       "ident_android": "calibration_original_value",
       "en": "Original measured value",
       "fi": "Alkuperäinen arvo",
-      "ru": "",
+      "ru": "Измеренное значение",
       "sv": "",
       "fr": ""
     },
@@ -4561,7 +4561,7 @@
       "ident_android": "calibration_corrected_value",
       "en": "Corrected value",
       "fi": "Korjattu arvo",
-      "ru": "",
+      "ru": "Откалиброванное значение",
       "sv": "",
       "fr": ""
     },
@@ -4570,7 +4570,7 @@
       "ident_android": "calibration_temperature_offset",
       "en": "Temperature offset",
       "fi": "Lämpötilapoikkeama",
-      "ru": "",
+      "ru": "Калибровка по температуре",
       "sv": "",
       "fr": ""
     },
@@ -4579,7 +4579,7 @@
       "ident_android": "calibration_humidity_offset",
       "en": "Humidity offset",
       "fi": "Kosteuspoikkeama",
-      "ru": "",
+      "ru": "Калибровка по влажности",
       "sv": "",
       "fr": ""
     },
@@ -4588,7 +4588,7 @@
       "ident_android": "calibration_pressure_offset",
       "en": "Pressure offset",
       "fi": "Painepoikkeama",
-      "ru": "",
+      "ru": "Калибровка по давлению",
       "sv": "",
       "fr": ""
     },
@@ -4597,7 +4597,7 @@
       "ident_android": "offset_correction",
       "en": "Offset correction",
       "fi": "Kalibrointi",
-      "ru": "",
+      "ru": "Калибровка",
       "sv": "",
       "fr": ""
     },
@@ -4615,7 +4615,7 @@
       "ident_android": "",
       "en": "OFFSET CORRECTION",
       "fi": "KALIBROINTI",
-      "ru": "",
+      "ru": "КАЛИБРОВКИ",
       "sv": "",
       "fr": ""
     },
@@ -4624,7 +4624,7 @@
       "ident_android": "",
       "en": "Temperature",
       "fi": "Lämpötila",
-      "ru": "",
+      "ru": "Температура",
       "sv": "",
       "fr": ""
     },
@@ -4633,7 +4633,7 @@
       "ident_android": "",
       "en": "Humidity",
       "fi": "Kosteus",
-      "ru": "",
+      "ru": "Влажность",
       "sv": "",
       "fr": ""
     },
@@ -4642,7 +4642,7 @@
       "ident_android": "",
       "en": "Pressure",
       "fi": "Paine",
-      "ru": "",
+      "ru": "Давление",
       "sv": "",
       "fr": ""
     },
@@ -4651,7 +4651,7 @@
       "ident_android": "",
       "en": "Charts",
       "fi": "Histogrammit",
-      "ru": "",
+      "ru": "Графики",
       "sv": "",
       "fr": ""
     },
@@ -4660,7 +4660,7 @@
       "ident_android": "",
       "en": "Network",
       "fi": "Verkko",
-      "ru": "",
+      "ru": "Облако",
       "sv": "",
       "fr": ""
     },
@@ -4669,7 +4669,7 @@
       "ident_android": "",
       "en": "Pull Interval",
       "fi": "Tiedonhakuväli",
-      "ru": "",
+      "ru": "Интервал Синхронизации",
       "sv": "",
       "fr": ""
     },
@@ -4696,7 +4696,7 @@
       "ident_android": "",
       "en": "Failed to find or generate background image",
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
-      "ru": "",
+      "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "",
       "fr": ""
     },
@@ -4705,7 +4705,7 @@
       "ident_android": "",
       "en": "Both local and MAC identifiers are nil",
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
-      "ru": "",
+      "ru": "Локальный индентификатор и MAC-адрес не определены",
       "sv": "",
       "fr": ""
     },
@@ -4714,7 +4714,7 @@
       "ident_android": "",
       "en": "Empty response",
       "fi": "Tyhjä vastaus",
-      "ru": "",
+      "ru": "Пустой ответ",
       "sv": "",
       "fr": ""
     },
@@ -4732,7 +4732,7 @@
       "ident_android": "",
       "en": "Unexpected HTTP status code",
       "fi": "Odottamaton HTTP-tilakoodi",
-      "ru": "",
+      "ru": "Неожиданный код статуса HTTP",
       "sv": "",
       "fr": ""
     },
@@ -4741,7 +4741,7 @@
       "ident_android": "",
       "en": "Not authorized",
       "fi": "Ei valtuutusta",
-      "ru": "",
+      "ru": "Не авторизован",
       "sv": "",
       "fr": ""
     },
@@ -4777,7 +4777,7 @@
       "ident_android": "",
       "en": "Picture URL is nil",
       "fi": "Kuvan URL puuttuu",
-      "ru": "",
+      "ru": "Пустой URL картинки",
       "sv": "",
       "fr": ""
     },
@@ -4786,7 +4786,7 @@
       "ident_android": "",
       "en": "MAC identifier is nil",
       "fi": "MAC-tunniste puuttuu",
-      "ru": "",
+      "ru": "Пустой MAC-адрес",
       "sv": "",
       "fr": ""
     },
@@ -4804,7 +4804,7 @@
       "ident_android": "network_sharing_disabled",
       "en": "Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one, get it on ruuvi.com",
       "fi": "Voit jakaa vain Ruuvi Gateway -reitittimen läheisyydessä olevia antureita. Lisätietoja reitittimestä osoitteesta ruuvi.com",
-      "ru": "",
+      "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway. Если у вас нет Gateway, вы можете приобрести его на ruuvi.com",
       "sv": "",
       "fr": ""
     },
@@ -4813,7 +4813,7 @@
       "ident_android": "",
       "en": "Both local and MAC identifiers are nil",
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
-      "ru": "",
+      "ru": "Локальный идентификатор и MAC-адрес пустые",
       "sv": "",
       "fr": ""
     },
@@ -4822,7 +4822,7 @@
       "ident_android": "",
       "en": "Failed to parse response.",
       "fi": "Vastauksen kjäsentäminen epäonnistui",
-      "ru": "",
+      "ru": "Не удалось распарсить ответ",
       "sv": "",
       "fr": ""
     },
@@ -4831,7 +4831,7 @@
       "ident_android": "",
       "en": "Failed to find or generate background image",
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
-      "ru": "",
+      "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "",
       "fr": ""
     },
@@ -4849,7 +4849,7 @@
       "ident_android": "",
       "en": "Update Firmware",
       "fi": "Päivitä laiteohjelmisto",
-      "ru": "",
+      "ru": "Обновить Прошивку",
       "sv": "",
       "fr": ""
     },
@@ -4858,7 +4858,7 @@
       "ident_android": "",
       "en": "DOWNLOAD LATEST FIRMWARE",
       "fi": "LATAA UUSIN LAITEOHJELMISTO",
-      "ru": "",
+      "ru": "СКАЧАТЬ ПОСЛЕДНЮЮ ПРОШИВКУ",
       "sv": "",
       "fr": ""
     },
@@ -4867,7 +4867,7 @@
       "ident_android": "",
       "en": "To start with the updating process, download first the latest software package on that device you're going to use for updating. Latest version is available on ruuvi.com/software-update",
       "fi": "Lataa uusin saatavilla oleva ohjelmistopaketti ennen päivityksen aloittamista. Uusin versio on ladattavissa osoitteesta ruuvi.com/software-update",
-      "ru": "",
+      "ru": "Чтобы начать процесс обновления, скачайте последнюю прошивку для целевого устройства. Последняя версия прошивки доступна на сайте ruuvi.com/software-update",
       "sv": "",
       "fr": ""
     },
@@ -4876,7 +4876,7 @@
       "ident_android": "",
       "en": "SET RUUVI TAG TO DFU MODE",
       "fi": "ASETA RUUVI-ANTURI DFU-TILAAN",
-      "ru": "",
+      "ru": "ПЕРЕВЕДИТЕ RUUVI TAG В DFU-РЕЖИМ",
       "sv": "",
       "fr": ""
     },
@@ -4885,7 +4885,7 @@
       "ident_android": "",
       "en": "Open the RuuviTag's enclosure by pulling it open by fingers or gently with a flat head screw driver.\\n\\nSet RuuviTag to bootloader mode by holding down button B and pressing reset button R. Red indicator LED light will light up and stay on. If your device has only 1 button, keep it pressed 10 seconds to enter the bootloader.",
       "fi": "Avaa anturin suojakotelo vetämällä kansiosa erilleen kotelon pohjasta sormin tai tasapäisen ruuvimeisselin avulla.\\n\\nAseta RuuviTag päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R. Punainen LED-valo on aktiivinen laitteen ollessa bootloader-tilassa. Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike.",
-      "ru": "",
+      "ru": "Осторожно откройте RuuviTag пальцами или отверткой.\\n\\nВведите RuuviTag в режим обновления прошивки, зажав кнопку B и нажав на кнопку перезагрузки R. Красная лампочка загорится и будет продолжать гореть. Если на вашем устройстве только одна кнопка, зажмите ее на 10 секунд.",
       "sv": "",
       "fr": ""
     },
@@ -4894,7 +4894,7 @@
       "ident_android": "",
       "en": "NEXT",
       "fi": "SEURAAVA",
-      "ru": "",
+      "ru": "ДАЛЕЕ",
       "sv": "",
       "fr": ""
     },
@@ -4903,7 +4903,7 @@
       "ident_android": "",
       "en": "Devices",
       "fi": "Laitteet",
-      "ru": "",
+      "ru": "Устройства",
       "sv": "",
       "fr": ""
     },
@@ -4911,8 +4911,8 @@
       "ident_ios": "DfuDevicesScanner.Description.text",
       "ident_android": "",
       "en": "Find and select sensor \\\"RuuviBoot\\\"",
-      "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\",
-      "ru": "",
+      "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\"",
+      "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
       "sv": "",
       "fr": ""
     },
@@ -4957,7 +4957,7 @@
       "ident_android": "",
       "en": "DFU Flash",
       "fi": "DFU-päivitys",
-      "ru": "",
+      "ru": "DFU",
       "sv": "",
       "fr": ""
     },
@@ -4966,7 +4966,7 @@
       "ident_android": "",
       "en": "Progress",
       "fi": "Edistyminen",
-      "ru": "",
+      "ru": "Прогресс",
       "sv": "",
       "fr": ""
     },
@@ -4975,7 +4975,7 @@
       "ident_android": "",
       "en": "Step",
       "fi": "Vaihe",
-      "ru": "",
+      "ru": "Шаг",
       "sv": "",
       "fr": ""
     },
@@ -4984,7 +4984,7 @@
       "ident_android": "",
       "en": "Package Selection",
       "fi": "Valitse päivityspaketti",
-      "ru": "",
+      "ru": "Выбор Прошивки",
       "sv": "",
       "fr": ""
     },
@@ -4993,7 +4993,7 @@
       "ident_android": "",
       "en": "Ready For Upload",
       "fi": "Valmis ladattavaksi",
-      "ru": "",
+      "ru": "Готово к Загрузке",
       "sv": "",
       "fr": ""
     },
@@ -5002,7 +5002,7 @@
       "ident_android": "",
       "en": "Uploading",
       "fi": "Ladataan",
-      "ru": "",
+      "ru": "Загружаю",
       "sv": "",
       "fr": ""
     },
@@ -5011,7 +5011,7 @@
       "ident_android": "",
       "en": "Completed",
       "fi": "Valmis",
-      "ru": "",
+      "ru": "Успешно",
       "sv": "",
       "fr": ""
     },
@@ -5020,7 +5020,7 @@
       "ident_android": "",
       "en": "OPEN DOCUMENT PICKER",
       "fi": "AVAA TIEDOSTOVALITSIN",
-      "ru": "",
+      "ru": "ОТКРЫТЬ ФАЙЛ",
       "sv": "",
       "fr": ""
     },
@@ -5029,7 +5029,7 @@
       "ident_android": "",
       "en": "Locate the previously downloaded ZIP file on your mobile",
       "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto",
-      "ru": "",
+      "ru": "Выберите ранее загруженный ZIP файл",
       "sv": "",
       "fr": ""
     },
@@ -5038,7 +5038,7 @@
       "ident_android": "",
       "en": "File Name",
       "fi": "Tiedoston Nimi",
-      "ru": "",
+      "ru": "Имя Файла",
       "sv": "",
       "fr": ""
     },
@@ -5047,7 +5047,7 @@
       "ident_android": "",
       "en": "Parts",
       "fi": "Osat",
-      "ru": "",
+      "ru": "Части",
       "sv": "",
       "fr": ""
     },
@@ -5056,7 +5056,7 @@
       "ident_android": "",
       "en": "Size",
       "fi": "Koko",
-      "ru": "",
+      "ru": "Размер",
       "sv": "",
       "fr": ""
     },
@@ -5065,7 +5065,7 @@
       "ident_android": "",
       "en": "Soft Device Size",
       "fi": "Soft Device koko",
-      "ru": "",
+      "ru": "Soft Device Размер",
       "sv": "",
       "fr": ""
     },
@@ -5074,7 +5074,7 @@
       "ident_android": "",
       "en": "Bootloader Size",
       "fi": "Bootloader koko",
-      "ru": "",
+      "ru": "Размер Загрузчика",
       "sv": "",
       "fr": ""
     },
@@ -5083,7 +5083,7 @@
       "ident_android": "",
       "en": "CANCEL",
       "fi": "PERUUTA",
-      "ru": "",
+      "ru": "ОТМЕНА",
       "sv": "",
       "fr": ""
     },
@@ -5092,7 +5092,7 @@
       "ident_android": "",
       "en": "Start",
       "fi": "Aloita",
-      "ru": "",
+      "ru": "Начать",
       "sv": "",
       "fr": ""
     },
@@ -5101,7 +5101,7 @@
       "ident_android": "",
       "en": "FINISH",
       "fi": "VALMIS",
-      "ru": "",
+      "ru": "УСПЕХ",
       "sv": "",
       "fr": ""
     },
@@ -5110,7 +5110,7 @@
       "ident_android": "",
       "en": "Firmware update process has completed successfully.\n\n\n\nYour RuuviTag sensor is ready for use!",
       "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuviTag on valmis käyttöön!",
-      "ru": "",
+      "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш RuuviTag готов к использованию!",
       "sv": "",
       "fr": ""
     },
@@ -5119,7 +5119,7 @@
       "ident_android": "",
       "en": "Are you sure you want to cancel firmware update process?",
       "fi": "Haluatko varmasti peruuttaa laiteohjelmistopäivityksen?",
-      "ru": "",
+      "ru": "Вы уверены что хотите прервать процесс обновления прошивки?",
       "sv": "",
       "fr": ""
     },
@@ -5128,7 +5128,7 @@
       "ident_android": "",
       "en": "Invalid firmware file",
       "fi": "Tiedosto ei sisällä sopivaa laiteohjelmistoa",
-      "ru": "",
+      "ru": "Некорректный файл прошивки",
       "sv": "",
       "fr": ""
     }
