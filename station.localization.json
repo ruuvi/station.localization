@@ -3909,7 +3909,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "TagsManager.SignOutButton",
+      "ident_ios": "Menu.SignOut.text",
       "ident_android": "sign_out",
       "en": "Sign out",
       "fi": "Kirjaudu ulos",
@@ -4044,7 +4044,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Syncing...",
       "ident_android": "network_syncing",
       "en": "Syncing…",
       "fi": "Synkronoidaan…",
@@ -4083,7 +4083,7 @@
       "ident_ios": "MenuTableViewController.None",
       "ident_android": "none",
       "en": "none",
-      "fi": "ei valittu",
+      "fi": "ei kirjautunut",
       "ru": "нет",
       "sv": "",
       "fr": ""
@@ -4215,7 +4215,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Menu.RuuviNetworkStatus.text",
       "ident_android": "network_status_title",
       "en": "Ruuvi Network status",
       "fi": "Ruuvi Networkin tila",
