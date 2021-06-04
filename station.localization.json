@@ -2855,7 +2855,7 @@
       "fr": "Ouvrir le menu"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "No",
       "ident_android": "no",
       "en": "No",
       "fi": "Ei",
@@ -3747,7 +3747,7 @@
       "fr": "Afficher les capteurs à proximité en appuyant sur BALAYAGE"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Yes",
       "ident_android": "yes",
       "en": "Yes",
       "fi": "Kyllä",
