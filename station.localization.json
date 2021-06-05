@@ -294,7 +294,7 @@
       "en": "Unable to send email",
       "fi": "Sähköpostin lähetys epäonnistui",
       "ru": "Невозможно отправить электронное письмо",
-      "sv": "Kunde inte skicka email",
+      "sv": "Kunde inte skicka e-post",
       "fr": "Echec de l'envoi du mail"
     },
     {
@@ -1635,7 +1635,7 @@
       "en": "FIRMWARE",
       "fi": "",
       "ru": "ПРОШИВКА",
-      "sv": "",
+      "sv": "PROGRAMVARA",
       "fr": ""
     },
     {
@@ -1644,7 +1644,7 @@
       "en": "Update Firmware",
       "fi": "",
       "ru": "Обновить прошивку",
-      "sv": "",
+      "sv": "Uppdatera Programvara",
       "fr": ""
     },
     {
@@ -3112,7 +3112,7 @@
       "en": "Send Email",
       "fi": "Lähetä sähköpostia",
       "ru": "Отправить электронное письмо",
-      "sv": "Skicka email",
+      "sv": "Skicka e-post",
       "fr": "Envoyer un email"
     },
     {
@@ -3761,7 +3761,7 @@
       "en": "Ruuvi Station",
       "fi": "Ruuvi Station",
       "ru": "Ruuvi Station",
-      "sv": "",
+      "sv": "Ruuvi Station",
       "fr": "Ruuvi Station"
     },
     {
@@ -3896,7 +3896,7 @@
       "en": "Alerts Mute Interval",
       "fi": "Hälytysten mykistysväli",
       "ru": "Интервал Отключения Уведомлений",
-      "sv": "",
+      "sv": "Alarmavstängningsintervall",
       "fr": ""
     },
     {
@@ -3905,7 +3905,7 @@
       "en": "Sign in",
       "fi": "Kirjaudu sisään",
       "ru": "Войти",
-      "sv": "",
+      "sv": "Logga in",
       "fr": ""
     },
     {
@@ -3914,7 +3914,7 @@
       "en": "Sign out",
       "fi": "Kirjaudu ulos",
       "ru": "Выйти из сети",
-      "sv": "",
+      "sv": "Logga ut",
       "fr": ""
     },
     {
@@ -3923,7 +3923,7 @@
       "en": "After signing in, you will be automatically marked as an owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
       "fi": "Sinut merkitään lähelläsi olevien Ruuvi-anturien omistajaksi sisäänkirjautumisen yhteydessä. Kaikki omistajan vaatimat anturit palautetaan verkosta sovelluksen uudelleenasennuksen yhteydessä.\\n\\nRuuvi Gatewayn avulla voit tarkastella omistamiasi antureita etänä ja jakaa niitä ystävillesi verkossa.",
       "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
-      "sv": "",
+      "sv": "Efter inloggning markeras du automatiskt som ägare till dina närliggande Ruuvi-sensorer. Sensorernas ägare kommer att återställas om appen installerats om igen.\\n\\nMed en Ruuvi Gateway kan du övervaka dina sensorer på distans och dele dem med dina vänner.",
       "fr": ""
     },
     {
@@ -3932,7 +3932,7 @@
       "en": "Benefits of Ruuvi Network",
       "fi": "Ruuvi Networkin etuja",
       "ru": "Преимущества Ruuvi Network",
-      "sv": "",
+      "sv": "Fördelar med Ruuvi Network",
       "fr": ""
     },
     {
@@ -3941,7 +3941,7 @@
       "en": "Email",
       "fi": "Sähköposti",
       "ru": "Email",
-      "sv": "",
+      "sv": "E-post",
       "fr": ""
     },
     {
@@ -3950,7 +3950,7 @@
       "en": "Login",
       "fi": "Kirjaudu",
       "ru": "Войти",
-      "sv": "",
+      "sv": "Logga in",
       "fr": ""
     },
     {
@@ -3959,7 +3959,7 @@
       "en": "Request a Code",
       "fi": "Pyydä kirjautumiskoodi",
       "ru": "Запросить код",
-      "sv": "",
+      "sv": "Begär en inloggningskod",
       "fr": ""
     },
     {
@@ -3968,7 +3968,7 @@
       "en": "Submit",
       "fi": "Lähetä",
       "ru": "Отправить",
-      "sv": "",
+      "sv": "Skicka",
       "fr": ""
     },
     {
@@ -3977,7 +3977,7 @@
       "en": "Enter code manually",
       "fi": "Syötä koodi",
       "ru": "Ввести код вручную",
-      "sv": "",
+      "sv": "Ange kod manuellt",
       "fr": ""
     },
     {
@@ -3986,7 +3986,7 @@
       "en": "Email sent",
       "fi": "Sähköposti lähetetty",
       "ru": "Email отправлен",
-      "sv": "",
+      "sv": "E-post skickat",
       "fr": ""
     },
     {
@@ -3995,7 +3995,7 @@
       "en": "Check your email for an activation code.",
       "fi": "Tarkasta aktivointikoodi saamastasi sähköpostista.",
       "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
-      "sv": "",
+      "sv": "Kontrollera din e-post efter en aktiveringskod.",
       "fr": ""
     },
     {
@@ -4004,7 +4004,7 @@
       "en": "Code",
       "fi": "Koodi",
       "ru": "Код для входа",
-      "sv": "",
+      "sv": "Kod",
       "fr": ""
     },
     {
@@ -4013,7 +4013,7 @@
       "en": "Do you want sign out?",
       "fi": "Haluatko varmasti kirjautua ulos?",
       "ru": "Хотите выйти из сети?",
-      "sv": "",
+      "sv": "Vill du logga ut?",
       "fr": ""
     },
     {
@@ -4022,7 +4022,7 @@
       "en": "Claim",
       "fi": "Vaadi",
       "ru": "Мой сенсор",
-      "sv": "",
+      "sv": "Bli ägare",
       "fr": ""
     },
     {
@@ -4031,7 +4031,7 @@
       "en": "Unclaim",
       "fi": "Vapauta",
       "ru": "Отвязать",
-      "sv": "",
+      "sv": "Frigör",
       "fr": ""
     },
     {
@@ -4040,7 +4040,7 @@
       "en": "Share",
       "fi": "Jaa",
       "ru": "Поделиться",
-      "sv": "",
+      "sv": "Dela",
       "fr": ""
     },
     {
@@ -4049,7 +4049,7 @@
       "en": "Syncing…",
       "fi": "Synkronoidaan…",
       "ru": "Синхронизация…",
-      "sv": "",
+      "sv": "Synkroniserar",
       "fr": ""
     },
     {
@@ -4058,7 +4058,7 @@
       "en": "Synchronized",
       "fi": "Synkronointi valmis",
       "ru": "Синхронизировано",
-      "sv": "",
+      "sv": "Synkronisering klar",
       "fr": ""
     },
     {
@@ -4067,7 +4067,7 @@
       "en": "Synchronized: {%@^%1$s}",
       "fi": "Synkronoitu: {%@^%1$s}",
       "ru": "Синхронизировано: {%@^%1$s}",
-      "sv": "",
+      "sv": "Synkroniserat: {%@^%1$s}",
       "fr": ""
     },
     {
@@ -4076,7 +4076,7 @@
       "en": "never",
       "fi": "koskaan",
       "ru": "никогда",
-      "sv": "",
+      "sv": "aldrig",
       "fr": ""
     },
     {
@@ -4085,7 +4085,7 @@
       "en": "none",
       "fi": "ei kirjautunut",
       "ru": "нет",
-      "sv": "",
+      "sv": "ingen",
       "fr": ""
     },
     {
@@ -4094,7 +4094,7 @@
       "en": "User: {%@^%1$s}",
       "fi": "Käyttäjä: {%@^%1$s}",
       "ru": "Пользователь: {%@^%1$s}",
-      "sv": "",
+      "sv": "Användare: {%@^%1$s}",
       "fr": ""
     },
     {
@@ -4103,7 +4103,7 @@
       "en": "Synchronized successfully!",
       "fi": "Synkronointi onnistui!",
       "ru": "Синхронизировано успешно!",
-      "sv": "",
+      "sv": "Synkroniseringen lyckades!",
       "fr": ""
     },
     {
@@ -4112,7 +4112,7 @@
       "en": "Synchronization failed: %1$s",
       "fi": "Synkronointi epäonnistui: %1$s",
       "ru": "Ошибка синхронизации: %1$s",
-      "sv": "",
+      "sv": "Synkroniseringen misslyckades: %1$s",
       "fr": ""
     },
     {
@@ -4121,7 +4121,7 @@
       "en": "Synchronization failed: need to log in first",
       "fi": "Synkronointi epäonnistui: kirjaudu ensin",
       "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
-      "sv": "",
+      "sv": "Synkroniseringen misslyckades: du måste vara inloggad",
       "fr": ""
     },
     {
@@ -4130,7 +4130,7 @@
       "en": "Share Ruuvi sensor",
       "fi": "Jaa anturi",
       "ru": "Поделиться датчиком Ruuvi",
-      "sv": "",
+      "sv": "Dela sensor",
       "fr": ""
     },
     {
@@ -4139,7 +4139,7 @@
       "en": "Share your Ruuvi sensor. Add your friend's email address (10 max)",
       "fi": "Jaa anturitiedot verkossa lisäämällä ystäväsi sähköpostiosoite (maks. 10)",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
-      "sv": "",
+      "sv": "Dela din Ruuvi sensor. Lägg till dina vänners e-postadresser (max 10).",
       "fr": ""
     },
     {
@@ -4148,7 +4148,7 @@
       "en": "Add friend",
       "fi": "Lisää ystävä",
       "ru": "Добавить друга",
-      "sv": "",
+      "sv": "Lägg till vän",
       "fr": ""
     },
     {
@@ -4157,7 +4157,7 @@
       "en": "Type email",
       "fi": "Anna sähköpostiosoite",
       "ru": "Введите email",
-      "sv": "",
+      "sv": "Ange e-postadress",
       "fr": ""
     },
     {
@@ -4166,7 +4166,7 @@
       "en": "Already shared %d/%d",
       "fi": "Anturi on jo jaettu %d/%d",
       "ru": "Предоставлен доступ %d/%d",
-      "sv": "",
+      "sv": "Sensorn är redan delad %d/%d",
       "fr": ""
     },
     {
@@ -4175,7 +4175,7 @@
       "en": "Send",
       "fi": "Lähetä",
       "ru": "Отправить",
-      "sv": "",
+      "sv": "Skicka",
       "fr": ""
     },
     {
@@ -4184,7 +4184,7 @@
       "en": "Already shared",
       "fi": "Anturi on jo jaettu",
       "ru": "Поделились",
-      "sv": "",
+      "sv": "Sensorn är redan delad",
       "fr": ""
     },
     {
@@ -4193,7 +4193,7 @@
       "en": "Do you want to unshare sensor for {%@^%1$s}?",
       "fi": "Haluatko lopettaa anturin jakamisen käyttäjälle {%@^%1$s}?",
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
-      "sv": "",
+      "sv": "Vill du sluta dela sensorn med {%@^%1$s}?",
       "fr": ""
     },
     {
@@ -4202,7 +4202,7 @@
       "en": "NETWORK INFO",
       "fi": "VERKON TIEDOT",
       "ru": "Данные сети",
-      "sv": "",
+      "sv": "NÄTVERKSINFO",
       "fr": ""
     },
     {
@@ -4211,7 +4211,7 @@
       "en": "Owner",
       "fi": "Omistaja",
       "ru": "Владелец",
-      "sv": "",
+      "sv": "Ägare",
       "fr": ""
     },
     {
@@ -4220,7 +4220,7 @@
       "en": "Ruuvi Network status",
       "fi": "Ruuvi Networkin tila",
       "ru": "Статус сети Ruuvi",
-      "sv": "",
+      "sv": "Ruuvi Network status",
       "fr": ""
     },
     {
@@ -4229,7 +4229,7 @@
       "en": "Login to\\nRuuvi\\nNetwork",
       "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
       "ru": "Войти в\\nRuuvi\\nNetwork",
-      "sv": "",
+      "sv": "Logga in till\\nRuuvi\\nNetwork",
       "fr": ""
     },
     {
@@ -4238,7 +4238,7 @@
       "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
       "fi": "Hyödynnä kaikki Ruuvi Network mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
       "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
-      "sv": "",
+      "sv": "Dra full nytta av Ruuvi Network! Logga in eller skapa ett nytt Ruuvi-konto genom att ange din e-postadress.",
       "fr": ""
     },
     {
@@ -4247,7 +4247,7 @@
       "en": "SKIP",
       "fi": "OHITA",
       "ru": "ПРОПУСТИТЬ",
-      "sv": "",
+      "sv": "SKIPPA",
       "fr": ""
     },
     {
@@ -4256,7 +4256,7 @@
       "en": "beta",
       "fi": "beta",
       "ru": "бета",
-      "sv": "",
+      "sv": "beta",
       "fr": ""
     },
     {
@@ -4265,7 +4265,7 @@
       "en": "verification code in format: CJSM",
       "fi": "vahvistuskoodi muodossa: CJSM",
       "ru": "код подтверждения в формате: CJSM",
-      "sv": "",
+      "sv": "verifieringskod i format CJSM",
       "fr": ""
     },
     {
@@ -4274,7 +4274,7 @@
       "en": "Forbidden",
       "fi": "Kielletty",
       "ru": "Запрещено",
-      "sv": "",
+      "sv": "Förbjuden",
       "fr": ""
     },
     {
@@ -4283,7 +4283,7 @@
       "en": "Unauthorized",
       "fi": "Ei sallittu",
       "ru": "Требуется авторизация",
-      "sv": "",
+      "sv": "Obehörig",
       "fr": ""
     },
     {
@@ -4292,7 +4292,7 @@
       "en": "Internal error",
       "fi": "Sisäinen virhe",
       "ru": "Внутренняя ошибка",
-      "sv": "",
+      "sv": "Internt fel",
       "fr": ""
     },
     {
@@ -4301,7 +4301,7 @@
       "en": "Invalid request format",
       "fi": "Virheellinen pyynnön muoto",
       "ru": "Неправильный формат запроса",
-      "sv": "",
+      "sv": "Ogiltigt förfrågningsformat",
       "fr": ""
     },
     {
@@ -4310,7 +4310,7 @@
       "en": "User not found",
       "fi": "Käyttäjää ei löydy",
       "ru": "Пользователь не найден",
-      "sv": "",
+      "sv": "Användaren hittades inte",
       "fr": ""
     },
     {
@@ -4319,7 +4319,7 @@
       "en": "Sensor not found",
       "fi": "Anturia ei löydy",
       "ru": "Сенсор не найден",
-      "sv": "",
+      "sv": "Sensorn hittades inte",
       "fr": ""
     },
     {
@@ -4328,7 +4328,7 @@
       "en": "Token is expired",
       "fi": "Tunnus on vanhentunut",
       "ru": "Токен истек",
-      "sv": "",
+      "sv": "Nyckeln har upphört att gälla",
       "fr": ""
     },
     {
@@ -4337,7 +4337,7 @@
       "en": "Subscription is not found",
       "fi": "Tilausta ei löydy",
       "ru": "Подписка не найдена",
-      "sv": "",
+      "sv": "Prenumerationen hittades inte",
       "fr": ""
     },
     {
@@ -4346,7 +4346,7 @@
       "en": "The share limit is reached",
       "fi": "Jaon maksimimäärä on ylitetty",
       "ru": "Достигнут лимит количества общих сенсоров",
-      "sv": "",
+      "sv": "Maximal delning har överskridits",
       "fr": ""
     },
     {
@@ -4355,7 +4355,7 @@
       "en": "Sensor share limit is reached",
       "fi": "Et voi jakaa anturia useammalle käyttäjälle",
       "ru": "Превышено количество общих сенсоров",
-      "sv": "",
+      "sv": "Du kan inte dela sensorn med flera användare",
       "fr": ""
     },
     {
@@ -4364,7 +4364,7 @@
       "en": "In order to share the sensor, you need to save data to the Ruuvi Network first",
       "fi": "Tallenna tiedot ensin Ruuvi Networkiin ja yritä jakaa anturi uudestaan",
       "ru": "Чтобы поделиться сенсором, нужны сохраненные данные в Ruuvi Network",
-      "sv": "",
+      "sv": "För att dela sensorn måste du först spara data till Ruuvi Network",
       "fr": ""
     },
     {
@@ -4373,7 +4373,7 @@
       "en": "This sensor is already shared",
       "fi": "Tämä anturi on jo jaettu",
       "ru": "Вы уже делились этим сенсором",
-      "sv": "",
+      "sv": "Sensorn är redan delad",
       "fr": ""
     },
     {
@@ -4382,7 +4382,7 @@
       "en": "Unable to send e-mail",
       "fi": "Sähköpostin lähetys epäonnistui",
       "ru": "Не удалось отправить e-mail",
-      "sv": "",
+      "sv": "Kunde inte skicka e-post",
       "fr": ""
     },
     {
@@ -4391,7 +4391,7 @@
       "en": "Missing argument",
       "fi": "Argumentti puuttuu",
       "ru": "Пропущен аргумент запроса",
-      "sv": "",
+      "sv": "Argument saknas",
       "fr": ""
     },
     {
@@ -4400,7 +4400,7 @@
       "en": "Invalid density mode",
       "fi": "Virheellinen tiheuden tila",
       "ru": "Недопустимый режим плотности",
-      "sv": "",
+      "sv": "Ogiltig densitet",
       "fr": ""
     },
     {
@@ -4409,7 +4409,7 @@
       "en": "Invalid sort mode",
       "fi": "Virheellinen lajittelun tila",
       "ru": "Выбран недопустимый метод сортировки",
-      "sv": "",
+      "sv": "Ogiltig sortering",
       "fr": ""
     },
     {
@@ -4418,7 +4418,7 @@
       "en": "Invalid time range",
       "fi": "Virheellinen aikaväli",
       "ru": "Выбран недопустимый промежуток времени",
-      "sv": "",
+      "sv": "Ogiltigt intervall",
       "fr": ""
     },
     {
@@ -4427,7 +4427,7 @@
       "en": "Invalid e-mail address",
       "fi": "Virheellinen sähköpostiosoite",
       "ru": "Недопустимый e-mail",
-      "sv": "",
+      "sv": "Ogiltig e-postaddress",
       "fr": ""
     },
     {
@@ -4436,7 +4436,7 @@
       "en": "Invalid MAC-address",
       "fi": "Virheellinen MAC-osoite",
       "ru": "Недопустимый MAC-адрес",
-      "sv": "",
+      "sv": "Ogiltig MAC-address",
       "fr": ""
     },
     {
@@ -4445,7 +4445,7 @@
       "en": "Data storage error",
       "fi": "Tallennusvirhe",
       "ru": "Ошибка сохранения данных",
-      "sv": "",
+      "sv": "Datalagringsfel",
       "fr": ""
     },
     {
@@ -4454,7 +4454,7 @@
       "en": "No user",
       "fi": "Ei käyttäjää",
       "ru": "Нет пользователя",
-      "sv": "",
+      "sv": "Ingen användare",
       "fr": ""
     },
     {
@@ -4463,7 +4463,7 @@
       "en": "Experimental features",
       "fi": "Kokeelliset ominaisuudet",
       "ru": "Экспериментальные функции",
-      "sv": "",
+      "sv": "Experimentella funktioner",
       "fr": ""
     },
     {
@@ -4472,7 +4472,7 @@
       "en": "In normal use, it's not necessary to adjust the offset.\\n\\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\\n\\nCalibration tips are available on ruuvi.com/support",
       "fi": "Anturin kalibrointi ei ole tarpeellista normaalissa käytössä.\\n\\nTämä ominaisuus on tarkoitettu edistyneille käyttäjille.\\n\\nKalibroinnin lisäohjeet löytyvät osoitteesta ruuvi.com/support",
       "ru": "Обычно нет необходимости калибровать датчики.\\n\\nОднако, если вы продивнутый пользователь и хотите вручную откалибровать настроенные на заводе сенсоры, это возможно.\\n\\nПодсказки и информация доступны на сайте ruuvi.com/support",
-      "sv": "",
+      "sv": "Vid normal användning är det inte nödvändigt att kalibrera sensorerna.\\n\\nOm du är en avancerad användare och vill kalibrera manuellt är det möjligt att göra det.\\n\\nKalibreringstips finns på ruuvi.com/support",
       "fr": ""
     },
     {
@@ -4499,7 +4499,7 @@
       "en": "Clear calibration settings?",
       "fi": "Poista kalibrointiasetuset?",
       "ru": "Сбросить настройки калибровки?",
-      "sv": "",
+      "sv": "Renas kalibereringsinställningar?",
       "fr": ""
     },
     {
@@ -4508,7 +4508,7 @@
       "en": "(Offset {%@^%1$s})",
       "fi": "(Poikkeama {%@^%1$s})",
       "ru": "(Калибровка {%@^%1$s})",
-      "sv": "",
+      "sv": "(Offset {%@^%1$s})",
       "fr": ""
     },
     {
@@ -4517,7 +4517,7 @@
       "en": "Calibration setup",
       "fi": "Kalibrointi",
       "ru": "Настройка калибровок",
-      "sv": "",
+      "sv": "Kalibreringsinställningar",
       "fr": ""
     },
     {
@@ -4526,7 +4526,7 @@
       "en": "Enter temperature value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu lämpötila tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение температуры в текущих условиях ({%@^%1$s}): ",
-      "sv": "",
+      "sv": "Ange temperaturen som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": ""
     },
     {
@@ -4535,7 +4535,7 @@
       "en": "Enter pressure value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu paine tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение давления в текущих условиях ({%@^%1$s}): ",
-      "sv": "",
+      "sv": "Ange lufttrycket som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": ""
     },
     {
@@ -4544,7 +4544,7 @@
       "en": "Enter humidity value expected from sensor in current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu kosteus tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение влажности в текущих условиях ({%@^%1$s}): ",
-      "sv": "",
+      "sv": "Ange fuktigheten som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": ""
     },
     {
@@ -4553,7 +4553,7 @@
       "en": "Original measured value",
       "fi": "Alkuperäinen arvo",
       "ru": "Измеренное значение",
-      "sv": "",
+      "sv": "Ursprungligt värde",
       "fr": ""
     },
     {
@@ -4562,7 +4562,7 @@
       "en": "Corrected value",
       "fi": "Korjattu arvo",
       "ru": "Откалиброванное значение",
-      "sv": "",
+      "sv": "Korrigerat värde",
       "fr": ""
     },
     {
@@ -4571,7 +4571,7 @@
       "en": "Temperature offset",
       "fi": "Lämpötilapoikkeama",
       "ru": "Калибровка по температуре",
-      "sv": "",
+      "sv": "Temperatur offset",
       "fr": ""
     },
     {
@@ -4580,7 +4580,7 @@
       "en": "Humidity offset",
       "fi": "Kosteuspoikkeama",
       "ru": "Калибровка по влажности",
-      "sv": "",
+      "sv": "Fuktighet offset",
       "fr": ""
     },
     {
@@ -4589,7 +4589,7 @@
       "en": "Pressure offset",
       "fi": "Painepoikkeama",
       "ru": "Калибровка по давлению",
-      "sv": "",
+      "sv": "Lufttryck offset",
       "fr": ""
     },
     {
@@ -4598,7 +4598,7 @@
       "en": "Offset correction",
       "fi": "Kalibrointi",
       "ru": "Калибровка",
-      "sv": "",
+      "sv": "Kalibrering",
       "fr": ""
     },
     {
@@ -4616,7 +4616,7 @@
       "en": "OFFSET CORRECTION",
       "fi": "KALIBROINTI",
       "ru": "КАЛИБРОВКИ",
-      "sv": "",
+      "sv": "KALIBRERING",
       "fr": ""
     },
     {
@@ -4625,7 +4625,7 @@
       "en": "Temperature",
       "fi": "Lämpötila",
       "ru": "Температура",
-      "sv": "",
+      "sv": "Temperatur",
       "fr": ""
     },
     {
@@ -4634,7 +4634,7 @@
       "en": "Humidity",
       "fi": "Kosteus",
       "ru": "Влажность",
-      "sv": "",
+      "sv": "Fuktighet",
       "fr": ""
     },
     {
@@ -4643,7 +4643,7 @@
       "en": "Pressure",
       "fi": "Paine",
       "ru": "Давление",
-      "sv": "",
+      "sv": "Lufttryck",
       "fr": ""
     },
     {
@@ -4652,7 +4652,7 @@
       "en": "Charts",
       "fi": "Histogrammit",
       "ru": "Графики",
-      "sv": "",
+      "sv": "Histogram",
       "fr": ""
     },
     {
@@ -4661,7 +4661,7 @@
       "en": "Network",
       "fi": "Verkko",
       "ru": "Облако",
-      "sv": "",
+      "sv": "Nätverk",
       "fr": ""
     },
     {
@@ -4670,7 +4670,7 @@
       "en": "Pull Interval",
       "fi": "Tiedonhakuväli",
       "ru": "Интервал Синхронизации",
-      "sv": "",
+      "sv": "Datahämtningsintervall",
       "fr": ""
     },
     {
@@ -4679,7 +4679,7 @@
       "en": "Choose from files",
       "fi": "Valitse tiedostoista",
       "ru": "Выбрать из файлов",
-      "sv": "",
+      "sv": "Välj från filer",
       "fr": ""
     },
     {
@@ -4688,7 +4688,7 @@
       "en": "Please enter verification code",
       "fi": "Syötä vahvistuskoodi",
       "ru": "Пожалуйста, введите код подтверждения",
-      "sv": "",
+      "sv": "Ange verifieringskod",
       "fr": ""
     },
     {
@@ -4697,7 +4697,7 @@
       "en": "Failed to find or generate background image",
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
-      "sv": "",
+      "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
       "fr": ""
     },
     {
@@ -4706,7 +4706,7 @@
       "en": "Both local and MAC identifiers are nil",
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
       "ru": "Локальный индентификатор и MAC-адрес не определены",
-      "sv": "",
+      "sv": "Både lokal och MAC-ID saknas",
       "fr": ""
     },
     {
@@ -4715,7 +4715,7 @@
       "en": "Empty response",
       "fi": "Tyhjä vastaus",
       "ru": "Пустой ответ",
-      "sv": "",
+      "sv": "Tomt svar",
       "fr": ""
     },
     {
@@ -4733,7 +4733,7 @@
       "en": "Unexpected HTTP status code",
       "fi": "Odottamaton HTTP-tilakoodi",
       "ru": "Неожиданный код статуса HTTP",
-      "sv": "",
+      "sv": "Oväntad HTTP-statuskod",
       "fr": ""
     },
     {
@@ -4742,7 +4742,7 @@
       "en": "Not authorized",
       "fi": "Ei valtuutusta",
       "ru": "Не авторизован",
-      "sv": "",
+      "sv": "Inte behörig",
       "fr": ""
     },
     {
@@ -4778,7 +4778,7 @@
       "en": "Picture URL is nil",
       "fi": "Kuvan URL puuttuu",
       "ru": "Пустой URL картинки",
-      "sv": "",
+      "sv": "Bild URL saknas",
       "fr": ""
     },
     {
@@ -4787,7 +4787,7 @@
       "en": "MAC identifier is nil",
       "fi": "MAC-tunniste puuttuu",
       "ru": "Пустой MAC-адрес",
-      "sv": "",
+      "sv": "MAC-id saknas",
       "fr": ""
     },
     {
@@ -4805,7 +4805,7 @@
       "en": "Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one, get it on ruuvi.com",
       "fi": "Voit jakaa vain Ruuvi Gateway -reitittimen läheisyydessä olevia antureita. Lisätietoja reitittimestä osoitteesta ruuvi.com",
       "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway. Если у вас нет Gateway, вы можете приобрести его на ruuvi.com",
-      "sv": "",
+      "sv": "Endast sensorer inom räckhåll av din Ruuvi Gateway kan delas. Mer information finns på ruuvi.com",
       "fr": ""
     },
     {
@@ -4814,7 +4814,7 @@
       "en": "Both local and MAC identifiers are nil",
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
       "ru": "Локальный идентификатор и MAC-адрес пустые",
-      "sv": "",
+      "sv": "Både lokal och MAC-ID saknas",
       "fr": ""
     },
     {
@@ -4823,7 +4823,7 @@
       "en": "Failed to parse response.",
       "fi": "Vastauksen kjäsentäminen epäonnistui",
       "ru": "Не удалось распарсить ответ",
-      "sv": "",
+      "sv": "Det gick inte att tolka svaret.",
       "fr": ""
     },
     {
@@ -4832,7 +4832,7 @@
       "en": "Failed to find or generate background image",
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
-      "sv": "",
+      "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
       "fr": ""
     },
     {
@@ -4850,7 +4850,7 @@
       "en": "Update Firmware",
       "fi": "Päivitä laiteohjelmisto",
       "ru": "Обновить Прошивку",
-      "sv": "",
+      "sv": "Uppdatera programvara",
       "fr": ""
     },
     {
@@ -4859,7 +4859,7 @@
       "en": "DOWNLOAD LATEST FIRMWARE",
       "fi": "LATAA UUSIN LAITEOHJELMISTO",
       "ru": "СКАЧАТЬ ПОСЛЕДНЮЮ ПРОШИВКУ",
-      "sv": "",
+      "sv": "LADDA NER NYASTE PROGRAMVARA",
       "fr": ""
     },
     {
@@ -4868,7 +4868,7 @@
       "en": "To start with the updating process, download first the latest software package on that device you're going to use for updating. Latest version is available on ruuvi.com/software-update",
       "fi": "Lataa uusin saatavilla oleva ohjelmistopaketti ennen päivityksen aloittamista. Uusin versio on ladattavissa osoitteesta ruuvi.com/software-update",
       "ru": "Чтобы начать процесс обновления, скачайте последнюю прошивку для целевого устройства. Последняя версия прошивки доступна на сайте ruuvi.com/software-update",
-      "sv": "",
+      "sv": "Ladda ner det senaste tillgängliga programvarupaketet innan du startar uppgraderingen. Den senaste versionen kan laddas ner från ruuvi.com/software-update",
       "fr": ""
     },
     {
@@ -4877,7 +4877,7 @@
       "en": "SET RUUVI TAG TO DFU MODE",
       "fi": "ASETA RUUVI-ANTURI DFU-TILAAN",
       "ru": "ПЕРЕВЕДИТЕ RUUVI TAG В DFU-РЕЖИМ",
-      "sv": "",
+      "sv": "STÄLL IN RUUVI TAG I DFU-LÄGE",
       "fr": ""
     },
     {
@@ -4886,7 +4886,7 @@
       "en": "Open the RuuviTag's enclosure by pulling it open by fingers or gently with a flat head screw driver.\\n\\nSet RuuviTag to bootloader mode by holding down button B and pressing reset button R. Red indicator LED light will light up and stay on. If your device has only 1 button, keep it pressed 10 seconds to enter the bootloader.",
       "fi": "Avaa anturin suojakotelo vetämällä kansiosa erilleen kotelon pohjasta sormin tai tasapäisen ruuvimeisselin avulla.\\n\\nAseta RuuviTag päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R. Punainen LED-valo on aktiivinen laitteen ollessa bootloader-tilassa. Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike.",
       "ru": "Осторожно откройте RuuviTag пальцами или отверткой.\\n\\nВведите RuuviTag в режим обновления прошивки, зажав кнопку B и нажав на кнопку перезагрузки R. Красная лампочка загорится и будет продолжать гореть. Если на вашем устройстве только одна кнопка, зажмите ее на 10 секунд.",
-      "sv": "",
+      "sv": "Öppna sensorn genom att dra upp den med fingrarna eller försiktigt med en platt skruvmejsel.\\n\\nStäll RuuviTag i uppdateringsläge genom att hålla ned knappen B och trycka på återställningsknappen R. Den röda indikatorlampan tänds och fortsätter att lysa. Om din enhet bara har en knapp, håll den intryckt i 10 sekunder för att komma in i uppdateringsläge.",
       "fr": ""
     },
     {
@@ -4895,7 +4895,7 @@
       "en": "NEXT",
       "fi": "SEURAAVA",
       "ru": "ДАЛЕЕ",
-      "sv": "",
+      "sv": "NÄSTA",
       "fr": ""
     },
     {
@@ -4904,7 +4904,7 @@
       "en": "Devices",
       "fi": "Laitteet",
       "ru": "Устройства",
-      "sv": "",
+      "sv": "Enheter",
       "fr": ""
     },
     {
@@ -4913,7 +4913,7 @@
       "en": "Find and select sensor \\\"RuuviBoot\\\"",
       "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\"",
       "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
-      "sv": "",
+      "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
       "fr": ""
     },
     {
@@ -4958,7 +4958,7 @@
       "en": "DFU Flash",
       "fi": "DFU-päivitys",
       "ru": "DFU",
-      "sv": "",
+      "sv": "DFU-uppdatering",
       "fr": ""
     },
     {
@@ -4967,7 +4967,7 @@
       "en": "Progress",
       "fi": "Edistyminen",
       "ru": "Прогресс",
-      "sv": "",
+      "sv": "Framsteg",
       "fr": ""
     },
     {
@@ -4976,7 +4976,7 @@
       "en": "Step",
       "fi": "Vaihe",
       "ru": "Шаг",
-      "sv": "",
+      "sv": "Steg",
       "fr": ""
     },
     {
@@ -4985,7 +4985,7 @@
       "en": "Package Selection",
       "fi": "Valitse päivityspaketti",
       "ru": "Выбор Прошивки",
-      "sv": "",
+      "sv": "Välj uppdateringspaket",
       "fr": ""
     },
     {
@@ -4994,7 +4994,7 @@
       "en": "Ready For Upload",
       "fi": "Valmis ladattavaksi",
       "ru": "Готово к Загрузке",
-      "sv": "",
+      "sv": "Redo för uppladdning",
       "fr": ""
     },
     {
@@ -5003,7 +5003,7 @@
       "en": "Uploading",
       "fi": "Ladataan",
       "ru": "Загружаю",
-      "sv": "",
+      "sv": "Uppladdning",
       "fr": ""
     },
     {
@@ -5012,7 +5012,7 @@
       "en": "Completed",
       "fi": "Valmis",
       "ru": "Успешно",
-      "sv": "",
+      "sv": "Klar",
       "fr": ""
     },
     {
@@ -5021,7 +5021,7 @@
       "en": "OPEN DOCUMENT PICKER",
       "fi": "AVAA TIEDOSTOVALITSIN",
       "ru": "ОТКРЫТЬ ФАЙЛ",
-      "sv": "",
+      "sv": "ÖPPET DOKUMENTVÄLJARE",
       "fr": ""
     },
     {
@@ -5030,7 +5030,7 @@
       "en": "Locate the previously downloaded ZIP file on your mobile",
       "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto",
       "ru": "Выберите ранее загруженный ZIP файл",
-      "sv": "",
+      "sv": "Hitta ZIP-filen som du laddade ner",
       "fr": ""
     },
     {
@@ -5039,7 +5039,7 @@
       "en": "File Name",
       "fi": "Tiedoston Nimi",
       "ru": "Имя Файла",
-      "sv": "",
+      "sv": "Filnamn",
       "fr": ""
     },
     {
@@ -5048,7 +5048,7 @@
       "en": "Parts",
       "fi": "Osat",
       "ru": "Части",
-      "sv": "",
+      "sv": "Delar",
       "fr": ""
     },
     {
@@ -5057,7 +5057,7 @@
       "en": "Size",
       "fi": "Koko",
       "ru": "Размер",
-      "sv": "",
+      "sv": "Storlek",
       "fr": ""
     },
     {
@@ -5066,7 +5066,7 @@
       "en": "Soft Device Size",
       "fi": "Soft Device koko",
       "ru": "Soft Device Размер",
-      "sv": "",
+      "sv": "Soft Device storlek",
       "fr": ""
     },
     {
@@ -5075,7 +5075,7 @@
       "en": "Bootloader Size",
       "fi": "Bootloader koko",
       "ru": "Размер Загрузчика",
-      "sv": "",
+      "sv": "Bootloader storlek",
       "fr": ""
     },
     {
@@ -5084,7 +5084,7 @@
       "en": "CANCEL",
       "fi": "PERUUTA",
       "ru": "ОТМЕНА",
-      "sv": "",
+      "sv": "AVBRYT",
       "fr": ""
     },
     {
@@ -5093,7 +5093,7 @@
       "en": "Start",
       "fi": "Aloita",
       "ru": "Начать",
-      "sv": "",
+      "sv": "Börja",
       "fr": ""
     },
     {
@@ -5102,7 +5102,7 @@
       "en": "FINISH",
       "fi": "VALMIS",
       "ru": "УСПЕХ",
-      "sv": "",
+      "sv": "KLAR",
       "fr": ""
     },
     {
@@ -5111,7 +5111,7 @@
       "en": "Firmware update process has completed successfully.\n\n\n\nYour RuuviTag sensor is ready for use!",
       "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuviTag on valmis käyttöön!",
       "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш RuuviTag готов к использованию!",
-      "sv": "",
+      "sv": "Uppdateringsprocessen har slutförts.\n\n\n\nRuuviTag-sensorn är redo att användas!",
       "fr": ""
     },
     {
@@ -5120,7 +5120,7 @@
       "en": "Are you sure you want to cancel firmware update process?",
       "fi": "Haluatko varmasti peruuttaa laiteohjelmistopäivityksen?",
       "ru": "Вы уверены что хотите прервать процесс обновления прошивки?",
-      "sv": "",
+      "sv": "Är du säker på att du vill avbryta uppdateringsprocessen?",
       "fr": ""
     },
     {
@@ -5129,7 +5129,7 @@
       "en": "Invalid firmware file",
       "fi": "Tiedosto ei sisällä sopivaa laiteohjelmistoa",
       "ru": "Некорректный файл прошивки",
-      "sv": "",
+      "sv": "Ogiltig programvaruuppdateringsfil",
       "fr": ""
     }
   ]
