@@ -3879,7 +3879,7 @@
       "fi": "%1$,.3f g",
       "ru": "%1$,.3f g",
       "sv": "%1$,.3f g",
-      "fr": "%1$,.3f g"
+      "fr": "%1$,.3f g",
     },
     {
       "ident_ios": "",
@@ -3888,7 +3888,7 @@
       "fi": "%1$,.0f dBm",
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
-      "fr": "%1$,.0f dBm"
+      "fr": "%1$,.0f dBm",
     },
     {
       "ident_ios": "Defaults.AlertsMuteInterval.title",
@@ -3897,7 +3897,7 @@
       "fi": "Hälytysten mykistysväli",
       "ru": "Интервал Отключения Уведомлений",
       "sv": "Alarmavstängningsintervall",
-      "fr": ""
+      "fr": "Espacement entre deux alarmes",
     },
     {
       "ident_ios": "SignIn.Title.text",
@@ -3906,7 +3906,7 @@
       "fi": "Kirjaudu sisään",
       "ru": "Войти",
       "sv": "Logga in",
-      "fr": ""
+      "fr": "Connexion",
     },
     {
       "ident_ios": "Menu.SignOut.text",
@@ -3915,7 +3915,7 @@
       "fi": "Kirjaudu ulos",
       "ru": "Выйти из сети",
       "sv": "Logga ut",
-      "fr": ""
+      "fr": "Déconnexion",
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -3924,7 +3924,7 @@
       "fi": "Sinut merkitään lähelläsi olevien Ruuvi-anturien omistajaksi sisäänkirjautumisen yhteydessä. Kaikki omistajan vaatimat anturit palautetaan verkosta sovelluksen uudelleenasennuksen yhteydessä.\\n\\nRuuvi Gatewayn avulla voit tarkastella omistamiasi antureita etänä ja jakaa niitä ystävillesi verkossa.",
       "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
       "sv": "Efter inloggning markeras du automatiskt som ägare till dina närliggande Ruuvi-sensorer. Sensorernas ägare kommer att återställas om appen installerats om igen.\\n\\nMed en Ruuvi Gateway kan du övervaka dina sensorer på distans och dele dem med dina vänner.",
-      "fr": ""
+      "fr": "Après la connexion, vous serez automatiquement propriétaire des RuuviTags à proximité. Les capteurs couplés seront réinitialisés si vous réinstallez l'application.\\n\\ Avec un routeur Ruuvi Gateway vous pourrez contrôlez vos capteurs à distance et partager vos données avec vos amis.",
     },
     {
       "ident_ios": "",
@@ -3933,7 +3933,7 @@
       "fi": "Ruuvi Networkin etuja",
       "ru": "Преимущества Ruuvi Network",
       "sv": "Fördelar med Ruuvi Network",
-      "fr": ""
+      "fr": "Avantages du Ruuvi Network",
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -3942,7 +3942,7 @@
       "fi": "Sähköposti",
       "ru": "Email",
       "sv": "E-post",
-      "fr": ""
+      "fr": "Email",
     },
     {
       "ident_ios": "",
@@ -3951,7 +3951,7 @@
       "fi": "Kirjaudu",
       "ru": "Войти",
       "sv": "Logga in",
-      "fr": ""
+      "fr": "Connexion",
     },
     {
       "ident_ios": "SignIn.RequestCode",
@@ -3960,7 +3960,7 @@
       "fi": "Pyydä kirjautumiskoodi",
       "ru": "Запросить код",
       "sv": "Begär en inloggningskod",
-      "fr": ""
+      "fr": "Demander un code",
     },
     {
       "ident_ios": "SignIn.SubmitCode",
@@ -3969,7 +3969,7 @@
       "fi": "Lähetä",
       "ru": "Отправить",
       "sv": "Skicka",
-      "fr": ""
+      "fr": "Envoyer",
     },
     {
       "ident_ios": "",
@@ -3978,7 +3978,7 @@
       "fi": "Syötä koodi",
       "ru": "Ввести код вручную",
       "sv": "Ange kod manuellt",
-      "fr": ""
+      "fr": "Entrer le code",
     },
     {
       "ident_ios": "SignIn.EmailSent",
@@ -3987,7 +3987,7 @@
       "fi": "Sähköposti lähetetty",
       "ru": "Email отправлен",
       "sv": "E-post skickat",
-      "fr": ""
+      "fr": "Email envoyé",
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
@@ -3996,7 +3996,7 @@
       "fi": "Tarkasta aktivointikoodi saamastasi sähköpostista.",
       "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
       "sv": "Kontrollera din e-post efter en aktiveringskod.",
-      "fr": ""
+      "fr": "Le code d'activation vous a été envoyé par mail.",
     },
     {
       "ident_ios": "SignIn.CodeHint",
@@ -4005,7 +4005,7 @@
       "fi": "Koodi",
       "ru": "Код для входа",
       "sv": "Kod",
-      "fr": ""
+      "fr": "Code"
     },
     {
       "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
@@ -4014,7 +4014,7 @@
       "fi": "Haluatko varmasti kirjautua ulos?",
       "ru": "Хотите выйти из сети?",
       "sv": "Vill du logga ut?",
-      "fr": ""
+      "fr": "Voulez-vous vous déconnecter"
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Claim",
@@ -4023,7 +4023,7 @@
       "fi": "Vaadi",
       "ru": "Мой сенсор",
       "sv": "Bli ägare",
-      "fr": ""
+      "fr": "Coupler"
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Unclaim",
@@ -4032,7 +4032,7 @@
       "fi": "Vapauta",
       "ru": "Отвязать",
       "sv": "Frigör",
-      "fr": ""
+      "fr": "Découpler"
     },
     {
       "ident_ios": "TagSettings.ShareButton",
@@ -4041,7 +4041,7 @@
       "fi": "Jaa",
       "ru": "Поделиться",
       "sv": "Dela",
-      "fr": ""
+      "fr": "Partager"
     },
     {
       "ident_ios": "Syncing...",
@@ -4050,7 +4050,7 @@
       "fi": "Synkronoidaan…",
       "ru": "Синхронизация…",
       "sv": "Synkroniserar",
-      "fr": ""
+      "fr": "Synchronisation..."
     },
     {
       "ident_ios": "Synchronized",
@@ -4059,7 +4059,7 @@
       "fi": "Synkronointi valmis",
       "ru": "Синхронизировано",
       "sv": "Synkronisering klar",
-      "fr": ""
+      "fr": "Synchronisé"
     },
     {
       "ident_ios": "TagChartsPresenter.NumberOfPointsSynchronizedOverNetwork",
@@ -4068,7 +4068,7 @@
       "fi": "Synkronoitu: {%@^%1$s}",
       "ru": "Синхронизировано: {%@^%1$s}",
       "sv": "Synkroniserat: {%@^%1$s}",
-      "fr": ""
+      "fr": "Synchronisé : {%@^%1$s}"
     },
     {
       "ident_ios": "",
@@ -4077,7 +4077,7 @@
       "fi": "koskaan",
       "ru": "никогда",
       "sv": "aldrig",
-      "fr": ""
+      "fr": "jamais"
     },
     {
       "ident_ios": "MenuTableViewController.None",
@@ -4086,7 +4086,7 @@
       "fi": "ei kirjautunut",
       "ru": "нет",
       "sv": "ingen",
-      "fr": ""
+      "fr": "non connecté"
     },
     {
       "ident_ios": "MenuTableViewController.User",
@@ -4095,7 +4095,7 @@
       "fi": "Käyttäjä: {%@^%1$s}",
       "ru": "Пользователь: {%@^%1$s}",
       "sv": "Användare: {%@^%1$s}",
-      "fr": ""
+      "fr": "Utilisateur : {%@^%1$s}"
     },
     {
       "ident_ios": "",
@@ -4104,7 +4104,7 @@
       "fi": "Synkronointi onnistui!",
       "ru": "Синхронизировано успешно!",
       "sv": "Synkroniseringen lyckades!",
-      "fr": ""
+      "fr": "Synchronisation réussie!"
     },
     {
       "ident_ios": "",
@@ -4113,7 +4113,7 @@
       "fi": "Synkronointi epäonnistui: %1$s",
       "ru": "Ошибка синхронизации: %1$s",
       "sv": "Synkroniseringen misslyckades: %1$s",
-      "fr": ""
+      "fr": "Echec de la synchronisation : %1$s"
     },
     {
       "ident_ios": "",
@@ -4122,7 +4122,7 @@
       "fi": "Synkronointi epäonnistui: kirjaudu ensin",
       "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
       "sv": "Synkroniseringen misslyckades: du måste vara inloggad",
-      "fr": ""
+      "fr": "Echec de la synchronisation : veuillez vous connecter"
     },
     {
       "ident_ios": "ShareViewController.Title",
@@ -4131,7 +4131,7 @@
       "fi": "Jaa anturi",
       "ru": "Поделиться датчиком Ruuvi",
       "sv": "Dela sensor",
-      "fr": ""
+      "fr": "Partager le capteur"
     },
     {
       "ident_ios": "ShareViewController.Description",
@@ -4140,7 +4140,7 @@
       "fi": "Jaa anturitiedot verkossa lisäämällä ystäväsi sähköpostiosoite (maks. 10)",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
       "sv": "Dela din Ruuvi sensor. Lägg till dina vänners e-postadresser (max 10).",
-      "fr": ""
+      "fr": "Pour partager votre capteur, veuillez ajouter l'adresse mail des destinataires (maximum 10)."
     },
     {
       "ident_ios": "ShareViewController.addFriend.Title",
@@ -4149,7 +4149,7 @@
       "fi": "Lisää ystävä",
       "ru": "Добавить друга",
       "sv": "Lägg till vän",
-      "fr": ""
+      "fr": "Ajouter un ami"
     },
     {
       "ident_ios": "ShareViewController.emailTextField.placeholder",
@@ -4158,7 +4158,7 @@
       "fi": "Anna sähköpostiosoite",
       "ru": "Введите email",
       "sv": "Ange e-postadress",
-      "fr": ""
+      "fr": "Adresse mail"
     },
     {
       "ident_ios": "ShareViewController.sharedEmails.Title",
@@ -4167,7 +4167,7 @@
       "fi": "Anturi on jo jaettu %d/%d",
       "ru": "Предоставлен доступ %d/%d",
       "sv": "Sensorn är redan delad %d/%d",
-      "fr": ""
+      "fr": "Le capteur est déjà partagé"
     },
     {
       "ident_ios": "",
@@ -4176,7 +4176,7 @@
       "fi": "Lähetä",
       "ru": "Отправить",
       "sv": "Skicka",
-      "fr": ""
+      "fr": "Envoyer"
     },
     {
       "ident_ios": "",
@@ -4185,7 +4185,7 @@
       "fi": "Anturi on jo jaettu",
       "ru": "Поделились",
       "sv": "Sensorn är redan delad",
-      "fr": ""
+      "fr": "Le capteur est déjà partagé"
     },
     {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
@@ -4194,7 +4194,7 @@
       "fi": "Haluatko lopettaa anturin jakamisen käyttäjälle {%@^%1$s}?",
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
       "sv": "Vill du sluta dela sensorn med {%@^%1$s}?",
-      "fr": ""
+      "fr": "Voulez-vous arrêter le partage du capteur avec {%@^%1$s} ?"
     },
     {
       "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
@@ -4203,7 +4203,7 @@
       "fi": "VERKON TIEDOT",
       "ru": "Данные сети",
       "sv": "NÄTVERKSINFO",
-      "fr": ""
+      "fr": "RÉSEAU"
     },
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
@@ -4212,7 +4212,7 @@
       "fi": "Omistaja",
       "ru": "Владелец",
       "sv": "Ägare",
-      "fr": ""
+      "fr": "Propriétaire"
     },
     {
       "ident_ios": "Menu.RuuviNetworkStatus.text",
@@ -4221,7 +4221,7 @@
       "fi": "Ruuvi Networkin tila",
       "ru": "Статус сети Ruuvi",
       "sv": "Ruuvi Network status",
-      "fr": ""
+      "fr": "Statut du Ruuvi Network"
     },
     {
       "ident_ios": "SignIn.TitleLabel.text",
@@ -4230,7 +4230,7 @@
       "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
       "ru": "Войти в\\nRuuvi\\nNetwork",
       "sv": "Logga in till\\nRuuvi\\nNetwork",
-      "fr": ""
+      "fr": "Connection \\nRuuvi\\nNetwork"
     },
     {
       "ident_ios": "SignIn.SubtitleLabel.text",
@@ -4239,7 +4239,7 @@
       "fi": "Hyödynnä kaikki Ruuvi Network mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
       "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
       "sv": "Dra full nytta av Ruuvi Network! Logga in eller skapa ett nytt Ruuvi-konto genom att ange din e-postadress.",
-      "fr": ""
+      "fr": "Profitez de tous les avantages du Ruuvi Network! Connectez-vous ou créez votre compte en entrant votre adresse mail."
     },
     {
       "ident_ios": "",
@@ -4248,7 +4248,7 @@
       "fi": "OHITA",
       "ru": "ПРОПУСТИТЬ",
       "sv": "SKIPPA",
-      "fr": ""
+      "fr": "PASSER"
     },
     {
       "ident_ios": "",
@@ -4257,7 +4257,7 @@
       "fi": "beta",
       "ru": "бета",
       "sv": "beta",
-      "fr": ""
+      "fr": "beta"
     },
     {
       "ident_ios": "SignIn.VerificationCodePlaceholder",
@@ -4266,7 +4266,7 @@
       "fi": "vahvistuskoodi muodossa: CJSM",
       "ru": "код подтверждения в формате: CJSM",
       "sv": "verifieringskod i format CJSM",
-      "fr": ""
+      "fr": "verification du code au format CJSM"
     },
     {
       "ident_ios": "UserApiError.ER_FORBIDDEN",
@@ -4275,7 +4275,7 @@
       "fi": "Kielletty",
       "ru": "Запрещено",
       "sv": "Förbjuden",
-      "fr": ""
+      "fr": "Interdit"
     },
     {
       "ident_ios": "UserApiError.ER_UNAUTHORIZED",
@@ -4284,7 +4284,7 @@
       "fi": "Ei sallittu",
       "ru": "Требуется авторизация",
       "sv": "Obehörig",
-      "fr": ""
+      "fr": "Non permis"
     },
     {
       "ident_ios": "UserApiError.ER_INTERNAL",
@@ -4293,7 +4293,7 @@
       "fi": "Sisäinen virhe",
       "ru": "Внутренняя ошибка",
       "sv": "Internt fel",
-      "fr": ""
+      "fr": "Erreur interne"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_FORMAT",
@@ -4302,7 +4302,7 @@
       "fi": "Virheellinen pyynnön muoto",
       "ru": "Неправильный формат запроса",
       "sv": "Ogiltigt förfrågningsformat",
-      "fr": ""
+      "fr": "Format incorrect"
     },
     {
       "ident_ios": "UserApiError.ER_USER_NOT_FOUND",
@@ -4311,7 +4311,7 @@
       "fi": "Käyttäjää ei löydy",
       "ru": "Пользователь не найден",
       "sv": "Användaren hittades inte",
-      "fr": ""
+      "fr": "Utilisateur introuvable"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_NOT_FOUND",
@@ -4320,7 +4320,7 @@
       "fi": "Anturia ei löydy",
       "ru": "Сенсор не найден",
       "sv": "Sensorn hittades inte",
-      "fr": ""
+      "fr": "Capteur introuvable"
     },
     {
       "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
@@ -4329,7 +4329,7 @@
       "fi": "Tunnus on vanhentunut",
       "ru": "Токен истек",
       "sv": "Nyckeln har upphört att gälla",
-      "fr": ""
+      "fr": "Le code est perimé"
     },
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
@@ -4338,7 +4338,7 @@
       "fi": "Tilausta ei löydy",
       "ru": "Подписка не найдена",
       "sv": "Prenumerationen hittades inte",
-      "fr": ""
+      "fr": "L'abonnement est introuvable"
     },
     {
       "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
@@ -4347,7 +4347,7 @@
       "fi": "Jaon maksimimäärä on ylitetty",
       "ru": "Достигнут лимит количества общих сенсоров",
       "sv": "Maximal delning har överskridits",
-      "fr": ""
+      "fr": "Le nombre de partages maximum est atteint"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
@@ -4356,7 +4356,7 @@
       "fi": "Et voi jakaa anturia useammalle käyttäjälle",
       "ru": "Превышено количество общих сенсоров",
       "sv": "Du kan inte dela sensorn med flera användare",
-      "fr": ""
+      "fr": "Vous ne pouvez pas partager le capteur à d'avantage d'utilisateurs"
     },
     {
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
@@ -4365,7 +4365,7 @@
       "fi": "Tallenna tiedot ensin Ruuvi Networkiin ja yritä jakaa anturi uudestaan",
       "ru": "Чтобы поделиться сенсором, нужны сохраненные данные в Ruuvi Network",
       "sv": "För att dela sensorn måste du först spara data till Ruuvi Network",
-      "fr": ""
+      "fr": "Enregistrer les données dans Ruuvi Network et réessayez de partager le capteur"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
@@ -4374,7 +4374,7 @@
       "fi": "Tämä anturi on jo jaettu",
       "ru": "Вы уже делились этим сенсором",
       "sv": "Sensorn är redan delad",
-      "fr": ""
+      "fr": "Ce capteur est déjà partagé"
     },
     {
       "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
@@ -4383,7 +4383,7 @@
       "fi": "Sähköpostin lähetys epäonnistui",
       "ru": "Не удалось отправить e-mail",
       "sv": "Kunde inte skicka e-post",
-      "fr": ""
+      "fr": "Impossible d'envoyer l'email"
     },
     {
       "ident_ios": "UserApiError.ER_MISSING_ARGUMENT",
@@ -4392,7 +4392,7 @@
       "fi": "Argumentti puuttuu",
       "ru": "Пропущен аргумент запроса",
       "sv": "Argument saknas",
-      "fr": ""
+      "fr": "Argument manquant"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_DENSITY_MODE",
@@ -4401,7 +4401,7 @@
       "fi": "Virheellinen tiheuden tila",
       "ru": "Недопустимый режим плотности",
       "sv": "Ogiltig densitet",
-      "fr": ""
+      "fr": "Mode de densité invalide"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_SORT_MODE",
@@ -4410,7 +4410,7 @@
       "fi": "Virheellinen lajittelun tila",
       "ru": "Выбран недопустимый метод сортировки",
       "sv": "Ogiltig sortering",
-      "fr": ""
+      "fr": "Mode de tri invalide"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_TIME_RANGE",
@@ -4419,7 +4419,7 @@
       "fi": "Virheellinen aikaväli",
       "ru": "Выбран недопустимый промежуток времени",
       "sv": "Ogiltigt intervall",
-      "fr": ""
+      "fr": "Intervalle invalide"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
@@ -4428,7 +4428,7 @@
       "fi": "Virheellinen sähköpostiosoite",
       "ru": "Недопустимый e-mail",
       "sv": "Ogiltig e-postaddress",
-      "fr": ""
+      "fr": "Adresse email invalide"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
@@ -4437,7 +4437,7 @@
       "fi": "Virheellinen MAC-osoite",
       "ru": "Недопустимый MAC-адрес",
       "sv": "Ogiltig MAC-address",
-      "fr": ""
+      "fr": "Adresse MAC invalide"
     },
     {
       "ident_ios": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
@@ -4446,7 +4446,7 @@
       "fi": "Tallennusvirhe",
       "ru": "Ошибка сохранения данных",
       "sv": "Datalagringsfel",
-      "fr": ""
+      "fr": "Erreur d'enregistrement"
     },
     {
       "ident_ios": "UserApiError.ER_SUB_NO_USER",
@@ -4455,7 +4455,7 @@
       "fi": "Ei käyttäjää",
       "ru": "Нет пользователя",
       "sv": "Ingen användare",
-      "fr": ""
+      "fr": "Pas d'utilisateur"
     },
     {
       "ident_ios": "",
@@ -4464,7 +4464,7 @@
       "fi": "Kokeelliset ominaisuudet",
       "ru": "Экспериментальные функции",
       "sv": "Experimentella funktioner",
-      "fr": ""
+      "fr": "Options avancées"
     },
     {
       "ident_ios": "OffsetCorrection.CalibrationDescription.text",
@@ -4473,7 +4473,7 @@
       "fi": "Anturin kalibrointi ei ole tarpeellista normaalissa käytössä.\\n\\nTämä ominaisuus on tarkoitettu edistyneille käyttäjille.\\n\\nKalibroinnin lisäohjeet löytyvät osoitteesta ruuvi.com/support",
       "ru": "Обычно нет необходимости калибровать датчики.\\n\\nОднако, если вы продивнутый пользователь и хотите вручную откалибровать настроенные на заводе сенсоры, это возможно.\\n\\nПодсказки и информация доступны на сайте ruuvi.com/support",
       "sv": "Vid normal användning är det inte nödvändigt att kalibrera sensorerna.\\n\\nOm du är en avancerad användare och vill kalibrera manuellt är det möjligt att göra det.\\n\\nKalibreringstips finns på ruuvi.com/support",
-      "fr": ""
+      "fr": "En utilisation normale, il n'est pas nécessaire de calibrer le capteur.\\n\\nSi vous souhaitez tout de même calibrer calibrer le capteur \\n\\n les instructions sont trouvables ici ruuvi.com/support"
     },
     {
       "ident_ios": "",
@@ -4500,7 +4500,7 @@
       "fi": "Poista kalibrointiasetuset?",
       "ru": "Сбросить настройки калибровки?",
       "sv": "Renas kalibereringsinställningar?",
-      "fr": ""
+      "fr": "Supprimer la calibration"
     },
     {
       "ident_ios": "",
@@ -4509,7 +4509,7 @@
       "fi": "(Poikkeama {%@^%1$s})",
       "ru": "(Калибровка {%@^%1$s})",
       "sv": "(Offset {%@^%1$s})",
-      "fr": ""
+      "fr": "(Correction {%@^%1$s})"
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.Title",
@@ -4518,7 +4518,7 @@
       "fi": "Kalibrointi",
       "ru": "Настройка калибровок",
       "sv": "Kalibreringsinställningar",
-      "fr": ""
+      "fr": "Calibration"
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
@@ -4527,7 +4527,7 @@
       "fi": "Syötä anturin oletettu lämpötila tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение температуры в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange temperaturen som förväntas av sensorn just nu ({%@^%1$s}): ",
-      "fr": ""
+      "fr": "Entrez la température attendue dans ces conditions ({%@^%1$s}):"
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
@@ -4536,7 +4536,7 @@
       "fi": "Syötä anturin oletettu paine tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение давления в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange lufttrycket som förväntas av sensorn just nu ({%@^%1$s}): ",
-      "fr": ""
+      "fr": "Entrez la pression attendue dans ces conditions ({%@^%1$s}):"
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
@@ -4545,7 +4545,7 @@
       "fi": "Syötä anturin oletettu kosteus tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение влажности в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange fuktigheten som förväntas av sensorn just nu ({%@^%1$s}): ",
-      "fr": ""
+      "fr": "Entrez l'humidité attendue dans ces conditions ({%@^%1$s}):"
     },
     {
       "ident_ios": "",
@@ -4554,7 +4554,7 @@
       "fi": "Alkuperäinen arvo",
       "ru": "Измеренное значение",
       "sv": "Ursprungligt värde",
-      "fr": ""
+      "fr": "Valeur originale"
     },
     {
       "ident_ios": "",
@@ -4563,7 +4563,7 @@
       "fi": "Korjattu arvo",
       "ru": "Откалиброванное значение",
       "sv": "Korrigerat värde",
-      "fr": ""
+      "fr": "Valeur corrigée"
     },
     {
       "ident_ios": "OffsetCorrection.Temperature.Title",
@@ -4572,7 +4572,7 @@
       "fi": "Lämpötilapoikkeama",
       "ru": "Калибровка по температуре",
       "sv": "Temperatur offset",
-      "fr": ""
+      "fr": "Correction de température"
     },
     {
       "ident_ios": "OffsetCorrection.Humidity.Title",
@@ -4581,7 +4581,7 @@
       "fi": "Kosteuspoikkeama",
       "ru": "Калибровка по влажности",
       "sv": "Fuktighet offset",
-      "fr": ""
+      "fr": "Correction d'humidité"
     },
     {
       "ident_ios": "OffsetCorrection.Pressure.Title",
@@ -4590,7 +4590,7 @@
       "fi": "Painepoikkeama",
       "ru": "Калибровка по давлению",
       "sv": "Lufttryck offset",
-      "fr": ""
+      "fr": "Correction de pression"
     },
     {
       "ident_ios": "",
@@ -4599,7 +4599,7 @@
       "fi": "Kalibrointi",
       "ru": "Калибровка",
       "sv": "Kalibrering",
-      "fr": ""
+      "fr": "Correction"
     },
     {
       "ident_ios": "",
@@ -4617,7 +4617,7 @@
       "fi": "KALIBROINTI",
       "ru": "КАЛИБРОВКИ",
       "sv": "KALIBRERING",
-      "fr": ""
+      "fr": "CORRECTION"
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Temperature",
@@ -4626,7 +4626,7 @@
       "fi": "Lämpötila",
       "ru": "Температура",
       "sv": "Temperatur",
-      "fr": ""
+      "fr": "Température"
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Humidity",
@@ -4635,7 +4635,7 @@
       "fi": "Kosteus",
       "ru": "Влажность",
       "sv": "Fuktighet",
-      "fr": ""
+      "fr": "Humidité"
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Pressure",
@@ -4644,7 +4644,7 @@
       "fi": "Paine",
       "ru": "Давление",
       "sv": "Lufttryck",
-      "fr": ""
+      "fr": "Pression"
     },
     {
       "ident_ios": "Advanced.Charts.title",
@@ -4653,7 +4653,7 @@
       "fi": "Histogrammit",
       "ru": "Графики",
       "sv": "Histogram",
-      "fr": ""
+      "fr": "Histogramme"
     },
     {
       "ident_ios": "Advanced.Network.title",
@@ -4662,7 +4662,7 @@
       "fi": "Verkko",
       "ru": "Облако",
       "sv": "Nätverk",
-      "fr": ""
+      "fr": "Réseau"
     },
     {
       "ident_ios": "Advanced.NetworkInterval.title",
@@ -4671,7 +4671,7 @@
       "fi": "Tiedonhakuväli",
       "ru": "Интервал Синхронизации",
       "sv": "Datahämtningsintervall",
-      "fr": ""
+      "fr": "Intervalle de mise à jour"
     },
     {
       "ident_ios": "PhotoPicker.Sheet.files",
@@ -4680,7 +4680,7 @@
       "fi": "Valitse tiedostoista",
       "ru": "Выбрать из файлов",
       "sv": "Välj från filer",
-      "fr": ""
+      "fr": "Choisir parmis les fichiers"
     },
     {
       "ident_ios": "SignIn.EnterVerificationCode",
@@ -4689,7 +4689,7 @@
       "fi": "Syötä vahvistuskoodi",
       "ru": "Пожалуйста, введите код подтверждения",
       "sv": "Ange verifieringskod",
-      "fr": ""
+      "fr": "Entrez le code de vérification"
     },
     {
       "ident_ios": "UnexpectedError.failedToFindOrGenerateBackgroundImage",
@@ -4698,7 +4698,7 @@
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
-      "fr": ""
+      "fr": "Echec de la mise à jour du fond d'écran"
     },
     {
       "ident_ios": "UnexpectedError.bothLuidAndMacAreNil",
@@ -4707,7 +4707,7 @@
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
       "ru": "Локальный индентификатор и MAC-адрес не определены",
       "sv": "Både lokal och MAC-ID saknas",
-      "fr": ""
+      "fr": "Les identifiants MAC et local sont introuvables"
     },
     {
       "ident_ios": "RuuviCloudApiError.emptyResponse",
@@ -4716,7 +4716,7 @@
       "fi": "Tyhjä vastaus",
       "ru": "Пустой ответ",
       "sv": "Tomt svar",
-      "fr": ""
+      "fr": "Réponse nulle"
     },
     {
       "ident_ios": "RuuviCloudApiError.failedToGetDataFromResponse",
@@ -4734,7 +4734,7 @@
       "fi": "Odottamaton HTTP-tilakoodi",
       "ru": "Неожиданный код статуса HTTP",
       "sv": "Oväntad HTTP-statuskod",
-      "fr": ""
+      "fr": "Code HTTP innatendu"
     },
     {
       "ident_ios": "RuuviCloudError.NotAuthorized",
@@ -4743,7 +4743,7 @@
       "fi": "Ei valtuutusta",
       "ru": "Не авторизован",
       "sv": "Inte behörig",
-      "fr": ""
+      "fr": "Non authorisé"
     },
     {
       "ident_ios": "RuuviLocalError.failedToGetJpegRepresentation",
@@ -4779,7 +4779,7 @@
       "fi": "Kuvan URL puuttuu",
       "ru": "Пустой URL картинки",
       "sv": "Bild URL saknas",
-      "fr": ""
+      "fr": "URL de la photo manquant"
     },
     {
       "ident_ios": "RuuviServiceError.macIdIsNil",
@@ -4788,7 +4788,7 @@
       "fi": "MAC-tunniste puuttuu",
       "ru": "Пустой MAC-адрес",
       "sv": "MAC-id saknas",
-      "fr": ""
+      "fr": "adresse MAC manquante"
     },
     {
       "ident_ios": "",
@@ -4806,7 +4806,7 @@
       "fi": "Voit jakaa vain Ruuvi Gateway -reitittimen läheisyydessä olevia antureita. Lisätietoja reitittimestä osoitteesta ruuvi.com",
       "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway. Если у вас нет Gateway, вы можете приобрести его на ruuvi.com",
       "sv": "Endast sensorer inom räckhåll av din Ruuvi Gateway kan delas. Mer information finns på ruuvi.com",
-      "fr": ""
+      "fr": "Vous pouvez partager seulement des capteurs à proximité du Ruuvi Gateway. Plus d'infos sur ruuvi.com"
     },
     {
       "ident_ios": "RuuviServiceError.bothLuidAndMacAreNil",
@@ -4815,7 +4815,7 @@
       "fi": "Sekä paikallinen että MAC-tunniste puuttuu",
       "ru": "Локальный идентификатор и MAC-адрес пустые",
       "sv": "Både lokal och MAC-ID saknas",
-      "fr": ""
+      "fr": "Identifiants MAC et local manquant"
     },
     {
       "ident_ios": "RuuviServiceError.failedToParseNetworkResponse",
@@ -4824,7 +4824,7 @@
       "fi": "Vastauksen kjäsentäminen epäonnistui",
       "ru": "Не удалось распарсить ответ",
       "sv": "Det gick inte att tolka svaret.",
-      "fr": ""
+      "fr": "Echec de l'enregistrement de la réponse"
     },
     {
       "ident_ios": "RuuviServiceError.failedToFindOrGenerateBackgroundImage",
@@ -4833,7 +4833,7 @@
       "fi": "Taustakuvaa ei löydy tai sen luominen epäonnistui",
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
-      "fr": ""
+      "fr": "Fond d'écran introuvable"
     },
     {
       "ident_ios": "RuuviServiceError.failedToGetJpegRepresentation",
@@ -4851,7 +4851,7 @@
       "fi": "Päivitä laiteohjelmisto",
       "ru": "Обновить Прошивку",
       "sv": "Uppdatera programvara",
-      "fr": ""
+      "fr": "Mettre à jour le programme"
     },
     {
       "ident_ios": "UpdateFirmware.Download.header",
@@ -4860,7 +4860,7 @@
       "fi": "LATAA UUSIN LAITEOHJELMISTO",
       "ru": "СКАЧАТЬ ПОСЛЕДНЮЮ ПРОШИВКУ",
       "sv": "LADDA NER NYASTE PROGRAMVARA",
-      "fr": ""
+      "fr": "TÉLÉCHARGER LA DÉRNIÈRE VERSION"
     },
     {
       "ident_ios": "UpdateFirmware.Download.content",
@@ -4869,7 +4869,7 @@
       "fi": "Lataa uusin saatavilla oleva ohjelmistopaketti ennen päivityksen aloittamista. Uusin versio on ladattavissa osoitteesta ruuvi.com/software-update",
       "ru": "Чтобы начать процесс обновления, скачайте последнюю прошивку для целевого устройства. Последняя версия прошивки доступна на сайте ruuvi.com/software-update",
       "sv": "Ladda ner det senaste tillgängliga programvarupaketet innan du startar uppgraderingen. Den senaste versionen kan laddas ner från ruuvi.com/software-update",
-      "fr": ""
+      "fr": "Pour commencer la mise à jour, télécharger la dérnière version sur l'appareil que vous utiliserez pour mettre à jour le capteur. Fichier disponible sur ruuvi.com/software-update"
     },
     {
       "ident_ios": "UpdateFirmware.SetDfu.header",
@@ -4878,7 +4878,7 @@
       "fi": "ASETA RUUVI-ANTURI DFU-TILAAN",
       "ru": "ПЕРЕВЕДИТЕ RUUVI TAG В DFU-РЕЖИМ",
       "sv": "STÄLL IN RUUVI TAG I DFU-LÄGE",
-      "fr": ""
+      "fr": "METTRE LE CAPTEUR EN MODE DFU"
     },
     {
       "ident_ios": "UpdateFirmware.SetDfu.content",
@@ -4887,7 +4887,7 @@
       "fi": "Avaa anturin suojakotelo vetämällä kansiosa erilleen kotelon pohjasta sormin tai tasapäisen ruuvimeisselin avulla.\\n\\nAseta RuuviTag päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R. Punainen LED-valo on aktiivinen laitteen ollessa bootloader-tilassa. Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike.",
       "ru": "Осторожно откройте RuuviTag пальцами или отверткой.\\n\\nВведите RuuviTag в режим обновления прошивки, зажав кнопку B и нажав на кнопку перезагрузки R. Красная лампочка загорится и будет продолжать гореть. Если на вашем устройстве только одна кнопка, зажмите ее на 10 секунд.",
       "sv": "Öppna sensorn genom att dra upp den med fingrarna eller försiktigt med en platt skruvmejsel.\\n\\nStäll RuuviTag i uppdateringsläge genom att hålla ned knappen B och trycka på återställningsknappen R. Den röda indikatorlampan tänds och fortsätter att lysa. Om din enhet bara har en knapp, håll den intryckt i 10 sekunder för att komma in i uppdateringsläge.",
-      "fr": ""
+      "fr": "Ouvrez le boitier du capteur, aidez-vous d'un tournevis plat si besoin.\\n\\nAppuyez sur le bouton B pendant quelques secondespuis sur le bouton R en gradant le bouton B enfoncé. La LED rouge doit s'allumer lorsqu'il est en mode bootloader. S'il n'y a qu'un bouton appuyez dessus pendant 10 secondes."
     },
     {
       "ident_ios": "UpdateFirmware.NextButton.title",
@@ -4896,7 +4896,7 @@
       "fi": "SEURAAVA",
       "ru": "ДАЛЕЕ",
       "sv": "NÄSTA",
-      "fr": ""
+      "fr": "SUIVANT"
     },
     {
       "ident_ios": "DfuDevicesScanner.Title.text",
@@ -4905,7 +4905,7 @@
       "fi": "Laitteet",
       "ru": "Устройства",
       "sv": "Enheter",
-      "fr": ""
+      "fr": "Appareils"
     },
     {
       "ident_ios": "DfuDevicesScanner.Description.text",
@@ -4914,7 +4914,7 @@
       "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\"",
       "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
       "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
-      "fr": ""
+      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\"""
     },
     {
       "ident_ios": "DfuDevicesScanner.NoDevice.text",
@@ -4959,7 +4959,7 @@
       "fi": "DFU-päivitys",
       "ru": "DFU",
       "sv": "DFU-uppdatering",
-      "fr": ""
+      "fr": "Mise à jour DFU"
     },
     {
       "ident_ios": "DfuFlash.Progress.text",
@@ -4968,7 +4968,7 @@
       "fi": "Edistyminen",
       "ru": "Прогресс",
       "sv": "Framsteg",
-      "fr": ""
+      "fr": "Avancement"
     },
     {
       "ident_ios": "DfuFlash.Step.text",
@@ -4977,7 +4977,7 @@
       "fi": "Vaihe",
       "ru": "Шаг",
       "sv": "Steg",
-      "fr": ""
+      "fr": "Étape"
     },
     {
       "ident_ios": "DfuFlash.Steps.PackageSelection.text",
@@ -4986,7 +4986,7 @@
       "fi": "Valitse päivityspaketti",
       "ru": "Выбор Прошивки",
       "sv": "Välj uppdateringspaket",
-      "fr": ""
+      "fr": "Choisir le fichier de mise à jour"
     },
     {
       "ident_ios": "DfuFlash.Steps.ReadyForUpload.text",
@@ -4995,7 +4995,7 @@
       "fi": "Valmis ladattavaksi",
       "ru": "Готово к Загрузке",
       "sv": "Redo för uppladdning",
-      "fr": ""
+      "fr": "Prêt pour la mise à jour"
     },
     {
       "ident_ios": "DfuFlash.Steps.Uploading.text",
@@ -5004,7 +5004,7 @@
       "fi": "Ladataan",
       "ru": "Загружаю",
       "sv": "Uppladdning",
-      "fr": ""
+      "fr": "Chargement"
     },
     {
       "ident_ios": "DfuFlash.Steps.Completed.text",
@@ -5013,7 +5013,7 @@
       "fi": "Valmis",
       "ru": "Успешно",
       "sv": "Klar",
-      "fr": ""
+      "fr": "Prêt"
     },
     {
       "ident_ios": "DfuFlash.OpenDocumentPicker.title",
@@ -5022,7 +5022,7 @@
       "fi": "AVAA TIEDOSTOVALITSIN",
       "ru": "ОТКРЫТЬ ФАЙЛ",
       "sv": "ÖPPET DOKUMENTVÄLJARE",
-      "fr": ""
+      "fr": "OUVRIR LE GESTIONNAIRE DE FICHIERS"
     },
     {
       "ident_ios": "DfuFlash.FirmwareSelectionGuide.text",
@@ -5031,7 +5031,7 @@
       "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto",
       "ru": "Выберите ранее загруженный ZIP файл",
       "sv": "Hitta ZIP-filen som du laddade ner",
-      "fr": ""
+      "fr": "Chercher le fichier ZIP"
     },
     {
       "ident_ios": "DfuFlash.Firmware.FileName.text",
@@ -5040,7 +5040,7 @@
       "fi": "Tiedoston Nimi",
       "ru": "Имя Файла",
       "sv": "Filnamn",
-      "fr": ""
+      "fr": "Nom du fichier"
     },
     {
       "ident_ios": "DfuFlash.Firmware.Parts.text",
@@ -5049,7 +5049,7 @@
       "fi": "Osat",
       "ru": "Части",
       "sv": "Delar",
-      "fr": ""
+      "fr": "Parties"
     },
     {
       "ident_ios": "DfuFlash.Firmware.Size.text",
@@ -5058,7 +5058,7 @@
       "fi": "Koko",
       "ru": "Размер",
       "sv": "Storlek",
-      "fr": ""
+      "fr": "Taille"
     },
     {
       "ident_ios": "DfuFlash.Firmware.SoftDeviceSize.text",
@@ -5067,7 +5067,7 @@
       "fi": "Soft Device koko",
       "ru": "Soft Device Размер",
       "sv": "Soft Device storlek",
-      "fr": ""
+      "fr": "Soft Device taille"
     },
     {
       "ident_ios": "DfuFlash.Firmware.BootloaderSize.text",
@@ -5076,7 +5076,7 @@
       "fi": "Bootloader koko",
       "ru": "Размер Загрузчика",
       "sv": "Bootloader storlek",
-      "fr": ""
+      "fr": "Taille du bootloader"
     },
     {
       "ident_ios": "DfuFlash.Cancel.text",
@@ -5085,7 +5085,7 @@
       "fi": "PERUUTA",
       "ru": "ОТМЕНА",
       "sv": "AVBRYT",
-      "fr": ""
+      "fr": "ANNULER"
     },
     {
       "ident_ios": "DfuFlash.Start.text",
@@ -5094,7 +5094,7 @@
       "fi": "Aloita",
       "ru": "Начать",
       "sv": "Börja",
-      "fr": ""
+      "fr": "Commencer"
     },
     {
       "ident_ios": "DfuFlash.Finish.text",
@@ -5103,7 +5103,7 @@
       "fi": "VALMIS",
       "ru": "УСПЕХ",
       "sv": "KLAR",
-      "fr": ""
+      "fr": "PRÊT"
     },
     {
       "ident_ios": "DfuFlash.FinishGuide.text",
@@ -5112,7 +5112,7 @@
       "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuviTag on valmis käyttöön!",
       "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш RuuviTag готов к использованию!",
       "sv": "Uppdateringsprocessen har slutförts.\n\n\n\nRuuviTag-sensorn är redo att användas!",
-      "fr": ""
+      "fr": "Mise à jour réussie.\n\n\n\nRuuviTag est prêt à être utilisé !"
     },
     {
       "ident_ios": "DfuFlash.CancelAlert.text",
@@ -5121,7 +5121,7 @@
       "fi": "Haluatko varmasti peruuttaa laiteohjelmistopäivityksen?",
       "ru": "Вы уверены что хотите прервать процесс обновления прошивки?",
       "sv": "Är du säker på att du vill avbryta uppdateringsprocessen?",
-      "fr": ""
+      "fr": "Voulez-vous annuler la mise à jour ?"
     },
     {
       "ident_ios": "RuuviDfuError.invalidFirmwareFile",
@@ -5130,7 +5130,7 @@
       "fi": "Tiedosto ei sisällä sopivaa laiteohjelmistoa",
       "ru": "Некорректный файл прошивки",
       "sv": "Ogiltig programvaruuppdateringsfil",
-      "fr": ""
+      "fr": "Fichier de mise à jour invalide"
     }
   ]
 }
