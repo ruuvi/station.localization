@@ -3879,7 +3879,7 @@
       "fi": "%1$,.3f g",
       "ru": "%1$,.3f g",
       "sv": "%1$,.3f g",
-      "fr": "%1$,.3f g",
+      "fr": "%1$,.3f g"
     },
     {
       "ident_ios": "",
@@ -3888,7 +3888,7 @@
       "fi": "%1$,.0f dBm",
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
-      "fr": "%1$,.0f dBm",
+      "fr": "%1$,.0f dBm"
     },
     {
       "ident_ios": "Defaults.AlertsMuteInterval.title",
@@ -3897,7 +3897,7 @@
       "fi": "Hälytysten mykistysväli",
       "ru": "Интервал Отключения Уведомлений",
       "sv": "Alarmavstängningsintervall",
-      "fr": "Espacement entre deux alarmes",
+      "fr": "Espacement entre deux alarmes"
     },
     {
       "ident_ios": "SignIn.Title.text",
@@ -3906,7 +3906,7 @@
       "fi": "Kirjaudu sisään",
       "ru": "Войти",
       "sv": "Logga in",
-      "fr": "Connexion",
+      "fr": "Connexion"
     },
     {
       "ident_ios": "Menu.SignOut.text",
@@ -3915,7 +3915,7 @@
       "fi": "Kirjaudu ulos",
       "ru": "Выйти из сети",
       "sv": "Logga ut",
-      "fr": "Déconnexion",
+      "fr": "Déconnexion"
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -3924,7 +3924,7 @@
       "fi": "Sinut merkitään lähelläsi olevien Ruuvi-anturien omistajaksi sisäänkirjautumisen yhteydessä. Kaikki omistajan vaatimat anturit palautetaan verkosta sovelluksen uudelleenasennuksen yhteydessä.\\n\\nRuuvi Gatewayn avulla voit tarkastella omistamiasi antureita etänä ja jakaa niitä ystävillesi verkossa.",
       "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
       "sv": "Efter inloggning markeras du automatiskt som ägare till dina närliggande Ruuvi-sensorer. Sensorernas ägare kommer att återställas om appen installerats om igen.\\n\\nMed en Ruuvi Gateway kan du övervaka dina sensorer på distans och dele dem med dina vänner.",
-      "fr": "Après la connexion, vous serez automatiquement propriétaire des RuuviTags à proximité. Les capteurs couplés seront réinitialisés si vous réinstallez l'application.\\n\\ Avec un routeur Ruuvi Gateway vous pourrez contrôlez vos capteurs à distance et partager vos données avec vos amis.",
+      "fr": "Après la connexion, vous serez automatiquement propriétaire des RuuviTags à proximité. Les capteurs couplés seront réinitialisés si vous réinstallez l'application.\\n\\ Avec un routeur Ruuvi Gateway vous pourrez contrôlez vos capteurs à distance et partager vos données avec vos amis."
     },
     {
       "ident_ios": "",
@@ -3933,7 +3933,7 @@
       "fi": "Ruuvi Networkin etuja",
       "ru": "Преимущества Ruuvi Network",
       "sv": "Fördelar med Ruuvi Network",
-      "fr": "Avantages du Ruuvi Network",
+      "fr": "Avantages du Ruuvi Network"
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -3942,7 +3942,7 @@
       "fi": "Sähköposti",
       "ru": "Email",
       "sv": "E-post",
-      "fr": "Email",
+      "fr": "Email"
     },
     {
       "ident_ios": "",
@@ -3951,7 +3951,7 @@
       "fi": "Kirjaudu",
       "ru": "Войти",
       "sv": "Logga in",
-      "fr": "Connexion",
+      "fr": "Connexion"
     },
     {
       "ident_ios": "SignIn.RequestCode",
@@ -3960,7 +3960,7 @@
       "fi": "Pyydä kirjautumiskoodi",
       "ru": "Запросить код",
       "sv": "Begär en inloggningskod",
-      "fr": "Demander un code",
+      "fr": "Demander un code"
     },
     {
       "ident_ios": "SignIn.SubmitCode",
@@ -3969,7 +3969,7 @@
       "fi": "Lähetä",
       "ru": "Отправить",
       "sv": "Skicka",
-      "fr": "Envoyer",
+      "fr": "Envoyer"
     },
     {
       "ident_ios": "",
@@ -3978,7 +3978,7 @@
       "fi": "Syötä koodi",
       "ru": "Ввести код вручную",
       "sv": "Ange kod manuellt",
-      "fr": "Entrer le code",
+      "fr": "Entrer le code"
     },
     {
       "ident_ios": "SignIn.EmailSent",
@@ -3987,7 +3987,7 @@
       "fi": "Sähköposti lähetetty",
       "ru": "Email отправлен",
       "sv": "E-post skickat",
-      "fr": "Email envoyé",
+      "fr": "Email envoyé"
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
@@ -3996,7 +3996,7 @@
       "fi": "Tarkasta aktivointikoodi saamastasi sähköpostista.",
       "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
       "sv": "Kontrollera din e-post efter en aktiveringskod.",
-      "fr": "Le code d'activation vous a été envoyé par mail.",
+      "fr": "Le code d'activation vous a été envoyé par mail."
     },
     {
       "ident_ios": "SignIn.CodeHint",
@@ -4914,7 +4914,7 @@
       "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\"",
       "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
       "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
-      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\"""
+      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\""
     },
     {
       "ident_ios": "DfuDevicesScanner.NoDevice.text",
