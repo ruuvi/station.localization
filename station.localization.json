@@ -4548,7 +4548,7 @@
       "fr": "Entrez l'humidité attendue dans ces conditions ({%@^%1$s}):"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.OriginalValue.title",
       "ident_android": "calibration_original_value",
       "en": "Original measured value",
       "fi": "Alkuperäinen arvo",
@@ -4557,7 +4557,7 @@
       "fr": "Valeur originale"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.CorrectedValue.title",
       "ident_android": "calibration_corrected_value",
       "en": "Corrected value",
       "fi": "Korjattu arvo",
@@ -4593,7 +4593,7 @@
       "fr": "Correction de pression"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "OffsetCorrection.Calibrate.button",
       "ident_android": "offset_correction",
       "en": "Offset correction",
       "fi": "Kalibrointi",
