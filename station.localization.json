@@ -4170,7 +4170,7 @@
       "fr": "Le capteur est déjà partagé"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Share.Send.button",
       "ident_android": "share_sensor_send_button",
       "en": "Send",
       "fi": "Lähetä",
