@@ -1,4 +1,4 @@
-# station.localization
+# Ruuvi Station Localization Project
 This project was created to get single place for localization strings used in Ruuvi Station application for both platforms at once: iOS and Android. This should help to enforce unified user experience. 
 
 ## Supported languages 
