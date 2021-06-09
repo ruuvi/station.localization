@@ -88,7 +88,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Держать Соединение",
       "sv": "Håll Anslutningen",
-      "fr": "Maintenir la connection"
+      "fr": "Maintenir la connexion"
     },
     {
       "ident_ios": "Background.SaveHeartbeats.title",
@@ -178,7 +178,7 @@
       "fi": "Laitteessasi on yhteyden säilyttämiseen pystyvä laiteohjelmisto. Haluatko pitää yhteyden avoinna tähän Ruuvi-laitteeseen ohjelman ollessa taustalla? Tämä mahdollistaa historian ja hälytysten toiminnan ohjelman ollessa pienennettynä.",
       "ru": "На вашем устройстве установлена прошивка, поддерживающая соединение. Хотите поддерживать соединение активным для этого устройства в фоновом режиме? Это позволит использовать графики и уведомления даже когда приложение закрыто.",
       "sv": "Det ser ut som din Ruuvi enhet har anslutningsbar firmware. Vill du att anslutningen till enheten skall hållas öppen i bakgrunden? Detta gör att histogram och alarm fungerar även om applikationen är minimerad.",
-      "fr": "Votre appareil est programmé pour conserver la connection. Souhaitez-vous maintenir la connection en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée."
+      "fr": "Votre appareil est programmé pour rester connecté. Souhaitez-vous maintenir la connexion en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée."
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
@@ -196,7 +196,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Установить Соединение",
       "sv": "Håll Anslutningen",
-      "fr": "Maintenir la connection"
+      "fr": "Maintenir la connexion"
     },
     {
       "ident_ios": "Cards.Connected.title",
@@ -349,7 +349,7 @@
       "fi": "Yhteyden aikakatkaisu",
       "ru": "Таймаут (соед.)",
       "sv": "Anslutningstimeout",
-      "fr": "Temporisation de la connection"
+      "fr": "Temporisation de la connexion"
     },
     {
       "ident_ios": "Defaults.ServiceTimeout.title",
@@ -574,7 +574,7 @@
       "fi": "Aiemmin yhdistettyä laitetta ei voida poistaa ilman Bluetooth-yhteyttä. Tarkasta Bluetooth-yhteyden tila.",
       "ru": "Не удалось удалить подключенный сенсор, так как он недоступен. Пожалуйста, проверьте соединение по Bluetooth.",
       "sv": "Det går inte att ta bort en ansluten enhet som inte kan nås. Kontrollera Bluetooth-anslutningen.",
-      "fr": "Un capteur enregistré ne peut être supprimé sans connection Bluetooth. Vérifiez la connection."
+      "fr": "Un capteur enregistré ne peut être supprimé sans connexion Bluetooth. Vérifiez la connexion."
     },
     {
       "ident_ios": "ExportService.Date",
@@ -1213,7 +1213,7 @@
       "fi": "Katkaistaan yhteyttä...",
       "ru": "Разрываю соединение...",
       "sv": "Avbryter anslutning...",
-      "fr": "Déconnection..."
+      "fr": "Déconnexion..."
     },
     {
       "ident_ios": "TagCharts.Status.Success",
@@ -1465,7 +1465,7 @@
       "fi": "YHTEYS",
       "ru": "СОЕДИНЕНИЕ",
       "sv": "ANSLUTNING",
-      "fr": "CONNECTION"
+      "fr": "CONNEXION"
     },
     {
       "ident_ios": "TagSettings.KeepConnection.title",
@@ -1474,7 +1474,7 @@
       "fi": "Säilytä yhteys",
       "ru": "Держать Соединение",
       "sv": "Behåll Anslutningen",
-      "fr": "Veuillez maintenir la connection"
+      "fr": "Veuillez maintenir la connexion"
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
@@ -1564,7 +1564,7 @@
       "fi": "Yhdistetään...",
       "ru": "Соединяюсь...",
       "sv": "Ansluter...",
-      "fr": "Connection..."
+      "fr": "Connexion..."
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
@@ -1627,7 +1627,7 @@
       "fi": "Yhteys",
       "ru": "Соединение",
       "sv": "Anslutning",
-      "fr": "Connection"
+      "fr": "Connexion"
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Firmware.title",
@@ -2366,7 +2366,7 @@
       "fi": "Yhdistetään...",
       "ru": "Соединение...",
       "sv": "Ansluter...",
-      "fr": "Connection..."
+      "fr": "Connexion..."
     },
     {
       "ident_ios": "",
@@ -3383,7 +3383,7 @@
       "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \\n\\nLue lisää ohjesivulta.",
       "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию",
       "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \\n\\nFör mer information, läs dokumentationen.",
-      "fr": "L'application envoi les données du capteur via la fonction HTTP POST à une adresse de routage définie pendant le balayage en arrière-plan\\n\\nPour plus d'informations, consultez la page de support."
+      "fr": "L'application envoie les données du capteur via la fonction HTTP POST à une adresse de routage définie pendant le balayage en arrière-plan\\n\\nPour plus d'informations, consultez la page de support."
     },
     {
       "ident_ios": "",
@@ -3960,7 +3960,7 @@
       "fi": "Pyydä kirjautumiskoodi",
       "ru": "Запросить код",
       "sv": "Begär en inloggningskod",
-      "fr": "Demander un code"
+      "fr": "Obtenir un code"
     },
     {
       "ident_ios": "SignIn.SubmitCode",
@@ -4014,7 +4014,7 @@
       "fi": "Haluatko varmasti kirjautua ulos?",
       "ru": "Хотите выйти из сети?",
       "sv": "Vill du logga ut?",
-      "fr": "Voulez-vous vous déconnecter"
+      "fr": "Souhaitez-vous vous déconnecter ?"
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Claim",
@@ -4230,7 +4230,7 @@
       "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
       "ru": "Войти в\\nRuuvi\\nNetwork",
       "sv": "Logga in till\\nRuuvi\\nNetwork",
-      "fr": "Connection \\nRuuvi\\nNetwork"
+      "fr": "Connexion \\nRuuvi\\nNetwork"
     },
     {
       "ident_ios": "SignIn.SubtitleLabel.text",
@@ -4239,7 +4239,7 @@
       "fi": "Hyödynnä kaikki Ruuvi Network mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
       "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
       "sv": "Dra full nytta av Ruuvi Network! Logga in eller skapa ett nytt Ruuvi-konto genom att ange din e-postadress.",
-      "fr": "Profitez de tous les avantages du Ruuvi Network! Connectez-vous ou créez votre compte en entrant votre adresse mail."
+      "fr": "Profitez de tous les avantages du Ruuvi Network ! Connectez-vous ou créez votre compte en entrant votre adresse mail."
     },
     {
       "ident_ios": "",
