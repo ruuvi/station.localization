@@ -2442,7 +2442,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "gateway_disabled",
+      "ident_android": "data_forwarding_disabled",
       "en": "Disabled",
       "fi": "Pois käytöstä",
       "ru": "Отключено",
@@ -2451,8 +2451,8 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "gateway_url",
-      "en": "Gateway URL",
+      "ident_android": "data_forwarding_url",
+      "en": "Data Forwarding URL",
       "fi": "Välityspalvelimen URL-osoite",
       "ru": "URL шлюза",
       "sv": "Proxy URL",
@@ -2460,7 +2460,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "gateway_url_hint",
+      "ident_android": "data_forwarding_url_hint",
       "en": "https://your.gateway/...",
       "fi": "https://välitys.palvelin/...",
       "ru": "https://your.gateway/...",
@@ -3369,8 +3369,8 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "settings_gateway",
-      "en": "Gateway Settings",
+      "ident_android": "settings_data_forwarding",
+      "en": "Data Forwarding Settings",
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
       "sv": "Proxyinställningar",
@@ -3415,8 +3415,8 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "settings_gateway_test",
-      "en": "Test gateway",
+      "ident_android": "settings_data_forwarding_test",
+      "en": "Test data forwarding",
       "fi": "Testaa välityspalvelin",
       "ru": "Тест шлюза",
       "sv": "Testa proxyn",
@@ -3812,9 +3812,9 @@
     {
       "ident_ios": "",
       "ident_android": "gateway_test_success",
-      "en": "Gateway works! Response code: %1$d",
+      "en": "Data forwarding works! Response code: %1$d",
       "fi": "Palvelin vastasi! Palautekoodi: %1$d",
-      "ru": "Гейтвей работает! Код ответа: %1$d",
+      "ru": "Шлюз работает! Код ответа: %1$d",
       "sv": "Proxyn fungerar! HTTP svarskod: %1$d",
       "fr": "Le routeur fonctionne ! Réponse : %1$d"
     },
