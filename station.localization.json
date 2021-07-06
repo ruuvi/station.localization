@@ -5131,6 +5131,177 @@
       "ru": "Некорректный файл прошивки",
       "sv": "Ogiltig programvaruuppdateringsfil",
       "fr": "Fichier de mise à jour invalide"
+    },
+    {
+      "ident_ios": "DFUUIView.navigationTitle",
+      "ident_android": "",
+      "en": "Firmware Update",
+      "fi": "",
+      "ru": "Обновление Прошивки",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.latestTitle",
+      "ident_android": "",
+      "en": "Latest available Ruuvi Firmware version:",
+      "fi": "",
+      "ru": "Доступная версия прошивки Ruuvi:",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.currentTitle",
+      "ident_android": "",
+      "en": "Current version:",
+      "fi": "",
+      "ru": "Текущая версия:",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.notReportingDescription",
+      "ident_android": "",
+      "en": "Your sensor doesn't report it's current firmware version. That means that it's probably running an old firmware version and updating is recommended",
+      "fi": "",
+      "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.alreadyOnLatest",
+      "ident_android": "",
+      "en": "You are running the latest firmware version, no need to update",
+      "fi": "",
+      "ru": "Последняя версия прошивки уже установлена, обновление не требуется",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.startUpdateProcess",
+      "ident_android": "",
+      "en": "Start updating process",
+      "fi": "",
+      "ru": "Начать процесс обновления",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.downloadingTitle",
+      "ident_android": "",
+      "en": "Downloading the latest firmware to be updated...",
+      "fi": "",
+      "ru": "Идет скачивание обновления прошивки...",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.prepareTitle",
+      "ident_android": "",
+      "en": "Prepare your sensor",
+      "fi": "",
+      "ru": "Подготовьте ваш сенсор",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.openCoverTitle",
+      "ident_android": "",
+      "en": "1. Open the cover of your Ruuvi sensor",
+      "fi": "",
+      "ru": "1. Откройте крышку ваше сенсора Ruuvi",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.setUpdatingModeTitle",
+      "ident_android": "",
+      "en": "2. Set the sensor to updating mode",
+      "fi": "",
+      "ru": "2. Переведите сенсор в режим обновления",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
+      "ident_android": "",
+      "en": "If your sensor has two buttons, press the R button while keeping pressed the B button",
+      "fi": "",
+      "ru": "Если вы видите две кнопки на сенсоре, зажмите кнопку B и после коротко нажмите кнопку R",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
+      "ident_android": "",
+      "en": "If your sensor has one button, keep the button pressed for ten seconds",
+      "fi": "",
+      "ru": "Если вы видите только одну кнопку на сенсоре, зажмите кнопку на десять секунд",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.toBootModeSuccessTitle",
+      "ident_android": "",
+      "en": "3. When successful you will see a continuous red light",
+      "fi": "",
+      "ru": "3. Если все получилось, вы увидите непрерывный красный цвет индикатора",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.updatingTitle",
+      "ident_android": "",
+      "en": "Updating...",
+      "fi": "",
+      "ru": "Обновляю...",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.searchingTitle",
+      "ident_android": "",
+      "en": "Searching for a sensor",
+      "fi": "",
+      "ru": "Ищу сенсор",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.startTitle",
+      "ident_android": "",
+      "en": "Start the update",
+      "fi": "",
+      "ru": "Начать обновление",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.doNotCloseTitle",
+      "ident_android": "",
+      "en": "Do not close or power off the sensor during the update.",
+      "fi": "",
+      "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "DFUUIView.successfulTitle",
+      "ident_android": "",
+      "en": "Update successful",
+      "fi": "",
+      "ru": "Обновление успешно завершено",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "RuuviDfuError.failedToConstructUUID",
+      "ident_android": "",
+      "en": "Failed to construct UUID",
+      "fi": "",
+      "ru": "Не удалось создать UUID",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
