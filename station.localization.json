@@ -2677,11 +2677,11 @@
     {
       "ident_ios": "HumidityUnit.gm3.title",
       "ident_android": "humidity_absolute_name",
-      "en": "Absolute (gr/m³)",
-      "fi": "Absoluuttinen (gr/m³)",
-      "ru": "Абсолютная влажность (гр/м³)",
-      "sv": "Absolut (gr/m³)",
-      "fr": "Absolue (gr/m³)"
+      "en": "Absolute (g/m³)",
+      "fi": "Absoluuttinen (g/m³)",
+      "ru": "Абсолютная влажность (г/м³)",
+      "sv": "Absolut (g/m³)",
+      "fr": "Absolue (g/m³)"
     },
     {
       "ident_ios": "g/m³",
