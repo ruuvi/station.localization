@@ -5302,6 +5302,24 @@
       "ru": "Не удалось создать UUID",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EmailMismatch.Alert.message",
+      "ident_android": "",
+      "en": "Ooops, you've requested the code for %@, but used the code for %@. Please double check that you are using the code for %@",
+      "fi": "",
+      "ru": "Вы запросили код для %@, но использовали код для %@. Пожалуйста, убадитесь в том, что вы используете код из %@",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "SignIn.EmailMissing.Alert.message",
+      "ident_android": "",
+      "en": "Ooops, the email you've used to get the code was not saved. Please try to sign in again",
+      "fi": "",
+      "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
