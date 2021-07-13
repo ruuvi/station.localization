@@ -5162,7 +5162,7 @@
     {
       "ident_ios": "DFUUIView.notReportingDescription",
       "ident_android": "",
-      "en": "Your sensor doesn't report it's current firmware version. That means that it's probably running an old firmware version and updating is recommended",
+      "en": "Your sensor doesn't report its current firmware version. That means that it's probably running an old firmware version and updating is recommended",
       "fi": "Laitteessa oleva laiteohjelmisto ei ilmoita nykyistä versiota. Kyseessä on todennäköisesti vanha laiteohjelmisto ja sen päivittäminen on suositeltavaa",
       "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
       "sv": "Din sensor rapporterar inte sin nuvarande firmwareversion. Det betyder att den förmodligen har en gammal firmwareversion och uppdatering rekommenderas",
