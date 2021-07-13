@@ -4821,7 +4821,7 @@
       "ident_ios": "RuuviServiceError.failedToParseNetworkResponse",
       "ident_android": "",
       "en": "Failed to parse response.",
-      "fi": "Vastauksen kjäsentäminen epäonnistui",
+      "fi": "Vastauksen jäsentäminen epäonnistui",
       "ru": "Не удалось распарсить ответ",
       "sv": "Det gick inte att tolka svaret.",
       "fr": "Echec de l'enregistrement de la réponse"
@@ -5037,7 +5037,7 @@
       "ident_ios": "DfuFlash.Firmware.FileName.text",
       "ident_android": "",
       "en": "File Name",
-      "fi": "Tiedoston Nimi",
+      "fi": "Tiedostonimi",
       "ru": "Имя Файла",
       "sv": "Filnamn",
       "fr": "Nom du fichier"
@@ -5136,7 +5136,7 @@
       "ident_ios": "DFUUIView.navigationTitle",
       "ident_android": "",
       "en": "Firmware Update",
-      "fi": "",
+      "fi": "Laiteohjelmiston päivitys",
       "ru": "Обновление Прошивки",
       "sv": "",
       "fr": ""
@@ -5145,7 +5145,7 @@
       "ident_ios": "DFUUIView.latestTitle",
       "ident_android": "",
       "en": "Latest available Ruuvi Firmware version:",
-      "fi": "",
+      "fi": "Uusin saatavilla oleva Ruuvi-laiteohjelmisto",
       "ru": "Доступная версия прошивки Ruuvi:",
       "sv": "",
       "fr": ""
@@ -5154,7 +5154,7 @@
       "ident_ios": "DFUUIView.currentTitle",
       "ident_android": "",
       "en": "Current version:",
-      "fi": "",
+      "fi": "Nykyinen versio:",
       "ru": "Текущая версия:",
       "sv": "",
       "fr": ""
@@ -5163,7 +5163,7 @@
       "ident_ios": "DFUUIView.notReportingDescription",
       "ident_android": "",
       "en": "Your sensor doesn't report it's current firmware version. That means that it's probably running an old firmware version and updating is recommended",
-      "fi": "",
+      "fi": "Laitteessa oleva laiteohjelmisto ei ilmoita nykyistä versiota. Kyseessä on todennäköisesti vanha laiteohjelmisto ja sen päivittäminen on suositeltavaa",
       "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
       "sv": "",
       "fr": ""
@@ -5172,7 +5172,7 @@
       "ident_ios": "DFUUIView.alreadyOnLatest",
       "ident_android": "",
       "en": "You are running the latest firmware version, no need to update",
-      "fi": "",
+      "fi": "Laitteessa on jo viimeisin saatavilla oleva laiteohjelmisto",
       "ru": "Последняя версия прошивки уже установлена, обновление не требуется",
       "sv": "",
       "fr": ""
@@ -5181,7 +5181,7 @@
       "ident_ios": "DFUUIView.startUpdateProcess",
       "ident_android": "",
       "en": "Start updating process",
-      "fi": "",
+      "fi": "Päivitystä aloitetaan",
       "ru": "Начать процесс обновления",
       "sv": "",
       "fr": ""
@@ -5190,7 +5190,7 @@
       "ident_ios": "DFUUIView.downloadingTitle",
       "ident_android": "",
       "en": "Downloading the latest firmware to be updated...",
-      "fi": "",
+      "fi": "Ladataan viimeisin laiteohjelmisto päivitystä varten...",
       "ru": "Идет скачивание обновления прошивки...",
       "sv": "",
       "fr": ""
@@ -5199,7 +5199,7 @@
       "ident_ios": "DFUUIView.prepareTitle",
       "ident_android": "",
       "en": "Prepare your sensor",
-      "fi": "",
+      "fi": "Laitteen asettaminen päivitystilaan",
       "ru": "Подготовьте ваш сенсор",
       "sv": "",
       "fr": ""
@@ -5208,7 +5208,7 @@
       "ident_ios": "DFUUIView.openCoverTitle",
       "ident_android": "",
       "en": "1. Open the cover of your Ruuvi sensor",
-      "fi": "",
+      "fi": "1. Avaa Ruuvi-laitteen suojakotelo",
       "ru": "1. Откройте крышку вашего сенсора Ruuvi",
       "sv": "",
       "fr": ""
@@ -5217,7 +5217,7 @@
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
       "ident_android": "",
       "en": "2. Set the sensor to updating mode",
-      "fi": "",
+      "fi": "2. Aseta anturi päivitystilaan",
       "ru": "2. Переведите сенсор в режим обновления",
       "sv": "",
       "fr": ""
@@ -5226,7 +5226,7 @@
       "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
       "ident_android": "",
       "en": "If your sensor has two buttons, press the R button while keeping pressed the B button",
-      "fi": "",
+      "fi": "Aseta kaksipainikkeinen anturi päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R",
       "ru": "Если вы видите две кнопки на сенсоре, зажмите кнопку B и после коротко нажмите кнопку R",
       "sv": "",
       "fr": ""
@@ -5235,7 +5235,7 @@
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
       "ident_android": "",
       "en": "If your sensor has one button, keep the button pressed for ten seconds",
-      "fi": "",
+      "fi": "Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike",
       "ru": "Если вы видите только одну кнопку на сенсоре, зажмите кнопку на десять секунд",
       "sv": "",
       "fr": ""
@@ -5244,7 +5244,7 @@
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
       "ident_android": "",
       "en": "3. When successful you will see a continuous red light",
-      "fi": "",
+      "fi": "3. Laite on päivitystilassa punaisen LED-valon ollessa aktivoituna",
       "ru": "3. Если все получилось, вы увидите непрерывный красный цвет индикатора",
       "sv": "",
       "fr": ""
@@ -5253,7 +5253,7 @@
       "ident_ios": "DFUUIView.updatingTitle",
       "ident_android": "",
       "en": "Updating...",
-      "fi": "",
+      "fi": "Päivitetään...",
       "ru": "Обновляю...",
       "sv": "",
       "fr": ""
@@ -5262,7 +5262,7 @@
       "ident_ios": "DFUUIView.searchingTitle",
       "ident_android": "",
       "en": "Searching for a sensor",
-      "fi": "",
+      "fi": "Laitetta etsitään",
       "ru": "Ищу сенсор",
       "sv": "",
       "fr": ""
@@ -5271,7 +5271,7 @@
       "ident_ios": "DFUUIView.startTitle",
       "ident_android": "",
       "en": "Start the update",
-      "fi": "",
+      "fi": "Aloita päivitys",
       "ru": "Начать обновление",
       "sv": "",
       "fr": ""
@@ -5279,8 +5279,8 @@
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
       "ident_android": "",
-      "en": "Do not close or power off the sensor during the update.",
-      "fi": "",
+      "en": "Do not close app or power off the sensor during the update.",
+      "fi": "Älä sulje sovellusta tai poista paristoa laitteesta päivityksen aikana",
       "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
       "sv": "",
       "fr": ""
@@ -5289,7 +5289,7 @@
       "ident_ios": "DFUUIView.successfulTitle",
       "ident_android": "",
       "en": "Update successful",
-      "fi": "",
+      "fi": "Päivitys onnistui",
       "ru": "Обновление успешно завершено",
       "sv": "",
       "fr": ""
@@ -5298,7 +5298,7 @@
       "ident_ios": "RuuviDfuError.failedToConstructUUID",
       "ident_android": "",
       "en": "Failed to construct UUID",
-      "fi": "",
+      "fi": "UUID:n muodostaminen epäonnistui",
       "ru": "Не удалось создать UUID",
       "sv": "",
       "fr": ""
@@ -5307,7 +5307,7 @@
       "ident_ios": "SignIn.EmailMismatch.Alert.message",
       "ident_android": "",
       "en": "Ooops, you've requested the code for %@, but used the code for %@. Please double check that you are using the code for %@",
-      "fi": "",
+      "fi": "Hupsis, olet pyytänyt kirjautumiskoodia käyttäjälle %@ mutta käytettävä koodi on tarkoitettu käyttäjälle %@. Tarkasta, että saamasi koodi on käyttäjälle %@",
       "ru": "Вы запросили код для %@, но использовали код для %@. Пожалуйста, убадитесь в том, что вы используете код из %@",
       "sv": "",
       "fr": ""
@@ -5316,7 +5316,7 @@
       "ident_ios": "SignIn.EmailMissing.Alert.message",
       "ident_android": "",
       "en": "Ooops, the email you've used to get the code was not saved. Please try to sign in again",
-      "fi": "",
+      "fi": "Hupsis, kirjautumiskoodin saamiseksi antamaasi sähköpostia ei voitu tallentaa. Yritä kirjautumista uudelleen",
       "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова",
       "sv": "",
       "fr": ""
