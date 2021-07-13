@@ -5148,7 +5148,7 @@
       "fi": "Uusin saatavilla oleva Ruuvi-laiteohjelmisto",
       "ru": "Доступная версия прошивки Ruuvi:",
       "sv": "Senast tillgängliga Ruuvi firmwareversion:",
-      "fr": ""
+      "fr": "Dernière version du Ruuvi Firmware :"
     },
     {
       "ident_ios": "DFUUIView.currentTitle",
@@ -5157,7 +5157,7 @@
       "fi": "Nykyinen versio:",
       "ru": "Текущая версия:",
       "sv": "Nuvarande version:",
-      "fr": ""
+      "fr": "Version actuelle :"
     },
     {
       "ident_ios": "DFUUIView.notReportingDescription",
@@ -5166,7 +5166,7 @@
       "fi": "Laitteessa oleva laiteohjelmisto ei ilmoita nykyistä versiota. Kyseessä on todennäköisesti vanha laiteohjelmisto ja sen päivittäminen on suositeltavaa",
       "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
       "sv": "Din sensor rapporterar inte sin nuvarande firmwareversion. Det betyder att den förmodligen har en gammal firmwareversion och uppdatering rekommenderas",
-      "fr": ""
+      "fr": "Impossible d'obtenir la version actuelle de l'appareil. La version est probablement trop ancienne et il est recommandé d'effectuer une mise à jour"
     },
     {
       "ident_ios": "DFUUIView.alreadyOnLatest",
@@ -5175,7 +5175,7 @@
       "fi": "Laitteessa on jo viimeisin saatavilla oleva laiteohjelmisto",
       "ru": "Последняя версия прошивки уже установлена, обновление не требуется",
       "sv": "Du har redan den senaste firmwareversionen, ingen uppdatering behövs",
-      "fr": ""
+      "fr": "L'appareil est à déjà à jour"
     },
     {
       "ident_ios": "DFUUIView.startUpdateProcess",
@@ -5184,7 +5184,7 @@
       "fi": "Päivitystä aloitetaan",
       "ru": "Начать процесс обновления",
       "sv": "Starta uppdateringsprocessen",
-      "fr": ""
+      "fr": "Début de la mise à jour"
     },
     {
       "ident_ios": "DFUUIView.downloadingTitle",
@@ -5193,7 +5193,7 @@
       "fi": "Ladataan viimeisin laiteohjelmisto päivitystä varten...",
       "ru": "Идет скачивание обновления прошивки...",
       "sv": "Hämtar senaste firmware..",
-      "fr": ""
+      "fr": "Téléchargement de la dernière version pour la mise à jour..."
     },
     {
       "ident_ios": "DFUUIView.prepareTitle",
@@ -5202,7 +5202,7 @@
       "fi": "Laitteen asettaminen päivitystilaan",
       "ru": "Подготовьте ваш сенсор",
       "sv": "Förbered din sensor",
-      "fr": ""
+      "fr": "Configuration de l'appareil pour la mise à jour"
     },
     {
       "ident_ios": "DFUUIView.openCoverTitle",
@@ -5211,7 +5211,7 @@
       "fi": "1. Avaa Ruuvi-laitteen suojakotelo",
       "ru": "1. Откройте крышку вашего сенсора Ruuvi",
       "sv": "1. Öppna locket på din Ruuvi sensor",
-      "fr": ""
+      "fr": "1. Ouvrir le boitier du capteur Ruuvi"
     },
     {
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
@@ -5220,7 +5220,7 @@
       "fi": "2. Aseta anturi päivitystilaan",
       "ru": "2. Переведите сенсор в режим обновления",
       "sv": "2. Lägg sensorn i uppdateringsläge",
-      "fr": ""
+      "fr": "2. Configuration de l'appareil pour la mise à jour"
     },
     {
       "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
@@ -5229,7 +5229,7 @@
       "fi": "Aseta kaksipainikkeinen anturi päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R",
       "ru": "Если вы видите две кнопки на сенсоре, зажмите кнопку B и после коротко нажмите кнопку R",
       "sv": "Om din sensor har två knappar, tryck på R-knappen medan du håller ned B-knappen",
-      "fr": ""
+      "fr": "Sur un appareil à deux boutons, enfoncez le bouton B, tout en le gardant enfoncé, appuyez sur le bouton R"
     },
     {
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
@@ -5238,7 +5238,7 @@
       "fi": "Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike",
       "ru": "Если вы видите только одну кнопку на сенсоре, зажмите кнопку на десять секунд",
       "sv": "Om din sensor har en knapp, håll knappen intryckt i tio sekunder",
-      "fr": ""
+      "fr": "Si l'appareil n'a qu'un seul bouton, maintenez le enfoncé pendant 10 secondes"
     },
     {
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
@@ -5247,7 +5247,7 @@
       "fi": "3. Laite on päivitystilassa punaisen LED-valon ollessa aktivoituna",
       "ru": "3. Если все получилось, вы увидите непрерывный красный цвет индикатора",
       "sv": "3. När sensor är i uppdateringsläge så lyser den röda lysdioden lyser",
-      "fr": ""
+      "fr": "3. Une led rouge s'allume lorsque l'appareil est configuré"
     },
     {
       "ident_ios": "DFUUIView.updatingTitle",
@@ -5256,7 +5256,7 @@
       "fi": "Päivitetään...",
       "ru": "Обновляю...",
       "sv": "Uppdaterar...",
-      "fr": ""
+      "fr": "Mise à jour..."
     },
     {
       "ident_ios": "DFUUIView.searchingTitle",
@@ -5265,7 +5265,7 @@
       "fi": "Laitetta etsitään",
       "ru": "Ищу сенсор",
       "sv": "Söker efter sensor",
-      "fr": ""
+      "fr": "Recherche de capteur"
     },
     {
       "ident_ios": "DFUUIView.startTitle",
@@ -5274,7 +5274,7 @@
       "fi": "Aloita päivitys",
       "ru": "Начать обновление",
       "sv": "Starta uppdateringen",
-      "fr": ""
+      "fr": "Commencer la mise à jour"
     },
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
@@ -5283,7 +5283,7 @@
       "fi": "Älä sulje sovellusta tai poista paristoa laitteesta päivityksen aikana",
       "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
       "sv": "Stäng inte appen eller stäng av sensorn under uppdateringen.",
-      "fr": ""
+      "fr": "Ne pas fermer l'application ou enlever la pile du capteur pendant la mise à jour"
     },
     {
       "ident_ios": "DFUUIView.successfulTitle",
@@ -5292,7 +5292,7 @@
       "fi": "Päivitys onnistui",
       "ru": "Обновление успешно завершено",
       "sv": "Uppdateringen lyckades",
-      "fr": ""
+      "fr": "Mise à jour réussie"
     },
     {
       "ident_ios": "RuuviDfuError.failedToConstructUUID",
@@ -5301,7 +5301,7 @@
       "fi": "UUID:n muodostaminen epäonnistui",
       "ru": "Не удалось создать UUID",
       "sv": "Det gick inte att skapa UUID",
-      "fr": ""
+      "fr": "Echec de la création de l'UUID"
     },
     {
       "ident_ios": "SignIn.EmailMismatch.Alert.message",
@@ -5310,7 +5310,7 @@
       "fi": "Hupsis, olet pyytänyt kirjautumiskoodia käyttäjälle %@ mutta käytettävä koodi on tarkoitettu käyttäjälle %@. Tarkasta, että saamasi koodi on käyttäjälle %@",
       "ru": "Вы запросили код для %@, но использовали код для %@. Пожалуйста, убадитесь в том, что вы используете код из %@",
       "sv": "Oj, du har begärt koden för %@, men använde koden för %@. Kontrollera att du använder koden för %@",
-      "fr": ""
+      "fr": "Oups, vous avez demandé le code de connexion pour l'utilisateur %@ alors qu'il est destiné à l'utilisateur %@. Veuillez vérifier que vous utilisez bien le code pour %@"
     },
     {
       "ident_ios": "SignIn.EmailMissing.Alert.message",
@@ -5319,7 +5319,7 @@
       "fi": "Hupsis, kirjautumiskoodin saamiseksi antamaasi sähköpostia ei voitu tallentaa. Yritä kirjautumista uudelleen",
       "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова",
       "sv": "Oj, e-postadressen du har använt för att få koden sparades inte. Försök att logga in igen ",
-      "fr": ""
+      "fr": "Oups, l'adresse mail utilisée n'a pu être enregistrée. Veuillez réessayer."
     }
   ]
 }
