@@ -1510,7 +1510,7 @@
       "fi": "Network",
       "ru": "Сеть",
       "sv": "Network",
-      "fr": ""
+      "fr": "Network"
     },
     {
       "ident_ios": "TagSettings.Label.disabled.text",
@@ -1633,19 +1633,19 @@
       "ident_ios": "TagSettings.SectionHeader.Firmware.title",
       "ident_android": "",
       "en": "FIRMWARE",
-      "fi": "",
+      "fi": "LAITEOHJELMISTO",
       "ru": "ПРОШИВКА",
       "sv": "PROGRAMVARA",
-      "fr": ""
+      "fr": "FIRMWARE"
     },
     {
       "ident_ios": "TagSettings.Firmware.UpdateFirmware",
       "ident_android": "",
       "en": "Update Firmware",
-      "fi": "",
+      "fi": "Päivitä laiteohjelmisto",
       "ru": "Обновить прошивку",
       "sv": "Uppdatera Programvara",
-      "fr": ""
+      "fr": "Mettre à jour le firmware"
     },
     {
       "ident_ios": "UnexpectedError.callbackErrorAndResultAreNil",
@@ -5139,7 +5139,7 @@
       "fi": "Laiteohjelmiston päivitys",
       "ru": "Обновление Прошивки",
       "sv": "Firmware Uppdatering",
-      "fr": ""
+      "fr": "Mise à jour du firmware"
     },
     {
       "ident_ios": "DFUUIView.latestTitle",
