@@ -32,7 +32,7 @@
     },
     {
       "ident_ios": "Remove",
-      "ident_android": "",
+      "ident_android": "remove",
       "ident_webui": "remove",
       "en": "Remove",
       "fi": "Poista",
@@ -1482,9 +1482,9 @@
     },
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "tag_name",
       "ident_webui": "",
-      "en": "Sensor Name",
+      "en": "Name",
       "fi": "Anturin nimi",
       "ru": "Имя",
       "sv": "Sensornamn",
@@ -3934,7 +3934,7 @@
     },
     {
       "ident_ios": "WebTagSettings.Label.TagName.text",
-      "ident_android": "tag_name",
+      "ident_android": "",
       "ident_webui": "",
       "en": "Sensor Name",
       "fi": "Anturin nimi",
@@ -3964,9 +3964,9 @@
     },
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.message",
-      "ident_android": "tagsettings_sensor_remove_confirm",
+      "ident_android": "remove_local_sensor",
       "ident_webui": "",
-      "en": "Are you sure you want to remove this sensor?",
+      "en": "Do you want to remove the sensor? You can add it again later, if needed.",
       "fi": "Haluatko varmasti poistaa tämän anturin?",
       "ru": "Вы уверены что хотите удалить этот сенсор?",
       "sv": "Är du säker på att du vill ta bort den här sensorn?",
@@ -4483,7 +4483,7 @@
     },
     {
       "ident_ios": "TagSettings.ShareButton",
-      "ident_android": "tagsettings_share_button",
+      "ident_android": "share",
       "ident_webui": "",
       "en": "Share",
       "fi": "Jaa",
@@ -4595,7 +4595,7 @@
       "ident_ios": "ShareViewController.Description",
       "ident_android": "share_sensor_description",
       "ident_webui": "",
-      "en": "Share your Ruuvi sensor. Add your friend's email address (10 max)",
+      "en": "You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\\n\\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will be automatically created at first log in.\\n\\nNote that sensor's custom name and background image will be shared. The name and image sync is one time and they can be customised by the receiver. Offset values (if any) will be automatically synced, and the receiver will always see the corrected values.",
       "fi": "Jaa anturitiedot verkossa lisäämällä ystäväsi sähköpostiosoite (maks. 10)",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
       "sv": "Dela din Ruuvi sensor. Lägg till dina vänners e-postadresser (max 10).",
@@ -6020,6 +6020,116 @@
       "fi": "Aika",
       "ru": "",
       "sv": "Tid",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "successfully_shared",
+      "ident_webui": "",
+      "en": "Successfully shared sensor",
+      "fi": "",
+      "ru": "Успешно поделились данными датчика",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "general",
+      "ident_webui": "",
+      "en": "General",
+      "fi": "",
+      "ru": "Основное",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "remove_this_sensor",
+      "ident_webui": "",
+      "en": "Remove this sensor",
+      "fi": "",
+      "ru": "Удалить этот датчик",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sensor_shared",
+      "ident_webui": "",
+      "en": "Shared",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sensor_not_shared",
+      "ident_webui": "",
+      "en": "Not shared",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "claim_sensor",
+      "ident_webui": "",
+      "en": "Claim sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "claim_ownership",
+      "ident_webui": "",
+      "en": "CLAIM OWNERSHIP",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "claim_description",
+      "ident_webui": "",
+      "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n- Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n- Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n- Share sensors with friends and family (requires a Ruuvi Gateway)\\n- Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "successfully_claimed",
+      "ident_webui": "",
+      "en": "Successfully claimed ownership of the sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "remove_claimed_sensor",
+      "ident_webui": "",
+      "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "remove_shared_sensor",
+      "ident_webui": "",
+      "en": "If you remove the sensor, owner of the sensor will be notified and you cannot access the sensor anymore.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
       "fr": ""
     }
   ]
