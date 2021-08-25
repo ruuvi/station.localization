@@ -2273,7 +2273,7 @@
     {
       "ident_ios": "TagSettings.Alerts.Movement.description",
       "ident_android": "alert_movement_description",
-      "ident_webui": "",
+      "ident_webui": "alert_movement_description",
       "en": "Alert when sensor is moved",
       "fi": "Hälytä, mikäli liike havaittu",
       "ru": "Уведомить при движении",
@@ -2383,7 +2383,7 @@
     {
       "ident_ios": "TagSettings.Alerts.Temperature.description",
       "ident_android": "alert_subtitle_on",
-      "ident_webui": "",
+      "ident_webui": "alert_description",
       "en": "Alert when less than {%.0f^%1$,d} or more than {%.0f^%2$,d}",
       "fi": "Hälytä, mikäli alle {%.0f^%1$,d} tai yli {%.0f^%2$,d}",
       "ru": "Уведомление если меньше {%.0f^%1$,d} или больше {%.0f^%2$,d}",
@@ -4374,7 +4374,7 @@
     {
       "ident_ios": "SignIn.EmailPlaceholder",
       "ident_android": "email",
-      "ident_webui": "",
+      "ident_webui": "email",
       "en": "Email",
       "fi": "Sähköposti",
       "ru": "Email",
@@ -4384,7 +4384,7 @@
     {
       "ident_ios": "",
       "ident_android": "sign_in_login_button",
-      "ident_webui": "",
+      "ident_webui": "login",
       "en": "Login",
       "fi": "Kirjaudu",
       "ru": "Войти",
@@ -4404,7 +4404,7 @@
     {
       "ident_ios": "SignIn.SubmitCode",
       "ident_android": "sign_in_submit_button",
-      "ident_webui": "",
+      "ident_webui": "submit",
       "en": "Submit",
       "fi": "Lähetä",
       "ru": "Отправить",
@@ -4694,7 +4694,7 @@
     {
       "ident_ios": "SignIn.TitleLabel.text",
       "ident_android": "login_to_ruuvi_network",
-      "ident_webui": "",
+      "ident_webui": "login_to_ruuvi_network",
       "en": "Login to\\nRuuvi\\nNetwork",
       "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
       "ru": "Войти в\\nRuuvi\\nNetwork",
@@ -5979,6 +5979,47 @@
       "fi": "Anturit",
       "ru": "",
       "sv": "Sensorer",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "login_to_ruuvi_station",
+      "en": "Login to Ruuvi Station",
+      "fi": "Kirjaudu Ruuvi Stationiin",
+      "ru": "Войти в Ruuvi Station",
+      "sv": "Logga in till Ruuvi Station",
+      "fr": "Connexion Ruuvi Station"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "update",
+      "en": "Update",
+      "fi": "Päivitä",
+      "ru": "",
+      "sv": "Uppdatera",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "last",
+      "en": "Last",
+      "fi": "Viimeinen",
+      "ru": "",
+      "sv": "Senaste",
+      "fr": ""
+    }
+    ,
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "time",
+      "en": "Time",
+      "fi": "Aika",
+      "ru": "",
+      "sv": "Tid",
       "fr": ""
     }
   ]
