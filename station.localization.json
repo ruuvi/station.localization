@@ -6096,7 +6096,7 @@
       "ident_ios": "",
       "ident_android": "claim_description",
       "ident_webui": "",
-      "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n- Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n- Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n- Share sensors with friends and family (requires a Ruuvi Gateway)\\n- Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
+      "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
       "fi": "",
       "ru": "",
       "sv": "",
