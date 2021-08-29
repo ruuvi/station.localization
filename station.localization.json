@@ -1591,7 +1591,7 @@
       "fr": "Numéro de séquence"
     },
     {
-      "ident_ios": "TagSettings.removeThisRuuviTagButton.text",
+      "ident_ios": "TagSettings.SectionHeader.Remove.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "REMOVE",
@@ -5942,7 +5942,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.RemoveThisSensor.title",
       "ident_android": "",
       "ident_webui": "remove_this_sensor",
       "en": "Remove this sensor",
@@ -6033,7 +6033,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.SectionHeader.General.title",
       "ident_android": "general",
       "ident_webui": "",
       "en": "General",
@@ -6053,7 +6053,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.Shared.title",
       "ident_android": "sensor_shared",
       "ident_webui": "",
       "en": "Shared",
@@ -6063,7 +6063,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.NotShared.title",
       "ident_android": "sensor_not_shared",
       "ident_webui": "",
       "en": "Not shared",
@@ -6073,7 +6073,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Owner.title",
       "ident_android": "claim_sensor",
       "ident_webui": "",
       "en": "Claim sensor",
@@ -6083,7 +6083,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Owner.ClaimOwnership.button",
       "ident_android": "claim_ownership",
       "ident_webui": "",
       "en": "CLAIM OWNERSHIP",
@@ -6093,7 +6093,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Owner.Claim.description",
       "ident_android": "claim_description",
       "ident_webui": "",
       "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
@@ -6113,7 +6113,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.confirmTagUnclaimAndRemoveDialog.message",
       "ident_android": "remove_claimed_sensor",
       "ident_webui": "",
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
@@ -6131,6 +6131,26 @@
       "ru": "",
       "sv": "",
       "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.General.Owner.none",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "None",
+      "fi": "",
+      "ru": "Нет",
+      "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "TagSettings.Share.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Share",
+      "fi": "Jaa",
+      "ru": "Поделиться",
+      "sv": "Dela",
+      "fr": "Partager"
     }
   ]
 }
