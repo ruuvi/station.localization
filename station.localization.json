@@ -5946,7 +5946,7 @@
       "ident_android": "",
       "ident_webui": "remove_this_sensor",
       "en": "Remove this sensor",
-      "fi": "Irrota tämä anturi",
+      "fi": "Poista tämä anturi",
       "ru": "",
       "sv": "Ta bort sensorn",
       "fr": ""
@@ -5956,7 +5956,7 @@
       "ident_android": "",
       "ident_webui": "type_your_email",
       "en": "Type your email below. You will receive a confirmation code to your email inbox",
-      "fi": "",
+      "fi": "Anna sähköpostiosoitteesi. Kirjautumiskoodi lähetetään sinulle sähköpostitse",
       "ru": "",
       "sv": "Ange din epost-adress. Du kommer att få en bekräftelsekod i din epost.",
       "fr": ""
@@ -6027,7 +6027,7 @@
       "ident_android": "successfully_shared",
       "ident_webui": "",
       "en": "Successfully shared sensor",
-      "fi": "",
+      "fi": "Anturi jaettu onnistuneesti",
       "ru": "Успешно поделились данными датчика",
       "sv": "",
       "fr": ""
@@ -6037,7 +6037,7 @@
       "ident_android": "general",
       "ident_webui": "",
       "en": "General",
-      "fi": "",
+      "fi": "Yleisasetukset",
       "ru": "Основное",
       "sv": "",
       "fr": ""
@@ -6047,7 +6047,7 @@
       "ident_android": "remove_this_sensor",
       "ident_webui": "",
       "en": "Remove this sensor",
-      "fi": "",
+      "fi": "Poista tämä anturi",
       "ru": "Удалить этот датчик",
       "sv": "",
       "fr": ""
@@ -6057,7 +6057,7 @@
       "ident_android": "sensor_shared",
       "ident_webui": "",
       "en": "Shared",
-      "fi": "",
+      "fi": "Jaettu",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6067,7 +6067,7 @@
       "ident_android": "sensor_not_shared",
       "ident_webui": "",
       "en": "Not shared",
-      "fi": "",
+      "fi": "Ei jaettu",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6077,7 +6077,7 @@
       "ident_android": "claim_sensor",
       "ident_webui": "",
       "en": "Claim sensor",
-      "fi": "",
+      "fi": "Vahvista omistajuus",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6087,7 +6087,7 @@
       "ident_android": "claim_ownership",
       "ident_webui": "",
       "en": "CLAIM OWNERSHIP",
-      "fi": "",
+      "fi": "VAHVISTA OMISTAJUUS",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6097,7 +6097,7 @@
       "ident_android": "claim_description",
       "ident_webui": "",
       "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
-      "fi": "",
+      "fi": "Omistatko tämän anturin? Vahvista omistajuus ja anturi lisätään Ruuvi-tilillesi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.\\n\\nHyödyt:\\n\\n ● Anturien nimet, taustakuvat, kalibrointi- ja hälytystiedot turvallisesta pilvipalvelusta\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jopa 2 vuoden historiatiedot osoitteesta station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6107,7 +6107,7 @@
       "ident_android": "successfully_claimed",
       "ident_webui": "",
       "en": "Successfully claimed ownership of the sensor",
-      "fi": "",
+      "fi": "Anturin omistajuus vahvistettu",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6117,7 +6117,7 @@
       "ident_android": "remove_claimed_sensor",
       "ident_webui": "",
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
-      "fi": "",
+      "fi": "Anturin poistaminen mitätöi omistajuuden. Kuka tahansa voi vaatia anturin omistajuutta poistamisen jälkeen. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6127,7 +6127,7 @@
       "ident_android": "remove_shared_sensor",
       "ident_webui": "",
       "en": "If you remove the sensor, owner of the sensor will be notified and you cannot access the sensor anymore.",
-      "fi": "",
+      "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen luku-oikeus päättyy.",
       "ru": "",
       "sv": "",
       "fr": ""
@@ -6137,7 +6137,7 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "None",
-      "fi": "",
+      "fi": "Ei omistajaa",
       "ru": "Нет",
       "sv": "",
       "fr": ""
