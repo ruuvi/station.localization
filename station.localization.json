@@ -6023,7 +6023,7 @@
       "fr": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Share.Success.message",
       "ident_android": "successfully_shared",
       "ident_webui": "",
       "en": "Successfully shared sensor",
