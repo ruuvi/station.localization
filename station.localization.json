@@ -2963,7 +2963,7 @@
     },
     {
       "ident_ios": "TagSettings.AirHumidityAlert.title",
-      "ident_android": "humidity",
+      "ident_android": "humidity_with_unit",
       "ident_webui": "",
       "en": "Air Humidity ({%@^%1$s})",
       "fi": "Ilmankosteus ({%@^%1$s})",
@@ -3263,7 +3263,7 @@
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
-      "ident_android": "pressure",
+      "ident_android": "pressure_with_unit",
       "ident_webui": "",
       "en": "Air Pressure ({%@^%1$s})",
       "fi": "Ilmanpaine ({%@^%1$s})",
@@ -3974,7 +3974,7 @@
     },
     {
       "ident_ios": "TagSettings.temperatureAlertTitleLabel.text",
-      "ident_android": "temperature",
+      "ident_android": "temperature_with_unit",
       "ident_webui": "",
       "en": "Temperature ({%@^%1$s})",
       "fi": "Lämpötila ({%@^%1$s})",
@@ -5133,7 +5133,7 @@
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Temperature",
-      "ident_android": "",
+      "ident_android": "temperature",
       "ident_webui": "temperature",
       "en": "Temperature",
       "fi": "Lämpötila",
@@ -5143,7 +5143,7 @@
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Humidity",
-      "ident_android": "",
+      "ident_android": "humidity",
       "ident_webui": "humidity",
       "en": "Humidity",
       "fi": "Kosteus",
@@ -5153,7 +5153,7 @@
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Pressure",
-      "ident_android": "",
+      "ident_android": "pressure",
       "ident_webui": "pressure",
       "en": "Pressure",
       "fi": "Paine",
