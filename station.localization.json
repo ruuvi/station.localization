@@ -6086,8 +6086,8 @@
       "ident_ios": "Owner.ClaimOwnership.button",
       "ident_android": "claim_ownership",
       "ident_webui": "",
-      "en": "CLAIM OWNERSHIP",
-      "fi": "VAHVISTA OMISTAJUUS",
+      "en": "Claim Ownership",
+      "fi": "Vahvista Omistajuus",
       "ru": "",
       "sv": "",
       "fr": ""
