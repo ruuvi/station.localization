@@ -4596,7 +4596,7 @@
       "ident_android": "share_sensor_description",
       "ident_webui": "",
       "en": "You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\\n\\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will be automatically created at first log in.\\n\\nNote that sensor's custom name and background image will be shared. The name and image sync is one time and they can be customised by the receiver. Offset values (if any) will be automatically synced, and the receiver will always see the corrected values.",
-      "fi": "Jaa anturitiedot verkossa lisäämällä ystäväsi sähköpostiosoite (maks. 10)",
+      "fi": "Voit jakaa tämän anturin ystäville tai perheenjäsenille, mikäli laite on Ruuvi Gateway -reitittimen kuuluvuusalueella.\\n\\nVastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.\\n\\nAnturin nimi ja taustakuva jaetaan ensimmäisen synkronoinnin yhteydessä, jonka jälkeen vastaanottaja voi muokata tietoja haluamallaan tavalla. Kalibroidut arvot (mikäli käytössä) synkronoidaan automaattisesti. Vastaanottaja näkee aina korjatut arvot.",
       "ru": "Поделитесь показаниями своего датчика. Добавьте адреса своих друзей (10 максимум)",
       "sv": "Dela din Ruuvi sensor. Lägg till dina vänners e-postadresser (max 10).",
       "fr": "Pour partager votre capteur, veuillez ajouter l'adresse mail des destinataires (maximum 10)."
