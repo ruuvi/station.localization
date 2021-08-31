@@ -4455,7 +4455,7 @@
       "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
       "ident_android": "sign_out_confirm",
       "ident_webui": "",
-      "en": "Do you want sign out?",
+      "en": "When you sign out, sensors of which ownerships you've claimed on the sensor settings page, will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\\n\\n Do you want sign out?",
       "fi": "Haluatko varmasti kirjautua ulos?",
       "ru": "Хотите выйти из сети?",
       "sv": "Vill du logga ut?",
