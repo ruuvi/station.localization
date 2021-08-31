@@ -4456,7 +4456,7 @@
       "ident_android": "sign_out_confirm",
       "ident_webui": "",
       "en": "When you sign out, sensors of which ownerships you've claimed on the sensor settings page, will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\\n\\n Do you want sign out?",
-      "fi": "Haluatko varmasti kirjautua ulos?",
+      "fi": "Anturit, joiden omistajuuden olet vahvistanut asetussivulla poistetaan sovelluksesta automaattisesti uloskirjauduttaessa. Anturitiedot palautetaan pilvipalvelusta samalla sähköpostiosoitteella uudelleenkirjauduttaessa.\\n\\n Haluatko varmasti kirjautua ulos?",
       "ru": "Хотите выйти из сети?",
       "sv": "Vill du logga ut?",
       "fr": "Souhaitez-vous vous déconnecter ?"
@@ -4466,7 +4466,7 @@
       "ident_android": "tagsettings_claim_button",
       "ident_webui": "",
       "en": "Claim",
-      "fi": "Lukitse",
+      "fi": "Vahvista",
       "ru": "Мой сенсор",
       "sv": "Bli ägare",
       "fr": "Coupler"
@@ -4686,7 +4686,7 @@
       "ident_android": "network_status_title",
       "ident_webui": "",
       "en": "Ruuvi Cloud status",
-      "fi": "Ruuvi Networkin tila",
+      "fi": "Ruuvi cloudin tila",
       "ru": "Статус сети Ruuvi",
       "sv": "Ruuvi Network status",
       "fr": "Statut du Ruuvi Network"
@@ -4696,7 +4696,7 @@
       "ident_android": "login_to_ruuvi_network",
       "ident_webui": "login_to_ruuvi_network",
       "en": "Login to\\nRuuvi\\nCloud",
-      "fi": "Kirjaudu\\nRuuvi\\nNetworkiin",
+      "fi": "Kirjaudu\\nRuuvi\\ncloudiin",
       "ru": "Войти в\\nRuuvi\\nCloud",
       "sv": "Logga in till\\nRuuvi\\nNetwork",
       "fr": "Connexion \\nRuuvi\\nNetwork"
@@ -4706,7 +4706,7 @@
       "ident_android": "login_description",
       "ident_webui": "",
       "en": "To enjoy all the features, create an account or login to your existing Ruuvi account by entering your email address.",
-      "fi": "Hyödynnä kaikki Ruuvi Network mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
+      "fi": "Hyödynnä Ruuvi-pilvipalvelun mahdollisuudet! Kirjaudu sisään tai luo uusi Ruuvi-käyttäjätili antamalla sähköpostiosoitteesi.",
       "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
       "sv": "Dra full nytta av Ruuvi Network! Logga in eller skapa ett nytt Ruuvi-konto genom att ange din e-postadress.",
       "fr": "Profitez de tous les avantages du Ruuvi Network ! Connectez-vous ou créez votre compte en entrant votre adresse mail."
