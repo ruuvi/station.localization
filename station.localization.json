@@ -4845,7 +4845,7 @@
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
       "ident_android": "",
       "ident_webui": "",
-      "en": "In order to share the sensor, you need to have a RUuvi Gateway router nearby the sensor",
+      "en": "In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor",
       "fi": "Jotta voit jakaa anturin, sen täytyy olla Ruuvi Gateway -reitittimen kuuluvuusalueella",
       "ru": "",
       "sv": "",
