@@ -4695,9 +4695,9 @@
       "ident_ios": "SignIn.TitleLabel.text",
       "ident_android": "login_to_ruuvi_network",
       "ident_webui": "login_to_ruuvi_network",
-      "en": "Login to\\nRuuvi\\nCloud",
+      "en": "Login to\\nRuuvi\\ncloud",
       "fi": "Kirjaudu\\nRuuvi\\ncloudiin",
-      "ru": "Войти в\\nRuuvi\\nCloud",
+      "ru": "Войти в\\nRuuvi\\ncloud",
       "sv": "Logga in till\\nRuuvi\\nNetwork",
       "fr": "Connexion \\nRuuvi\\nNetwork"
     },
