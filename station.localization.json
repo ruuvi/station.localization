@@ -6151,6 +6151,16 @@
       "ru": "Поделиться",
       "sv": "Dela",
       "fr": "Partager"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "logged_in",
+      "ident_webui": "",
+      "en": "Logged in:",
+      "fi": "",
+      "ru": "Пользователь:",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
