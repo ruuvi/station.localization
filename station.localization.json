@@ -2744,7 +2744,7 @@
     {
       "ident_ios": "h",
       "ident_android": "h",
-      "ident_webui": "",
+      "ident_webui": "h",
       "en": "h",
       "fi": "t",
       "ru": "ч",
@@ -3114,7 +3114,7 @@
     {
       "ident_ios": "min",
       "ident_android": "min",
-      "ident_webui": "",
+      "ident_webui": "min",
       "en": "min",
       "fi": "min",
       "ru": "мин",
@@ -3404,7 +3404,7 @@
     {
       "ident_ios": "s",
       "ident_android": "s",
-      "ident_webui": "",
+      "ident_webui": "s",
       "en": "s",
       "fi": "s",
       "ru": "с",
@@ -6160,6 +6160,76 @@
       "fi": "Kirjautunut:",
       "ru": "Пользователь:",
       "sv": "",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "day",
+      "en": "Day",
+      "fi": "",
+      "ru": "",
+      "sv": "Dag",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "week",
+      "en": "Week",
+      "fi": "",
+      "ru": "",
+      "sv": "Vecka",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "weeks",
+      "en": "Weeks",
+      "fi": "",
+      "ru": "",
+      "sv": "Veckor",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "month",
+      "en": "Month",
+      "fi": "",
+      "ru": "",
+      "sv": "Månad",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "months",
+      "en": "Months",
+      "fi": "",
+      "ru": "",
+      "sv": "Månader",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "hour",
+      "en": "Hour",
+      "fi": "",
+      "ru": "",
+      "sv": "Timme",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "no_data",
+      "en": "No data.\nThe sensor need to be in range of a gateway.",
+      "fi": "",
+      "ru": "",
+      "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
       "fr": ""
     }
   ]
