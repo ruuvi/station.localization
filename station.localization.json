@@ -1677,7 +1677,7 @@
       "en": "Cloud",
       "fi": "Pilvi",
       "ru": "Сеть",
-      "sv": "",
+      "sv": "Moln",
       "fr": ""
     },
     {
@@ -4368,7 +4368,7 @@
       "en": "Benefits of the Ruuvi Cloud service",
       "fi": "Ruuvin pilvipalvelun etuja",
       "ru": "",
-      "sv": "",
+      "sv": "Fördelarna med Ruuvi Cloud",
       "fr": ""
     },
     {
@@ -4458,7 +4458,7 @@
       "en": "When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the Cloud.\\n\\n Do you want to sign out?",
       "fi": "Anturit, joiden omistajuuden olet vahvistanut asetussivulla poistetaan sovelluksesta automaattisesti uloskirjauduttaessa. Anturitiedot palautetaan pilvipalvelusta samalla sähköpostiosoitteella uudelleenkirjauduttaessa.\\n\\n Haluatko varmasti kirjautua ulos?",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorer som du har verifierat äganderätten till på inställningssidan tas automatiskt bort från appen när du loggar ut. Sensordata hämtas från molnet igen om du loggar in med samma e-postadress.\\n\\n Är du säker på att du vill logga ut? ",
       "fr": ""
     },
     {
@@ -4468,7 +4468,7 @@
       "en": "Claim ownership",
       "fi": "Vahvista omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "Bekräfta ägandet",
       "fr": ""
     },
     {
@@ -4478,7 +4478,7 @@
       "en": "Unclaim ownership",
       "fi": "Vapauta omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "Hävda ägande",
       "fr": ""
     },
     {
@@ -4598,7 +4598,7 @@
       "en": "You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\\n\\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\\n\\nNote that the sensor's custom name and background image will be shared. The name and image sync is one time only, and they can be customised by the receiver. Offset values (if any) will be automatically synced, and the receiver will always see the corrected values.",
       "fi": "Voit jakaa tämän anturin ystäville tai perheenjäsenille, mikäli laite on Ruuvi Gateway -reitittimen kuuluvuusalueella.\\n\\nVastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.\\n\\nAnturin nimi ja taustakuva jaetaan ensimmäisen synkronoinnin yhteydessä, jonka jälkeen vastaanottaja voi muokata tietoja haluamallaan tavalla. Kalibroidut arvot (mikäli käytössä) synkronoidaan automaattisesti. Vastaanottaja näkee aina korjatut arvot.",
       "ru": "",
-      "sv": "",
+      "sv": "Du kan dela sensorn med vänner och familj om den är inom räckhåll för en Ruuvi Gateway.\\n\\nMottagaren meddelas via e-post. Om mottagaren inte har ett Ruuvi-konto skapas ett gratis Ruuvi-konto automatiskt vid första inloggningen.\\n\\nObservera att sensorns anpassade namn och bakgrundsbild delas. Namnet och bildsynkroniseringen sker endast vid en gång, efteråt kan det anpassas av mottagaren. Kalibreringsvärden (om sådana finns) synkroniseras automatiskt och mottagaren ser alltid de korrigerade värdena.",
       "fr": ""
     },
     {
@@ -4688,7 +4688,7 @@
       "en": "Ruuvi cloud status",
       "fi": "Ruuvin pilven tila",
       "ru": "Статус сети Ruuvi",
-      "sv": "",
+      "sv": "Ruuvi cloud status",
       "fr": ""
     },
     {
@@ -4848,7 +4848,7 @@
       "en": "In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor",
       "fi": "Jotta voit jakaa anturin, sen täytyy olla Ruuvi Gateway -reitittimen kuuluvuusalueella",
       "ru": "",
-      "sv": "",
+      "sv": "För att dela sensorn måste du ha en Ruuvi Gateway router i närheten av sensorn",
       "fr": ""
     },
     {
@@ -6029,7 +6029,7 @@
       "en": "Successfully shared sensor",
       "fi": "Anturi jaettu onnistuneesti",
       "ru": "Успешно поделились данными датчика",
-      "sv": "",
+      "sv": "Delningen lyckades",
       "fr": ""
     },
     {
@@ -6039,7 +6039,7 @@
       "en": "General",
       "fi": "Yleisasetukset",
       "ru": "Основное",
-      "sv": "",
+      "sv": "Allmänt",
       "fr": ""
     },
     {
@@ -6049,7 +6049,7 @@
       "en": "Remove this sensor",
       "fi": "Poista tämä anturi",
       "ru": "Удалить этот датчик",
-      "sv": "",
+      "sv": "Ta bort sensorn",
       "fr": ""
     },
     {
@@ -6059,7 +6059,7 @@
       "en": "Shared",
       "fi": "Jaettu",
       "ru": "",
-      "sv": "",
+      "sv": "Delad",
       "fr": ""
     },
     {
@@ -6069,7 +6069,7 @@
       "en": "Not shared",
       "fi": "Ei jaettu",
       "ru": "",
-      "sv": "",
+      "sv": "Inte delad",
       "fr": ""
     },
     {
@@ -6079,7 +6079,7 @@
       "en": "Claim sensor",
       "fi": "Vahvista omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "Bekräfta ägandet",
       "fr": ""
     },
     {
@@ -6089,7 +6089,7 @@
       "en": "Claim Ownership",
       "fi": "Vahvista Omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "Bekräfta Ägandet",
       "fr": ""
     },
     {
@@ -6099,7 +6099,7 @@
       "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the Cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
       "fi": "Omistatko tämän anturin? Vahvista omistajuus ja anturi lisätään Ruuvi-tilillesi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.\\n\\nHyödyt:\\n\\n ● Anturien nimet, taustakuvat, kalibrointi- ja hälytystiedot turvallisesta pilvipalvelusta\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jopa 2 vuoden historiatiedot osoitteesta station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
       "ru": "",
-      "sv": "",
+      "sv": "Äger du den här sensorn? Bekräfta ägandet och så läggs sensorn till på ditt Ruuvi-konto. Varje Ruuvi-sensor kan bara ha en ägare.\\n\\nFördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
       "fr": ""
     },
     {
@@ -6109,7 +6109,7 @@
       "en": "Ownership of the sensor claimed successfully",
       "fi": "Anturin omistajuus vahvistettu",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorägande bekräftat",
       "fr": ""
     },
     {
@@ -6119,7 +6119,7 @@
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
       "fi": "Anturin poistaminen mitätöi omistajuuden. Kuka tahansa voi vaatia anturin omistajuutta poistamisen jälkeen. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "",
-      "sv": "",
+      "sv": "Om du tar bort sensorn upphör ägarskapet. Vem som helst kan göra anspråk på ägandet av sensorn efter borttagning. Varje Ruuvi-sensor kan bara ha en ägare.",
       "fr": ""
     },
     {
@@ -6129,7 +6129,7 @@
       "en": "If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.",
       "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen luku-oikeus päättyy.",
       "ru": "",
-      "sv": "",
+      "sv": "Om du tar bort sensorn så meddelas ägaren till sensorn och du kan inte komma åt den längre.",
       "fr": ""
     },
     {
@@ -6139,7 +6139,7 @@
       "en": "None",
       "fi": "Ei omistajaa",
       "ru": "Нет",
-      "sv": "",
+      "sv": "Ingen",
       "fr": ""
     },
     {
@@ -6159,7 +6159,7 @@
       "en": "Logged in:",
       "fi": "Kirjautunut:",
       "ru": "Пользователь:",
-      "sv": "",
+      "sv": "Inloggad:",
       "fr": ""
     },
     {
