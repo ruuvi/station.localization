@@ -6167,7 +6167,7 @@
       "ident_android": "",
       "ident_webui": "day",
       "en": "Day",
-      "fi": "",
+      "fi": "Päivä",
       "ru": "",
       "sv": "Dag",
       "fr": ""
@@ -6177,7 +6177,7 @@
       "ident_android": "",
       "ident_webui": "week",
       "en": "Week",
-      "fi": "",
+      "fi": "Viikko",
       "ru": "",
       "sv": "Vecka",
       "fr": ""
@@ -6187,7 +6187,7 @@
       "ident_android": "",
       "ident_webui": "weeks",
       "en": "Weeks",
-      "fi": "",
+      "fi": "Viikkoa",
       "ru": "",
       "sv": "Veckor",
       "fr": ""
@@ -6197,7 +6197,7 @@
       "ident_android": "",
       "ident_webui": "month",
       "en": "Month",
-      "fi": "",
+      "fi": "Kuukausi",
       "ru": "",
       "sv": "Månad",
       "fr": ""
@@ -6207,7 +6207,7 @@
       "ident_android": "",
       "ident_webui": "months",
       "en": "Months",
-      "fi": "",
+      "fi": "Kuukautta",
       "ru": "",
       "sv": "Månader",
       "fr": ""
@@ -6217,7 +6217,7 @@
       "ident_android": "",
       "ident_webui": "hour",
       "en": "Hour",
-      "fi": "",
+      "fi": "Tunti",
       "ru": "",
       "sv": "Timme",
       "fr": ""
@@ -6227,7 +6227,7 @@
       "ident_android": "",
       "ident_webui": "no_data",
       "en": "No data.\nThe sensor need to be in range of a gateway.",
-      "fi": "",
+      "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
       "ru": "",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
       "fr": ""
