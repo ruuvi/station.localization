@@ -6010,8 +6010,7 @@
       "ru": "",
       "sv": "Senaste",
       "fr": ""
-    }
-    ,
+    },
     {
       "ident_ios": "",
       "ident_android": "",
@@ -6115,7 +6114,7 @@
     {
       "ident_ios": "TagSettings.confirmTagUnclaimAndRemoveDialog.message",
       "ident_android": "remove_claimed_sensor",
-      "ident_webui": "",
+      "ident_webui": "remove_claimed_sensor",
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
       "fi": "Anturin poistaminen mitätöi omistajuuden. Kuka tahansa voi vaatia anturin omistajuutta poistamisen jälkeen. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "",
@@ -6125,7 +6124,7 @@
     {
       "ident_ios": "",
       "ident_android": "remove_shared_sensor",
-      "ident_webui": "",
+      "ident_webui": "remove_shared_sensor",
       "en": "If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.",
       "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen luku-oikeus päättyy.",
       "ru": "",
@@ -6230,6 +6229,16 @@
       "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
       "ru": "",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
+      "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "no_data_in_range",
+      "en": "No data for this time range",
+      "fi": "Tältä ajalta ei ole tietoja",
+      "ru": "",
+      "sv": "Ingen data för detta tidsintervall",
       "fr": ""
     }
   ]
