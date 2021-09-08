@@ -6240,6 +6240,16 @@
       "ru": "",
       "sv": "Ingen data för detta tidsintervall",
       "fr": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "rename_sensor_message",
+      "ident_webui": "",
+      "en": "Your sensors will be in alphabetical order.",
+      "fi": "Anturisi asettuvat automaattisesti aakkosjärjestykseen.",
+      "ru": "Датчики будут отсортированы в алфавитном порядке.",
+      "sv": "",
+      "fr": ""
     }
   ]
 }
