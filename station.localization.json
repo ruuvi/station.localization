@@ -2946,7 +2946,7 @@
       "ident_android": "hours",
       "ident_webui": "hours",
       "en": "Hours",
-      "fi": "Tuntia",
+      "fi": "tuntia",
       "ru": "Часов",
       "sv": "Timmar",
       "fr": "Heures"
@@ -2956,7 +2956,7 @@
       "ident_android": "days",
       "ident_webui": "days",
       "en": "Days",
-      "fi": "Päivää",
+      "fi": "päivää",
       "ru": "Дней",
       "sv": "Dagar",
       "fr": "Jours"
@@ -6166,7 +6166,7 @@
       "ident_android": "",
       "ident_webui": "day",
       "en": "Day",
-      "fi": "Päivä",
+      "fi": "päivä",
       "ru": "",
       "sv": "Dag",
       "fr": ""
@@ -6176,7 +6176,7 @@
       "ident_android": "",
       "ident_webui": "week",
       "en": "Week",
-      "fi": "Viikko",
+      "fi": "viikko",
       "ru": "",
       "sv": "Vecka",
       "fr": ""
@@ -6186,7 +6186,7 @@
       "ident_android": "",
       "ident_webui": "weeks",
       "en": "Weeks",
-      "fi": "Viikkoa",
+      "fi": "viikkoa",
       "ru": "",
       "sv": "Veckor",
       "fr": ""
@@ -6196,7 +6196,7 @@
       "ident_android": "",
       "ident_webui": "month",
       "en": "Month",
-      "fi": "Kuukausi",
+      "fi": "kuukausi",
       "ru": "",
       "sv": "Månad",
       "fr": ""
@@ -6206,7 +6206,7 @@
       "ident_android": "",
       "ident_webui": "months",
       "en": "Months",
-      "fi": "Kuukautta",
+      "fi": "kuukautta",
       "ru": "",
       "sv": "Månader",
       "fr": ""
@@ -6216,7 +6216,7 @@
       "ident_android": "",
       "ident_webui": "hour",
       "en": "Hour",
-      "fi": "Tunti",
+      "fi": "tunti",
       "ru": "",
       "sv": "Timme",
       "fr": ""
