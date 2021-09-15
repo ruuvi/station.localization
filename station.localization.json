@@ -1483,7 +1483,7 @@
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
       "ident_android": "tag_name",
-      "ident_webui": "",
+      "ident_webui": "sensor_name",
       "en": "Name",
       "fi": "Anturin nimi",
       "ru": "Имя",
@@ -4484,7 +4484,7 @@
     {
       "ident_ios": "TagSettings.ShareButton",
       "ident_android": "share",
-      "ident_webui": "",
+      "ident_webui": "share",
       "en": "Share",
       "fi": "Jaa",
       "ru": "Поделиться",
@@ -4584,7 +4584,7 @@
     {
       "ident_ios": "ShareViewController.Title",
       "ident_android": "share_sensor_title",
-      "ident_webui": "",
+      "ident_webui": "share_sensor_title",
       "en": "Share sensor",
       "fi": "Jaa anturi",
       "ru": "Поделиться датчиком Ruuvi",
@@ -4594,7 +4594,7 @@
     {
       "ident_ios": "ShareViewController.Description",
       "ident_android": "share_sensor_description",
-      "ident_webui": "",
+      "ident_webui": "share_sensor_description",
       "en": "You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\\n\\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\\n\\nNote that the sensor's custom name and background image will be shared. The name and image sync is one time only, and after this, they can be privately customised by the receiver. Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.",
       "fi": "Voit jakaa tämän anturin ystäville tai perheenjäsenille, mikäli laite on Ruuvi Gateway -reitittimen kuuluvuusalueella.\\n\\nVastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.\\n\\nAnturin nimi ja taustakuva jaetaan vastaanottajalle vain kertaalleen. Sen jälkeen kumpikin voivat muokata vain omia anturiasetuksiaan. Kalibrointiarvot (mikäli käytössä) synkronoidaan automaattisesti jaetuille antureille ja vastaanottaja näkee vain lopulliset korjatut arvot.",
       "ru": "",
@@ -4604,7 +4604,7 @@
     {
       "ident_ios": "ShareViewController.addFriend.Title",
       "ident_android": "share_sensor_add_friend",
-      "ident_webui": "",
+      "ident_webui": "share_sensor_add_friend",
       "en": "Add friend",
       "fi": "Lisää ystävä",
       "ru": "Добавить друга",
@@ -4642,9 +4642,19 @@
       "fr": "Envoyer"
     },
     {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "share_sensor_already_shared",
+      "en": "Already shared",
+      "fi": "Anturi on jo jaettu",
+      "ru": "Поделились",
+      "sv": "Sensorn är redan delad",
+      "fr": "Le capteur est déjà partagé"
+    },
+    {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
       "ident_android": "share_sensor_unshare_confirm",
-      "ident_webui": "",
+      "ident_webui": "share_sensor_unshare_confirm",
       "en": "Do you want to unshare sensor for {%@^%1$s}?",
       "fi": "Haluatko lopettaa anturin jakamisen käyttäjälle {%@^%1$s}?",
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
@@ -4664,7 +4674,7 @@
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
       "ident_android": "tagsettings_owner",
-      "ident_webui": "",
+      "ident_webui": "owner",
       "en": "Owner",
       "fi": "Omistaja",
       "ru": "Владелец",
@@ -4734,7 +4744,7 @@
     {
       "ident_ios": "UserApiError.ER_FORBIDDEN",
       "ident_android": "cloud_er_forbidden",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_FORBIDDEN",
       "en": "Forbidden",
       "fi": "Kielletty",
       "ru": "Запрещено",
@@ -4744,7 +4754,7 @@
     {
       "ident_ios": "UserApiError.ER_UNAUTHORIZED",
       "ident_android": "cloud_er_unauthorized",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_UNAUTHORIZED",
       "en": "Unauthorised",
       "fi": "Ei sallittu",
       "ru": "Требуется авторизация",
@@ -4754,7 +4764,7 @@
     {
       "ident_ios": "UserApiError.ER_INTERNAL",
       "ident_android": "cloud_er_internal",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INTERNAL",
       "en": "Internal error",
       "fi": "Sisäinen virhe",
       "ru": "Внутренняя ошибка",
@@ -4764,7 +4774,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_FORMAT",
       "ident_android": "cloud_er_invalid_format",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_FORMAT",
       "en": "Invalid request format",
       "fi": "Virheellinen pyynnön muoto",
       "ru": "Неправильный формат запроса",
@@ -4774,7 +4784,7 @@
     {
       "ident_ios": "UserApiError.ER_USER_NOT_FOUND",
       "ident_android": "cloud_er_user_not_found",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_USER_NOT_FOUND",
       "en": "User not found",
       "fi": "Käyttäjää ei löydy",
       "ru": "Пользователь не найден",
@@ -4784,7 +4794,7 @@
     {
       "ident_ios": "UserApiError.ER_SENSOR_NOT_FOUND",
       "ident_android": "cloud_er_sensor_not_found",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SENSOR_NOT_FOUND",
       "en": "Sensor not found",
       "fi": "Anturia ei löydy",
       "ru": "Сенсор не найден",
@@ -4794,7 +4804,7 @@
     {
       "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
       "ident_android": "cloud_er_token_expired",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_TOKEN_EXPIRED",
       "en": "Token is expired",
       "fi": "Avain on vanhentunut",
       "ru": "Токен истек",
@@ -4804,7 +4814,7 @@
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
       "ident_android": "cloud_er_subscription_not_found",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
       "en": "Subscription is not found",
       "fi": "Tilausta ei löydy",
       "ru": "Подписка не найдена",
@@ -4814,7 +4824,7 @@
     {
       "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
       "ident_android": "cloud_er_share_count_reached",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SHARE_COUNT_REACHED",
       "en": "The share limit is reached",
       "fi": "Jakojen enimmäismäärä on ylitetty",
       "ru": "Достигнут лимит количества общих сенсоров",
@@ -4824,7 +4834,7 @@
     {
       "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
       "ident_android": "cloud_er_sensor_share_count_reached",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
       "en": "Sensor share limit is reached",
       "fi": "Et voi jakaa anturia useammalle käyttäjälle",
       "ru": "Превышено количество общих сенсоров",
@@ -4834,7 +4844,7 @@
     {
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
       "ident_android": "cloud_er_no_data_to_share",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_NO_DATA_TO_SHARE",
       "en": "In order to share the sensor, you need to have a Ruuvi Gateway router nearby the sensor",
       "fi": "Jotta voit jakaa anturin, sen täytyy olla Ruuvi Gateway -reitittimen kuuluvuusalueella",
       "ru": "Чтобы поделиться датчиком необходимо наличие Ruuvi Gateway поблизости",
@@ -4844,7 +4854,7 @@
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
       "ident_android": "cloud_er_sensor_already_shared",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SENSOR_ALREADY_SHARED",
       "en": "This sensor is already shared",
       "fi": "Tämä anturi on jo jaettu",
       "ru": "Вы уже делились этим сенсором",
@@ -4854,7 +4864,7 @@
     {
       "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
       "ident_android": "cloud_er_unable_to_send_email",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
       "en": "Unable to send e-mail",
       "fi": "Sähköpostin lähetys epäonnistui",
       "ru": "Не удалось отправить e-mail",
@@ -4864,7 +4874,7 @@
     {
       "ident_ios": "UserApiError.ER_MISSING_ARGUMENT",
       "ident_android": "cloud_er_missing_argument",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_MISSING_ARGUMENT",
       "en": "Missing argument",
       "fi": "Argumentti puuttuu",
       "ru": "Пропущен аргумент запроса",
@@ -4874,7 +4884,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_DENSITY_MODE",
       "ident_android": "cloud_er_invalid_density_mode",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_DENSITY_MODE",
       "en": "Invalid density mode",
       "fi": "Virheellinen tiheuden tila",
       "ru": "Недопустимый режим плотности",
@@ -4884,7 +4894,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_SORT_MODE",
       "ident_android": "cloud_er_invalid_sort_mode",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_SORT_MODE",
       "en": "Invalid sort mode",
       "fi": "Virheellinen lajittelun tila",
       "ru": "Выбран недопустимый метод сортировки",
@@ -4894,7 +4904,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_TIME_RANGE",
       "ident_android": "cloud_er_invalid_time_range",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_TIME_RANGE",
       "en": "Invalid time range",
       "fi": "Virheellinen aikaväli",
       "ru": "Выбран недопустимый промежуток времени",
@@ -4904,7 +4914,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
       "ident_android": "cloud_er_invalid_email_address",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
       "en": "Invalid e-mail address",
       "fi": "Virheellinen sähköpostiosoite",
       "ru": "Недопустимый e-mail",
@@ -4914,7 +4924,7 @@
     {
       "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
       "ident_android": "cloud_er_invalid_mac_address",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_INVALID_MAC_ADDRESS",
       "en": "Invalid MAC-address",
       "fi": "Virheellinen MAC-osoite",
       "ru": "Недопустимый MAC-адрес",
@@ -4924,7 +4934,7 @@
     {
       "ident_ios": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
       "ident_android": "cloud_er_sub_data_storage_error",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
       "en": "Data storage error",
       "fi": "Tallennusvirhe",
       "ru": "Ошибка сохранения данных",
@@ -4934,7 +4944,7 @@
     {
       "ident_ios": "UserApiError.ER_SUB_NO_USER",
       "ident_android": "cloud_er_sub_no_user",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_SUB_NO_USER",
       "en": "No user",
       "fi": "Ei käyttäjää",
       "ru": "Нет пользователя",
@@ -6024,7 +6034,7 @@
     {
       "ident_ios": "TagSettings.SectionHeader.General.title",
       "ident_android": "general",
-      "ident_webui": "",
+      "ident_webui": "general",
       "en": "General",
       "fi": "Yleisasetukset",
       "ru": "Основное",
@@ -6044,7 +6054,7 @@
     {
       "ident_ios": "TagSettings.Shared.title",
       "ident_android": "sensor_shared",
-      "ident_webui": "",
+      "ident_webui": "sensor_shared",
       "en": "Shared",
       "fi": "Jaettu",
       "ru": "",
