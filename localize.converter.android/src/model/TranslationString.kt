@@ -9,20 +9,23 @@ data class TranslationString (
     var fi: String,
     var ru: String,
     var sv: String,
-    var fr: String
+    var fr: String,
+    var de: String
 ) {
     fun export(
         writer: PrintWriter,
         writerFi: PrintWriter,
         writerSv: PrintWriter,
         writerRu: PrintWriter,
-        writerFr: PrintWriter
+        writerFr: PrintWriter,
+        writerDe: PrintWriter
     ) {
         if (en.isNotEmpty()) writer.println(prepareString(en))
         if (fi.isNotEmpty()) writerFi.println(prepareString(fi))
         if (sv.isNotEmpty()) writerSv.println(prepareString(sv))
         if (ru.isNotEmpty()) writerRu.println(prepareString(ru))
         if (fr.isNotEmpty()) writerFr.println(prepareString(fr))
+        if (de.isNotEmpty()) writerDe.println(prepareString(de))
     }
 
     private fun prepareString(sourceString: String): String {

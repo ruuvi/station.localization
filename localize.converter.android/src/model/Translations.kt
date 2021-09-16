@@ -23,15 +23,17 @@ data class Translations(
         val writerSv = PrintWriter("../../com.ruuvi.station/app/src/main/res/values-sv/strings.xml")
         val writerRu = PrintWriter("../../com.ruuvi.station/app/src/main/res/values-ru/strings.xml")
         val writerFr = PrintWriter("../../com.ruuvi.station/app/src/main/res/values-fr/strings.xml")
+        val writerDe = PrintWriter("../../com.ruuvi.station/app/src/main/res/values-de/strings.xml")
 
         startFile(writer)
         startFile(writerFi)
         startFile(writerSv)
         startFile(writerRu)
         startFile(writerFr)
+        startFile(writerDe)
 
         for (entry in translations.sortedBy { it.ident_android }) {
-            if (entry.ident_android.isNotEmpty()) entry.export(writer, writerFi, writerSv, writerRu, writerFr)
+            if (entry.ident_android.isNotEmpty()) entry.export(writer, writerFi, writerSv, writerRu, writerFr, writerDe)
         }
 
         closeFile(writer)
@@ -39,6 +41,7 @@ data class Translations(
         closeFile(writerSv)
         closeFile(writerRu)
         closeFile(writerFr)
+        closeFile(writerDe)
     }
 
     fun startFile(writer: PrintWriter) {
@@ -47,7 +50,7 @@ data class Translations(
     }
 
     fun closeFile(writer: PrintWriter) {
-        writer.println("</resources>")
+        writer.print("</resources>")
         writer.close()
     }
 

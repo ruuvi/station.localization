@@ -44,7 +44,7 @@ object IosImporter {
 
             var translation = target.translations.firstOrNull { it.ident_ios == ident.value}
             if (translation == null) {
-                translation = TranslationString(ident.value, "","","","","","")
+                translation = TranslationString(ident.value, "","","","","","", "")
                 target.translations.add(translation)
             }
             setFunc(translation, value.value)
