@@ -1917,7 +1917,7 @@
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
       "ident_android": "alarm_custom_title_hint",
-      "ident_webui": "",
+      "ident_webui": "alarm_custom_title_hint",
       "en": "Set custom description...",
       "fi": "Muokkaa kuvausta...",
       "ru": "Введите описание...",
@@ -3447,7 +3447,7 @@
     {
       "ident_ios": "TagSettings.Label.moreInfo.text",
       "ident_android": "more_info",
-      "ident_webui": "",
+      "ident_webui": "more_info",
       "en": "MORE INFO",
       "fi": "LISÄTIETOA",
       "ru": "ДОПОЛНИТЕЛЬНО",
@@ -6626,7 +6626,7 @@
     {
       "ident_ios": "Share.Success.message",
       "ident_android": "successfully_shared",
-      "ident_webui": "",
+      "ident_webui": "successfully_shared",
       "en": "Successfully shared sensor",
       "fi": "Anturi jaettu onnistuneesti",
       "ru": "Успешно поделились данными датчика",
