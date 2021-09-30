@@ -9,7 +9,7 @@
       "ru": "Готово",
       "sv": "Klar",
       "fr": "Prêt",
-      "de": ""
+      "de": "Fertig",
     },
     {
       "ident_ios": "Copy",
@@ -20,7 +20,7 @@
       "ru": "Копировать",
       "sv": "Kopiera",
       "fr": "Copier",
-      "de": ""
+      "de": "Kopieren",
     },
     {
       "ident_ios": "Confirm",
@@ -31,7 +31,7 @@
       "ru": "Подтвердить",
       "sv": "Bekräfta",
       "fr": "Confirmer",
-      "de": ""
+      "de": "Bestätige",
     },
     {
       "ident_ios": "Remove",
@@ -42,7 +42,7 @@
       "ru": "Удалить",
       "sv": "Ta bort",
       "fr": "Supprimer",
-      "de": ""
+      "de": "Löschen",
     },
     {
       "ident_ios": "N/A",
@@ -53,7 +53,7 @@
       "ru": "-",
       "sv": "-",
       "fr": "-",
-      "de": ""
+      "de": "-",
     },
     {
       "ident_ios": "g",
@@ -64,7 +64,7 @@
       "ru": "g",
       "sv": "g",
       "fr": "g",
-      "de": ""
+      "de": "g",
     },
     {
       "ident_ios": "About.Version.text",
@@ -75,7 +75,7 @@
       "ru": "Версия",
       "sv": "Version",
       "fr": "Version",
-      "de": ""
+      "de": "Version",
     },
     {
       "ident_ios": "Background.navigationItem.title",
@@ -86,7 +86,7 @@
       "ru": "Фоновый Режим",
       "sv": "Bakgrund",
       "fr": "Tâches en arrière plan",
-      "de": ""
+      "de": "Hintergrund",
     },
     {
       "ident_ios": "Background.PresentNotifications.title",
@@ -97,7 +97,7 @@
       "ru": "Показывать Уведомления",
       "sv": "Visa Notifikationer",
       "fr": "Voir les notifications",
-      "de": ""
+      "de": "Zeige Benachrichtigungen",
     },
     {
       "ident_ios": "Background.KeepConnection.title",
@@ -108,7 +108,7 @@
       "ru": "Держать Соединение",
       "sv": "Håll Anslutningen",
       "fr": "Maintenir la connexion",
-      "de": ""
+      "de": " Verbindung behalten",
     },
     {
       "ident_ios": "Background.SaveHeartbeats.title",
@@ -119,7 +119,7 @@
       "ru": "Сохранять Данные",
       "sv": "Datalagringsintervall",
       "fr": "Intervalle de sauvegarde",
-      "de": ""
+      "de": "Datenprotokollierungsintervall",
     },
     {
       "ident_ios": "Background.Interval.Every.string",
@@ -130,7 +130,7 @@
       "ru": "каждые",
       "sv": "varje",
       "fr": "Chaque",
-      "de": ""
+      "de": "Jeder",
     },
     {
       "ident_ios": "Background.Interval.Min.string",
@@ -141,7 +141,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "Background.readRSSITitle.title",
@@ -152,7 +152,7 @@
       "ru": "Считывать RSSI",
       "sv": "Läs RSSI",
       "fr": "Lire RSSI",
-      "de": ""
+      "de": "Lese RSSI",
     },
     {
       "ident_ios": "BluetoothError.disconnected",
@@ -163,7 +163,7 @@
       "ru": "Соединение разорвано",
       "sv": "Frånkopplad",
       "fr": "Déconnecté",
-      "de": ""
+      "de": "Getrennt",
     },
     {
       "ident_ios": "Cards.BluetoothDisabledAlert.title",
@@ -174,7 +174,7 @@
       "ru": "Bluetooth выключен",
       "sv": "Bluetooth är inte aktiverat",
       "fr": "Bluetooth désactivé",
-      "de": ""
+      "de": "Bluetooth ist nicht aktiviert",
     },
     {
       "ident_ios": "Cards.BluetoothDisabledAlert.message",
@@ -185,7 +185,7 @@
       "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre téléphone.",
-      "de": ""
+      "de": "Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehe zu Einstellungen und schalte Bluetooth ein",
     },
     {
       "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.title",
@@ -196,7 +196,7 @@
       "ru": "Слишком много запросов",
       "sv": "För många förfrågningar",
       "fr": "Trop de demandes simultanées",
-      "de": ""
+      "de": "Zu viele Anfragen",
     },
     {
       "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.message",
@@ -207,7 +207,7 @@
       "ru": "Пожалуйста, попробуйте через 5 минут",
       "sv": "Försök igen om 5 minutes",
       "fr": "Réessayez dans 5 minutes",
-      "de": ""
+      "de": "Versuche es in 5 minuten nochmal",
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.message",
@@ -218,7 +218,7 @@
       "ru": "На вашем устройстве установлена прошивка, поддерживающая соединение. Хотите поддерживать соединение активным для этого устройства в фоновом режиме? Это позволит использовать графики и уведомления даже когда приложение закрыто.",
       "sv": "Det ser ut som din Ruuvi enhet har anslutningsbar firmware. Vill du att anslutningen till enheten skall hållas öppen i bakgrunden? Detta gör att histogram och alarm fungerar även om applikationen är minimerad.",
       "fr": "Votre appareil est programmé pour rester connecté. Souhaitez-vous maintenir la connexion en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée.",
-      "de": ""
+      "de": "Scheint, als ob Sie eine verbindbare Firmware auf Ihrem Ruuvi-Gerät ausführen. Möchten Sie die Verbindung zu diesem Ruuvi-Gerät im Hintergrund offen halten? Dadurch können Histogramme und Warnungen auch dann angezeigt werden, wenn die Anwendung minimiert ist.",
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
@@ -229,7 +229,7 @@
       "ru": "Закрыть",
       "sv": "Avbryt",
       "fr": "Supprimer",
-      "de": ""
+      "de": "Abbrechen",
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.KeepConnection.title",
@@ -240,7 +240,7 @@
       "ru": "Установить Соединение",
       "sv": "Håll Anslutningen",
       "fr": "Maintenir la connexion",
-      "de": ""
+      "de": "Verbindung aufrecht erhalten",
     },
     {
       "ident_ios": "Cards.Connected.title",
@@ -251,7 +251,7 @@
       "ru": "Соединен",
       "sv": "Ansluten",
       "fr": "Connecté",
-      "de": ""
+      "de": "Verbunden",
     },
     {
       "ident_ios": "Cards.Error.ReverseGeocodingFailed.message",
@@ -262,7 +262,7 @@
       "ru": "Не удалось загрузить данные для виртуального сенсора. Превышен лимит операций обратного геокодирования.",
       "sv": "Det gick inte att ladda data för Virtual Sensor. Gränsen för geokodöverföring överskriden.",
       "fr": "Echec du téléchargement des données de l'appareil.",
-      "de": ""
+      "de": "Fehler beim Laden der Daten für den virtuellen Sensor. Das Betriebslimit für umgekehrte Geokodierung wurde überschritten.",
     },
     {
       "ident_ios": "CoreError.failedToGetPngRepresentation",
@@ -273,7 +273,7 @@
       "ru": "Не удалось получить данные в формате PNG",
       "sv": "Det gick inte att få PNG-representation",
       "fr": "Echec de la représentation PNG",
-      "de": ""
+      "de": "PNG-Darstellung konnte nicht abgerufen werden",
     },
     {
       "ident_ios": "CoreError.failedToGetDocumentsDirectory",
@@ -284,7 +284,7 @@
       "ru": "Не удалось получить директорию для фоновых изображений",
       "sv": "Det gick inte att hämta bakgrundskatalog",
       "fr": "Répertoire d'arrière-plan introuvable",
-      "de": ""
+      "de": "Fehler beim Abrufen des Hintergrundverzeichnisses",
     },
     {
       "ident_ios": "CoreError.failedToGetCurrentLocation",
@@ -295,7 +295,7 @@
       "ru": "Не удалось получить текущее месторасположение",
       "sv": "Det gick inte att få aktuell plats",
       "fr": "Position introuvable",
-      "de": ""
+      "de": "Fehler beim Abrufen des aktuellen Standorts",
     },
     {
       "ident_ios": "CoreError.failedToGetDataFromResponse",
@@ -306,7 +306,7 @@
       "ru": "Не удалось получить данные из ответа",
       "sv": "Svaret innehåller ingen information",
       "fr": "La réponse ne contient pas de données",
-      "de": ""
+      "de": "Fehler beim Abrufen der Daten",
     },
     {
       "ident_ios": "CoreError.locationPermissionDenied",
@@ -317,7 +317,7 @@
       "ru": "Не удалось получить разрешение на использование геолокации",
       "sv": "Saknar rättigheter för Platstjänster",
       "fr": "L'accès aux données de géolocalisation n'est pas accordé",
-      "de": ""
+      "de": "Fehlende Berechtigung für Ortungsdienste",
     },
     {
       "ident_ios": "CoreError.locationPermissionNotDetermined",
@@ -328,7 +328,7 @@
       "ru": "Права на использование локационных сервисов не определены",
       "sv": "Status för platstillstånd kunde inte fastställas",
       "fr": "L'accès aux données de géolocalisation n'est pas déterminé",
-      "de": ""
+      "de": "Autorisierungsstatus der Standortberechtigung ist unbestimmt",
     },
     {
       "ident_ios": "CoreError.objectNotFound",
@@ -339,7 +339,7 @@
       "ru": "Объект не найден",
       "sv": "Inget objekt hittades",
       "fr": "Objet introuvable",
-      "de": ""
+      "de": "Objekt nicht gefunden",
     },
     {
       "ident_ios": "CoreError.objectInvalidated",
@@ -350,7 +350,7 @@
       "ru": "Объект инвалидирован",
       "sv": "Objekt ogiltigt",
       "fr": "Objet invalide",
-      "de": ""
+      "de": "Objekt ungültig",
     },
     {
       "ident_ios": "CoreError.unableToSendEmail",
@@ -361,7 +361,7 @@
       "ru": "Невозможно отправить электронное письмо",
       "sv": "Kunde inte skicka e-post",
       "fr": "Echec de l'envoi du mail",
-      "de": ""
+      "de": "Email kann nicht gesendet werden",
     },
     {
       "ident_ios": "Defaults.navigationItem.title",
@@ -372,7 +372,7 @@
       "ru": "Значения",
       "sv": "Standardinställningar",
       "fr": "Paramètres d'usine",
-      "de": ""
+      "de": "Standardeinstellungen",
     },
     {
       "ident_ios": "Defaults.WelcomeShown.title",
@@ -383,7 +383,7 @@
       "ru": "Приветствие Показано",
       "sv": "Välkomst Visad",
       "fr": "La présentation est affichée",
-      "de": ""
+      "de": "Willkommen angezeigt",
     },
     {
       "ident_ios": "Defaults.ChartsSwipeInstructionWasShown.title",
@@ -394,7 +394,7 @@
       "ru": "Свайп на Графиках",
       "sv": "Histogram Swipe Tips Har Visats",
       "fr": "Détails de l'histogramme en mode paysage",
-      "de": ""
+      "de": "Charts-Swipe-Hinweis wurde angezeigt",
     },
     {
       "ident_ios": "Defaults.Interval.Sec.string",
@@ -405,7 +405,7 @@
       "ru": "сек",
       "sv": "sek",
       "fr": "sec",
-      "de": ""
+      "de": "sek",
     },
     {
       "ident_ios": "Defaults.Interval.Min.string",
@@ -416,7 +416,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "Defaults.ConnectionTimeout.title",
@@ -427,7 +427,7 @@
       "ru": "Таймаут (соед.)",
       "sv": "Anslutningstimeout",
       "fr": "Temporisation de la connexion",
-      "de": ""
+      "de": "Verbindungszeitüberschreitung",
     },
     {
       "ident_ios": "Defaults.ServiceTimeout.title",
@@ -438,7 +438,7 @@
       "ru": "Таймаут (обм.)",
       "sv": "Service Timeout",
       "fr": "Temporisation du service",
-      "de": ""
+      "de": "Service Unterbrechung",
     },
     {
       "ident_ios": "Defaults.CardsSwipeHint.title",
@@ -449,7 +449,7 @@
       "ru": "Свайп Подсказка на Графиках",
       "sv": "Kort Swipe Tips Har Visats",
       "fr": "Conseil d'essuyage",
-      "de": ""
+      "de": "Karten-Swipe-Hinweis wurde angezeigt",
     },
     {
       "ident_ios": "Defaults.AlertsRepeatInterval.title",
@@ -460,7 +460,7 @@
       "ru": "Интервал Уведомлений",
       "sv": "Alarmintervall",
       "fr": "Intervalle d'alerte",
-      "de": ""
+      "de": "Benachrichtigungsintervall",
     },
     {
       "ident_ios": "Defaults.WebPullInterval.title",
@@ -471,7 +471,7 @@
       "ru": "Интервал Уведомления для Виртуальных Сенсоров",
       "sv": "Alarmintervall för Virtuella Sensorer",
       "fr": "Intervalle d'alerte des capteurs virtuels",
-      "de": ""
+      "de": "Intervall für Web-Benachrichtigungen",
     },
     {
       "ident_ios": "Defaults.PruningOffsetHours.title",
@@ -482,7 +482,7 @@
       "ru": "Смещение Очистки в Часах",
       "sv": "Beskärning av förskjutningstider",
       "fr": "Décalage",
-      "de": ""
+      "de": "Versatzstunden beschneiden",
     },
     {
       "ident_ios": "Defaults.Interval.Hour.string",
@@ -493,7 +493,7 @@
       "ru": "ч",
       "sv": "h",
       "fr": "h",
-      "de": ""
+      "de": "h",
     },
     {
       "ident_ios": "Defaults.ChartDurationHours.title",
@@ -504,7 +504,7 @@
       "ru": "Размер Графиков",
       "sv": "Historikens längd",
       "fr": "Durée de l'historique",
-      "de": ""
+      "de": "Diagrammdauer",
     },
     {
       "ident_ios": "Advanced.title",
@@ -515,7 +515,7 @@
       "ru": "Расширенные настройки",
       "sv": "Avancerade inställningar",
       "fr": "Paramètres avancés",
-      "de": ""
+      "de": "Erweiterte Einstellungen",
     },
     {
       "ident_ios": "Advanced.ChartIntervalMinutes.title",
@@ -526,7 +526,7 @@
       "ru": "Интервал графиков",
       "sv": "Historikens noggrannhet",
       "fr": "Intervalle d'affichage",
-      "de": ""
+      "de": "Diagrammintervall",
     },
     {
       "ident_ios": "Advanced.Downsampling.title",
@@ -537,7 +537,7 @@
       "ru": "Downsampling",
       "sv": "Nedsampling",
       "fr": "Sous-échantillonage",
-      "de": ""
+      "de": "Downsampling",
     },
     {
       "ident_ios": "Advanced.Interval.Min.string",
@@ -548,7 +548,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
@@ -559,7 +559,7 @@
       "ru": "Виртуальные",
       "sv": "Virtuella sensorer",
       "fr": "Capteurs virtuels",
-      "de": ""
+      "de": "Virtuelle Sensoren",
     },
     {
       "ident_ios": "DiscoverTable.BluetoothDisabledAlert.title",
@@ -570,7 +570,7 @@
       "ru": "Bluetooth выключен",
       "sv": "Bluetooth är inte aktiverat",
       "fr": "Bluetooth désactivé",
-      "de": ""
+      "de": "Bluetooth ist nicht aktiviert",
     },
     {
       "ident_ios": "DiscoverTable.BluetoothDisabledAlert.message",
@@ -581,7 +581,7 @@
       "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre appareil.",
-      "de": ""
+      "de": "Die Ruuvi Station benötigt Bluetooth, um die Sensoren zu verbinden. Gehen Sie zu Einstellungen und schalten Sie Bluetooth ein.",
     },
     {
       "ident_ios": "DiscoverTable.NavigationItem.title",
@@ -592,7 +592,7 @@
       "ru": "Добавить Сенсор",
       "sv": "Lägg till en ny sensor",
       "fr": "Ajouter un capteur",
-      "de": ""
+      "de": "Neuen Sensor hinzufügen",
     },
     {
       "ident_ios": "DiscoverTable.GetMoreSensors.button.title",
@@ -603,7 +603,7 @@
       "ru": "КУПИТЬ СЕНСОРЫ",
       "sv": "KÖP SENSORER",
       "fr": "ACHETER DES CAPTEURS",
-      "de": ""
+      "de": "SENSOREN KAUFEN",
     },
     {
       "ident_ios": "DiscoverTable.NoDevicesSection.NotFound.text",
@@ -614,7 +614,7 @@
       "ru": "(Bluetooth устройства не найдены)",
       "sv": "(Inga sensorer inom Bluetooths räckvidd)",
       "fr": "(Pas de capteurs à portée du Bluetooth)",
-      "de": ""
+      "de": "(Keine Sensoren in Bluetooth-Reichweite)",
     },
     {
       "ident_ios": "DiscoverTable.NoDevicesSection.BluetoothDisabled.text",
@@ -625,7 +625,7 @@
       "ru": "(Bluetooth отключен)",
       "sv": "(Bluetooth är avaktiverat)",
       "fr": "(Bluetooth désactivé)",
-      "de": ""
+      "de": "(Bluetooth ist deaktiviert)",
     },
     {
       "ident_ios": "DiscoverTable.WebTagsInfoDialog.message",
@@ -636,7 +636,7 @@
       "ru": "Виртуальные сенсоры показывают публичную информацию о погоде, предоставленную локальными станциями.",
       "sv": "Virtuella Sensorer visar offentlig väder data som upprätthålls av lokala väderstationer.",
       "fr": "Les capteurs virtuels permettent d'afficher des données recueillies à partir de stations météorologiques locales.",
-      "de": ""
+      "de": "Virtuelle Sensoren zeigen öffentliche Wetterdaten an, die von lokalen Wetterstationen bereitgestellt werden.",
     },
     {
       "ident_ios": "DiscoverTable.RuuviDevice.prefix",
@@ -647,7 +647,7 @@
       "ru": "Ruuvi",
       "sv": "Ruuvi",
       "fr": "Ruuvi",
-      "de": ""
+      "de": "Ruuvi",
     },
     {
       "ident_ios": "ErrorPresenterAlert.Error",
@@ -658,7 +658,7 @@
       "ru": "Ошибка",
       "sv": "Fel",
       "fr": "Erreur",
-      "de": ""
+      "de": "Fehler",
     },
     {
       "ident_ios": "ErrorPresenterAlert.OK",
@@ -669,7 +669,7 @@
       "ru": "OK",
       "sv": "OK",
       "fr": "OK",
-      "de": ""
+      "de": "OK",
     },
     {
       "ident_ios": "ExpectedError.missingOpenWeatherMapAPIKey",
@@ -680,7 +680,7 @@
       "ru": "Не указан API-ключ для OpenWeatherMap. Пожалуйста, получите его на сайте openweathermap.org и поместите в файл station/Classes/Networking/Assembly/Networking.plist",
       "sv": "OpenWeatherMap API Key saknas. Du kan få en från openweathermap.org website och sätt den sedan i filen station/Classes/Networking/Assembly/Networking.plist",
       "fr": "Clé API OpenWeatherMap manquante. Obtenez une clé sur openweathermap.org et ajoutez-la dans le fichier station/Classes/Networking/Assembly/Networking.plist",
-      "de": ""
+      "de": "Fehlender OpenWeatherMap-API-Schlüssel. Bitte holen Sie einen von openweathermap.org und fügen Sie sie diesen in die Datei station/Classes/Networking/Assembly/Networking.plist ein",
     },
     {
       "ident_ios": "ExpectedError.isAlreadySyncingLogsWithThisTag",
@@ -691,7 +691,7 @@
       "ru": "Приложение уже в процессе синхронизации логов с данным сенсором",
       "sv": "Applikationen håller redan på att synkronisera logginformation med denna sensor",
       "fr": "L'application a été paramétrée pour être synchronisée avec ce capteur",
-      "de": ""
+      "de": "Die App ist bereits dabei, Protokolle mit diesem Sensor zu synchronisieren",
     },
     {
       "ident_ios": "ExpectedError.failedToDeleteTag",
@@ -702,7 +702,7 @@
       "ru": "Не удалось удалить подключенный сенсор, так как он недоступен. Пожалуйста, проверьте соединение по Bluetooth.",
       "sv": "Det går inte att ta bort en ansluten enhet som inte kan nås. Kontrollera Bluetooth-anslutningen.",
       "fr": "Un capteur enregistré ne peut être supprimé sans connexion Bluetooth. Vérifiez la connexion.",
-      "de": ""
+      "de": "Das nicht erreichbare Gerät kann nicht entfernt werden. Bitte überprüfen Sie Ihre Bluetooth-Verbindung.",
     },
     {
       "ident_ios": "ExportService.Date",
@@ -713,7 +713,7 @@
       "ru": "\\\"Дата\\\"",
       "sv": "\\\"Tidpunkt\\\"",
       "fr": "\\\"Date\\\"",
-      "de": ""
+      "de": "\\\"Datum\\\",
     },
     {
       "ident_ios": "ExportService.ISO8601",
@@ -724,7 +724,7 @@
       "ru": "\\\"ISO8601\\\"",
       "sv": "\\\"ISO8601\\\"",
       "fr": "\\\"ISO8601\\\"",
-      "de": ""
+      "de": "\\\"ISO8601\\\",
     },
     {
       "ident_ios": "ExportService.Temperature",
@@ -735,7 +735,7 @@
       "ru": "\\\"Температура (%@)\\\"",
       "sv": "\\\"Temperatur (%@)\\\"",
       "fr": "\\\"Température (%@)\\\"",
-      "de": ""
+      "de": "\\\"Temperatur (%@)\\\"",
     },
     {
       "ident_ios": "ExportService.Humidity",
@@ -746,7 +746,7 @@
       "ru": "\\\"Влажность (%@)\\\"",
       "sv": "\\\"Luftfuktighet (%@)\\\"",
       "fr": "\\\"Humidité (%@)\\\"",
-      "de": ""
+      "de": "\\\"Feuchtigkeit (%@)\\\"",
     },
     {
       "ident_ios": "ExportService.DewPoint",
@@ -757,7 +757,7 @@
       "ru": "\\\"Точка росы (%@)\\\"",
       "sv": "\\\"Daggpunkt (%@)\\\"",
       "fr": "\\\"Point de rosée (%@)\\\"",
-      "de": ""
+      "de": "\\\"Taupunkt (%@)\\\"",
     },
     {
       "ident_ios": "ExportService.Pressure",
@@ -768,7 +768,7 @@
       "ru": "\\\"Давление (%@)\\\"",
       "sv": "\\\"Lufttryck (%@)\\\"",
       "fr": "\\\"Pression (%@)\\\"",
-      "de": ""
+      "de": "\\\"Druck (%@)\\\"",
     },
     {
       "ident_ios": "ExportService.Voltage",
@@ -779,7 +779,7 @@
       "ru": "\\\"Напряжение (В)\\\"",
       "sv": "\\\"Spänning (V)\\\"",
       "fr": "\\\"Tension (V)\\\"",
-      "de": ""
+      "de": "\\\"Spannung (V)\\\"",
     },
     {
       "ident_ios": "ExportService.MovementCounter",
@@ -790,7 +790,7 @@
       "ru": "\\\"Счетчик Движения\\\"",
       "sv": "\\\"Rörelseräknare\\\"",
       "fr": "\\\"Compteur de mouvements\\\"",
-      "de": ""
+      "de": "\\\"Bewegungszähler\\\"",
     },
     {
       "ident_ios": "ExportService.MeasurementSequenceNumber",
@@ -801,7 +801,7 @@
       "ru": "\\\"Порядковый Номер Измерения\\\"",
       "sv": "\\\"Mätningssekvensnummer\\\"",
       "fr": "\\\"Numéro de séquence\\\"",
-      "de": ""
+      "de": "\\\"Messsequenznummer\\\"",
     },
     {
       "ident_ios": "ExportService.TXPower",
@@ -812,7 +812,7 @@
       "ru": "\\\"Мощность Передачи\\\"",
       "sv": "\\\"Sändningseffekt\\\"",
       "fr": "\\\"Puissance d'émission\\\"",
-      "de": ""
+      "de": "\\\"TX-Leistung\\\"",
     },
     {
       "ident_ios": "ForegroundRow.advertisement.section",
@@ -823,7 +823,7 @@
       "ru": "СООБЩЕНИЯ",
       "sv": "ENHETSMEDDELANDEN",
       "fr": "MESSAGES DES CAPTEURS",
-      "de": ""
+      "de": "ANZEIGE",
     },
     {
       "ident_ios": "ForegroundRow.advertisement.title",
@@ -834,7 +834,7 @@
       "ru": "Сохранять данные",
       "sv": "Spara enhetsmeddelanden",
       "fr": "Enregistrer les messages des capteurs",
-      "de": ""
+      "de": "Werbung speichern",
     },
     {
       "ident_ios": "ForegroundRow.connection.section",
@@ -845,7 +845,7 @@
       "ru": "ЛОГИ",
       "sv": "LOGS",
       "fr": "HISTORIQUE",
-      "de": ""
+      "de": "PROTOKOLL",
     },
     {
       "ident_ios": "ForegroundRow.connection.title",
@@ -856,7 +856,7 @@
       "ru": "Соединяться и сохранять логи",
       "sv": "Anslut och synkronisera loggar",
       "fr": "Connecter et enregistrer l'historique",
-      "de": ""
+      "de": "Protokolle verbinden und synchronisieren",
     },
     {
       "ident_ios": "Foreground.navigationItem.title",
@@ -867,7 +867,7 @@
       "ru": "Активный Режим",
       "sv": "Processer",
       "fr": "Tâches actives en premier plan",
-      "de": ""
+      "de": "Vordergrund",
     },
     {
       "ident_ios": "Foreground.Interval.Every.string",
@@ -878,7 +878,7 @@
       "ru": "Каждые",
       "sv": "Varje",
       "fr": "Chaque",
-      "de": ""
+      "de": "Jeder",
     },
     {
       "ident_ios": "Foreground.Interval.Min.string",
@@ -889,7 +889,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "ForegroundRow.webTags.title",
@@ -900,7 +900,7 @@
       "ru": "Загружать из интернета",
       "sv": "Ladda och spara från webben",
       "fr": "Télécharger et enregistrer depuis internet",
-      "de": ""
+      "de": "Laden und speichern aus dem Web",
     },
     {
       "ident_ios": "ForegroundRow.webTags.section",
@@ -911,7 +911,7 @@
       "ru": "ВИРТУАЛЬНЫЕ СЕНСОРЫ",
       "sv": "VIRTUELLA SENSORER",
       "fr": "CAPTEURS VIRTUELS",
-      "de": ""
+      "de": "VIRTUELLE SENSOREN",
     },
     {
       "ident_ios": "Foreground.Interval.All.string",
@@ -922,7 +922,7 @@
       "ru": "Все",
       "sv": "Alla",
       "fr": "Tous",
-      "de": ""
+      "de": "Alle",
     },
     {
       "ident_ios": "Heartbeat.navigationItem.title",
@@ -933,7 +933,7 @@
       "ru": "Фоновый Режим",
       "sv": "Bakgrund",
       "fr": "Tâches d'arrière plan",
-      "de": ""
+      "de": "Hintergrund",
     },
     {
       "ident_ios": "Heartbeat.SaveHeartbeats.title",
@@ -944,7 +944,7 @@
       "ru": "Сохранять Данные",
       "sv": "Dataloggningsintervall",
       "fr": "Intervalle d'enregistrement",
-      "de": ""
+      "de": "Datenprotokollierungsintervall",
     },
     {
       "ident_ios": "Heartbeat.Interval.Every.string",
@@ -955,7 +955,7 @@
       "ru": "каждые",
       "sv": "varje",
       "fr": "toutes les",
-      "de": ""
+      "de": "Jeder",
     },
     {
       "ident_ios": "Heartbeat.Interval.Min.string",
@@ -966,7 +966,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "Heartbeat.readRSSITitle.title",
@@ -977,7 +977,7 @@
       "ru": "Считывать RSSI",
       "sv": "Läs RSSI",
       "fr": "Lire RSSI",
-      "de": ""
+      "de": "Lese RSSI",
     },
     {
       "ident_ios": "Heartbeat.Interval.Sec.string",
@@ -988,7 +988,7 @@
       "ru": "сек",
       "sv": "sek",
       "fr": "sec",
-      "de": ""
+      "de": "sek",
     },
     {
       "ident_ios": "Heartbeat.Interval.All.string",
@@ -999,7 +999,7 @@
       "ru": "Все",
       "sv": "Alla",
       "fr": "Tous",
-      "de": ""
+      "de": "Alle",
     },
     {
       "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.title",
@@ -1010,7 +1010,7 @@
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
       "fr": "Êtes-vous sûr ?",
-      "de": ""
+      "de": "Sind Sie sicher?",
     },
     {
       "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.message",
@@ -1021,7 +1021,7 @@
       "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения",
       "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta",
       "fr": "Vous allez réinitialiser le calibrage de l'hygromètre. Cette action est irréversible. Appuyez sur \\\"confirmer\\\" pour continuer",
-      "de": ""
+      "de": "Feuchtigkeits-Offset wird gelöscht. Dies kann nicht rückgängig gemacht werden. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren.",
     },
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.title",
@@ -1032,7 +1032,7 @@
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
       "fr": "Êtes-vous sûr ?",
-      "de": ""
+      "de": "Sind Sie sicher?",
     },
     {
       "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.message",
@@ -1043,7 +1043,7 @@
       "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения",
       "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta",
       "fr": "Vous allez calibrer l'hygromètre. Appuyez sur \\\"confirmer\\\" pour continuer",
-      "de": ""
+      "de": "Feuchtigkeits-Offset wird kalibriert. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren",
     },
     {
       "ident_ios": "Language.English",
@@ -1054,7 +1054,7 @@
       "ru": "English",
       "sv": "English",
       "fr": "English",
-      "de": ""
+      "de": "Englisch",
     },
     {
       "ident_ios": "Language.Finnish",
@@ -1065,7 +1065,7 @@
       "ru": "Suomi",
       "sv": "Suomi",
       "fr": "Suomi",
-      "de": ""
+      "de": "Suomi",
     },
     {
       "ident_ios": "Language.Russian",
@@ -1076,7 +1076,7 @@
       "ru": "Русский",
       "sv": "Русский",
       "fr": "Русский",
-      "de": ""
+      "de": "Русский",
     },
     {
       "ident_ios": "Language.Swedish",
@@ -1087,7 +1087,7 @@
       "ru": "Svenska",
       "sv": "Svenska",
       "fr": "Svenska",
-      "de": ""
+      "de": "Svenska",
     },
     {
       "ident_ios": "Language.French",
@@ -1098,7 +1098,7 @@
       "ru": "Français",
       "sv": "Français",
       "fr": "Français",
-      "de": ""
+      "de": "Français",
     },
     {
       "ident_ios": "LocalNotificationsManager.DidConnect.title",
@@ -1109,7 +1109,7 @@
       "ru": "Соединился",
       "sv": "Ansluten",
       "fr": "Connecté",
-      "de": ""
+      "de": "Verbunden",
     },
     {
       "ident_ios": "LocalNotificationsManager.DidDisconnect.title",
@@ -1120,7 +1120,7 @@
       "ru": "Отсоединился",
       "sv": "Frånkopplad",
       "fr": "Déconnecté",
-      "de": ""
+      "de": "Unterbrochen",
     },
     {
       "ident_ios": "LocalNotificationsManager.Disable.button",
@@ -1131,7 +1131,7 @@
       "ru": "Отключить",
       "sv": "Stäng av",
       "fr": "Supprimer",
-      "de": ""
+      "de": "Ausschalten",
     },
     {
       "ident_ios": "LocalNotificationsManager.LowDewPoint.title",
@@ -1142,7 +1142,7 @@
       "ru": "Ниже Точки Росы!",
       "sv": "För låg Daggpunkt!",
       "fr": "Point de rosée trop bas !",
-      "de": ""
+      "de": "Taupunkt ist zu niedrig!",
     },
     {
       "ident_ios": "LocalNotificationsManager.HighDewPoint.title",
@@ -1153,7 +1153,7 @@
       "ru": "Выше Точки Росы!",
       "sv": "För hög Daggpunkt!",
       "fr": "Point de rosée trop haut !",
-      "de": ""
+      "de": "Taupunkt ist zu hoch!,"
     },
     {
       "ident_ios": "PermissionPresenter.NoPhotoLibraryAccess.message",
@@ -1164,7 +1164,7 @@
       "ru": "Ruuvi Station необходим доступ к вашей библиотеке фотографий для того, чтобы использовать эту функцию.",
       "sv": "Ruuvi Station behöver tillgång till dina bilder för att använda den här funktionen.",
       "fr": "Veuillez autoriser l'accès aux fichiers multimédias de votre appareil.",
-      "de": ""
+      "de": "Ruuvi Station muss auf Ihre Kamera zugreifen, um diese Funktion zu aktivieren.",
     },
     {
       "ident_ios": "PermissionPresenter.NoCameraAccess.message",
@@ -1175,7 +1175,7 @@
       "ru": "Ruuvi Station нужен доступ к камере для того, чтобы использовать эту функцию.",
       "sv": "Ruuvi Station behöver tillgång kameran för att använda den här funktionen.",
       "fr": "Veuillez autoriser l'accès à l'appareil photo.",
-      "de": ""
+      "de": "Ruuvi Station muss auf Ihre Kamera zugreifen, um diese Funktion zu aktivieren.",
     },
     {
       "ident_ios": "PermissionPresenter.NoLocationAccess.message",
@@ -1186,7 +1186,7 @@
       "ru": "Ruuvi Station необходим доступ к геолокационным сервисам для того, чтобы использовать эту функцию.",
       "sv": "Ruuvi Station behöver tillgång till din plats för att använda den här funktionen.",
       "fr": "Veuillez autoriser l'accès aux services de géolocalisation.",
-      "de": ""
+      "de": "Ruuvi Station muss auf Ihren Standort zugreifen, um diese Funktion zu aktivieren.",
     },
     {
       "ident_ios": "PermissionPresenter.settings",
@@ -1197,7 +1197,7 @@
       "ru": "Настройки",
       "sv": "Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "Einstellungen",
     },
     {
       "ident_ios": "PermissionPresenter.NoPushNotificationsPermission.message",
@@ -1208,7 +1208,7 @@
       "ru": "Ruuvi Station необходим доступ к уведомлениям для того, чтобы использовать эту функцию",
       "sv": "Ruuvi Station behöver behörighett ill Push-meddelanden för att aktivera den här funktionen.",
       "fr": "Veuillez autoriser les notifications dans les réglages de l'appareil.",
-      "de": ""
+      "de": "Ruuvi Station benötigt die Berechtigung für Push-Benachrichtigungen, um diese Funktion zu aktivieren",
     },
     {
       "ident_ios": "PhotoPicker.Sheet.message",
@@ -1219,7 +1219,7 @@
       "ru": "Выбрать фотографию",
       "sv": "Välj ett foto",
       "fr": "Choisissez une photo",
-      "de": ""
+      "de": "Wähle ein Foto",
     },
     {
       "ident_ios": "PhotoPicker.Sheet.library",
@@ -1230,7 +1230,7 @@
       "ru": "Выбрать из библиотеки",
       "sv": "Välj från bilder",
       "fr": "Choisir dans la bibliothèque",
-      "de": ""
+      "de": "Aus der Bibliothek auswählen",
     },
     {
       "ident_ios": "PhotoPicker.Sheet.camera",
@@ -1241,7 +1241,7 @@
       "ru": "Сделать фото",
       "sv": "Ta ett foto",
       "fr": "Prendre une photo",
-      "de": ""
+      "de": "Foto aufnehmen",
     },
     {
       "ident_ios": "Settings.SectionHeader.General.title",
@@ -1252,7 +1252,7 @@
       "ru": "ОСНОВНЫЕ",
       "sv": "ALLMÄNT",
       "fr": "GÉNÉRAL",
-      "de": ""
+      "de": "ALLGEMEINES",
     },
     {
       "ident_ios": "Settings.SegmentedControl.Humidity.Relative.title",
@@ -1263,7 +1263,7 @@
       "ru": "Отн",
       "sv": "Rel",
       "fr": "Rel",
-      "de": ""
+      "de": "Rel",
     },
     {
       "ident_ios": "Settings.SegmentedControl.Humidity.Absolute.title",
@@ -1274,7 +1274,7 @@
       "ru": "Абс",
       "sv": "Abs",
       "fr": "Abs",
-      "de": ""
+      "de": "Abs",
     },
     {
       "ident_ios": "Settings.SegmentedControl.Humidity.DewPoint.title",
@@ -1285,7 +1285,7 @@
       "ru": "ТР",
       "sv": "Dew",
       "fr": "Rosée",
-      "de": ""
+      "de": "Tau",
     },
     {
       "ident_ios": "Settings.SectionHeader.Application.title",
@@ -1296,7 +1296,7 @@
       "ru": "ПРИЛОЖЕНИЕ",
       "sv": "APPLIKATION",
       "fr": "APPLICATION",
-      "de": ""
+      "de": "ANWENDUNG",
     },
     {
       "ident_ios": "Settings.Label.Language.text",
@@ -1307,7 +1307,7 @@
       "ru": "Язык",
       "sv": "Språk",
       "fr": "Langue",
-      "de": ""
+      "de": "Sprache",
     },
     {
       "ident_ios": "Settings.Label.Foreground",
@@ -1318,7 +1318,7 @@
       "ru": "Активный Режим",
       "sv": "Processer",
       "fr": "Premier plan",
-      "de": ""
+      "de": "Vordergrund",
     },
     {
       "ident_ios": "Settings.Label.Defaults",
@@ -1329,7 +1329,7 @@
       "ru": "Значения",
       "sv": "Standardinställningar",
       "fr": "Paramètres d'usine",
-      "de": ""
+      "de": "Standardeinstellungen",
     },
     {
       "ident_ios": "Settings.Label.Heartbeat",
@@ -1340,7 +1340,7 @@
       "ru": "Фоновый Режим",
       "sv": "Bakgrundsprocesser",
       "fr": "Tâches d'arrière plan",
-      "de": ""
+      "de": "Hintergrund",
     },
     {
       "ident_ios": "Settings.Label.Advanced",
@@ -1351,7 +1351,7 @@
       "ru": "Дополнительно",
       "sv": "Avancerat",
       "fr": "Réglages avancés",
-      "de": ""
+      "de": "Erweitert",
     },
     {
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
@@ -1362,7 +1362,7 @@
       "ru": "Не удалось распарсить ответ от OpenWeatherMap.",
       "sv": "Det gick inte att tolka Open Weather Map data.",
       "fr": "Echec lors de l'ajout de la réponse Weather Map.",
-      "de": ""
+      "de": "Fehler beim Parsen der Open Weather Map-Antwort.",
     },
     {
       "ident_ios": "OWMError.apiLimitExceeded",
@@ -1373,7 +1373,7 @@
       "ru": "Превышен лимит запросов к API OpenWeatherMap",
       "sv": "API gräns överskriden",
       "fr": "Limite API dépassée",
-      "de": ""
+      "de": "API-Limit überschritten",
     },
     {
       "ident_ios": "OWMError.notAHttpResponse",
@@ -1384,7 +1384,7 @@
       "ru": "Не HTTP ответ",
       "sv": "Ingen HTTP respons",
       "fr": "La réponse n'est pas au format HTTP",
-      "de": ""
+      "de": "Keine HTTP-Antwort",
     },
     {
       "ident_ios": "OWMError.invalidApiKey",
@@ -1395,7 +1395,7 @@
       "ru": "Некорректный API-ключ",
       "sv": "Ogiltig API Key",
       "fr": "Clé API invalide",
-      "de": ""
+      "de": "Ungültiger API-Schlüssel",
     },
     {
       "ident_ios": "TagCharts.NoChartData.text",
@@ -1406,7 +1406,7 @@
       "ru": "Нет данных для построения графика",
       "sv": "Ingen histogram data",
       "fr": "Informations indisponibles",
-      "de": ""
+      "de": "Keine Kartendaten verfügbar",
     },
     {
       "ident_ios": "TagCharts.BluetoothDisabledAlert.title",
@@ -1417,7 +1417,7 @@
       "ru": "Bluetooth выключен",
       "sv": "Bluetooth är inte aktiverat",
       "fr": "Le Bluetooth n'est pas activé",
-      "de": ""
+      "de": "Bluetooth ist nicht aktiviert",
     },
     {
       "ident_ios": "TagCharts.BluetoothDisabledAlert.message",
@@ -1428,7 +1428,7 @@
       "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver Bluetooth för att lyssna efter sensorer. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Veuillez l'activer dans les paramètres de votre appareil.",
-      "de": ""
+      "de": "Die Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehen Sie zu Einstellungen und schalten Sie Bluetooth ein.",
     },
     {
       "ident_ios": "TagCharts.Clear.title",
@@ -1439,7 +1439,7 @@
       "ru": "ОЧИСТИТЬ",
       "sv": "RENSA",
       "fr": "EFFACER",
-      "de": ""
+      "de": "LÖSCHEN",
     },
     {
       "ident_ios": "TagCharts.SyncConfirmationDialog.title",
@@ -1450,7 +1450,7 @@
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
       "fr": "Êtes-vous sûr ?",
-      "de": ""
+      "de": "Sind Sie sicher?",
     },
     {
       "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.button.delete.title",
@@ -1461,7 +1461,7 @@
       "ru": "Удалить",
       "sv": "Radera",
       "fr": "Supprimer",
-      "de": ""
+      "de": "Löschen",
     },
     {
       "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.title",
@@ -1472,7 +1472,7 @@
       "ru": "Вы уверены?",
       "sv": "Är du säker?",
       "fr": "Êtes-vous sûr ?",
-      "de": ""
+      "de": "Sind Sie sicher?",
     },
     {
       "ident_ios": "TagCharts.Status.Disconnecting",
@@ -1483,7 +1483,7 @@
       "ru": "Разрываю соединение...",
       "sv": "Avbryter anslutning...",
       "fr": "Déconnexion...",
-      "de": ""
+      "de": "Trennen...",
     },
     {
       "ident_ios": "TagCharts.Status.Success",
@@ -1494,7 +1494,7 @@
       "ru": "Успех",
       "sv": "Lyckades",
       "fr": "Succès",
-      "de": ""
+      "de": "Erfolgreich",
     },
     {
       "ident_ios": "TagCharts.Status.Error",
@@ -1505,7 +1505,7 @@
       "ru": "Ошибка",
       "sv": "Fel",
       "fr": "Erreur",
-      "de": ""
+      "de": "Fehler",
     },
     {
       "ident_ios": "TagCharts.FailedToSyncDialog.message",
@@ -1516,7 +1516,7 @@
       "ru": "Не удалось установить соединение за %.0f сек. Синхронизация отменена.",
       "sv": "Det gick inte att upprätta anslutning efter %.0f sekunder. Synkronisering avbröts.",
       "fr": "Délai de réponse dépassé. Synchronisation annullée.",
-      "de": ""
+      "de": "Verbindung konnte in %.0f Sekunden nicht hergestellt werden. Synchronisierung abgebrochen.",
     },
     {
       "ident_ios": "TagCharts.FailedToServeDialog.message",
@@ -1527,7 +1527,7 @@
       "ru": "Не удалось обменяться данными за %.0f сек. Обмен данными отменен.",
       "sv": "Synkroniseringen avbröts efter %.0f sekunder. Synkronisering avbruten",
       "fr": "Délai de réponse dépassé. Synchronisation annullée.",
-      "de": ""
+      "de": "Fehler beim Bereitstellen in %.0f Sekunden. Service abgebrochen.",
     },
     {
       "ident_ios": "TagSettings.UUID.Alert.title",
@@ -1538,7 +1538,7 @@
       "ru": "UUID",
       "sv": "UUID",
       "fr": "UUID",
-      "de": ""
+      "de": "UUID",
     },
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.title",
@@ -1549,7 +1549,7 @@
       "ru": "Необходим Режим RAWv2",
       "sv": "RAWv2-format krävs",
       "fr": "Format RAWv2 nécessaire",
-      "de": ""
+      "de": "RAWv2-Modus ist erforderlich",
     },
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
@@ -1560,7 +1560,7 @@
       "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем сенсоре.\\nИли обновите ваш сенсор с последней прошивкой.",
       "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format.",
       "fr": "L'affichage des informations manquantes n'est possible qu'avec la nouvelle version système.",
-      "de": ""
+      "de": "Um fehlende Werte anzuzeigen:\\n Wenn Sie die neueste Firmware verwenden, stellen Sie den RAWv2-Modus ein, indem Sie auf einem Sensor \\\"B\\\" drücken.\\ oder aktualisieren Sie Ihren Sensor mit der neuesten Firmware.",
     },
     {
       "ident_ios": "TagSettings.UpdateFirmware.Alert.Buttons.LearnMore.title",
@@ -1571,7 +1571,7 @@
       "ru": "Узнать больше",
       "sv": "Läs mer",
       "fr": "Plus d'infos",
-      "de": ""
+      "de": "Mehr erfahren",
     },
     {
       "ident_ios": "TagSettings.EmptyValue.sign",
@@ -1582,7 +1582,7 @@
       "ru": "-",
       "sv": "-",
       "fr": "-",
-      "de": ""
+      "de": "-",
     },
     {
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.title",
@@ -1593,7 +1593,7 @@
       "ru": "Датчик влажности откалиброван",
       "sv": "Luftfuktigheten är justerad",
       "fr": "L'hygromètre est calibré",
-      "de": ""
+      "de": "Luftfeuchtigkeit wird angepasst",
     },
     {
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.message",
@@ -1604,7 +1604,7 @@
       "ru": "Значение относительной влажности больше 100% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%.",
       "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%. Detta är inte rimligt, så det maximala värdet visas som 100%.",
       "fr": "L'humidité est supérieure à 100.0% après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100%.",
-      "de": ""
+      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100,0 %. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100,0 % angepasst."
     },
     {
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.Fix.button",
@@ -1615,7 +1615,7 @@
       "ru": "Исправить",
       "sv": "Fixa",
       "fr": "Réparer",
-      "de": ""
+      "de": "Reparieren",
     },
     {
       "ident_ios": "TagSettings.navigationItem.title",
@@ -1626,7 +1626,7 @@
       "ru": "Настройки",
       "sv": "Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "Sensoreinstellungen",
     },
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.text",
@@ -1637,7 +1637,7 @@
       "ru": "Имя",
       "sv": "Sensornamn",
       "fr": "Nom du capteur",
-      "de": ""
+      "de": "Name",
     },
     {
       "ident_ios": "TagSettings.humidityTitleLabel.text",
@@ -1648,7 +1648,7 @@
       "ru": "Влажность",
       "sv": "Luftfuktighet",
       "fr": "Humidité",
-      "de": ""
+      "de": "Feuchtigkeit",
     },
     {
       "ident_ios": "TagSettings.uuidTitleLabel.text",
@@ -1659,7 +1659,7 @@
       "ru": "UUID",
       "sv": "UUID",
       "fr": "UUID",
-      "de": ""
+      "de": "UUID",
     },
     {
       "ident_ios": "TagSettings.macAddressTitleLabel.text",
@@ -1670,7 +1670,7 @@
       "ru": "MAC Адрес",
       "sv": "MAC Adress",
       "fr": "Adresse MAC",
-      "de": ""
+      "de": "MAC-Adresse",
     },
     {
       "ident_ios": "TagSettings.dataFormatTitleLabel.text",
@@ -1681,7 +1681,7 @@
       "ru": "Формат Данных",
       "sv": "Dataformat",
       "fr": "Format des données",
-      "de": ""
+      "de": "Datei Format",
     },
     {
       "ident_ios": "TagSettings.accelerationXTitleLabel.text",
@@ -1692,7 +1692,7 @@
       "ru": "Ускорение по X",
       "sv": "Acceleration X",
       "fr": "Accélération en X",
-      "de": ""
+      "de": "Beschleunigung X",
     },
     {
       "ident_ios": "TagSettings.accelerationYTitleLabel.text",
@@ -1703,7 +1703,7 @@
       "ru": "Ускорение по Y",
       "sv": "Acceleration Y",
       "fr": "Accélération en Y",
-      "de": ""
+      "de": "Beschleunigung Y",
     },
     {
       "ident_ios": "TagSettings.accelerationZTitleLabel.text",
@@ -1714,7 +1714,7 @@
       "ru": "Ускорение по Z",
       "sv": "Acceleration Z",
       "fr": "Accélération en Z",
-      "de": ""
+      "de": "Beschleunigung Z",
     },
     {
       "ident_ios": "TagSettings.txPowerTitleLabel.text",
@@ -1725,7 +1725,7 @@
       "ru": "Мощность Передачи",
       "sv": "Sändningseffekten",
       "fr": "Puissance d'émission",
-      "de": ""
+      "de": "Sendeleistung",
     },
     {
       "ident_ios": "TagSettings.mcTitleLabel.text",
@@ -1736,7 +1736,7 @@
       "ru": "Счетчик Движения",
       "sv": "Rörelseräknare",
       "fr": "Compteur de mouvements",
-      "de": ""
+      "de": "Bewegungszähler",
     },
     {
       "ident_ios": "TagSettings.msnTitleLabel.text",
@@ -1747,7 +1747,7 @@
       "ru": "Порядковый Номер Измерения",
       "sv": "Mätningssekvensnummer",
       "fr": "Numéro de séquence",
-      "de": ""
+      "de": "Messsequenznummer",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Remove.title",
@@ -1758,7 +1758,7 @@
       "ru": "УДАЛИТЬ",
       "sv": "TA BORT",
       "fr": "SUPPRIMER",
-      "de": ""
+      "de": "LÖSCHEN",
     },
     {
       "ident_ios": "TagSettings.Label.noValues.text",
@@ -1769,7 +1769,7 @@
       "ru": "НЕТ ЗНАЧЕНИЙ?",
       "sv": "INGA VÄRDEN?",
       "fr": "PAS DE VALEURS ?",
-      "de": ""
+      "de": "KEINE WERTE?",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Calibration.title",
@@ -1780,7 +1780,7 @@
       "ru": "КАЛИБРОВКА",
       "sv": "KALIBRERING",
       "fr": "CALIBRAGE",
-      "de": ""
+      "de": "KALIBRIERUNG",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Connection.title",
@@ -1791,7 +1791,7 @@
       "ru": "СОЕДИНЕНИЕ",
       "sv": "ANSLUTNING",
       "fr": "CONNEXION",
-      "de": ""
+      "de": "VERBINDUNG",
     },
     {
       "ident_ios": "TagSettings.KeepConnection.title",
@@ -1802,7 +1802,7 @@
       "ru": "Держать Соединение",
       "sv": "Behåll Anslutningen",
       "fr": "Veuillez maintenir la connexion",
-      "de": ""
+      "de": "Halte die Verbindung",
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
@@ -1813,7 +1813,7 @@
       "ru": "Данные Получены Из",
       "sv": "Data Mottagen Via",
       "fr": "Données reçues via",
-      "de": ""
+      "de": "Daten empfangen über",
     },
     {
       "ident_ios": "TagSettings.DataSource.Heartbeat.title",
@@ -1824,7 +1824,7 @@
       "ru": "Соединение",
       "sv": "Hjärtslag",
       "fr": "Cadence",
-      "de": ""
+      "de": "Herzschlag",
     },
     {
       "ident_ios": "TagSettings.DataSource.Advertisement.title",
@@ -1835,7 +1835,7 @@
       "ru": "Вещания",
       "sv": "Advertisement",
       "fr": "Messages des capteurs",
-      "de": ""
+      "de": "Advertisement",
     },
     {
       "ident_ios": "TagSettings.DataSource.Network.title",
@@ -1845,8 +1845,8 @@
       "fi": "Pilvi",
       "ru": "Сеть",
       "sv": "Moln",
-      "fr": "",
-      "de": ""
+      "fr": "Cloud",
+      "de": "Cloud",
     },
     {
       "ident_ios": "TagSettings.Label.disabled.text",
@@ -1857,7 +1857,7 @@
       "ru": "НЕДОСТУПНО?",
       "sv": "INAKTIVERAD?",
       "fr": "HORS SERVICE ?",
-      "de": ""
+      "de": "AUSGESCHALTEN?",
     },
     {
       "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.BothNotConnectedAndNoPNPermission.message",
@@ -1868,7 +1868,7 @@
       "ru": "Уведомления недоступны поскольку девайс не подсоединен и нет разрешения на показ уведомлений. Пожалуйста, сперва соединитесь с устройством.",
       "sv": "Alarm är inaktiverade eftersom enheten inte är ansluten och behörigheten att se Push-meddelanden saknas. Anslut först till enheten.",
       "fr": "Les notifications sont désactivées car l'appareil n'est pas connecté et les notifications ne sont autorisées. Veuillez d'abord vous connecter à l'appareil.",
-      "de": ""
+      "de": "Warnungen sind deaktiviert, weil das Gerät nicht verbunden ist und die Berechtigung für Push-Benachrichtigungen fehlt. Bitte verbinden Sie sich zuerst mit dem Gerät.",
     },
     {
       "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.Connect.title",
@@ -1879,7 +1879,7 @@
       "ru": "Соединиться",
       "sv": "Anslut",
       "fr": "Se connecter",
-      "de": ""
+      "de": "Verbinden",
     },
     {
       "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.NotConnected.message",
@@ -1890,7 +1890,7 @@
       "ru": "Уведомления недоступны поскольку вы не подсоединены к устройству.",
       "sv": "Alarm är inaktiverade eftersom du inte är ansluten till enheten.",
       "fr": "Les notifications sont désactivées car l'appreil n'est pas connecté.",
-      "de": ""
+      "de": "Warnungen sind deaktiviert, weil Sie nicht mit dem Gerät verbunden sind.",
     },
     {
       "ident_ios": "TagSettings.ConnectStatus.Connected",
@@ -1901,7 +1901,7 @@
       "ru": "Соединен",
       "sv": "Ansluten",
       "fr": "Connecté",
-      "de": ""
+      "de": "Verbunden",
     },
     {
       "ident_ios": "TagSettings.ConnectStatus.Connecting",
@@ -1912,7 +1912,7 @@
       "ru": "Соединяюсь...",
       "sv": "Ansluter...",
       "fr": "Connexion...",
-      "de": ""
+      "de": "Verbinden...",
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
@@ -1923,7 +1923,7 @@
       "ru": "Введите описание...",
       "sv": "Redigera beskrivningen...",
       "fr": "Modifier la description...",
-      "de": ""
+      "de": "Benutzerdefinierte Beschreibung festlegen...",
     },
     {
       "ident_ios": "TagSettings.Alerts.Humidity.description",
@@ -1934,7 +1934,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si la valeur est inférieure à %.0f ou supérieure à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "TagSettings.Alerts.DewPoint.description",
@@ -1945,7 +1945,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si le point de rosée est inférieur à %.0f ou supérieur à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "TagSettings.dewPointAlertTitleLabel.text",
@@ -1956,7 +1956,7 @@
       "ru": "Точка Росы",
       "sv": "Daggpunkt",
       "fr": "Point de rosée",
-      "de": ""
+      "de": "Taupunkt",
     },
     {
       "ident_ios": "TagSettings.Alerts.Pressure.description",
@@ -1967,7 +1967,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si la pression de l'air est inférieure à %.0f ou supérieure à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "TagSettings.Alerts.Connection.description",
@@ -1978,7 +1978,7 @@
       "ru": "Уведомить при установке/разрыве соединения",
       "sv": "Alarmera vid anslutning/frånkoppling",
       "fr": "Notifier lorsque l'appareil est connecté/déconnecté",
-      "de": ""
+      "de": "Warnung, wenn verbunden/getrennt",
     },
     {
       "ident_ios": "TagSettings.ConnectionAlert.title",
@@ -1989,7 +1989,7 @@
       "ru": "Соединение",
       "sv": "Anslutning",
       "fr": "Connexion",
-      "de": ""
+      "de": "Verbindung",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Firmware.title",
@@ -2000,7 +2000,7 @@
       "ru": "ПРОШИВКА",
       "sv": "PROGRAMVARA",
       "fr": "FIRMWARE",
-      "de": ""
+      "de": "FIRMWARE",
     },
     {
       "ident_ios": "TagSettings.Firmware.UpdateFirmware",
@@ -2011,7 +2011,7 @@
       "ru": "Обновить прошивку",
       "sv": "Uppdatera Programvara",
       "fr": "Mettre à jour le firmware",
-      "de": ""
+      "de": "Firmware aktualisieren",
     },
     {
       "ident_ios": "UnexpectedError.callbackErrorAndResultAreNil",
@@ -2022,7 +2022,7 @@
       "ru": "И коллбэк и ошибка nil",
       "sv": "Både resultatet och felmeddelande är nil",
       "fr": "Le résultat est nul",
-      "de": ""
+      "de": "Sowohl das Rückrufergebnis als auch der Fehler sind null",
     },
     {
       "ident_ios": "UnexpectedError.callerDeinitedDuringOperation",
@@ -2033,7 +2033,7 @@
       "ru": "Вызывающий объект был деаллоцирован во время операции",
       "sv": "Uppringare avallokerad under operation",
       "fr": "Les invitations ont été délocalisées",
-      "de": ""
+      "de": "Anrufer wurde während des Betriebs freigegeben",
     },
     {
       "ident_ios": "UnexpectedError.failedToReverseGeocodeCoordinate",
@@ -2044,7 +2044,7 @@
       "ru": "Не удалось определить локацию по координатам",
       "sv": "Det gick inte att få geokoordinaterna för platsen",
       "fr": "Echec de l'annulation de la géolocalisation",
-      "de": ""
+      "de": "Fehler beim Umkehren der Geokodierung des Standorts",
     },
     {
       "ident_ios": "UnexpectedError.failedToFindRuuviTag",
@@ -2055,7 +2055,7 @@
       "ru": "Не удалось найти сенсор",
       "sv": "Hittade inte sensorn",
       "fr": "Echec de jumelage",
-      "de": ""
+      "de": "Sensor konnte nicht gefunden werden",
     },
     {
       "ident_ios": "UnexpectedError.failedToFindLogsForTheTag",
@@ -2066,7 +2066,7 @@
       "ru": "Не удалось найти логи сенсора",
       "sv": "Ingen sensorlogginformation hittades",
       "fr": "Historique du capteur introuvable",
-      "de": ""
+      "de": "Protokolle für den Sensor konnten nicht gefunden werden",
     },
     {
       "ident_ios": "UnexpectedError.viewModelUUIDIsNil",
@@ -2077,7 +2077,7 @@
       "ru": "UUID модели пустое",
       "sv": "View Model UUID är nil",
       "fr": "Le modèle d'affichage UUID est nul",
-      "de": ""
+      "de": "Modell-UUID Anzeige ist null",
     },
     {
       "ident_ios": "UnexpectedError.attemptToReadDataFromRealmWithoutLUID",
@@ -2088,7 +2088,7 @@
       "ru": "Attempt to read data from Realm without LUID",
       "sv": "Försökte läsa data från Realm utan LUID",
       "fr": "Tentative de lecture des données de Realm sans LUID",
-      "de": ""
+      "de": "Versuch, Daten aus Realm ohne LUID zu lesen",
     },
     {
       "ident_ios": "UnexpectedError.failedToFindVirtualTag",
@@ -2099,7 +2099,7 @@
       "ru": "Failed to find virtual sensor",
       "sv": "Hittade inte den virtuella sensorn",
       "fr": "Echec de jumelage du capteur virtuel",
-      "de": ""
+      "de": "Virtueller Sensor konnte nicht gefunden werden",
     },
     {
       "ident_ios": "HumidityUnit.Dew.title",
@@ -2110,7 +2110,7 @@
       "ru": "Точка росы (%@)",
       "sv": "Daggpunkt (%@)",
       "fr": "Point de rosée (%@)",
-      "de": ""
+      "de": "Taupunkt (%@)",
     },
     {
       "ident_ios": "WebTagLocationSource.current",
@@ -2121,7 +2121,7 @@
       "ru": "Ваше текущее месторасположение",
       "sv": "Din plats",
       "fr": "Localisation actuelle",
-      "de": ""
+      "de": "Ihr Standort",
     },
     {
       "ident_ios": "WebTagLocationSource.manual",
@@ -2132,7 +2132,7 @@
       "ru": "Месторасположение на карте",
       "sv": "Välj från karta",
       "fr": "Choisir sur la carte",
-      "de": ""
+      "de": "Wählen Sie aus der Karte",
     },
     {
       "ident_ios": "WebTagSettings.confirmTagRemovalDialog.title",
@@ -2143,7 +2143,7 @@
       "ru": "Удалить",
       "sv": "Ta bort virtuell sensor",
       "fr": "Supprimer",
-      "de": ""
+      "de": "Virtuellen Sensor entfernen",
     },
     {
       "ident_ios": "WebTagSettings.confirmTagRemovalDialog.message",
@@ -2154,7 +2154,7 @@
       "ru": "Вы уверены что хотите удалить?",
       "sv": "Är du säker på att du vill ta bort den här virtuella sensorn?",
       "fr": "Êtes-vous certain de vouloir supprimer ?",
-      "de": ""
+      "de": "Möchten Sie diesen virtuellen Sensor wirklich entfernen?",
     },
     {
       "ident_ios": "WebTagSettings.Location.Current",
@@ -2165,7 +2165,7 @@
       "ru": "Ваше текущее месторасположение",
       "sv": "Din plats",
       "fr": "Localisation actuelle",
-      "de": ""
+      "de": "Ihr Standort",
     },
     {
       "ident_ios": "WebTagSettings.confirmClearLocationDialog.title",
@@ -2176,7 +2176,7 @@
       "ru": "Очистить месторасположение",
       "sv": "Renas Plats",
       "fr": "Supprimer la localisation",
-      "de": ""
+      "de": "Standort löschen",
     },
     {
       "ident_ios": "WebTagSettings.confirmClearLocationDialog.message",
@@ -2187,7 +2187,7 @@
       "ru": "Вы уверены, что хотите очистить месторасположение? Будет использовано текущее месторасположение.",
       "sv": "Är du säker på att du vill rensa plats för den här virtuella sensorn? Nuvarande plats kommer att användas istället.",
       "fr": "Êtes-vous certain de vouloir supprimer cette position et d'utiliser votre position actuelle ?",
-      "de": ""
+      "de": "Möchten Sie den Standort dieses virtuellen Sensors wirklich löschen? Stattdessen wird der aktuelle Standort verwendet.",
     },
     {
       "ident_ios": "WebTagSettings.navigationItem.title",
@@ -2198,7 +2198,7 @@
       "ru": "Настройки",
       "sv": "Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "Virtuelle Sensoreinstellungen",
     },
     {
       "ident_ios": "WebTagSettings.Label.BackgroundImage.text",
@@ -2209,7 +2209,7 @@
       "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD",
       "fr": "FOND D'ÉCRAN",
-      "de": ""
+      "de": "HINTERGRUND BILD",
     },
     {
       "ident_ios": "WebTagSettings.Label.Location.text",
@@ -2220,7 +2220,7 @@
       "ru": "Месторасположение",
       "sv": "Plats",
       "fr": "Position",
-      "de": ""
+      "de": "Standort",
     },
     {
       "ident_ios": "WebTagSettings.Button.Remove.title",
@@ -2231,7 +2231,7 @@
       "ru": "УДАЛИТЬ",
       "sv": "TA BORT",
       "fr": "SUPPRIMER CE CAPTEUR VIRTUEL",
-      "de": ""
+      "de": "ENTFERNEN SIE DIESEN VIRTUELLEN SENSOR",
     },
     {
       "ident_ios": "WebTagSettings.SectionHeader.Name.title",
@@ -2242,7 +2242,7 @@
       "ru": "ИМЯ",
       "sv": "NAMN",
       "fr": "NOM",
-      "de": ""
+      "de": "NAME",
     },
     {
       "ident_ios": "WebTagSettings.SectionHeader.MoreInfo.title",
@@ -2253,7 +2253,7 @@
       "ru": "ДОПОЛНИТЕЛЬНО",
       "sv": "MER INFO",
       "fr": "PLUS D'INFOS",
-      "de": ""
+      "de": "MEHR INFO",
     },
     {
       "ident_ios": "WebTagSettings.Alerts.Temperature.description",
@@ -2264,7 +2264,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si la température est inférieure à %.0f ou supérieure à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "WebTagSettings.Alerts.Off",
@@ -2275,7 +2275,7 @@
       "ru": "Отключено",
       "sv": "Av",
       "fr": "Désactivé",
-      "de": ""
+      "de": "Aus",
     },
     {
       "ident_ios": "WebTagSettings.temperatureAlertTitleLabel.text",
@@ -2286,7 +2286,7 @@
       "ru": "Температура",
       "sv": "Temperatur",
       "fr": "Température",
-      "de": ""
+      "de": "Temperatur",
     },
     {
       "ident_ios": "WebTagSettings.Label.disabled.text",
@@ -2297,7 +2297,7 @@
       "ru": "НЕДОСТУПНО?",
       "sv": "INAKTIVERAD?",
       "fr": "DÉSACTIVÉ ?",
-      "de": ""
+      "de": "AUSGESCHALTET?",
     },
     {
       "ident_ios": "WebTagSettings.Label.alerts.text",
@@ -2308,7 +2308,7 @@
       "ru": "УВЕДОМЛЕНИЯ",
       "sv": "ALARM",
       "fr": "NOTIFICATIONS",
-      "de": ""
+      "de": "WARNUNGEN",
     },
     {
       "ident_ios": "WebTagSettings.AlertsAreDisabled.Dialog.BothNoPNPermissionAndNoLocationPermission.message",
@@ -2319,7 +2319,7 @@
       "ru": "Чтобы включить уведомления для Виртуальных Сенсоров, пожалуйста дайте разрешение на использование геолокации в Настройках.",
       "sv": "Den virtuella sensorns alarmfunktion kräver rätt att visa både platsinformation och push-meddelanden. Kontrollera applikationsinställningarna.",
       "fr": "Pour activer les notifications, veuillez autoriser la géolocalisation ainsi que l'affichage des notifications dans les réglages de votre appareil.",
-      "de": ""
+      "de": "Um virtuelle Sensorwarnungen zu aktivieren, erteilen Sie bitte immer Standort- und Benachrichtigungsberechtigungen in den Einstellungen.",
     },
     {
       "ident_ios": "WebTagSettings.AlertsAreDisabled.Dialog.Settings.title",
@@ -2330,7 +2330,7 @@
       "ru": "Настройки",
       "sv": "Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "Einstellungen",
     },
     {
       "ident_ios": "WebTagSettings.AirHumidityAlert.title",
@@ -2341,7 +2341,7 @@
       "ru": "Относительная Влажность",
       "sv": "Luftfuktighet",
       "fr": "Humidité de l'air",
-      "de": ""
+      "de": "Luftfeuchtigkeit",
     },
     {
       "ident_ios": "WebTagSettings.Alerts.Humidity.description",
@@ -2352,7 +2352,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si la valeur est inférieure à %.0f ou supérieure à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "WebTagSettings.Alerts.DewPoint.description",
@@ -2363,7 +2363,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si le point de rosée est inférieur à %.0f ou supérieur à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "WebTagSettings.dewPointAlertTitleLabel.text",
@@ -2374,7 +2374,7 @@
       "ru": "Точка Росы",
       "sv": "Daggpunkt",
       "fr": "Point de rosée",
-      "de": ""
+      "de": "Taupunkt",
     },
     {
       "ident_ios": "WebTagSettings.PressureAlert.title",
@@ -2385,7 +2385,7 @@
       "ru": "Атмосферное Давление",
       "sv": "Luftfuktighet",
       "fr": "Pression de l'air",
-      "de": ""
+      "de": "Luftdruck",
     },
     {
       "ident_ios": "WebTagSettings.Alerts.Pressure.description",
@@ -2396,7 +2396,7 @@
       "ru": "Уведомить если меньше %.0f или больше %.0f",
       "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
       "fr": "Notifier si la pression de l'air est inférieure à %.0f ou supérieure à %.0f",
-      "de": ""
+      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
     },
     {
       "ident_ios": "Welcome.description.text",
@@ -2407,7 +2407,7 @@
       "ru": "Чтобы найти сенсор рядом и получать текущие данные, нажмите сканировать.",
       "sv": "Klicka på Skanna för att hitta sensorer i närheten.",
       "fr": "Appuyer sur scanner pour trouver des capteurs.",
-      "de": ""
+      "de": "Um Sensoren in der Nähe zu finden und Live-Sensordaten zu empfangen, drücken Sie Scannen.",
     },
     {
       "ident_ios": "ExportService.AccelerationX",
@@ -2418,7 +2418,7 @@
       "ru": "Ускорение по X",
       "sv": "Acceleration X",
       "fr": "Accélération en X",
-      "de": ""
+      "de": "Beschleunigung X",
     },
     {
       "ident_ios": "ExportService.AccelerationY",
@@ -2429,7 +2429,7 @@
       "ru": "Ускорение по Y",
       "sv": "Acceleration Y",
       "fr": "Accélération en Y",
-      "de": ""
+      "de": "Beschleunigung Y",
     },
     {
       "ident_ios": "ExportService.AccelerationZ",
@@ -2440,7 +2440,7 @@
       "ru": "Ускорение по Z",
       "sv": "Acceleration Z",
       "fr": "Accélération en Z",
-      "de": ""
+      "de": "Beschleunigung Z",
     },
     {
       "ident_ios": "",
@@ -2451,7 +2451,7 @@
       "ru": "Датчиков не обнаружено",
       "sv": "Inga sensorer hittades",
       "fr": "Aucun capteur détecté",
-      "de": ""
+      "de": "Keine Sensoren gefunden",
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.Devices",
@@ -2462,7 +2462,7 @@
       "ru": "Ближайшие Сенсоры",
       "sv": "Ruuvi sensorer i närheten",
       "fr": "Capteurs Ruuvi à proximité",
-      "de": ""
+      "de": "Ruuvi-Sensoren in der Nähe",
     },
     {
       "ident_ios": "ago",
@@ -2473,7 +2473,7 @@
       "ru": "назад",
       "sv": "sedan",
       "fr": " ",
-      "de": ""
+      "de": "vor",
     },
     {
       "ident_ios": "",
@@ -2484,7 +2484,7 @@
       "ru": "Отключить это уведомление",
       "sv": "Inaktivera alarm",
       "fr": "Désactiver cette notification",
-      "de": ""
+      "de": "Diesen Alarm deaktivieren",
     },
     {
       "ident_ios": "TagSettings.MovementAlert.title",
@@ -2495,7 +2495,7 @@
       "ru": "Движение",
       "sv": "Rörelse",
       "fr": "Mouvement",
-      "de": ""
+      "de": "Bewegung",
     },
     {
       "ident_ios": "TagSettings.Alerts.Movement.description",
@@ -2506,7 +2506,7 @@
       "ru": "Уведомить при движении",
       "sv": "Alarmera om rörelse upptäcks",
       "fr": "Notifier quand le capteur est déplacé",
-      "de": ""
+      "de": "Warnung, wenn der Sensor bewegt wird",
     },
     {
       "ident_ios": "LocalNotificationsManager.HighHumidity.title",
@@ -2517,7 +2517,7 @@
       "ru": "Высокая Влажность!",
       "sv": "För hög Luftfuktighet!",
       "fr": "L'humidité de l'air est trop haute !",
-      "de": ""
+      "de": "Luftfeuchtigkeit ist zu hoch!",
     },
     {
       "ident_ios": "LocalNotificationsManager.LowHumidity.title",
@@ -2528,7 +2528,7 @@
       "ru": "Низкая Влажность!",
       "sv": "För låg Luftfuktighet!",
       "fr": "L'humidité de l'air est trop basse !",
-      "de": ""
+      "de": "Luftfeuchtigkeit ist zu niedrig!",
     },
     {
       "ident_ios": "LocalNotificationsManager.DidMove.title",
@@ -2539,7 +2539,7 @@
       "ru": "Сработал Датчик Движения!",
       "sv": "Rörelse upptäckt!",
       "fr": "Mouvement détecté !",
-      "de": ""
+      "de": "Bewegung erkannt!",
     },
     {
       "ident_ios": "LocalNotificationsManager.HighPressure.title",
@@ -2550,7 +2550,7 @@
       "ru": "Высокое Атмосферное Давление!",
       "sv": "För högt Lufttryck!",
       "fr": "La pression de l'air est trop haute !",
-      "de": ""
+      "de": "Luftdruck ist zu hoch!",
     },
     {
       "ident_ios": "LocalNotificationsManager.LowPressure.title",
@@ -2561,7 +2561,7 @@
       "ru": "Низкое Атмосферное Давление!",
       "sv": "För lågt Lufttryck!",
       "fr": "La pression de l'air est trop basse !",
-      "de": ""
+      "de": "Luftdruck ist zu niedrig!",
     },
     {
       "ident_ios": "",
@@ -2572,7 +2572,7 @@
       "ru": "Высокий уровень сигнала!",
       "sv": "För hög signalstyrka!",
       "fr": "Puissance du signal trop importante !",
-      "de": ""
+      "de": "Signalstärke ist zu hoch!",
     },
     {
       "ident_ios": "",
@@ -2583,7 +2583,7 @@
       "ru": "Низкий уровен сигнала!",
       "sv": "För låg signalstyrka!",
       "fr": "Puissance du signal trop faible !",
-      "de": ""
+      "de": "Signalstärke ist zu gering!",
     },
     {
       "ident_ios": "LocalNotificationsManager.HighTemperature.title",
@@ -2594,7 +2594,7 @@
       "ru": "Высокая температура!",
       "sv": "För hög temperatur!",
       "fr": "Température trop haute !",
-      "de": ""
+      "de": "Temperatur ist zu hoch!",
     },
     {
       "ident_ios": "LocalNotificationsManager.LowTemperature.title",
@@ -2605,7 +2605,7 @@
       "ru": "Низкая температура!",
       "sv": "För låg temperatur!",
       "fr": "Température trop basse !",
-      "de": ""
+      "de": "Temperatur zu niedrig!",
     },
     {
       "ident_ios": "TagSettings.Alerts.Off",
@@ -2616,7 +2616,7 @@
       "ru": "Отключено",
       "sv": "Av",
       "fr": "Désactivé",
-      "de": ""
+      "de": "Aus",
     },
     {
       "ident_ios": "TagSettings.Alerts.Temperature.description",
@@ -2627,7 +2627,7 @@
       "ru": "Уведомление если меньше {%.0f^%1$,d} или больше {%.0f^%2$,d}",
       "sv": "Alarmera när mindre än {%.0f^%1$,d} eller mer än {%.0f^%2$,d}",
       "fr": "Notifier si la valeur est inférieure à {%.0f^%1$,d} ou supérieure à {%.0f^%2$,d}",
-      "de": ""
+      "de": "Warnung bei weniger als {%.0f^%1$,d} oder mehr als {%.0f^%2$,d}",
     },
     {
       "ident_ios": "TagSettings.Label.alerts.text",
@@ -2638,7 +2638,7 @@
       "ru": "УВЕДОМЛЕНИЯ",
       "sv": "ALARM",
       "fr": "NOTIFICATIONS",
-      "de": ""
+      "de": "WARNUNGEN",
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
@@ -2649,7 +2649,7 @@
       "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
       "sv": "BAKGRUNDSBILD",
       "fr": "FOND D'ÉCRAN",
-      "de": ""
+      "de": "HINTERGRUND BILD"
     },
     {
       "ident_ios": "",
@@ -2660,7 +2660,7 @@
       "ru": "Вы можете отключить фоновое сканирование в настройках",
       "sv": "Avaktivera bakgrundsskanning i inställningar",
       "fr": "Désactiver le balayage en arrière-plan dans les réglages",
-      "de": ""
+      "de": "Sie können das Scannen im Hintergrund in den Einstellungen deaktivieren",
     },
     {
       "ident_ios": "",
@@ -2671,7 +2671,7 @@
       "ru": "Сканирование каждые",
       "sv": "Skanna varje",
       "fr": "Balayage toutes les",
-      "de": ""
+      "de": "Alles Scannen",
     },
     {
       "ident_ios": "TagSettings.batteryVoltageTitleLabel.text",
@@ -2682,7 +2682,7 @@
       "ru": "Напряжение Батареи",
       "sv": "Batterispänning",
       "fr": "Tension de la pile",
-      "de": ""
+      "de": "Battery Voltage",
     },
     {
       "ident_ios": "HumidityCalibration.Button.Calibrate.title",
@@ -2693,7 +2693,7 @@
       "ru": "Калибровать",
       "sv": "Kalibrera",
       "fr": "Calibrer",
-      "de": ""
+      "de": "Kalibrieren",
     },
     {
       "ident_ios": "HumidityCalibration.lastCalibrationDate.format",
@@ -2704,7 +2704,7 @@
       "ru": "Откалибровано: {%@^%1$s}",
       "sv": "Kalibrerad: {%@^%1$s}",
       "fr": "Calibré : {%@^%1$s}",
-      "de": ""
+      "de": "Kalibriert: {%@^%1$s}",
     },
     {
       "ident_ios": "",
@@ -2715,7 +2715,7 @@
       "ru": "Калибровка закончена!",
       "sv": "Kalibrering klar!",
       "fr": "Calibrage terminé !",
-      "de": ""
+      "de": "Kalibrierung fertig!",
     },
     {
       "ident_ios": "",
@@ -2726,7 +2726,7 @@
       "ru": "",
       "sv": "",
       "fr": "",
-      "de": ""
+      "de": "",
     },
     {
       "ident_ios": "HumidityCalibration.Description.text",
@@ -2737,7 +2737,7 @@
       "ru": "Чтобы измерять относительную влажность наиболее точно, рекомендуется провести тест с поваренной солью. Посмотрите обучающие видео о том, как легко сделать это дома. ",
       "sv": "För att mäta relativ luftfuktighet så exakt som möjligt rekommenderar vi att kalibrera sensorn med natriumklorid (salt). Se videor om hur du enkelt gör det hemma.",
       "fr": "Nous recommandons le calibrage avec une solution saline pour de meilleurs résultats. Tutoriel vidéo.",
-      "de": ""
+      "de": "Um die relative Luftfeuchtigkeit so genau wie möglich zu messen, wird eine Natriumchlorid-(Salz-)Kalibrierung empfohlen. Sehen Sie sich Video-Tutorials an, wie Sie dies ganz einfach zu Hause tun können.",
     },
     {
       "ident_ios": "",
@@ -2748,7 +2748,7 @@
       "ru": "Калибровать гигрометр",
       "sv": "Kalibrera luftfuktighetssensorn",
       "fr": "Calibrer l'hygromètre",
-      "de": ""
+      "de": "Hygrometer kalibrieren",
     },
     {
       "ident_ios": "HumidityCalibration.Label.note.text",
@@ -2759,7 +2759,7 @@
       "ru": "Данные для калибровки будут сохранены локально. Если вы переустановите приложение будет нужно произвести калибровку заново.",
       "sv": "Observera att kalibreringsdata lagras lokalt i din mobila enhet. Om du tar bort Ruuvi Station appen och installerar den igen behöver du kalibrera på nytt.",
       "fr": "Le calibrage s'effectue sur la mémoire de votre appareil. Vous devrez répeter l'opération si vous supprimez/installez à nouveau l'application.",
-      "de": ""
+      "de": "Beachten Sie, dass die Kalibrierungsdaten lokal auf Ihrem Mobilgerät gespeichert werden. Nach der Deinstallation und Installation von Ruuvi Station müssen Sie möglicherweise eine Neukalibrierung durchführen.",
     },
     {
       "ident_ios": "HumidityCalibration.VideoTutorials.link",
@@ -2771,7 +2771,7 @@
       "ru": "обучающие видео",
       "sv": "Se videor",
       "fr": "Tutoriel vidéo.",
-      "de": ""
+      "de": "Videoanleitungen",
     },
     {
       "ident_ios": "",
@@ -2782,7 +2782,7 @@
       "ru": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
       "sv": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
       "fr": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
-      "de": ""
+      "de": "https://www.youtube.com/results?search_query=hygrometer+salt+calibration",
     },
     {
       "ident_ios": "",
@@ -2793,7 +2793,7 @@
       "ru": "Камера",
       "sv": "Kamera",
       "fr": "Appareil photo",
-      "de": ""
+      "de": "Kamera",
     },
     {
       "ident_ios": "",
@@ -2804,7 +2804,7 @@
       "ru": "Не удалось запустить камеру",
       "sv": "Kunde inte öppna kameran",
       "fr": "Impossible d'accéder à l'appareil photo",
-      "de": ""
+      "de": "Kamera konnte nicht gestartet werden",
     },
     {
       "ident_ios": "Cancel",
@@ -2815,7 +2815,7 @@
       "ru": "Отмена",
       "sv": "Avbryt",
       "fr": "Annuler",
-      "de": ""
+      "de": "Abbrechen",
     },
     {
       "ident_ios": "",
@@ -2826,7 +2826,7 @@
       "ru": "Графики работают лучше всего с включенным фоновым сканированием",
       "sv": "Historiken fungerar bäst när bakgrundsskanning är aktiverad.",
       "fr": "L'histogramme fonctionne mieux avec le balayage en arrière-plan activé.",
-      "de": ""
+      "de": "Die Diagrammfunktion funktioniert am besten, wenn das Scannen im Hintergrund aktiviert ist.",
     },
     {
       "ident_ios": "",
@@ -2837,7 +2837,7 @@
       "ru": "Включить фоновое сканирование?",
       "sv": "Vill du aktivera bakgrundsskanning?",
       "fr": "Souhaitez-vous activer le balayage en arrière plan ?",
-      "de": ""
+      "de": "Möchten Sie das Scannen im Hintergrund aktivieren?",
     },
     {
       "ident_ios": "HumidityCalibration.Button.Clear.title",
@@ -2848,7 +2848,7 @@
       "ru": "Очистить",
       "sv": "Rensa",
       "fr": "Effacer",
-      "de": ""
+      "de": "Löschen",
     },
     {
       "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.message",
@@ -2859,7 +2859,7 @@
       "ru": "Вы уверены что хотите удалить всю историю наблюдений? Данное действие невозможно отменить.",
       "sv": "Radera historisk data från appen?",
       "fr": "Supprimer l'historique de l'application ?",
-      "de": ""
+      "de": "Die lokalen historischen Daten aus der App löschen?"
     },
     {
       "ident_ios": "HumidityCalibration.Button.Close.title",
@@ -2870,7 +2870,7 @@
       "ru": "Закрыть",
       "sv": "Stäng",
       "fr": "Fermer",
-      "de": ""
+      "de": "Schließen",
     },
     {
       "ident_ios": "TagCharts.Status.Serving",
@@ -2881,7 +2881,7 @@
       "ru": "Обмениваюсь...",
       "sv": "Synkroniserar...",
       "fr": "Synchronisation...",
-      "de": ""
+      "de": "Synchronisieren...",
     },
     {
       "ident_ios": "TagCharts.Status.Connecting",
@@ -2892,7 +2892,7 @@
       "ru": "Соединение...",
       "sv": "Ansluter...",
       "fr": "Connexion...",
-      "de": ""
+      "de": "Verbinden...",
     },
     {
       "ident_ios": "",
@@ -2903,7 +2903,7 @@
       "ru": "Панель датчиков",
       "sv": "Översikt vy",
       "fr": "Affichage tableau de bord",
-      "de": ""
+      "de": "Dashboard",
     },
     {
       "ident_ios": "",
@@ -2914,7 +2914,7 @@
       "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно. Перезапустите приложение после включения функции",
       "sv": "Använd översikt vy för att se flera sensorer på samma gång. Starta om appen för att ändringen ska träda i kraft.",
       "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord. Le tableau de bord s'affiche après redémarrage de l'application.",
-      "de": ""
+      "de": "Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen. Starten Sie die App nach der Aktivierung neu.",
     },
     {
       "ident_ios": "",
@@ -2925,7 +2925,7 @@
       "ru": "Панель датчиков пуста",
       "sv": "Översikt vyn är tom",
       "fr": "Votre tableau de bord est vide",
-      "de": ""
+      "de": "Ihr Dashboard ist leer",
     },
     {
       "ident_ios": "",
@@ -2936,7 +2936,7 @@
       "ru": "%1$,d измерений прочитано, сохраняем..",
       "sv": "%1$,d mätningar läst, sparar..",
       "fr": "%1$,d mesures analysées, enregistrement...",
-      "de": ""
+      "de": "%1$,d Messwerte gelesen, gespeichert...",
     },
     {
       "ident_ios": "TagSettings.ConnectStatus.Disconnected",
@@ -2947,7 +2947,7 @@
       "ru": "Отсоединен",
       "sv": "Frånkopplad",
       "fr": "Déconnecté",
-      "de": ""
+      "de": "Disconnected",
     },
     {
       "ident_ios": "TagCharts.Export.title",
@@ -2958,7 +2958,7 @@
       "ru": "ЭКСПОРТ",
       "sv": "EXPORT",
       "fr": "EXPORTER",
-      "de": ""
+      "de": "EXPORT",
     },
     {
       "ident_ios": "",
@@ -2969,7 +2969,7 @@
       "ru": "Тип файла не поддерживается",
       "sv": "Filformatet stöds inte",
       "fr": "Format non supporté",
-      "de": ""
+      "de": "Dateityp wird nicht unterstützt",
     },
     {
       "ident_ios": "",
@@ -2980,7 +2980,7 @@
       "ru": "Галерея",
       "sv": "Galleri",
       "fr": "Gallerie",
-      "de": ""
+      "de": "Galerie",
     },
     {
       "ident_ios": "",
@@ -2991,7 +2991,7 @@
       "ru": "Отключено",
       "sv": "Inaktiverad",
       "fr": "Désactivé",
-      "de": ""
+      "de": "Ausgeschaltet"
     },
     {
       "ident_ios": "",
@@ -3002,7 +3002,7 @@
       "ru": "URL шлюза",
       "sv": "Proxy URL",
       "fr": "URL du routeur",
-      "de": ""
+      "de": "Datenweiterleitungs-URL",
     },
     {
       "ident_ios": "",
@@ -3013,7 +3013,7 @@
       "ru": "https://your.gateway/...",
       "sv": "https://proxy.server/...",
       "fr": "https://mon.routeur/...",
-      "de": ""
+      "de": "https://your.gateway/...",
     },
     {
       "ident_ios": "h",
@@ -3024,7 +3024,7 @@
       "ru": "ч",
       "sv": "h",
       "fr": "h",
-      "de": ""
+      "de": "h",
     },
     {
       "ident_ios": "About.AboutHelp.contents",
@@ -3035,7 +3035,7 @@
       "ru": "Ruuvi Station - простой в использовании, но мощный инструмент для работы с вашими Ruuvi сенсорами.",
       "sv": "Ruuvi State är en lättanvänt och kraftfullt program för Ruuvi sensorer. Sätt igång genom att lägga till sensorer.",
       "fr": "Ruuvi Station est une application intuitive pour contôler vos capteurs Ruuvi. Commencez en jumelant des capteurs.",
-      "de": ""
+      "de": "Ruuvi Station ist ein benutzerfreundliches, aber leistungsstarkes Werkzeug, um Ihre Ruuvi-Sensoren aufzuladen. Fügen Sie einfach einige Sensoren hinzu und schon können Sie loslegen."
     },
     {
       "ident_ios": "About.AboutHelp.header",
@@ -3046,7 +3046,7 @@
       "ru": "О ПРИЛОЖЕНИИ",
       "sv": "OM / HJÄLP",
       "fr": "INFOS / AIDE",
-      "de": ""
+      "de": "ÜBER / HILFE",
     },
     {
       "ident_ios": "",
@@ -3057,7 +3057,7 @@
       "ru": "Добавленных датчиков: %1$,d",
       "sv": "Tillagda sensorer: %1$,d",
       "fr": "Capteurs jumelés : %1$,d",
-      "de": ""
+      "de": "Sensoren hinzugefügt: %1$,d",
     },
     {
       "ident_ios": "",
@@ -3068,7 +3068,7 @@
       "ru": "Кол-во сохраненных измерений: %1$,d",
       "sv": "Sparade mätningar: %1$,d",
       "fr": "Données enregistrées : %1$,d",
-      "de": ""
+      "de": "Anzahl lokal gespeicherter Messungen: %1$,d",
     },
     {
       "ident_ios": "About.MeasurementsCount.text",
@@ -3079,7 +3079,7 @@
       "ru": "Кол-во сохраненных измерений: %d",
       "sv": "Sparade mätningar: %d",
       "fr": "Données enregistrées : %d",
-      "de": ""
+      "de": "Anzahl lokal gespeicherter Messungen: %d",
     },
     {
       "ident_ios": "About.DatabaseSize.text",
@@ -3090,7 +3090,7 @@
       "ru": "Размер базы данных: %@",
       "sv": "Databasens storlek: %@",
       "fr": "Taille de la base de données : %@",
-      "de": ""
+      "de": "Datenbankgröße: %@",
     },
     {
       "ident_ios": "",
@@ -3101,7 +3101,7 @@
       "ru": "Размер базы данных: %1$,d кБ",
       "sv": "Databasens storlek: %1$,d kB",
       "fr": "Taille de la base de données : %1$,d kB",
-      "de": ""
+      "de": "Datenbankgröße: %1$,d kB",
     },
     {
       "ident_ios": "About.More.contents",
@@ -3112,7 +3112,7 @@
       "ru": "Веб-сайт: ruuvi.com\\nФорум: f.ruuvi.com\\nБлог: ruuvi.com\\nTwitter: twitter.com/ruuvicom",
       "sv": "Ruuvis hemsida: ruuvi.com\\nRuuvi Forum: f.ruuvi.com\\nRuuvi Blog: ruuvi.com/blog\\nRuuvi Twitter: twitter.com/ruuvicom",
       "fr": "Site officiel de Ruuvi : ruuvi.com\\nRuuvi Forum : f.ruuvi.com\\nRuuvi Blog : ruuvi.com/blog\\nRuuvi Twitter : twitter.com/ruuvicom",
-      "de": ""
+      "de": "Ruuvi-Website: ruuvi.com\\nRuuvi-Forum: f.ruuvi.com\\nRuuvi-Blog: ruuvi.com/blog\\nRuuvi auf Twitter: twitter.com/ruuvicom",
     },
     {
       "ident_ios": "About.More.header",
@@ -3123,7 +3123,7 @@
       "ru": "ПОЧИТАТЬ ЕЩЕ",
       "sv": "LÄS MER",
       "fr": "PLUS D'INFOS",
-      "de": ""
+      "de": "MEHR ERFAHREN",
     },
     {
       "ident_ios": "About.OpenSource.contents",
@@ -3134,7 +3134,7 @@
       "ru": "Как и сенсоры Ruuvi, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
       "sv": "Likt Ruuvi sensor är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi",
       "fr": "Comme tous les produits Ruuvi, Ruuvi Station est également open-source : github.com/ruuvi",
-      "de": ""
+      "de": "Genau wie Ruuvi-Sensoren ist auch Ruuvi Station Open Source: github.com/ruuvi",
     },
     {
       "ident_ios": "About.OpenSource.header",
@@ -3145,7 +3145,7 @@
       "ru": "ОТКРЫТЫЙ ИСХОДНЫЙ КОД",
       "sv": "ÖPPEN KÄLLKOD",
       "fr": "OPEN-SOURCE",
-      "de": ""
+      "de": "OPEN-SOURCE",
     },
     {
       "ident_ios": "About.OperationsManual.contents",
@@ -3156,7 +3156,7 @@
       "ru": "Мы разработали приложение так, чтобы оно было интуитивно понятным. В то же время, руководства доступны здесь: ruuvi.com/support",
       "sv": "Vi har designat appen så att den ska vara självförklarande men det finns också heltäckande manualer för både Ruuvi sensorer och Ruuvi Station: ruuvi.com/support",
       "fr": "Nous avons conçu nos produits et leur application pour qu'ils soient faciles à utiliser. Une notice est cependant disponible : ruuvi.com/support",
-      "de": ""
+      "de": "Wir haben die App so gestaltet, dass sie selbsterklärend ist, aber sowohl für Ruuvi-Sensoren als auch für die Ruuvi-Station sind umfassende Handbücher verfügbar: ruuvi.com/support",
     },
     {
       "ident_ios": "About.OperationsManual.header",
@@ -3167,7 +3167,7 @@
       "ru": "РУКОВОДСТВО",
       "sv": "BRUKSANVISNING",
       "fr": "NOTICE D'UTILISATION",
-      "de": ""
+      "de": "ANLEITUNG",
     },
     {
       "ident_ios": "About.Privacy.contents",
@@ -3178,7 +3178,7 @@
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi: ruuvi.com/terms",
       "sv": "Användning av applikationen kräver godkännande av användarvillkoren\\nruuvi.com/terms",
       "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi: ruuvi.com/terms",
-      "de": ""
+      "de": "Durch die Nutzung der Anwendung akzeptieren Sie die allgemeinen Geschäftsbedingungen von Ruuvi: ruuvi.com/terms",
     },
     {
       "ident_ios": "About.Privacy.header",
@@ -3189,7 +3189,7 @@
       "ru": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
       "sv": "INTEGRITETSPOLICY",
       "fr": "PROTECTION DES DONNÉES PERSONNELLES",
-      "de": ""
+      "de": "DATENSCHUTZ-BESTIMMUNGEN",
     },
     {
       "ident_ios": "",
@@ -3200,7 +3200,7 @@
       "ru": "Датчиков обнаружено: %1$,d",
       "sv": "Upptäckta sensorer: %1$,d",
       "fr": "Capteurs détectés : %1$,d",
-      "de": ""
+      "de": "Gesehene Sensoren: %1$,d",
     },
     {
       "ident_ios": "About.TagsCount.text",
@@ -3211,7 +3211,7 @@
       "ru": "Датчиков обнаружено: %d",
       "sv": "Upptäckta sensorer: %d",
       "fr": "Capteurs détectés : %d",
-      "de": ""
+      "de": "Gesehene Sensoren: %d",
     },
     {
       "ident_ios": "About.Troubleshooting.contents",
@@ -3222,7 +3222,7 @@
       "ru": "Если вы испытываете какие либо проблемы или наши руководства не помогли вам, посмотрите наши многочисленные темы с решением проблем здесь: ruuvi.com/support",
       "sv": "Om du stöter på problem och våra manualer inte hjälper så kan det hjälpa att ta en titt på våra många felsökningsämnen: ruuvi.com/support",
       "fr": "Si vous rencontrez des problèmes et que vous ne trouvez pas la réponse dans la notice, veuillez consulter la page d'assistance technique : ruuvi.com/support",
-      "de": ""
+      "de": "Wenn Sie Probleme haben und unsere Handbücher nicht die gewünschte Hilfe bieten, finden Sie weitere Hilfe zur Fehlerbehebung hier: ruuvi.com/support",
     },
     {
       "ident_ios": "About.Troubleshooting.header",
@@ -3233,7 +3233,7 @@
       "ru": "РЕШЕНИЕ ПРОБЛЕМ",
       "sv": "FELSÖKNING",
       "fr": "DÉPANNAGE TECHNIQUE",
-      "de": ""
+      "de": "FEHLERBEHEBUNG",
     },
     {
       "ident_ios": "",
@@ -3244,7 +3244,7 @@
       "ru": "Часов",
       "sv": "Timmar",
       "fr": "Heures",
-      "de": ""
+      "de": "Stunden",
     },
     {
       "ident_ios": "",
@@ -3255,7 +3255,7 @@
       "ru": "Дней",
       "sv": "Dagar",
       "fr": "Jours",
-      "de": ""
+      "de": "Tage",
     },
     {
       "ident_ios": "TagSettings.AirHumidityAlert.title",
@@ -3266,7 +3266,7 @@
       "ru": "Влажность воздуха ({%@^%1$s})",
       "sv": "Luftfuktighet ({%@^%1$s})",
       "fr": "Humidité de l'air ({%@^%1$s})",
-      "de": ""
+      "de": "Luftfeuchtigkeit ({%@^%1$s})",
     },
     {
       "ident_ios": "HumidityUnit.gm3.title",
@@ -3277,7 +3277,7 @@
       "ru": "Абсолютная влажность (г/м³)",
       "sv": "Absolut (g/m³)",
       "fr": "Absolue (g/m³)",
-      "de": ""
+      "de": "Absolut (g/m³)",
     },
     {
       "ident_ios": "g/m³",
@@ -3288,7 +3288,7 @@
       "ru": "г/м³",
       "sv": "g/m³",
       "fr": "g/m³",
-      "de": ""
+      "de": "g/m³",
     },
     {
       "ident_ios": "",
@@ -3299,7 +3299,7 @@
       "ru": "Точка росы (°)",
       "sv": "Daggpunkt (°)",
       "fr": "Point de rosée (°)",
-      "de": ""
+      "de": "Taupunkt (°)",
     },
     {
       "ident_ios": "",
@@ -3310,7 +3310,7 @@
       "ru": "°",
       "sv": "°",
       "fr": "°",
-      "de": ""
+      "de": "°",
     },
     {
       "ident_ios": "",
@@ -3321,7 +3321,7 @@
       "ru": "%1$,.2f %2$s",
       "sv": "%1$,.2f %2$s",
       "fr": "%1$,.2f %2$s",
-      "de": ""
+      "de": "%1$,.2f %2$s",
     },
     {
       "ident_ios": "HumidityUnit.Percent.title",
@@ -3332,7 +3332,7 @@
       "ru": "Относительная влажность (%)",
       "sv": "Relativ (%)",
       "fr": "Relative (%)",
-      "de": ""
+      "de": "Relative (%)",
     },
     {
       "ident_ios": "%",
@@ -3343,7 +3343,7 @@
       "ru": "%",
       "sv": "%",
       "fr": "%",
-      "de": ""
+      "de": "%",
     },
     {
       "ident_ios": "TagSettings.Mac.Alert.title",
@@ -3354,7 +3354,7 @@
       "ru": "MAC адрес",
       "sv": "MAC Adress",
       "fr": "Adresse MAC",
-      "de": ""
+      "de": "MAC-Adresse",
     },
     {
       "ident_ios": "",
@@ -3365,7 +3365,7 @@
       "ru": "MAC адрес скопирован в буфер обмена",
       "sv": "MAC-adressen kopierad till urklippet",
       "fr": "Adreesse MAC copiée dans le presse-papiers",
-      "de": ""
+      "de": "MAC-Adresse in Zwischenablage kopiert",
     },
     {
       "ident_ios": "Menu.Label.AboutHelp.text",
@@ -3376,7 +3376,7 @@
       "ru": "О Приложении",
       "sv": "Om / Hjälp",
       "fr": "Infos/Aide",
-      "de": ""
+      "de": "Über / Hilfe",
     },
     {
       "ident_ios": "Menu.Label.AddAnNewSensor.text",
@@ -3387,7 +3387,7 @@
       "ru": "Добавить Сенсор",
       "sv": "Lägg till en ny Sensor",
       "fr": "Ajouter un capteur",
-      "de": ""
+      "de": "Neuen Sensor hinzufügen",
     },
     {
       "ident_ios": "Menu.Label.AppSettings.text",
@@ -3398,7 +3398,7 @@
       "ru": "Настройки",
       "sv": "App Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "App Einstellungen",
     },
     {
       "ident_ios": "Menu.Label.GetMoreSensors.text",
@@ -3409,7 +3409,7 @@
       "ru": "Больше Сенсоров",
       "sv": "Köp fler Sensorer",
       "fr": "Acheter plus de capteurs",
-      "de": ""
+      "de": "Mehr Sensoren kaufen",
     },
     {
       "ident_ios": "Menu.Label.Feedback.text",
@@ -3420,7 +3420,7 @@
       "ru": "Отправить Отзыв",
       "sv": "Skicka Feedback",
       "fr": "Donnez-nous votre avis!",
-      "de": ""
+      "de": "Feedback schicken",
     },
     {
       "ident_ios": "min",
@@ -3431,7 +3431,7 @@
       "ru": "мин",
       "sv": "min",
       "fr": "min",
-      "de": ""
+      "de": "min",
     },
     {
       "ident_ios": "",
@@ -3442,7 +3442,7 @@
       "ru": "Минут",
       "sv": "Minuter",
       "fr": "Minutes",
-      "de": ""
+      "de": "Minuten",
     },
     {
       "ident_ios": "TagSettings.Label.moreInfo.text",
@@ -3453,7 +3453,7 @@
       "ru": "ДОПОЛНИТЕЛЬНО",
       "sv": "MER INFO",
       "fr": "PLUS D'INFOS",
-      "de": ""
+      "de": "MEHR INFO",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Name.title",
@@ -3464,7 +3464,7 @@
       "ru": "ИМЯ",
       "sv": "NAMN",
       "fr": "NOM",
-      "de": ""
+      "de": "NAME",
     },
     {
       "ident_ios": "",
@@ -3475,7 +3475,7 @@
       "ru": "Закрыть навигационную панель",
       "sv": "Stäng navigationslådan",
       "fr": "Fermer le menu",
-      "de": ""
+      "de": "Schließen der Navigation",
     },
     {
       "ident_ios": "",
@@ -3486,7 +3486,7 @@
       "ru": "Открыть навигационную панель",
       "sv": "Öppna navigationslådan",
       "fr": "Ouvrir le menu",
-      "de": ""
+      "de": "Öffnen der Navigation",
     },
     {
       "ident_ios": "No",
@@ -3497,7 +3497,7 @@
       "ru": "Нет",
       "sv": "Nej",
       "fr": "Non",
-      "de": ""
+      "de": "Nein",
     },
     {
       "ident_ios": "",
@@ -3508,7 +3508,7 @@
       "ru": "Нет новых измерений",
       "sv": "Inga nya mätningar tillgängliga",
       "fr": "Pas de nouvelles données disponibles",
-      "de": ""
+      "de": "Keine neuen Datenpunkte verfügbar",
     },
     {
       "ident_ios": "OK",
@@ -3519,7 +3519,7 @@
       "ru": "OK",
       "sv": "OK",
       "fr": "OK",
-      "de": ""
+      "de": "OK",
     },
     {
       "ident_ios": "",
@@ -3530,7 +3530,7 @@
       "ru": "Включить сканирование в фоне",
       "sv": "Aktivera bakgrundsskanning",
       "fr": "Activer le balayage en arrière plan",
-      "de": ""
+      "de": "Scannen im Hintergrund aktivieren",
     },
     {
       "ident_ios": "",
@@ -3541,7 +3541,7 @@
       "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\nTillåt om du vill använda bakgrundsskanning\\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
       "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nAutorisez l'utilisation de votre position pour utiliser le balayage en arrière plan. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle.",
-      "de": ""
+      "de": "Um Bluetooth-Geräte in der Nähe im Hintergrund zu scannen, muss für Android der Zugriff auf den Standort im Hintergrund aktiviert sein. \\n\\n Bitte klicken Sie auf 'immer zulassen', wenn Sie die Funktion zum Scannen im Hintergrund verwenden möchten. \\n\\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher.",
     },
     {
       "ident_ios": "",
@@ -3552,7 +3552,7 @@
       "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
       "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle.",
-      "de": ""
+      "de": "Um Bluetooth-Geräte in der Nähe zu scannen, muss für Android der Standortzugriff aktiviert sein. \\n\\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher.",
     },
     {
       "ident_ios": "",
@@ -3563,7 +3563,7 @@
       "ru": "Включить сканирование Bluetooth",
       "sv": "Aktivera bluetooth skanning",
       "fr": "Activer le balayage Bluetooth",
-      "de": ""
+      "de": "Bluetooth-Scan aktivieren",
     },
     {
       "ident_ios": "",
@@ -3574,7 +3574,7 @@
       "ru": "Разрешите доступ к местоположению чтобы увидеть датчики",
       "sv": "Tillåt åtkomst av platsinfomration för att se sensorer.",
       "fr": "Autoriser la géolocalisation.",
-      "de": ""
+      "de": "Bitte aktivieren Sie die Standortberechtigung in den Einstellungen, um Sensoren anzuzeigen.",
     },
     {
       "ident_ios": "",
@@ -3585,7 +3585,7 @@
       "ru": "Нет добавленных датчиков,\\nнажмите чтобы добавить",
       "sv": "Inga sensorer har lags till,\\ntryck här för att lägga till sensorer",
       "fr": "Pas de capteurs. Ajoutez-en en cliquant ici",
-      "de": ""
+      "de": "Keine Sensoren hinzugefügt, klicken Sie hier, um Sensoren hinzuzufügen"
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
@@ -3596,7 +3596,7 @@
       "ru": "Атмосферное Давление ({%@^%1$s})",
       "sv": "Lufttryck ({%@^%1$s})",
       "fr": "Pression de l'air ({%@^%1$s})",
-      "de": ""
+      "de": "Luftdruck ({%@^%1$s})",
     },
     {
       "ident_ios": "UnitPressure.hectopascal.title",
@@ -3607,7 +3607,7 @@
       "ru": "Гектопаскаль (гПа)",
       "sv": "Hektopascal (hPa)",
       "fr": "Hectopascal (hPa)",
-      "de": ""
+      "de": "Hektopascal (hPa)",
     },
     {
       "ident_ios": "hPa",
@@ -3618,7 +3618,7 @@
       "ru": "гПа",
       "sv": "hPa",
       "fr": "hPa",
-      "de": ""
+      "de": "hPa",
     },
     {
       "ident_ios": "UnitPressure.inchOfMercury.title",
@@ -3629,7 +3629,7 @@
       "ru": "Дюймов ртутного столба (inHg)",
       "sv": "Tum kvicksilver (inHg)",
       "fr": "Pouce de mercure (inHg)",
-      "de": ""
+      "de": "Zoll Quecksilber (inHg)",
     },
     {
       "ident_ios": "",
@@ -3640,7 +3640,7 @@
       "ru": "д. рт. ст.",
       "sv": "inHg",
       "fr": "inHg",
-      "de": ""
+      "de": "inHg",
     },
     {
       "ident_ios": "UnitPressure.millimetreOfMercury.title",
@@ -3651,7 +3651,7 @@
       "ru": "Миллиметров ртутного столба (мм.рт.ст.)",
       "sv": "Millimeter kvicksilver (mmHg)",
       "fr": "Millimètre de mercure (mmHg)",
-      "de": ""
+      "de": "Millimeter Quecksilbersäule (mmHg)",
     },
     {
       "ident_ios": "",
@@ -3662,7 +3662,7 @@
       "ru": "мм рт. ст.",
       "sv": "mmHg",
       "fr": "mmHg",
-      "de": ""
+      "de": "mmHg",
     },
     {
       "ident_ios": "",
@@ -3673,7 +3673,7 @@
       "ru": "Паскаль (Па)",
       "sv": "Pascal (Pa)",
       "fr": "Pascal (Pa)",
-      "de": ""
+      "de": "Pascal (Pa)",
     },
     {
       "ident_ios": "",
@@ -3684,7 +3684,7 @@
       "ru": "Па",
       "sv": "Pa",
       "fr": "Pa",
-      "de": ""
+      "de": "Pa",
     },
     {
       "ident_ios": "",
@@ -3695,7 +3695,7 @@
       "ru": "%1$,.2f %2$s",
       "sv": "%1$,.2f %2$s",
       "fr": "%1$,.2f %2$s",
-      "de": ""
+      "de": "%1$,.2f %2$s",
     },
     {
       "ident_ios": "",
@@ -3706,7 +3706,7 @@
       "ru": "%1$,.0f %2$s",
       "sv": "%1$,.0f %2$s",
       "fr": "%1$,.0f %2$s",
-      "de": ""
+      "de": "%1$,.0f %2$s",
     },
     {
       "ident_ios": "",
@@ -3717,7 +3717,7 @@
       "ru": "Чтение истории",
       "sv": "Läser historik",
       "fr": "Analyse de l'historique",
-      "de": ""
+      "de": "History wird gelesen",
     },
     {
       "ident_ios": "",
@@ -3728,7 +3728,7 @@
       "ru": "Прошивка не поддерживается",
       "sv": "Firmware versionen stöds inte",
       "fr": "Firmware non supporté",
-      "de": ""
+      "de": "Firmware nicht unterstützt",
     },
     {
       "ident_ios": "TagSettings.rssiTitleLabel.text",
@@ -3739,7 +3739,7 @@
       "ru": "Сила сигнала (RSSI)",
       "sv": "Signalstyrka (RSSI)",
       "fr": "Puissance du signal (RSSI)",
-      "de": ""
+      "de": "Signalstärke (RSSI)",
     },
     {
       "ident_ios": "s",
@@ -3750,7 +3750,7 @@
       "ru": "с",
       "sv": "s",
       "fr": "s",
-      "de": ""
+      "de": "s",
     },
     {
       "ident_ios": "Welcome.scan.title",
@@ -3761,7 +3761,7 @@
       "ru": "СКАНИРОВАТЬ",
       "sv": "SKANNA",
       "fr": "BALAYAGE EN COURS",
-      "de": ""
+      "de": "SCANNEN",
     },
     {
       "ident_ios": "Background.Interval.Sec.string",
@@ -3772,7 +3772,7 @@
       "ru": "сек",
       "sv": "sek",
       "fr": "sec",
-      "de": ""
+      "de": "sek",
     },
     {
       "ident_ios": "",
@@ -3783,7 +3783,7 @@
       "ru": "Секунд",
       "sv": "Sekunder",
       "fr": "Secondes",
-      "de": ""
+      "de": "Sekunden",
     },
     {
       "ident_ios": "",
@@ -3794,7 +3794,7 @@
       "ru": "Выберите изображение",
       "sv": "Välj bild",
       "fr": "Choisissez une photo",
-      "de": ""
+      "de": "Bild auswählen",
     },
     {
       "ident_ios": "",
@@ -3805,7 +3805,7 @@
       "ru": "Отправить электронное письмо",
       "sv": "Skicka e-post",
       "fr": "Envoyer un email",
-      "de": ""
+      "de": "Email schicken",
     },
     {
       "ident_ios": "",
@@ -3816,7 +3816,7 @@
       "ru": "Датчик уже добавлен",
       "sv": "Sensorn har redan lagts till",
       "fr": "Ce capteur a déjà été ajouté",
-      "de": ""
+      "de": "Sensor ist bereits hinzugefügt",
     },
     {
       "ident_ios": "Settings.navigationItem.title",
@@ -3827,7 +3827,7 @@
       "ru": "Настройки",
       "sv": "Inställningar",
       "fr": "Réglages",
-      "de": ""
+      "de": "Einstellungen",
     },
     {
       "ident_ios": "",
@@ -3838,7 +3838,7 @@
       "ru": "Если у вас нестабильно работает фоновое сканирование, то следует отключить оптимизацию батареи для Ruuvi Station. Конкретные действия, которые необходимо выполнить могут зависеть от производителя телефона, его модели и версии Android.",
       "sv": "Om du har problem med bakgrundsskanningen så kan det hjälpa att stänga av batterioptimering. Denna inställning hittas på olika ställen beroende på telefonens tillverkare, modell och Android version.",
       "fr": "Si le balayage en arrière plan ne fonctionne pas, désactivez le mode économie d'énergie de votre téléphone.",
-      "de": ""
+      "de": "Wenn beim Scannen im Hintergrund Probleme auftreten, sollten Sie die Batterieoptimierung für Ruuvi Station deaktivieren. Dieses Verfahren kann je nach Gerätehersteller, Modell und Android-Version variieren.",
     },
     {
       "ident_ios": "",
@@ -3849,7 +3849,7 @@
       "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station",
       "fr": "Allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Économie d'énergie -> Désactiver",
-      "de": ""
+      "de": "Gehen Sie zu Android-Einstellungen -> Apps -> Ruuvi Station -> Akku -> Akkuoptimierung und wählen Sie 'Nicht für Ruuvi Station optimieren'.",
     },
     {
       "ident_ios": "",
@@ -3860,7 +3860,7 @@
       "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Appar -> Ruuvi Station -> Information om energiförbrukning -> Appstart. Avaktivera Hantera automatiskt och aktivera Autostart, Sekundär start och Kör i bakgrunden.",
       "fr": "Pour les appareils Huawei allez dans : Réglages -> Applications -> RuuviStation -> Utilisation de la batterie -> Démarrage de l'application -> Désactiver 'contrôle automatique' et assurez-vous que les options de contrôle manuel sont activées.",
-      "de": ""
+      "de": "Gehen Sie auf Huawei-Geräten zu Android-Einstellungen -> Apps -> Ruuvi Station -> Details zum Stromverbrauch -> App-Start. Deaktivieren Sie 'Automatisch verwalten' und aktivieren Sie die Optionen: 'Automatischer Start', 'Sekundärer Start' und 'Im Hintergrund ausführen'.",
     },
     {
       "ident_ios": "",
@@ -3871,7 +3871,7 @@
       "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
       "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv.",
       "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
-      "de": ""
+      "de": "Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -> Akku -> App-Energiespardetails und stellen Sie die Option 'Ausgeschaltet' für Ruuvi Station ein.",
     },
     {
       "ident_ios": "",
@@ -3882,7 +3882,7 @@
       "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Tryck på menyn i högra övre hörnet -> Särskild åtkomst -> Optimera batterianvändning. Välj Allt, sök efter Ruuvi Station och välj bort appen från optimerade appar.",
       "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
-      "de": ""
+      "de": "Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -> Gerätewartung (oder Gerätepflege) -> Akku. Deaktivieren Sie 'Nicht verwendete Apps in den Ruhezustand versetzen'. Deaktivieren Sie 'Nicht verwendete Apps automatisch deaktivieren'",
     },
     {
       "ident_ios": "",
@@ -3893,7 +3893,7 @@
       "ru": "Важное замечание по поводу фонового сканирования",
       "sv": "Läs mer om bakgrundsskanning",
       "fr": "Plus d'infos sur le balayage en arrière-plan",
-      "de": ""
+      "de": "Hintergrundscan wichtiger Hinweis",
     },
     {
       "ident_ios": "",
@@ -3904,7 +3904,7 @@
       "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Hantera Appar -> Ruuvi Station. Aktivera Starta automatiskt, gå sedan till Batterisparare och välj Inga restriktioner.",
       "fr": "Sur les appareils Xiaomi allez dans : Réglages -> Applications -> Gérer les applications -> Ruuvi Station -> Utiliser le lancement automatique et choisir 'aucune restriction' pour l'économie d'énergie",
-      "de": ""
+      "de": "Gehen Sie auf Xiaomi-Geräten zu Android-Einstellungen -> Apps -> Apps verwalten -> Ruuvi Station. Aktivieren Sie Autostart und stellen Sie Battery Saver auf 'Keine Einschränkungen'.",
     },
     {
       "ident_ios": "",
@@ -3915,7 +3915,7 @@
       "ru": "Фоновое сканирование",
       "sv": "Kontinuerlig bakgrundsskanning",
       "fr": "Balayage en continu",
-      "de": ""
+      "de": "Kontinuierliches Scannen im Hintergrund",
     },
     {
       "ident_ios": "",
@@ -3926,7 +3926,7 @@
       "ru": "Фоновое сканироваение включено.\\nИнтервал сканирования: %1$s",
       "sv": "Kontinuerlig bakgrundsskanning är aktiverad\\nDataloggningsintervall: %1$s",
       "fr": "Balayage en continu activé.\\nDonnées intervalles : %1$s",
-      "de": ""
+      "de": "Der kontinuierliche Hintergrundscanmodus ist aktiviert.\\nDatenprotokollierungsintervall: %1$s",
     },
     {
       "ident_ios": "",
@@ -3937,7 +3937,7 @@
       "ru": "Без фонового сканирования",
       "sv": "Ingen bakgrundsskanning",
       "fr": "Balayage désactivé",
-      "de": ""
+      "de": "Kein Scannen im Hintergrund",
     },
     {
       "ident_ios": "",
@@ -3948,7 +3948,7 @@
       "ru": "Фоновое сканироваение выключено",
       "sv": "Bakgrundsskanning är avaktiverad",
       "fr": "Balayage en arrière-plan désactivé",
-      "de": ""
+      "de": "Es ist kein Hintergrundscanmodus aktiviert",
     },
     {
       "ident_ios": "",
@@ -3959,7 +3959,7 @@
       "ru": "Настройки сканирования в фоне",
       "sv": "Bakgrundsskanningsinställningar",
       "fr": "Réglages du balayage en arrière-plan",
-      "de": ""
+      "de": "Einstellungen für das Scannen im Hintergrund",
     },
     {
       "ident_ios": "",
@@ -3970,7 +3970,7 @@
       "ru": "При включении этой функции ваш телефон будет переодически получать сигналы от датчиков в фоновом режиме.",
       "sv": "Den här funktionen gör så att data hämtas regelbundet från närliggande sensorer i bakgrunden, även medan du inte har appen öppen.",
       "fr": "Cette fonction permet le balayage en arrière-plan. Votre téléphone va rechercher des capteurs même lorsque vous n'utilisez pas l'application.",
-      "de": ""
+      "de": "Diese Funktion ermöglicht das Scannen im Hintergrund, was bedeutet, dass Ihr Telefon regelmäßig nach Beacons sucht, auch wenn Sie es nicht verwenden.",
     },
     {
       "ident_ios": "",
@@ -3981,7 +3981,7 @@
       "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение",
       "sv": "Programmet hämtar regelbundet data från sensorer i närheten medan appen körs i bakgrunden.",
       "fr": "L'application va régulièrement rechercher des capteurs en utilisant la fonction de balayage en continu même lorsque vous n'êtes pas sur l'application",
-      "de": ""
+      "de": "Die App sucht regelmäßig über einen Dienst (mit Benachrichtigungen) nach Beacons, was ein sehr häufiges und zuverlässiges Scannen ermöglicht, auch wenn Sie sie nicht verwenden.",
     },
     {
       "ident_ios": "",
@@ -3992,7 +3992,7 @@
       "ru": "Интервал сканирования",
       "sv": "Dataloggningsintervall",
       "fr": "Intervalle d'acquisition des données",
-      "de": ""
+      "de": "Datenprotokollierungsintervall",
     },
     {
       "ident_ios": "",
@@ -4003,7 +4003,7 @@
       "ru": "Установите как часто должно включаться фоновое сканирование",
       "sv": "Ange intervallet för bakgrundsskanning",
       "fr": "Définir l'intervalle d'acquisition",
-      "de": ""
+      "de": "Definieren Sie, wie oft der Hintergrundscan ausgeführt wird",
     },
     {
       "ident_ios": "",
@@ -4014,7 +4014,7 @@
       "ru": "Настройки графиков",
       "sv": "Historik",
       "fr": "Paramètres de l'histogramme",
-      "de": ""
+      "de": "Diagramm Einstellungen",
     },
     {
       "ident_ios": "",
@@ -4025,7 +4025,7 @@
       "ru": "Отображать все данные",
       "sv": "Visa all insamlad data i graferna",
       "fr": "Afficher toutes les données mesurées",
-      "de": ""
+      "de": "Alle Daten im Diagramm anzeigen",
     },
     {
       "ident_ios": "",
@@ -4036,7 +4036,7 @@
       "ru": "Это может привести к медленному обновлению графиков",
       "sv": "Den här funktionen kan göra appen laddar historik långsammare",
       "fr": "L'utilisation de cette fonction peut ralentir la mise à jour de l'histogramme",
-      "de": ""
+      "de": "Die Aktivierung kann dazu führen, dass Diagramme langsam aktualisiert werden",
     },
     {
       "ident_ios": "",
@@ -4047,7 +4047,7 @@
       "ru": "Установите интервал между точками и диапазон истории для графиков",
       "sv": "Ange visningsintervallet för datapunkter",
       "fr": "Définir l'intervalle entre deux mesures",
-      "de": ""
+      "de": "Konfigurieren Sie das Intervall zwischen den auf dem Diagramm angezeigten Punkten",
     },
     {
       "ident_ios": "",
@@ -4058,7 +4058,7 @@
       "ru": "Показывать точки на графике",
       "sv": "Visa datapunkter",
       "fr": "Afficher les points",
-      "de": ""
+      "de": "Punkte im Diagramm zeichnen",
     },
     {
       "ident_ios": "",
@@ -4069,7 +4069,7 @@
       "ru": "Маленькие точки помогут точно понять когда были получены данные",
       "sv": "Datapunkter gör det lättare att utforska lagrad historikinformation",
       "fr": "L'affichage des points facilite l'analyse de l'histogramme",
-      "de": ""
+      "de": "Kleine Punkte helfen zu verstehen, wann Messungen erfasst wurden",
     },
     {
       "ident_ios": "Defaults.ChartIntervalSeconds.title",
@@ -4080,7 +4080,7 @@
       "ru": "Интервал Графиков",
       "sv": "Historikens noggrannhet",
       "fr": "Précision de l'histogramme",
-      "de": ""
+      "de": "Diagrammintervall",
     },
     {
       "ident_ios": "",
@@ -4091,7 +4091,7 @@
       "ru": "Установите интервал между точками на графиках от 1 до 60 минут. Чем меньше значение, тем выше точность отображения. Но в тоже время повышаются требования к быстродействию вашего телефона.",
       "sv": "Ställ in intervallet för datapunkter i graferna från 1 till 60 minuter. Ett tätare intervall gör det möjligt att visa mer exakt historikinformation, men detta använder mer enhetsresurser",
       "fr": "Définir l'intervalle de l'histogramme 1 - 60 minutes. Un intervalle plus faible permet une analyse plus précise mais utilise d'avantage les ressources de votre appareil.",
-      "de": ""
+      "de": "Stellen Sie das Intervall zwischen den Punkten für das Diagramm von 1 bis 60 Minuten ein. Kleinere Werte bedeuten ein genaueres Diagramm, aber auch einen höheren Leistungsbedarf für Ihr Gerät",
     },
     {
       "ident_ios": "",
@@ -4102,7 +4102,7 @@
       "ru": "Диапазон отображения графиков",
       "sv": "Historik",
       "fr": "Période de l'histogramme",
-      "de": ""
+      "de": "Anzeigezeitraum des Diagrammverlaufs",
     },
     {
       "ident_ios": "",
@@ -4113,7 +4113,7 @@
       "ru": "Установите диапазон для отображения на графиках от 1-го до 10-ти дней",
       "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 10 dagar",
       "fr": "Définir la période de l'histogramme 1 - 10 jours",
-      "de": ""
+      "de": "Konfigurieren Sie den Zeitraum, der im Diagramm angezeigt werden soll, von 1 bis 10 Tagen",
     },
     {
       "ident_ios": "",
@@ -4124,7 +4124,7 @@
       "ru": "Настройки шлюза",
       "sv": "Proxyinställningar",
       "fr": "Paramètres du routeur",
-      "de": ""
+      "de": "Einstellungen für die Datenweiterleitung",
     },
     {
       "ident_ios": "",
@@ -4135,7 +4135,7 @@
       "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию",
       "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \\n\\nFör mer information, läs dokumentationen.",
       "fr": "L'application envoie les données du capteur via la fonction HTTP POST à une adresse de routage définie pendant le balayage en arrière-plan\\n\\nPour plus d'informations, consultez la page de support.",
-      "de": ""
+      "de": "Wenn Sie hier eine URL hinzufügen, führt die App beim Hintergrundscannen einen HTTP POST mit den verknüpften Sensoren aus. Weitere Informationen finden Sie in der Dokumentation.",
     },
     {
       "ident_ios": "",
@@ -4147,7 +4147,7 @@
       "ru": "документацию",
       "sv": "läs dokumentationen",
       "fr": "page de support",
-      "de": ""
+      "de": "Überprüfen Sie die Dokumentation",
     },
     {
       "ident_ios": "",
@@ -4158,7 +4158,7 @@
       "ru": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
       "sv": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
       "fr": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
-      "de": ""
+      "de": "https://docs.ruuvi.com/ruuvi-station-app/gateway",
     },
     {
       "ident_ios": "",
@@ -4169,7 +4169,7 @@
       "ru": "Идентификатор устройства",
       "sv": "Enhetsidentifikation",
       "fr": "Identifiant de l'appareil",
-      "de": ""
+      "de": "Gerätekennung",
     },
     {
       "ident_ios": "",
@@ -4180,7 +4180,7 @@
       "ru": "Тест шлюза",
       "sv": "Testa proxyn",
       "fr": "Tester le routeur",
-      "de": ""
+      "de": "Testdatenweiterleitung",
     },
     {
       "ident_ios": "Settings.Label.HumidityUnit.text",
@@ -4191,7 +4191,7 @@
       "ru": "Ед. изм. Влажности",
       "sv": "Luftfuktighetsenhet",
       "fr": "Unité d'humidité",
-      "de": ""
+      "de": "Feuchtigkeitseinheit",
     },
     {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
@@ -4202,7 +4202,7 @@
       "ru": "Выберите единицу измерения влажности для отображения",
       "sv": "Välj den fuktighetsenhet som du vill ska visas",
       "fr": "Choisissez l'unité souhaitée pour l'humidité",
-      "de": ""
+      "de": "Wählen Sie die Luftfeuchtigkeitseinheit aus, die angezeigt werden soll",
     },
     {
       "ident_ios": "Settings.Label.PressureUnit.text",
@@ -4213,7 +4213,7 @@
       "ru": "Ед. изм. Давления",
       "sv": "Tryckenhet",
       "fr": "Unité de pression",
-      "de": ""
+      "de": "Druckeinheit",
     },
     {
       "ident_ios": "Settings.ChoosePressureUnit.text",
@@ -4224,7 +4224,7 @@
       "ru": "Выберите единицу измерения давления для отображения",
       "sv": "Välj den tryckenhet du vill ska visas",
       "fr": "Choisissez l'unité souhaitée pour la pression",
-      "de": ""
+      "de": "Wählen Sie die Druckeinheit, die angezeigt werden soll",
     },
     {
       "ident_ios": "Settings.Label.TemperatureUnit.text",
@@ -4235,7 +4235,7 @@
       "ru": "Ед. изм. Температуры",
       "sv": "Temperaturenhet",
       "fr": "Unité de température",
-      "de": ""
+      "de": "Temperatureinheit",
     },
     {
       "ident_ios": "Settings.ChooseTemperatureUnit.text",
@@ -4246,7 +4246,7 @@
       "ru": "Выберите единицу измерения температуры для отображения",
       "sv": "Välj den temperaturenhet som du vill ska visas",
       "fr": "Choisissez l'unité souhaitée pour la température",
-      "de": ""
+      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll",
     },
     {
       "ident_ios": "",
@@ -4257,7 +4257,7 @@
       "ru": "%1$,d %2$s",
       "sv": "%1$,d %2$s",
       "fr": "%1$,d %2$s",
-      "de": ""
+      "de": "%1$,d %2$s",
     },
     {
       "ident_ios": "",
@@ -4268,7 +4268,7 @@
       "ru": "- %1$s",
       "sv": "- %1$s",
       "fr": "- %1$s",
-      "de": ""
+      "de": "- %1$s",
     },
     {
       "ident_ios": "dBm",
@@ -4279,7 +4279,7 @@
       "ru": "дБм",
       "sv": "dBm",
       "fr": "dBm",
-      "de": ""
+      "de": "dBm",
     },
     {
       "ident_ios": "",
@@ -4290,7 +4290,7 @@
       "ru": "Что-то пошло не так",
       "sv": "Något gick fel",
       "fr": "Erreur",
-      "de": ""
+      "de": "Something went wrong",
     },
     {
       "ident_ios": "TagCharts.Sync.title",
@@ -4301,7 +4301,7 @@
       "ru": "СКАЧАТЬ",
       "sv": "SYNK",
       "fr": "SYNCHRONISATION",
-      "de": ""
+      "de": "SYNCHRONISIEREN",
     },
     {
       "ident_ios": "",
@@ -4312,7 +4312,7 @@
       "ru": "Синхронизация завершена",
       "sv": "Synkronisering klar",
       "fr": "Synchronisation terminée",
-      "de": ""
+      "de": "Synchronisierung abgeschlossen",
     },
     {
       "ident_ios": "TagCharts.SyncConfirmationDialog.message",
@@ -4323,7 +4323,7 @@
       "ru": "Вы уверены что хотите синхронизировать данные с устройством?",
       "sv": "Ladda ner historik-data från sensorn?",
       "fr": "Souhaitez vous importer les données du capteur?",
-      "de": ""
+      "de": "Daten vom Sensor herunterladen?",
     },
     {
       "ident_ios": "WebTagSettings.Label.TagName.text",
@@ -4334,7 +4334,7 @@
       "ru": "Имя",
       "sv": "Sensornamn",
       "fr": "Nom du capteur",
-      "de": ""
+      "de": "Sensor Name",
     },
     {
       "ident_ios": "",
@@ -4345,7 +4345,7 @@
       "ru": "Датчик не найден",
       "sv": "Sensorn hittades inte, är den innom räckvidd?",
       "fr": "Capteur introuvable. Le capteur est-il à proximité ?",
-      "de": ""
+      "de": "Sensor nicht gefunden, ist er in Reichweite?",
     },
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.title",
@@ -4356,7 +4356,7 @@
       "ru": "Удалить сенсор",
       "sv": "Ta bort sensor",
       "fr": "Supprimer le capteur",
-      "de": ""
+      "de": "Sensor entfernen",
     },
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.message",
@@ -4367,7 +4367,7 @@
       "ru": "Вы уверены что хотите удалить этот сенсор?",
       "sv": "Är du säker på att du vill ta bort den här sensorn?",
       "fr": "Êtes-vous certain de vouloir supprimer ce capteur ?",
-      "de": ""
+      "de": "Möchten Sie den Sensor entfernen? Sie können ihn später bei Bedarf wieder hinzufügen.",
     },
     {
       "ident_ios": "TagSettings.temperatureAlertTitleLabel.text",
@@ -4378,7 +4378,7 @@
       "ru": "Температура ({%@^%1$s})",
       "sv": "Temperatur ({%@^%1$s})",
       "fr": "Température ({%@^%1$s})",
-      "de": ""
+      "de": "Temperatur ({%@^%1$s})",
     },
     {
       "ident_ios": "TemperatureUnit.Celsius.title",
@@ -4389,7 +4389,7 @@
       "ru": "Цельсий (℃)",
       "sv": "Celsius (℃)",
       "fr": "Celsius (℃)",
-      "de": ""
+      "de": "Celsius (℃)",
     },
     {
       "ident_ios": "ºC",
@@ -4400,7 +4400,7 @@
       "ru": "°C",
       "sv": "°C",
       "fr": "°C",
-      "de": ""
+      "de": "°C",
     },
     {
       "ident_ios": "TemperatureUnit.Fahrenheit.title",
@@ -4411,7 +4411,7 @@
       "ru": "Фаренгейт (℉)",
       "sv": "Fahrenheit (℉)",
       "fr": "Fahrenheit (℉)",
-      "de": ""
+      "de": "Fahrenheit (℉)",
     },
     {
       "ident_ios": "ºF",
@@ -4422,7 +4422,7 @@
       "ru": "°F",
       "sv": "°F",
       "fr": "°F",
-      "de": ""
+      "de": "°F",
     },
     {
       "ident_ios": "TemperatureUnit.Kelvin.title",
@@ -4432,7 +4432,7 @@
       "ru": "Кельвин (K)",
       "sv": "Kelvin (K)",
       "fr": "Kelvin (K)",
-      "de": ""
+      "de": "Kelvin (K)",
     },
     {
       "ident_ios": "",
@@ -4443,7 +4443,7 @@
       "ru": "K",
       "sv": "K",
       "fr": "K",
-      "de": ""
+      "de": "K",
     },
     {
       "ident_ios": "",
@@ -4454,7 +4454,7 @@
       "ru": "%1$,.2f%2$s",
       "sv": "%1$,.2f%2$s",
       "fr": "%1$,.2f%2$s",
-      "de": ""
+      "de": "%1$,.2f%2$s",
     },
     {
       "ident_ios": "",
@@ -4465,7 +4465,7 @@
       "ru": "Обновлено {%@^%1$s}",
       "sv": "Uppdaterad {%@^%1$s}",
       "fr": "Mis à jour il y'a {%@^%1$s}",
-      "de": ""
+      "de": "Aktuaisiert {%@^%1$s}"
     },
     {
       "ident_ios": "Updated",
@@ -4476,7 +4476,7 @@
       "ru": "Обновлено",
       "sv": "Uppdaterad",
       "fr": "Mis à jour il y'a",
-      "de": ""
+      "de": "Aktuaisiert",
     },
     {
       "ident_ios": "",
@@ -4487,7 +4487,7 @@
       "ru": "Версия: %1$s",
       "sv": "Version: %1$s",
       "fr": "Version : %1$s",
-      "de": ""
+      "de": "Version: %1$s",
     },
     {
       "ident_ios": "",
@@ -4498,7 +4498,7 @@
       "ru": "%1$s %2$s",
       "sv": "%1$s %2$s",
       "fr": "%1$s %2$s",
-      "de": ""
+      "de": "%1$s %2$s",
     },
     {
       "ident_ios": "V",
@@ -4509,7 +4509,7 @@
       "ru": "В",
       "sv": "V",
       "fr": "V",
-      "de": ""
+      "de": "V",
     },
     {
       "ident_ios": "",
@@ -4520,7 +4520,7 @@
       "ru": "Проведите пальцем чтобы узнать, чем Ruuvi Station может помочь вам",
       "sv": "Det här kan Ruuvi Station göra för dig",
       "fr": "Découvrez l'application Ruuvi Station",
-      "de": ""
+      "de": "Wischen Sie, um zu sehen, was Ruuvi Station für Sie tun kann",
     },
     {
       "ident_ios": "",
@@ -4531,7 +4531,7 @@
       "ru": "Измеряйте параметры окружающей среды: температуру, влажность и атмосферное давление",
       "sv": "Mät förhållandena i din miljö: temperatur, luftfuktighet och lufttryck",
       "fr": "Mesurer votre environnement : température, humidité, et pression de l'air",
-      "de": ""
+      "de": "Umweltdaten messen: Temperatur, relative Luftfeuchtigkeit und Luftdruck",
     },
     {
       "ident_ios": "",
@@ -4542,7 +4542,7 @@
       "ru": "В реальном времени считывайте показатели с датчиков и просматривайте историю на графиках",
       "sv": "Visa sensordata i realtid eller granska historisk data som är lagrad på enheten",
       "fr": "Vérifier les données en temps réels ou consultez les histogrammes",
-      "de": ""
+      "de": "Greifen Sie in Echtzeit auf Daten für jeden verknüpften Sensor zu und erkunden Sie Verlaufsdiagramme",
     },
     {
       "ident_ios": "",
@@ -4553,7 +4553,7 @@
       "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление",
       "sv": "Ställ in alarm och få notiser om dem",
       "fr": "Définir des alarmes et des notifications comme vous le souhaitez",
-      "de": ""
+      "de": "Legen Sie Benachrichtigungen fest und lassen Sie sich benachrichtigen, wenn Ihre Grenzen erreicht sind",
     },
     {
       "ident_ios": "",
@@ -4564,7 +4564,7 @@
       "ru": "Используйте приложение как гейтвей",
       "sv": "Skicka den information som samlas in av applikationen till en extern server",
       "fr": "Exporter les données mesurées vers un autre support",
-      "de": ""
+      "de": "Lassen Sie die App als Gateway fungieren",
     },
     {
       "ident_ios": "",
@@ -4575,7 +4575,7 @@
       "ru": "Нажмите СКАНИРОВАТЬ, чтобы найти и добавить датчики в Ruuvi Station",
       "sv": "Tryck på SCAN för att se sensorerna i närheten",
       "fr": "Afficher les capteurs à proximité en appuyant sur BALAYAGE",
-      "de": ""
+      "de": "Drücken Sie SCAN, um Sensoren in der Nähe zu finden und zu Ihrer Ruuvi Station hinzuzufügen",
     },
     {
       "ident_ios": "Yes",
@@ -4586,7 +4586,7 @@
       "ru": "Да",
       "sv": "Ja",
       "fr": "Oui",
-      "de": ""
+      "de": "Ja",
     },
     {
       "ident_ios": "",
@@ -4597,7 +4597,7 @@
       "ru": "Ruuvi Station",
       "sv": "Ruuvi Station",
       "fr": "Ruuvi Station",
-      "de": ""
+      "de": "Ruuvi Station",
     },
     {
       "ident_ios": "",
@@ -4608,7 +4608,7 @@
       "ru": ".csv создан, открываем меню отправки файла",
       "sv": ".csv skapad, öppnar dela menyn",
       "fr": "fichier .csv créé, ouverture du menu de partage",
-      "de": ""
+      "de": ".csv erstellt, Freigabemenü öffnen",
     },
     {
       "ident_ios": "",
@@ -4619,7 +4619,7 @@
       "ru": "Не удалось сформировать CSV файл",
       "sv": "Kunde inte skapa CSV filen",
       "fr": "Echec de la création du fichier CSV",
-      "de": ""
+      "de": "CSV-Datei konnte nicht erstellt werden",
     },
     {
       "ident_ios": "",
@@ -4630,7 +4630,7 @@
       "ru": "Датчик %1$s экспорт CSV",
       "sv": "Sensor %1$s csv export",
       "fr": "Capteur %1$s export CSV",
-      "de": ""
+      "de": "Sensor %1$s CSV-Export",
     },
     {
       "ident_ios": "",
@@ -4641,7 +4641,7 @@
       "ru": "Настройки датчика",
       "sv": "Sensorinställningar",
       "fr": "Paramètres",
-      "de": ""
+      "de": "Sensoreinstellungen",
     },
     {
       "ident_ios": "",
@@ -4652,7 +4652,7 @@
       "ru": "Произошла ошибка. Адрес правильный?",
       "sv": "Fel uppstod. Är adressen korrekt?",
       "fr": "Erreur. L'adresse est-elle correcte ?",
-      "de": ""
+      "de": "Nein, es hat nicht funktioniert. Ist die URL korrekt?",
     },
     {
       "ident_ios": "",
@@ -4663,7 +4663,7 @@
       "ru": "Шлюз работает! Код ответа: %1$d",
       "sv": "Proxyn fungerar! HTTP svarskod: %1$d",
       "fr": "Le routeur fonctionne ! Réponse : %1$d",
-      "de": ""
+      "de": "Datenweiterleitung funktioniert! Antwortcode: %1$d",
     },
     {
       "ident_ios": "",
@@ -4674,7 +4674,7 @@
       "ru": "Произошла ошибка. Код ответа: %1$d",
       "sv": "Fel uppstod. HTTP svarskod: %1$d",
       "fr": "Erreur. Réponse : %1$d",
-      "de": ""
+      "de": "Nein, es hat nicht funktioniert. Antwortcode: %1$d",
     },
     {
       "ident_ios": "",
@@ -4685,7 +4685,7 @@
       "ru": "Проверка...",
       "sv": "Testar...",
       "fr": "Test en cours...",
-      "de": ""
+      "de": "Testen...",
     },
     {
       "ident_ios": "",
@@ -4696,7 +4696,7 @@
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning",
       "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension",
-      "de": ""
+      "de": "Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung",
     },
     {
       "ident_ios": "",
@@ -4707,7 +4707,7 @@
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning, Rörelseräknare,Mätningssekvensnummer",
       "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension, Compteur de mouvements, Numéro de séquence",
-      "de": ""
+      "de": "Zeitstempel,Temperatur (%1$s), Feuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung,Bewegungszähler,Messsequenznummer",
     },
     {
       "ident_ios": "",
@@ -4718,7 +4718,7 @@
       "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
       "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka",
       "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission",
-      "de": ""
+      "de": "Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI",
     },
     {
       "ident_ios": "LocalNotificationsManager.Mute.button",
@@ -4729,7 +4729,7 @@
       "ru": "Отключить на час",
       "sv": "Pausa alarmet i en timme",
       "fr": "Désactiver les notifications pendant une heure",
-      "de": ""
+      "de": "Stumm schalten für eine Stunde",
     },
     {
       "ident_ios": "",
@@ -4740,7 +4740,7 @@
       "ru": "%1$,.3f g",
       "sv": "%1$,.3f g",
       "fr": "%1$,.3f g",
-      "de": ""
+      "de": "%1$,.3f g",
     },
     {
       "ident_ios": "",
@@ -4751,7 +4751,7 @@
       "ru": "%1$,.0f дБм",
       "sv": "%1$,.0f dBm",
       "fr": "%1$,.0f dBm",
-      "de": ""
+      "de": "%1$,.0f dBm",
     },
     {
       "ident_ios": "Defaults.AlertsMuteInterval.title",
@@ -4762,7 +4762,7 @@
       "ru": "Интервал Отключения Уведомлений",
       "sv": "Alarmavstängningsintervall",
       "fr": "Espacement entre deux alarmes",
-      "de": ""
+      "de": "Alarmstummschaltintervall",
     },
     {
       "ident_ios": "SignIn.Title.text",
@@ -4773,7 +4773,7 @@
       "ru": "Войти",
       "sv": "Logga in",
       "fr": "Connexion",
-      "de": ""
+      "de": "Einloggen",
     },
     {
       "ident_ios": "Menu.SignOut.text",
@@ -4784,7 +4784,7 @@
       "ru": "Выйти из сети",
       "sv": "Logga ut",
       "fr": "Déconnexion",
-      "de": ""
+      "de": "Sign out",
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -4795,7 +4795,7 @@
       "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
       "sv": "Efter inloggning markeras du automatiskt som ägare till dina närliggande Ruuvi-sensorer. Sensorernas ägare kommer att återställas om appen installerats om igen.\\n\\nMed en Ruuvi Gateway kan du övervaka dina sensorer på distans och dele dem med dina vänner.",
       "fr": "Après la connexion, vous serez automatiquement propriétaire des RuuviTags à proximité. Les capteurs couplés seront réinitialisés si vous réinstallez l'application.\\n\\ Avec un routeur Ruuvi Gateway vous pourrez contrôlez vos capteurs à distance et partager vos données avec vos amis.",
-      "de": ""
+      "de": "Nach der Anmeldung werden Sie automatisch als Besitzer Ihrer Ruuvi-Sensoren in der Nähe markiert. Die Sensoren werden nach einer Neuinstallation der App wiederhergestellt.\\n\\nMit einem Ruuvi Gateway-Router können Sie die Sensoren aus der Ferne überwachen und mit Ihren Freunden teilen.",
     },
     {
       "ident_ios": "",
@@ -4806,7 +4806,7 @@
       "ru": "",
       "sv": "Fördelarna med Ruuvi cloud",
       "fr": "",
-      "de": ""
+      "de": "Vorteile des Ruuvi Cloud-Dienstes",
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -4817,7 +4817,7 @@
       "ru": "Email",
       "sv": "E-post",
       "fr": "Email",
-      "de": ""
+      "de": "Email",
     },
     {
       "ident_ios": "",
@@ -4828,7 +4828,7 @@
       "ru": "Войти",
       "sv": "Logga in",
       "fr": "Connexion",
-      "de": ""
+      "de": "Anmeldung",
     },
     {
       "ident_ios": "SignIn.RequestCode",
@@ -4839,7 +4839,7 @@
       "ru": "Запросить код",
       "sv": "Begär en inloggningskod",
       "fr": "Obtenir un code",
-      "de": ""
+      "de": "Fordern Sie einen Code an",
     },
     {
       "ident_ios": "SignIn.SubmitCode",
@@ -4850,7 +4850,7 @@
       "ru": "Отправить",
       "sv": "Skicka",
       "fr": "Envoyer",
-      "de": ""
+      "de": "Abschicken",
     },
     {
       "ident_ios": "",
@@ -4861,7 +4861,7 @@
       "ru": "Ввести код вручную",
       "sv": "Ange kod manuellt",
       "fr": "Entrer le code",
-      "de": ""
+      "de": "Code manuell eingeben",
     },
     {
       "ident_ios": "SignIn.EmailSent",
@@ -4872,7 +4872,7 @@
       "ru": "Email отправлен",
       "sv": "E-post skickat",
       "fr": "Email envoyé",
-      "de": ""
+      "de": "E-Mail gesendet",
     },
     {
       "ident_ios": "SignIn.CheckMailbox",
@@ -4883,7 +4883,7 @@
       "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
       "sv": "Kontrollera din e-post efter en aktiveringskod.",
       "fr": "Le code d'activation vous a été envoyé par mail.",
-      "de": ""
+      "de": "Überprüfen Sie Ihre E-Mail auf einen Aktivierungscode.",
     },
     {
       "ident_ios": "SignIn.CodeHint",
@@ -4894,7 +4894,7 @@
       "ru": "Код для входа",
       "sv": "Kod",
       "fr": "Code",
-      "de": ""
+      "de": "Code",
     },
     {
       "ident_ios": "TagsManagerPresenter.SignOutConfirmAlert.Message",
@@ -4905,7 +4905,7 @@
       "ru": "",
       "sv": "Sensorer som du har verifierat äganderätten till på inställningssidan tas automatiskt bort från appen när du loggar ut. Sensordata hämtas från molnet igen om du loggar in med samma e-postadress.\\n\\nÄr du säker på att du vill logga ut? ",
       "fr": "",
-      "de": ""
+      "de": "Wenn Sie sich abmelden, werden Sensoren, deren Eigentum Sie mit den Sensoreinstellungen bestätigt haben, automatisch aus der App entfernt. Wenn Sie sich erneut mit derselben E-Mail-Adresse anmelden, werden die Sensoren aus der Cloud zurückgegeben.\\n\\nMöchten Sie sich abmelden?",
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Claim",
@@ -4916,7 +4916,7 @@
       "ru": "",
       "sv": "Bekräfta ägandet",
       "fr": "",
-      "de": ""
+      "de": "Inhaberschaft beanspruchen",
     },
     {
       "ident_ios": "TagSettings.ClaimTagButton.Unclaim",
@@ -4927,7 +4927,7 @@
       "ru": "",
       "sv": "Hävda ägande",
       "fr": "",
-      "de": ""
+      "de": "Eigentumsanspruch aufheben",
     },
     {
       "ident_ios": "TagSettings.ShareButton",
@@ -4938,7 +4938,7 @@
       "ru": "Поделиться",
       "sv": "Dela",
       "fr": "Partager",
-      "de": ""
+      "de": "Teilen",
     },
     {
       "ident_ios": "Syncing...",
@@ -4949,7 +4949,7 @@
       "ru": "Синхронизация...",
       "sv": "Synkroniserar...",
       "fr": "Synchronisation...",
-      "de": ""
+      "de": "Synchronisierung...",
     },
     {
       "ident_ios": "Synchronized",
@@ -4960,7 +4960,7 @@
       "ru": "Синхронизировано",
       "sv": "Synkronisering klar",
       "fr": "Synchronisé",
-      "de": ""
+      "de": "Synchronisiert",
     },
     {
       "ident_ios": "TagChartsPresenter.NumberOfPointsSynchronizedOverNetwork",
@@ -4971,7 +4971,7 @@
       "ru": "Синхронизировано: {%@^%1$s}",
       "sv": "Synkroniserat: {%@^%1$s}",
       "fr": "Synchronisé : {%@^%1$s}",
-      "de": ""
+      "de": "Synchronisiert: {%@^%1$s}",
     },
     {
       "ident_ios": "",
@@ -4982,7 +4982,7 @@
       "ru": "никогда",
       "sv": "aldrig",
       "fr": "jamais",
-      "de": ""
+      "de": "Nie",
     },
     {
       "ident_ios": "MenuTableViewController.None",
@@ -4993,7 +4993,7 @@
       "ru": "нет",
       "sv": "ingen",
       "fr": "non connecté",
-      "de": ""
+      "de": "keiner",
     },
     {
       "ident_ios": "MenuTableViewController.User",
@@ -5004,7 +5004,7 @@
       "ru": "Пользователь: {%@^%1$s}",
       "sv": "Användare: {%@^%1$s}",
       "fr": "Utilisateur : {%@^%1$s}",
-      "de": ""
+      "de": "Benutzer: {%@^%1$s}",
     },
     {
       "ident_ios": "",
@@ -5015,7 +5015,7 @@
       "ru": "Синхронизировано успешно!",
       "sv": "Synkroniseringen lyckades!",
       "fr": "Synchronisation réussie!",
-      "de": ""
+      "de": "Erfolgreich synchronisiert!",
     },
     {
       "ident_ios": "",
@@ -5026,7 +5026,7 @@
       "ru": "Ошибка синхронизации: %1$s",
       "sv": "Synkroniseringen misslyckades: %1$s",
       "fr": "Echec de la synchronisation : %1$s",
-      "de": ""
+      "de": "Synchronisierung fehlgeschlagen: %1$s",
     },
     {
       "ident_ios": "",
@@ -5037,7 +5037,7 @@
       "ru": "Ошибка синхронизации: необходимо залогиниться вначале",
       "sv": "Synkroniseringen misslyckades: du måste vara inloggad",
       "fr": "Echec de la synchronisation : veuillez vous connecter",
-      "de": ""
+      "de": "Synchronisierung fehlgeschlagen: Sie müssen sich zuerst anmelden",
     },
     {
       "ident_ios": "ShareViewController.Title",
@@ -5048,7 +5048,7 @@
       "ru": "Поделиться датчиком Ruuvi",
       "sv": "Dela sensor",
       "fr": "Partager le capteur",
-      "de": ""
+      "de": "Sensor teilen",
     },
     {
       "ident_ios": "ShareViewController.Description",
@@ -5059,7 +5059,7 @@
       "ru": "",
       "sv": "Du kan dela sensorn med vänner och familj om den är inom räckhåll för en Ruuvi Gateway.\\n\\nMottagaren meddelas via e-post. Om mottagaren inte har ett Ruuvi-konto skapas ett gratis Ruuvi-konto automatiskt vid första inloggningen.\\n\\nObservera att sensorns anpassade namn och bakgrundsbild delas. Namnet och bildsynkroniseringen sker endast vid en gång, efteråt kan det anpassas av mottagaren. Kalibreringsvärden (om sådana finns) synkroniseras automatiskt och mottagaren ser alltid de korrigerade värdena.",
       "fr": "",
-      "de": ""
+      "de": "Sie können den Sensor mit Freunden und Familie teilen, wenn er sich in Reichweite eines Ruuvi Gateways befindet.\\n\\nDer Empfänger wird per E-Mail benachrichtigt. Wenn der Empfänger kein Ruuvi-Konto hat, wird beim ersten Anmelden automatisch ein kostenloses Ruuvi-Konto erstellt.\\n\\nBeachten Sie, dass der benutzerdefinierte Name und das Hintergrundbild des Sensors geteilt werden. Der Name und das Bild werden nur einmal synchronisiert und können danach vom Empfänger privat angepasst werden. Vom Besitzer eingestellte Offset-Werte (sofern vorhanden) werden automatisch synchronisiert und der Empfänger sieht immer die endgültigen korrigierten Werte.",
     },
     {
       "ident_ios": "ShareViewController.addFriend.Title",
@@ -5070,7 +5070,7 @@
       "ru": "Добавить друга",
       "sv": "Lägg till vän",
       "fr": "Ajouter un ami",
-      "de": ""
+      "de": "Freund hinzufügen",
     },
     {
       "ident_ios": "ShareViewController.emailTextField.placeholder",
@@ -5081,7 +5081,7 @@
       "ru": "Введите email",
       "sv": "Ange e-postadress",
       "fr": "Adresse mail",
-      "de": ""
+      "de": "E-Mail eingeben",
     },
     {
       "ident_ios": "ShareViewController.sharedEmails.Title",
@@ -5092,7 +5092,7 @@
       "ru": "Предоставлен доступ {%d^%1$,d}/{%d^%2$,d}",
       "sv": "Sensorn är redan delad {%d^%1$,d}/{%d^%2$,d}",
       "fr": "Le capteur est déjà partagé {%d^%1$,d}/{%d^%2$,d}",
-      "de": ""
+      "de": "Bereits geteilt {%d^%1$,d}/{%d^%2$,d}",
     },
     {
       "ident_ios": "Share.Send.button",
@@ -5103,7 +5103,7 @@
       "ru": "Отправить",
       "sv": "Skicka",
       "fr": "Envoyer",
-      "de": ""
+      "de": "Senden",
     },
     {
       "ident_ios": "",
@@ -5114,7 +5114,7 @@
       "ru": "Поделились",
       "sv": "Sensorn är redan delad",
       "fr": "Le capteur est déjà partagé",
-      "de": ""
+      "de": "Bereits geteilt",
     },
     {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
@@ -5125,7 +5125,7 @@
       "ru": "Хотите перестать делиться показаниями датчика с {%@^%1$s}?",
       "sv": "Vill du sluta dela sensorn med {%@^%1$s}?",
       "fr": "Voulez-vous arrêter le partage du capteur avec {%@^%1$s} ?",
-      "de": ""
+      "de": "Möchten Sie die Freigabe des Sensors für {%@^%1$s} aufheben?",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
@@ -5136,7 +5136,7 @@
       "ru": "Данные сети",
       "sv": "NÄTVERKSINFO",
       "fr": "RÉSEAU",
-      "de": ""
+      "de": "NETZWERK INFORMATION",
     },
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
@@ -5147,7 +5147,7 @@
       "ru": "Владелец",
       "sv": "Ägare",
       "fr": "Propriétaire",
-      "de": ""
+      "de": "Eigentümer",
     },
     {
       "ident_ios": "Menu.RuuviNetworkStatus.text",
@@ -5158,7 +5158,7 @@
       "ru": "Статус сети Ruuvi",
       "sv": "Ruuvi cloud status",
       "fr": "",
-      "de": ""
+      "de": "Ruuvi-Cloud-Status",
     },
     {
       "ident_ios": "SignIn.TitleLabel.text",
@@ -5169,7 +5169,7 @@
       "ru": "Войти в\\nRuuvi\\nStation",
       "sv": "Logga in till\\nRuuvi\\nStation",
       "fr": "Connexion \\nRuuvi\\nStation",
-      "de": ""
+      "de": "Login to\\nRuuvi\\nStation",
     },
     {
       "ident_ios": "SignIn.SubtitleLabel.text",
@@ -5180,7 +5180,7 @@
       "ru": "Чтобы воспользоваться всеми функциями, создайте аккаунт или войдите в существующий. Пожалуйста, введите ваш email.",
       "sv": "Dra full nytta av Ruuvi Station! Logga in eller skapa ett nytt Ruuvi-konto genom att ange din e-postadress.",
       "fr": "Profitez de tous les avantages du Ruuvi Station! Connectez-vous ou créez votre compte en entrant votre adresse mail.",
-      "de": ""
+      "de": "Um alle Funktionen nutzen zu können, erstellen Sie ein kostenloses Konto oder melden Sie sich bei Ihrem bestehenden Ruuvi-Konto an, indem Sie Ihre E-Mail-Adresse eingeben.",
     },
     {
       "ident_ios": "",
@@ -5191,7 +5191,7 @@
       "ru": "ПРОПУСТИТЬ",
       "sv": "SKIPPA",
       "fr": "PASSER",
-      "de": ""
+      "de": "ÜBERSPRINGEN",
     },
     {
       "ident_ios": "",
@@ -5202,7 +5202,7 @@
       "ru": "бета",
       "sv": "beta",
       "fr": "beta",
-      "de": ""
+      "de": "beta",
     },
     {
       "ident_ios": "SignIn.VerificationCodePlaceholder",
@@ -5213,7 +5213,7 @@
       "ru": "код подтверждения в формате: CJSM",
       "sv": "verifieringskod i format CJSM",
       "fr": "verification du code au format CJSM",
-      "de": ""
+      "de": "Verifizierungscode im Format: CJSM",
     },
     {
       "ident_ios": "UserApiError.ER_FORBIDDEN",
@@ -5224,7 +5224,7 @@
       "ru": "Запрещено",
       "sv": "Förbjuden",
       "fr": "Interdit",
-      "de": ""
+      "de": "Verboten",
     },
     {
       "ident_ios": "UserApiError.ER_UNAUTHORIZED",
@@ -5235,7 +5235,7 @@
       "ru": "Требуется авторизация",
       "sv": "Obehörig",
       "fr": "Non permis",
-      "de": ""
+      "de": "Nicht autorisiert",
     },
     {
       "ident_ios": "UserApiError.ER_INTERNAL",
@@ -5246,7 +5246,7 @@
       "ru": "Внутренняя ошибка",
       "sv": "Internt fel",
       "fr": "Erreur interne",
-      "de": ""
+      "de": "Interner Fehler",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_FORMAT",
@@ -5257,7 +5257,7 @@
       "ru": "Неправильный формат запроса",
       "sv": "Ogiltigt förfrågningsformat",
       "fr": "Format incorrect",
-      "de": ""
+      "de": "Ungültiges Anfrageformat",
     },
     {
       "ident_ios": "UserApiError.ER_USER_NOT_FOUND",
@@ -5268,7 +5268,7 @@
       "ru": "Пользователь не найден",
       "sv": "Användaren hittades inte",
       "fr": "Utilisateur introuvable",
-      "de": ""
+      "de": "Benutzer wurde nicht gefunden",
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_NOT_FOUND",
@@ -5279,7 +5279,7 @@
       "ru": "Сенсор не найден",
       "sv": "Sensorn hittades inte",
       "fr": "Capteur introuvable",
-      "de": ""
+      "de": "Sensor nicht gefunden",
     },
     {
       "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
@@ -5290,7 +5290,7 @@
       "ru": "Токен истек",
       "sv": "Nyckeln har upphört att gälla",
       "fr": "Le code est perimé",
-      "de": ""
+      "de": "Token ist abgelaufen",
     },
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
@@ -5301,7 +5301,7 @@
       "ru": "Подписка не найдена",
       "sv": "Prenumerationen hittades inte",
       "fr": "L'abonnement est introuvable",
-      "de": ""
+      "de": "Abonnement wurde nicht gefunden",
     },
     {
       "ident_ios": "UserApiError.ER_SHARE_COUNT_REACHED",
@@ -5312,7 +5312,7 @@
       "ru": "Достигнут лимит количества общих сенсоров",
       "sv": "Maximal delning har överskridits",
       "fr": "Le nombre de partages maximum est atteint",
-      "de": ""
+      "de": "Das Teilen Limit ist erreicht",
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
@@ -5323,7 +5323,7 @@
       "ru": "Превышено количество общих сенсоров",
       "sv": "Du kan inte dela sensorn med flera användare",
       "fr": "Vous ne pouvez pas partager le capteur à d'avantage d'utilisateurs",
-      "de": ""
+      "de": "Sensor Teilen Limit ist erreicht",
     },
     {
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
@@ -5334,7 +5334,7 @@
       "ru": "Чтобы поделиться датчиком необходимо наличие Ruuvi Gateway поблизости",
       "sv": "För att dela sensorn måste du ha en Ruuvi Gateway router i närheten av sensorn",
       "fr": "",
-      "de": ""
+      "de": "Um den Sensor zu teilen, benötigen Sie einen Ruuvi Gateway-Router in der Nähe des Sensors",
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_SHARED",
@@ -5345,7 +5345,7 @@
       "ru": "Вы уже делились этим сенсором",
       "sv": "Sensorn är redan delad",
       "fr": "Ce capteur est déjà partagé",
-      "de": ""
+      "de": "Dieser Sensor wurde bereits geteilt",
     },
     {
       "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
@@ -5356,7 +5356,7 @@
       "ru": "Не удалось отправить e-mail",
       "sv": "Kunde inte skicka e-post",
       "fr": "Impossible d'envoyer l'email",
-      "de": ""
+      "de": "Die Email kann nicht gesendet werden",
     },
     {
       "ident_ios": "UserApiError.ER_MISSING_ARGUMENT",
@@ -5367,7 +5367,7 @@
       "ru": "Пропущен аргумент запроса",
       "sv": "Argument saknas",
       "fr": "Argument manquant",
-      "de": ""
+      "de": "Fehlendes Argument",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_DENSITY_MODE",
@@ -5378,7 +5378,7 @@
       "ru": "Недопустимый режим плотности",
       "sv": "Ogiltig densitet",
       "fr": "Mode de densité invalide",
-      "de": ""
+      "de": "Ungültiger Dichtemodus",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_SORT_MODE",
@@ -5389,7 +5389,7 @@
       "ru": "Выбран недопустимый метод сортировки",
       "sv": "Ogiltig sortering",
       "fr": "Mode de tri invalide",
-      "de": ""
+      "de": "Ungültiger Sortiermodus",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_TIME_RANGE",
@@ -5400,7 +5400,7 @@
       "ru": "Выбран недопустимый промежуток времени",
       "sv": "Ogiltigt intervall",
       "fr": "Intervalle invalide",
-      "de": ""
+      "de": "Ungültiger Zeitraum",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_EMAIL_ADDRESS",
@@ -5411,7 +5411,7 @@
       "ru": "Недопустимый e-mail",
       "sv": "Ogiltig e-postaddress",
       "fr": "Adresse email invalide",
-      "de": ""
+      "de": "Ungültige E-Mail-Adresse",
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_MAC_ADDRESS",
@@ -5422,7 +5422,7 @@
       "ru": "Недопустимый MAC-адрес",
       "sv": "Ogiltig MAC-address",
       "fr": "Adresse MAC invalide",
-      "de": ""
+      "de": "Ungültige MAC-Adresse",
     },
     {
       "ident_ios": "UserApiError.ER_SUB_DATA_STORAGE_ERROR",
@@ -5433,7 +5433,7 @@
       "ru": "Ошибка сохранения данных",
       "sv": "Datalagringsfel",
       "fr": "Erreur d'enregistrement",
-      "de": ""
+      "de": "Datenspeicherfehler",
     },
     {
       "ident_ios": "UserApiError.ER_SUB_NO_USER",
@@ -5444,7 +5444,7 @@
       "ru": "Нет пользователя",
       "sv": "Ingen användare",
       "fr": "Pas d'utilisateur",
-      "de": ""
+      "de": "Kein Benutzer",
     },
     {
       "ident_ios": "",
@@ -5455,7 +5455,7 @@
       "ru": "Экспериментальные функции",
       "sv": "Experimentella funktioner",
       "fr": "Options avancées",
-      "de": ""
+      "de": "Experimentelle Funktionen",
     },
     {
       "ident_ios": "OffsetCorrection.CalibrationDescription.text",
@@ -5466,7 +5466,7 @@
       "ru": "Обычно нет необходимости калибровать датчики.\\n\\nОднако, если вы продивнутый пользователь и хотите вручную откалибровать настроенные на заводе сенсоры, это возможно.\\n\\nПодсказки и информация доступны на сайте ruuvi.com/support",
       "sv": "Vid normal användning är det inte nödvändigt att kalibrera sensorerna.\\n\\nOm du är en avancerad användare och vill kalibrera manuellt är det möjligt att göra det.\\n\\nKalibreringstips finns på ruuvi.com/support",
       "fr": "En utilisation normale, il n'est pas nécessaire de calibrer le capteur.\\n\\nSi vous souhaitez tout de même calibrer calibrer le capteur \\n\\n les instructions sont trouvables ici ruuvi.com/support",
-      "de": ""
+      "de": "Bei normalem Gebrauch ist es nicht erforderlich, den Offset anzupassen.\\n\\nWenn Sie ein fortgeschrittener Benutzer sind und die werkseitig kalibrierten Sensoren manuell konfigurieren möchten, ist dies möglich.\\n\\nTipps zur Kalibrierung sind auf ruuvi.com/support verfügbar",
     },
     {
       "ident_ios": "",
@@ -5477,7 +5477,7 @@
       "ru": "ruuvi.com/support",
       "sv": "ruuvi.com/support",
       "fr": "ruuvi.com/support",
-      "de": ""
+      "de": "ruuvi.com/support",
     },
     {
       "ident_ios": "",
@@ -5488,7 +5488,7 @@
       "ru": "http://ruuvi.com/support",
       "sv": "http://ruuvi.com/support",
       "fr": "http://ruuvi.com/support",
-      "de": ""
+      "de": "http://ruuvi.com/support",
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.ClearConfirm",
@@ -5499,7 +5499,7 @@
       "ru": "Сбросить настройки калибровки?",
       "sv": "Renas kalibereringsinställningar?",
       "fr": "Supprimer la calibration",
-      "de": ""
+      "de": "Kalibrierungseinstellungen löschen?",
     },
     {
       "ident_ios": "",
@@ -5510,7 +5510,7 @@
       "ru": "(Калибровка {%@^%1$s})",
       "sv": "(Offset {%@^%1$s})",
       "fr": "(Correction {%@^%1$s})",
-      "de": ""
+      "de": "(Offset {%@^%1$s})",
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.Title",
@@ -5521,7 +5521,7 @@
       "ru": "Настройка калибровок",
       "sv": "Kalibreringsinställningar",
       "fr": "Calibration",
-      "de": ""
+      "de": "Kalibriereinrichtung",
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
@@ -5532,7 +5532,7 @@
       "ru": "Введите ожидаемое значение температуры в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange temperaturen som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": "Entrez la température attendue dans ces conditions ({%@^%1$s}):",
-      "de": ""
+      "de": "Geben Sie den erwarteten Temperaturwert des Sensors unter aktuellen Bedingungen ein ({%@^%1$s}): ",
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
@@ -5543,7 +5543,7 @@
       "ru": "Введите ожидаемое значение давления в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange lufttrycket som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": "Entrez la pression attendue dans ces conditions ({%@^%1$s}):",
-      "de": ""
+      "de": "Geben Sie den erwarteten Druckwert vom Sensor unter aktuellen Bedingungen ein ({%@^%1$s}): ",
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
@@ -5554,7 +5554,7 @@
       "ru": "Введите ожидаемое значение влажности в текущих условиях ({%@^%1$s}): ",
       "sv": "Ange fuktigheten som förväntas av sensorn just nu ({%@^%1$s}): ",
       "fr": "Entrez l'humidité attendue dans ces conditions ({%@^%1$s}):",
-      "de": ""
+      "de": "Geben Sie den erwarteten Feuchtigkeitswert des Sensors unter den aktuellen Bedingungen ein ({%@^%1$s}): ",
     },
     {
       "ident_ios": "OffsetCorrection.OriginalValue.title",
@@ -5565,7 +5565,7 @@
       "ru": "Измеренное значение",
       "sv": "Ursprungligt värde",
       "fr": "Valeur originale",
-      "de": ""
+      "de": "Ursprünglicher Messwert",
     },
     {
       "ident_ios": "OffsetCorrection.CorrectedValue.title",
@@ -5576,7 +5576,7 @@
       "ru": "Откалиброванное значение",
       "sv": "Korrigerat värde",
       "fr": "Valeur corrigée",
-      "de": ""
+      "de": "Korrigierter Wert",
     },
     {
       "ident_ios": "OffsetCorrection.Temperature.Title",
@@ -5587,7 +5587,7 @@
       "ru": "Калибровка по температуре",
       "sv": "Temperatur offset",
       "fr": "Correction de température",
-      "de": ""
+      "de": "Temperatur-Offset",
     },
     {
       "ident_ios": "OffsetCorrection.Humidity.Title",
@@ -5598,7 +5598,7 @@
       "ru": "Калибровка по влажности",
       "sv": "Fuktighet offset",
       "fr": "Correction d'humidité",
-      "de": ""
+      "de": "Feuchtigkeits-Offset",
     },
     {
       "ident_ios": "OffsetCorrection.Pressure.Title",
@@ -5609,7 +5609,7 @@
       "ru": "Калибровка по давлению",
       "sv": "Lufttryck offset",
       "fr": "Correction de pression",
-      "de": ""
+      "de": "Druckoffset",
     },
     {
       "ident_ios": "OffsetCorrection.Calibrate.button",
@@ -5620,7 +5620,7 @@
       "ru": "Калибровка",
       "sv": "Kalibrering",
       "fr": "Correction",
-      "de": ""
+      "de": "Offset-Korrektur",
     },
     {
       "ident_ios": "",
@@ -5631,7 +5631,7 @@
       "ru": "Обмениваюсь",
       "sv": "Synkroniserar",
       "fr": "Synchronisation",
-      "de": ""
+      "de": "Synchronisieren",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.OffsetCorrection.Title",
@@ -5642,7 +5642,7 @@
       "ru": "КАЛИБРОВКИ",
       "sv": "KALIBRERING",
       "fr": "CORRECTION",
-      "de": ""
+      "de": "OFFSET-KORREKTUR",
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Temperature",
@@ -5653,7 +5653,7 @@
       "ru": "Температура",
       "sv": "Temperatur",
       "fr": "Température",
-      "de": ""
+      "de": "Temperatur",
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Humidity",
@@ -5664,7 +5664,7 @@
       "ru": "Влажность",
       "sv": "Fuktighet",
       "fr": "Humidité",
-      "de": ""
+      "de": "Feuchtigkeit",
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Pressure",
@@ -5675,7 +5675,7 @@
       "ru": "Давление",
       "sv": "Lufttryck",
       "fr": "Pression",
-      "de": ""
+      "de": "Druck",
     },
     {
       "ident_ios": "Advanced.Charts.title",
@@ -5686,7 +5686,7 @@
       "ru": "Графики",
       "sv": "Histogram",
       "fr": "Histogramme",
-      "de": ""
+      "de": "Diagramme",
     },
     {
       "ident_ios": "Advanced.Network.title",
@@ -5697,7 +5697,7 @@
       "ru": "Облако",
       "sv": "Nätverk",
       "fr": "Réseau",
-      "de": ""
+      "de": "Netzwerk",
     },
     {
       "ident_ios": "Advanced.NetworkInterval.title",
@@ -5707,8 +5707,8 @@
       "fi": "Tiedonhakuväli",
       "ru": "Интервал Синхронизации",
       "sv": "Datahämtningsintervall",
-      "fr": "Intervalle de mise à jour",
-      "de": ""
+      "fr": "Intervalle de mise à jour,",
+      "de": "Pull intervall",
     },
     {
       "ident_ios": "PhotoPicker.Sheet.files",
@@ -5719,7 +5719,7 @@
       "ru": "Выбрать из файлов",
       "sv": "Välj från filer",
       "fr": "Choisir parmis les fichiers",
-      "de": ""
+      "de": "Aus Dateien auswählen",
     },
     {
       "ident_ios": "SignIn.EnterVerificationCode",
@@ -5730,7 +5730,7 @@
       "ru": "Пожалуйста, введите код подтверждения",
       "sv": "Ange verifieringskod",
       "fr": "Entrez le code de vérification",
-      "de": ""
+      "de": "Bitte Bestätigungscode eingeben",
     },
     {
       "ident_ios": "UnexpectedError.failedToFindOrGenerateBackgroundImage",
@@ -5741,7 +5741,7 @@
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
       "fr": "Echec de la mise à jour du fond d'écran",
-      "de": ""
+      "de": "Hintergrundbild konnte nicht gefunden oder generiert werden",
     },
     {
       "ident_ios": "UnexpectedError.bothLuidAndMacAreNil",
@@ -5752,7 +5752,7 @@
       "ru": "Локальный индентификатор и MAC-адрес не определены",
       "sv": "Både lokal och MAC-ID saknas",
       "fr": "Les identifiants MAC et local sont introuvables",
-      "de": ""
+      "de": "Sowohl lokale als auch MAC-Identifikatoren sind null",
     },
     {
       "ident_ios": "RuuviCloudApiError.emptyResponse",
@@ -5763,7 +5763,7 @@
       "ru": "Пустой ответ",
       "sv": "Tomt svar",
       "fr": "Réponse nulle",
-      "de": ""
+      "de": "Leere Antwort",
     },
     {
       "ident_ios": "RuuviCloudApiError.failedToGetDataFromResponse",
@@ -5774,7 +5774,7 @@
       "ru": "Не удалось получить данные из ответа",
       "sv": "Svaret innehåller ingen information",
       "fr": "La réponse ne contient pas de données",
-      "de": ""
+      "de": "Fehler beim Abrufen der Daten aus der Antwort",
     },
     {
       "ident_ios": "RuuviCloudApiError.unexpectedHTTPStatusCode",
@@ -5785,7 +5785,7 @@
       "ru": "Неожиданный код статуса HTTP",
       "sv": "Oväntad HTTP-statuskod",
       "fr": "Code HTTP innatendu",
-      "de": ""
+      "de": "Unerwarteter HTTP-Statuscode",
     },
     {
       "ident_ios": "RuuviCloudError.NotAuthorized",
@@ -5796,7 +5796,7 @@
       "ru": "Не авторизован",
       "sv": "Inte behörig",
       "fr": "Non authorisé",
-      "de": ""
+      "de": "Nicht autorisiert",
     },
     {
       "ident_ios": "RuuviLocalError.failedToGetJpegRepresentation",
@@ -5807,7 +5807,7 @@
       "ru": "Не удалось получить данные в формате JPG",
       "sv": "Det gick inte att få JPG-representation",
       "fr": "Echec de la représentation JPG",
-      "de": ""
+      "de": "Fehler beim Abrufen der JPG-Darstellung",
     },
     {
       "ident_ios": "RuuviLocalError.failedToGetDocumentsDirectory",
@@ -5818,7 +5818,7 @@
       "ru": "Не удалось получить директорию для фоновых изображений",
       "sv": "Det gick inte att hämta bakgrundskatalog",
       "fr": "Répertoire d'arrière-plan introuvable",
-      "de": ""
+      "de": "Fehler beim Abrufen des Hintergrundverzeichnisses",
     },
     {
       "ident_ios": "RuuviPersistenceError.failedToFindRuuviTag",
@@ -5829,7 +5829,7 @@
       "ru": "Не удалось найти сенсор",
       "sv": "Hittade inte sensorn",
       "fr": "Echec de jumelage",
-      "de": ""
+      "de": "Sensor konnte nicht gefunden werden",
     },
     {
       "ident_ios": "RuuviServiceError.pictureUrlIsNil",
@@ -5840,7 +5840,7 @@
       "ru": "Пустой URL картинки",
       "sv": "Bild URL saknas",
       "fr": "URL de la photo manquant",
-      "de": ""
+      "de": "Bild-URL ist null",
     },
     {
       "ident_ios": "RuuviServiceError.macIdIsNil",
@@ -5851,7 +5851,7 @@
       "ru": "Пустой MAC-адрес",
       "sv": "MAC-id saknas",
       "fr": "adresse MAC manquante",
-      "de": ""
+      "de": "MAC-Kennung ist null",
     },
     {
       "ident_ios": "",
@@ -5862,7 +5862,7 @@
       "ru": "{%@^%1$s} назад",
       "sv": "{%@^%1$s} sedan",
       "fr": "il y'a {%@^%1$s}",
-      "de": ""
+      "de": "vor {%@^%1$s}",
     },
     {
       "ident_ios": "",
@@ -5873,7 +5873,7 @@
       "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway. Если у вас нет Gateway, вы можете приобрести его на ruuvi.com/gateway",
       "sv": "Endast sensorer inom räckhåll av din Ruuvi Gateway kan delas. Mer information finns på ruuvi.com/gateway",
       "fr": "Vous pouvez partager seulement des capteurs à proximité du Ruuvi Gateway. Plus d'infos sur ruuvi.com/gateway",
-      "de": ""
+      "de": "Nur Sensoren in Reichweite Ihres Ruuvi Gateways können geteilt werden. Wenn Sie noch keinen haben, holen Sie ihn sich auf ruuvi.com/gateway",
     },
     {
       "ident_ios": "RuuviServiceError.bothLuidAndMacAreNil",
@@ -5884,7 +5884,7 @@
       "ru": "Локальный идентификатор и MAC-адрес пустые",
       "sv": "Både lokal och MAC-ID saknas",
       "fr": "Identifiants MAC et local manquant",
-      "de": ""
+      "de": "Sowohl lokale als auch MAC-Identifikatoren sind null",
     },
     {
       "ident_ios": "RuuviServiceError.failedToParseNetworkResponse",
@@ -5895,7 +5895,7 @@
       "ru": "Не удалось распарсить ответ",
       "sv": "Det gick inte att tolka svaret.",
       "fr": "Echec de l'enregistrement de la réponse",
-      "de": ""
+      "de": "Fehler beim Parsen der Antwort.",
     },
     {
       "ident_ios": "RuuviServiceError.failedToFindOrGenerateBackgroundImage",
@@ -5906,7 +5906,7 @@
       "ru": "Не удалось найти или сгенерировать фоновое изображение",
       "sv": "Det gick inte att hitta eller skapa bakgrundsbild",
       "fr": "Fond d'écran introuvable",
-      "de": ""
+      "de": "Hintergrundbild konnte nicht gefunden oder generiert werden",
     },
     {
       "ident_ios": "RuuviServiceError.failedToGetJpegRepresentation",
@@ -5917,7 +5917,7 @@
       "ru": "Не удалось получить данные в формате JPG",
       "sv": "Det gick inte att få JPG-representation",
       "fr": "Echec de la représentation JPG",
-      "de": ""
+      "de": "Fehler beim Abrufen der JPG-Darstellung",
     },
     {
       "ident_ios": "UpdateFirmware.Title.text",
@@ -5928,7 +5928,7 @@
       "ru": "Обновить Прошивку",
       "sv": "Uppdatera programvara",
       "fr": "Mettre à jour le programme",
-      "de": ""
+      "de": "Firmware aktualisieren",
     },
     {
       "ident_ios": "UpdateFirmware.Download.header",
@@ -5939,7 +5939,7 @@
       "ru": "СКАЧАТЬ ПОСЛЕДНЮЮ ПРОШИВКУ",
       "sv": "LADDA NER NYASTE PROGRAMVARA",
       "fr": "TÉLÉCHARGER LA DÉRNIÈRE VERSION",
-      "de": ""
+      "de": "AKTUELLE FIRMWARE HERUNTERLADEN",
     },
     {
       "ident_ios": "UpdateFirmware.Download.content",
@@ -5950,7 +5950,7 @@
       "ru": "Чтобы начать процесс обновления, скачайте последнюю прошивку для целевого устройства. Последняя версия прошивки доступна на сайте ruuvi.com/software-update",
       "sv": "Ladda ner det senaste tillgängliga programvarupaketet innan du startar uppgraderingen. Den senaste versionen kan laddas ner från ruuvi.com/software-update",
       "fr": "Pour commencer la mise à jour, télécharger la dérnière version sur l'appareil que vous utiliserez pour mettre à jour le capteur. Fichier disponible sur ruuvi.com/software-update",
-      "de": ""
+      "de": "Um mit dem Update-Vorgang zu beginnen, laden Sie zuerst das neueste Softwarepaket auf das Gerät herunter, das Sie für die Aktualisierung verwenden möchten. Die neueste Version ist auf ruuvi.com/software-update verfügbar",
     },
     {
       "ident_ios": "UpdateFirmware.SetDfu.header",
@@ -5961,7 +5961,7 @@
       "ru": "ПЕРЕВЕДИТЕ RUUVI TAG В DFU-РЕЖИМ",
       "sv": "STÄLL IN RUUVI TAG I DFU-LÄGE",
       "fr": "METTRE LE CAPTEUR EN MODE DFU",
-      "de": ""
+      "de": "RUUVI-TAG AUF DFU-MODUS EINSTELLEN",
     },
     {
       "ident_ios": "UpdateFirmware.SetDfu.content",
@@ -5972,7 +5972,7 @@
       "ru": "Осторожно откройте RuuviTag пальцами или отверткой.\\n\\nВведите RuuviTag в режим обновления прошивки, зажав кнопку B и нажав на кнопку перезагрузки R. Красная лампочка загорится и будет продолжать гореть. Если на вашем устройстве только одна кнопка, зажмите ее на 10 секунд.",
       "sv": "Öppna sensorn genom att dra upp den med fingrarna eller försiktigt med en platt skruvmejsel.\\n\\nStäll RuuviTag i uppdateringsläge genom att hålla ned knappen B och trycka på återställningsknappen R. Den röda indikatorlampan tänds och fortsätter att lysa. Om din enhet bara har en knapp, håll den intryckt i 10 sekunder för att komma in i uppdateringsläge.",
       "fr": "Ouvrez le boitier du capteur, aidez-vous d'un tournevis plat si besoin.\\n\\nAppuyez sur le bouton B pendant quelques secondespuis sur le bouton R en gradant le bouton B enfoncé. La LED rouge doit s'allumer lorsqu'il est en mode bootloader. S'il n'y a qu'un bouton appuyez dessus pendant 10 secondes.",
-      "de": ""
+      "de": "Öffnen Sie das Gehäuse des RuuviTag, indem Sie es mit den Fingern oder vorsichtig mit einem Flachkopfschraubendreher aufziehen.\\n\\nSetzen Sie den RuuviTag in den Bootloader-Modus, indem Sie die Taste B gedrückt halten und die Reset-Taste R drücken. Die rote LED-Anzeige leuchtet und bleibt An. Wenn Ihr Gerät nur über 1 Taste verfügt, halten Sie diese 10 Sekunden lang gedrückt, um den Bootloader aufzurufen.",
     },
     {
       "ident_ios": "UpdateFirmware.NextButton.title",
@@ -5983,7 +5983,7 @@
       "ru": "ДАЛЕЕ",
       "sv": "NÄSTA",
       "fr": "SUIVANT",
-      "de": ""
+      "de": "NÄCHSTE",
     },
     {
       "ident_ios": "DfuDevicesScanner.Title.text",
@@ -5994,7 +5994,7 @@
       "ru": "Устройства",
       "sv": "Enheter",
       "fr": "Appareils",
-      "de": ""
+      "de": "Geräte",
     },
     {
       "ident_ios": "DfuDevicesScanner.Description.text",
@@ -6005,7 +6005,7 @@
       "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
       "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
       "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\"",
-      "de": ""
+      "de": "Suchen und wählen Sie den Sensor \\\"RuuviBoot\\\"",
     },
     {
       "ident_ios": "DfuDevicesScanner.NoDevice.text",
@@ -6016,7 +6016,7 @@
       "ru": "(Bluetooth устройства не найдены)",
       "sv": "(Inga sensorer inom Bluetooths räckvidd)",
       "fr": "(Pas de capteurs à portée du Bluetooth)",
-      "de": ""
+      "de": "(Keine Sensoren in Bluetooth-Reichweite)",
     },
     {
       "ident_ios": "DfuDevicesScanner.BluetoothDisabled.text",
@@ -6027,7 +6027,7 @@
       "ru": "(Bluetooth отключен)",
       "sv": "(Bluetooth är avaktiverat)",
       "fr": "(Bluetooth désactivé)",
-      "de": ""
+      "de": "(Bluetooth ist deaktiviert)",
     },
     {
       "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.title",
@@ -6038,7 +6038,7 @@
       "ru": "Bluetooth выключен",
       "sv": "Bluetooth är inte aktiverat",
       "fr": "Bluetooth désactivé",
-      "de": ""
+      "de": "Bluetooth ist nicht aktiviert",
     },
     {
       "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.message",
@@ -6049,7 +6049,7 @@
       "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre appareil.",
-      "de": ""
+      "de": "Die Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehen Sie zu Einstellungen und schalten Sie Bluetooth ein.",
     },
     {
       "ident_ios": "DfuFlash.Title.text",
@@ -6060,7 +6060,7 @@
       "ru": "DFU",
       "sv": "DFU-uppdatering",
       "fr": "Mise à jour DFU",
-      "de": ""
+      "de": "DFU Flash",
     },
     {
       "ident_ios": "DfuFlash.Progress.text",
@@ -6071,7 +6071,7 @@
       "ru": "Прогресс",
       "sv": "Framsteg",
       "fr": "Avancement",
-      "de": ""
+      "de": "Fortschritt",
     },
     {
       "ident_ios": "DfuFlash.Step.text",
@@ -6082,7 +6082,7 @@
       "ru": "Шаг",
       "sv": "Steg",
       "fr": "Étape",
-      "de": ""
+      "de": "Schritt",
     },
     {
       "ident_ios": "DfuFlash.Steps.PackageSelection.text",
@@ -6093,7 +6093,7 @@
       "ru": "Выбор Прошивки",
       "sv": "Välj uppdateringspaket",
       "fr": "Choisir le fichier de mise à jour",
-      "de": ""
+      "de": "Paketauswahl",
     },
     {
       "ident_ios": "DfuFlash.Steps.ReadyForUpload.text",
@@ -6104,7 +6104,7 @@
       "ru": "Готово к Загрузке",
       "sv": "Redo för uppladdning",
       "fr": "Prêt pour la mise à jour",
-      "de": ""
+      "de": "Bereit zum Hochladen",
     },
     {
       "ident_ios": "DfuFlash.Steps.Uploading.text",
@@ -6115,7 +6115,7 @@
       "ru": "Загружаю",
       "sv": "Uppladdning",
       "fr": "Chargement",
-      "de": ""
+      "de": "Hochladen",
     },
     {
       "ident_ios": "DfuFlash.Steps.Completed.text",
@@ -6126,7 +6126,7 @@
       "ru": "Успешно",
       "sv": "Klar",
       "fr": "Prêt",
-      "de": ""
+      "de": "Fertig",
     },
     {
       "ident_ios": "DfuFlash.OpenDocumentPicker.title",
@@ -6137,7 +6137,7 @@
       "ru": "ОТКРЫТЬ ФАЙЛ",
       "sv": "ÖPPET DOKUMENTVÄLJARE",
       "fr": "OUVRIR LE GESTIONNAIRE DE FICHIERS",
-      "de": ""
+      "de": "DOKUMENTENAUSWAHL ÖFFNEN",
     },
     {
       "ident_ios": "DfuFlash.FirmwareSelectionGuide.text",
@@ -6148,7 +6148,7 @@
       "ru": "Выберите ранее загруженный ZIP файл",
       "sv": "Hitta ZIP-filen som du laddade ner",
       "fr": "Chercher le fichier ZIP",
-      "de": ""
+      "de": "Suchen Sie die zuvor heruntergeladene ZIP-Datei auf Ihrem Handy",
     },
     {
       "ident_ios": "DfuFlash.Firmware.FileName.text",
@@ -6159,7 +6159,7 @@
       "ru": "Имя Файла",
       "sv": "Filnamn",
       "fr": "Nom du fichier",
-      "de": ""
+      "de": "Dateiname",
     },
     {
       "ident_ios": "DfuFlash.Firmware.Parts.text",
@@ -6170,7 +6170,7 @@
       "ru": "Части",
       "sv": "Delar",
       "fr": "Parties",
-      "de": ""
+      "de": "Teile",
     },
     {
       "ident_ios": "DfuFlash.Firmware.Size.text",
@@ -6181,7 +6181,7 @@
       "ru": "Размер",
       "sv": "Storlek",
       "fr": "Taille",
-      "de": ""
+      "de": "Größe",
     },
     {
       "ident_ios": "DfuFlash.Firmware.SoftDeviceSize.text",
@@ -6192,7 +6192,7 @@
       "ru": "Soft Device Размер",
       "sv": "Soft Device storlek",
       "fr": "Soft Device taille",
-      "de": ""
+      "de": "Größe des Soft-Geräts",
     },
     {
       "ident_ios": "DfuFlash.Firmware.BootloaderSize.text",
@@ -6203,7 +6203,7 @@
       "ru": "Размер Загрузчика",
       "sv": "Bootloader storlek",
       "fr": "Taille du bootloader",
-      "de": ""
+      "de": "Bootloader-Größe",
     },
     {
       "ident_ios": "DfuFlash.Cancel.text",
@@ -6214,7 +6214,7 @@
       "ru": "ОТМЕНА",
       "sv": "AVBRYT",
       "fr": "ANNULER",
-      "de": ""
+      "de": "ABBRECHEN",
     },
     {
       "ident_ios": "DfuFlash.Start.text",
@@ -6225,7 +6225,7 @@
       "ru": "Начать",
       "sv": "Börja",
       "fr": "Commencer",
-      "de": ""
+      "de": "Start",
     },
     {
       "ident_ios": "DfuFlash.Finish.text",
@@ -6236,7 +6236,7 @@
       "ru": "УСПЕХ",
       "sv": "KLAR",
       "fr": "PRÊT",
-      "de": ""
+      "de": "BEENDEN",
     },
     {
       "ident_ios": "DfuFlash.FinishGuide.text",
@@ -6247,7 +6247,7 @@
       "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш RuuviTag готов к использованию!",
       "sv": "Uppdateringsprocessen har slutförts.\n\n\n\nRuuviTag-sensorn är redo att användas!",
       "fr": "Mise à jour réussie.\n\n\n\nRuuviTag est prêt à être utilisé !",
-      "de": ""
+      "de": "Der Firmware-Update-Prozess wurde erfolgreich abgeschlossen.\n\n\n\nIhr RuuviTag-Sensor ist einsatzbereit!",
     },
     {
       "ident_ios": "DfuFlash.CancelAlert.text",
@@ -6258,7 +6258,7 @@
       "ru": "Вы уверены что хотите прервать процесс обновления прошивки?",
       "sv": "Är du säker på att du vill avbryta uppdateringsprocessen?",
       "fr": "Voulez-vous annuler la mise à jour ?",
-      "de": ""
+      "de": "Möchten Sie den Firmware-Aktualisierungsvorgang wirklich abbrechen?",
     },
     {
       "ident_ios": "RuuviDfuError.invalidFirmwareFile",
@@ -6269,7 +6269,7 @@
       "ru": "Некорректный файл прошивки",
       "sv": "Ogiltig programvaruuppdateringsfil",
       "fr": "Fichier de mise à jour invalide",
-      "de": ""
+      "de": "Ungültige Firmware-Datei",
     },
     {
       "ident_ios": "DFUUIView.navigationTitle",
@@ -6280,7 +6280,7 @@
       "ru": "Обновление Прошивки",
       "sv": "Firmware Uppdatering",
       "fr": "Mise à jour du firmware",
-      "de": ""
+      "de": "Firmware Update",
     },
     {
       "ident_ios": "DFUUIView.latestTitle",
@@ -6291,7 +6291,7 @@
       "ru": "Доступная версия прошивки Ruuvi:",
       "sv": "Senast tillgängliga Ruuvi firmwareversion:",
       "fr": "Dernière version du Ruuvi Firmware :",
-      "de": ""
+      "de": "Neueste verfügbare Ruuvi Firmware-Version:",
     },
     {
       "ident_ios": "DFUUIView.currentTitle",
@@ -6301,8 +6301,8 @@
       "fi": "Nykyinen versio:",
       "ru": "Текущая версия:",
       "sv": "Nuvarande version:",
-      "fr": "Version actuelle :",
-      "de": ""
+      "fr": "Version actuelle :",,
+      "de": "Aktuelle Version:"
     },
     {
       "ident_ios": "DFUUIView.notReportingDescription",
@@ -6313,7 +6313,7 @@
       "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
       "sv": "Din sensor rapporterar inte sin nuvarande firmwareversion. Det betyder att den förmodligen har en gammal firmwareversion och uppdatering rekommenderas",
       "fr": "Impossible d'obtenir la version actuelle de l'appareil. La version est probablement trop ancienne et il est recommandé d'effectuer une mise à jour",
-      "de": ""
+      "de": "Ihr Sensor meldet seine aktuelle Firmware-Version nicht. Dies bedeutet, dass wahrscheinlich eine alte Firmware-Version ausgeführt wird und eine Aktualisierung empfohlen wird",
     },
     {
       "ident_ios": "DFUUIView.alreadyOnLatest",
@@ -6324,7 +6324,7 @@
       "ru": "Последняя версия прошивки уже установлена, обновление не требуется",
       "sv": "Du har redan den senaste firmwareversionen, ingen uppdatering behövs",
       "fr": "L'appareil est à déjà à jour",
-      "de": ""
+      "de": "Sie verwenden die neueste Firmware-Version, keine Aktualisierung erforderlich",
     },
     {
       "ident_ios": "DFUUIView.startUpdateProcess",
@@ -6335,7 +6335,7 @@
       "ru": "Начать процесс обновления",
       "sv": "Starta uppdateringsprocessen",
       "fr": "Début de la mise à jour",
-      "de": ""
+      "de": "Update-Prozess starten",
     },
     {
       "ident_ios": "DFUUIView.downloadingTitle",
@@ -6346,7 +6346,7 @@
       "ru": "Идет скачивание обновления прошивки...",
       "sv": "Hämtar senaste firmware..",
       "fr": "Téléchargement de la dernière version pour la mise à jour...",
-      "de": ""
+      "de": "Laden Sie die neueste zu aktualisierende Firmware herunter...",
     },
     {
       "ident_ios": "DFUUIView.prepareTitle",
@@ -6357,7 +6357,7 @@
       "ru": "Подготовьте ваш сенсор",
       "sv": "Förbered din sensor",
       "fr": "Configuration de l'appareil pour la mise à jour",
-      "de": ""
+      "de": "Bereiten Sie Ihren Sensor vor",
     },
     {
       "ident_ios": "DFUUIView.openCoverTitle",
@@ -6368,7 +6368,7 @@
       "ru": "1. Откройте крышку вашего сенсора Ruuvi",
       "sv": "1. Öppna locket på din Ruuvi sensor",
       "fr": "1. Ouvrir le boitier du capteur Ruuvi",
-      "de": ""
+      "de": "1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors",
     },
     {
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
@@ -6379,7 +6379,7 @@
       "ru": "2. Переведите сенсор в режим обновления",
       "sv": "2. Lägg sensorn i uppdateringsläge",
       "fr": "2. Configuration de l'appareil pour la mise à jour",
-      "de": ""
+      "de": "2. Stellen Sie den Sensor in den Aktualisierungsmodus",
     },
     {
       "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
@@ -6390,7 +6390,7 @@
       "ru": "Если вы видите две кнопки на сенсоре, зажмите кнопку B и после коротко нажмите кнопку R",
       "sv": "Om din sensor har två knappar, tryck på R-knappen medan du håller ned B-knappen",
       "fr": "Sur un appareil à deux boutons, enfoncez le bouton B, tout en le gardant enfoncé, appuyez sur le bouton R",
-      "de": ""
+      "de": "Wenn Ihr Sensor über zwei Tasten verfügt, drücken Sie die R-Taste und gleichzeitig die B-Taste",
     },
     {
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
@@ -6401,7 +6401,7 @@
       "ru": "Если вы видите только одну кнопку на сенсоре, зажмите кнопку на десять секунд",
       "sv": "Om din sensor har en knapp, håll knappen intryckt i tio sekunder",
       "fr": "Si l'appareil n'a qu'un seul bouton, maintenez le enfoncé pendant 10 secondes",
-      "de": ""
+      "de": "Wenn Ihr Sensor über eine Taste verfügt, halten Sie die Taste zehn Sekunden lang gedrückt",
     },
     {
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
@@ -6412,7 +6412,7 @@
       "ru": "3. Если все получилось, вы увидите непрерывный красный цвет индикатора",
       "sv": "3. När sensor är i uppdateringsläge så lyser den röda lysdioden lyser",
       "fr": "3. Une led rouge s'allume lorsque l'appareil est configuré",
-      "de": ""
+      "de": "3. Nach erfolgreichem Abschluss sehen Sie ein kontinuierliches rotes Licht",
     },
     {
       "ident_ios": "DFUUIView.updatingTitle",
@@ -6423,7 +6423,7 @@
       "ru": "Обновляю...",
       "sv": "Uppdaterar...",
       "fr": "Mise à jour...",
-      "de": ""
+      "de": "Aktualisierung...",
     },
     {
       "ident_ios": "DFUUIView.searchingTitle",
@@ -6434,7 +6434,7 @@
       "ru": "Ищу сенсор",
       "sv": "Söker efter sensor",
       "fr": "Recherche de capteur",
-      "de": ""
+      "de": "Auf der Suche nach einem Sensor",
     },
     {
       "ident_ios": "DFUUIView.startTitle",
@@ -6445,7 +6445,7 @@
       "ru": "Начать обновление",
       "sv": "Starta uppdateringen",
       "fr": "Commencer la mise à jour",
-      "de": ""
+      "de": "Starten Sie das Update",
     },
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
@@ -6456,7 +6456,7 @@
       "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
       "sv": "Stäng inte appen eller stäng av sensorn under uppdateringen.",
       "fr": "Ne pas fermer l'application ou enlever la pile du capteur pendant la mise à jour",
-      "de": ""
+      "de": "Schließen Sie die App nicht und schalten Sie den Sensor während des Updates nicht aus.",
     },
     {
       "ident_ios": "DFUUIView.successfulTitle",
@@ -6467,7 +6467,7 @@
       "ru": "Обновление успешно завершено",
       "sv": "Uppdateringen lyckades",
       "fr": "Mise à jour réussie",
-      "de": ""
+      "de": "Aktualisierung erfolgreich",
     },
     {
       "ident_ios": "RuuviDfuError.failedToConstructUUID",
@@ -6478,7 +6478,7 @@
       "ru": "Не удалось создать UUID",
       "sv": "Det gick inte att skapa UUID",
       "fr": "Echec de la création de l'UUID",
-      "de": ""
+      "de": "Fehler beim Erstellen der UUID",
     },
     {
       "ident_ios": "SignIn.EmailMismatch.Alert.message",
@@ -6489,7 +6489,7 @@
       "ru": "Вы запросили код для %@, но использовали код для %@. Пожалуйста, убадитесь в том, что вы используете код из %@",
       "sv": "Oj, du har begärt koden för %@, men använde koden för %@. Kontrollera att du använder koden för %@",
       "fr": "Oups, vous avez demandé le code de connexion pour l'utilisateur %@ alors qu'il est destiné à l'utilisateur %@. Veuillez vérifier que vous utilisez bien le code pour %@",
-      "de": ""
+      "de": "Hoppla, Sie haben den Code für %@ angefordert, aber den Code für %@ verwendet. Bitte überprüfen Sie, ob Sie den Code für %@ verwenden.",
     },
     {
       "ident_ios": "SignIn.EmailMissing.Alert.message",
@@ -6500,7 +6500,7 @@
       "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова",
       "sv": "Oj, e-postadressen du har använt för att få koden sparades inte. Försök att logga in igen ",
       "fr": "Oups, l'adresse mail utilisée n'a pu être enregistrée. Veuillez réessayer.",
-      "de": ""
+      "de": "Hoppla, die E-Mail, mit der Sie den Code erhalten haben, wurde nicht gespeichert. Bitte versuchen Sie erneut, sich anzumelden",
     },
     {
       "ident_ios": "",
@@ -6511,7 +6511,7 @@
       "ru": "",
       "sv": "Sensorer",
       "fr": "",
-      "de": ""
+      "de": "Sensoren",
     },
     {
       "ident_ios": "",
@@ -6522,7 +6522,7 @@
       "ru": "",
       "sv": "Alarm",
       "fr": "",
-      "de": ""
+      "de": "Benachrichtigungen",
     },
     {
       "ident_ios": "",
@@ -6533,7 +6533,7 @@
       "ru": "",
       "sv": "Sensor info",
       "fr": "",
-      "de": ""
+      "de": "Sensor info",
     },
     {
       "ident_ios": "TagSettings.RemoveThisSensor.title",
@@ -6544,7 +6544,7 @@
       "ru": "",
       "sv": "Ta bort sensorn",
       "fr": "",
-      "de": ""
+      "de": "Entfernen Sie diesen Sensor",
     },
     {
       "ident_ios": "",
@@ -6555,7 +6555,7 @@
       "ru": "",
       "sv": "Ange din epost-adress. Du kommer att få en bekräftelsekod i din epost.",
       "fr": "",
-      "de": ""
+      "de": "Geben Sie unten Ihre E-Mail ein. Sie erhalten einen Bestätigungscode in Ihrem Posteingang",
     },
     {
       "ident_ios": "",
@@ -6566,7 +6566,7 @@
       "ru": "",
       "sv": "Gånger",
       "fr": "",
-      "de": ""
+      "de": "Zeiten",
     },
     {
       "ident_ios": "",
@@ -6577,7 +6577,7 @@
       "ru": "",
       "sv": "Sensorer",
       "fr": "",
-      "de": ""
+      "de": "Sensoren",
     },
     {
       "ident_ios": "",
@@ -6588,7 +6588,7 @@
       "ru": "Войти в Ruuvi Station",
       "sv": "Logga in till Ruuvi Station",
       "fr": "Connexion Ruuvi Station",
-      "de": ""
+      "de": "Login zur Ruuvi Station",
     },
     {
       "ident_ios": "",
@@ -6599,7 +6599,7 @@
       "ru": "",
       "sv": "Uppdatera",
       "fr": "",
-      "de": ""
+      "de": "Update",
     },
     {
       "ident_ios": "",
@@ -6610,7 +6610,7 @@
       "ru": "",
       "sv": "Senaste",
       "fr": "",
-      "de": ""
+      "de": "Zuletzt",
     },
     {
       "ident_ios": "",
@@ -6621,7 +6621,7 @@
       "ru": "",
       "sv": "Tid",
       "fr": "",
-      "de": ""
+      "de": "Zeit",
     },
     {
       "ident_ios": "Share.Success.message",
@@ -6632,7 +6632,7 @@
       "ru": "Успешно поделились данными датчика",
       "sv": "Delningen lyckades",
       "fr": "",
-      "de": ""
+      "de": "Sensor erfolgreich geteilt",
     },
     {
       "ident_ios": "TagSettings.SectionHeader.General.title",
@@ -6643,7 +6643,7 @@
       "ru": "Основное",
       "sv": "Allmänt",
       "fr": "",
-      "de": ""
+      "de": "Allgemein",
     },
     {
       "ident_ios": "",
@@ -6654,7 +6654,7 @@
       "ru": "Удалить этот датчик",
       "sv": "Ta bort sensorn",
       "fr": "",
-      "de": ""
+      "de": "Entfernen Sie diesen Sensor",
     },
     {
       "ident_ios": "TagSettings.Shared.title",
@@ -6665,7 +6665,7 @@
       "ru": "",
       "sv": "Delad",
       "fr": "",
-      "de": ""
+      "de": "Geteilt",
     },
     {
       "ident_ios": "TagSettings.NotShared.title",
@@ -6676,7 +6676,7 @@
       "ru": "",
       "sv": "Inte delad",
       "fr": "",
-      "de": ""
+      "de": "Nicht geteilt",
     },
     {
       "ident_ios": "Owner.title",
@@ -6687,7 +6687,7 @@
       "ru": "",
       "sv": "Bekräfta ägandet",
       "fr": "",
-      "de": ""
+      "de": "Sensor beanspruchen",
     },
     {
       "ident_ios": "Owner.ClaimOwnership.button",
@@ -6698,7 +6698,7 @@
       "ru": "",
       "sv": "Bekräfta Ägandet",
       "fr": "",
-      "de": ""
+      "de": "Inhaberschaft beanspruchen",
     },
     {
       "ident_ios": "Owner.Claim.description",
@@ -6709,7 +6709,7 @@
       "ru": "",
       "sv": "Äger du den här sensorn? Bekräfta ägandet och så läggs sensorn till på ditt Ruuvi-konto. Varje Ruuvi-sensor kan bara ha en ägare.\\n\\nFördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
       "fr": "",
-      "de": ""
+      "de": "Besitzen Sie diesen Sensor? Wenn ja, beanspruchen Sie bitte den Besitz des Sensors und er wird Ihrem Ruuvi-Konto hinzugefügt. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.\\n\\nVorteile:\\n\\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\\n\\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\\n\\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\\n\\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)",
     },
     {
       "ident_ios": "",
@@ -6720,7 +6720,7 @@
       "ru": "",
       "sv": "Sensorägande bekräftat",
       "fr": "",
-      "de": ""
+      "de": "Besitz des Sensors erfolgreich beansprucht",
     },
     {
       "ident_ios": "TagSettings.confirmTagUnclaimAndRemoveDialog.message",
@@ -6731,7 +6731,7 @@
       "ru": "",
       "sv": "Om du tar bort sensorn upphör ägarskapet. Vem som helst kan göra anspråk på ägandet av sensorn efter borttagning. Varje Ruuvi-sensor kan bara ha en ägare.",
       "fr": "",
-      "de": ""
+      "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus widerrufen. Nach dem Entfernen kann eine andere Person das Eigentum an dem Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.",
     },
     {
       "ident_ios": "",
@@ -6742,7 +6742,7 @@
       "ru": "",
       "sv": "Om du tar bort sensorn så meddelas ägaren till sensorn och du kan inte komma åt den längre.",
       "fr": "",
-      "de": ""
+      "de": "Wenn Sie den Sensor entfernen, wird der Besitzer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen.",
     },
     {
       "ident_ios": "TagSettings.General.Owner.none",
@@ -6753,7 +6753,7 @@
       "ru": "Нет",
       "sv": "Ingen",
       "fr": "",
-      "de": ""
+      "de": "Keiner",
     },
     {
       "ident_ios": "TagSettings.Share.title",
@@ -6764,7 +6764,7 @@
       "ru": "Поделиться",
       "sv": "Dela",
       "fr": "Partager",
-      "de": ""
+      "de": "Teilen",
     },
     {
       "ident_ios": "Menu.LoggedIn.title",
@@ -6775,7 +6775,7 @@
       "ru": "Пользователь:",
       "sv": "Inloggad:",
       "fr": "",
-      "de": ""
+      "de": "Eingeloggt:",
     },
     {
       "ident_ios": "",
@@ -6786,7 +6786,7 @@
       "ru": "",
       "sv": "Dag",
       "fr": "",
-      "de": ""
+      "de": "Tag",
     },
     {
       "ident_ios": "",
@@ -6797,7 +6797,7 @@
       "ru": "",
       "sv": "Vecka",
       "fr": "",
-      "de": ""
+      "de": "Woche",
     },
     {
       "ident_ios": "",
@@ -6808,7 +6808,7 @@
       "ru": "",
       "sv": "Veckor",
       "fr": "",
-      "de": ""
+      "de": "Wochen",
     },
     {
       "ident_ios": "",
@@ -6819,7 +6819,7 @@
       "ru": "",
       "sv": "Månad",
       "fr": "",
-      "de": ""
+      "de": "Monat",
     },
     {
       "ident_ios": "",
@@ -6830,7 +6830,7 @@
       "ru": "",
       "sv": "Månader",
       "fr": "",
-      "de": ""
+      "de": "Monate",
     },
     {
       "ident_ios": "",
@@ -6841,7 +6841,7 @@
       "ru": "",
       "sv": "Timme",
       "fr": "",
-      "de": ""
+      "de": "Stunde",
     },
     {
       "ident_ios": "",
@@ -6852,7 +6852,7 @@
       "ru": "",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
       "fr": "",
-      "de": ""
+      "de": "Keine Daten. Der Sensor muss sich in Reichweite eines Gateways befinden.",
     },
     {
       "ident_ios": "",
@@ -6863,7 +6863,7 @@
       "ru": "",
       "sv": "Ingen data för detta tidsintervall",
       "fr": "",
-      "de": ""
+      "de": "Keine Daten für diesen Zeitraum",
     },
     {
       "ident_ios": "",
@@ -6874,7 +6874,7 @@
       "ru": "Датчики будут отсортированы в алфавитном порядке.",
       "sv": "",
       "fr": "",
-      "de": ""
+      "de": "Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt.",
     }
   ]
 }
