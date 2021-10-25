@@ -651,7 +651,7 @@
     },
     {
       "ident_ios": "ErrorPresenterAlert.Error",
-      "ident_android": "",
+      "ident_android": "error",
       "ident_webui": "",
       "en": "Error",
       "fi": "Virhe",
@@ -4147,7 +4147,7 @@
       "ru": "документацию",
       "sv": "läs dokumentationen",
       "fr": "page de support",
-      "de": "Überprüfen Sie die Dokumentation"
+      "de": "Dokumentation"
     },
     {
       "ident_ios": "",
@@ -4784,7 +4784,7 @@
       "ru": "Выйти из сети",
       "sv": "Logga ut",
       "fr": "Déconnexion",
-      "de": "Sign out"
+      "de": "Ausloggen"
     },
     {
       "ident_ios": "SignIn.SignInBenefits",
@@ -6317,7 +6317,7 @@
     },
     {
       "ident_ios": "DFUUIView.alreadyOnLatest",
-      "ident_android": "",
+      "ident_android": "already_latest_version",
       "ident_webui": "",
       "en": "You are running the latest firmware version, no need to update",
       "fi": "Laitteessa on jo viimeisin saatavilla oleva laiteohjelmisto",
@@ -6328,7 +6328,7 @@
     },
     {
       "ident_ios": "DFUUIView.startUpdateProcess",
-      "ident_android": "",
+      "ident_android": "start_update_process",
       "ident_webui": "",
       "en": "Start update process",
       "fi": "Siirry päivittämään",
@@ -6339,7 +6339,7 @@
     },
     {
       "ident_ios": "DFUUIView.downloadingTitle",
-      "ident_android": "",
+      "ident_android": "downloading_latest_firmware",
       "ident_webui": "",
       "en": "Downloading the latest firmware to be updated...",
       "fi": "Ladataan viimeisin laiteohjelmisto päivitystä varten...",
@@ -6350,7 +6350,7 @@
     },
     {
       "ident_ios": "DFUUIView.prepareTitle",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor",
       "ident_webui": "",
       "en": "Prepare your sensor",
       "fi": "Laitteen asettaminen päivitystilaan",
@@ -6361,7 +6361,7 @@
     },
     {
       "ident_ios": "DFUUIView.openCoverTitle",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor_instructions_1",
       "ident_webui": "",
       "en": "1. Open the cover of your Ruuvi sensor",
       "fi": "1. Avaa Ruuvi-laitteen suojakotelo",
@@ -6372,7 +6372,7 @@
     },
     {
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor_instructions_2",
       "ident_webui": "",
       "en": "2. Set the sensor to updating mode",
       "fi": "2. Aseta anturi päivitystilaan",
@@ -6383,7 +6383,7 @@
     },
     {
       "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor_instructions_3",
       "ident_webui": "",
       "en": "If your sensor has two buttons, press the R button while also pressing the B button",
       "fi": "Aseta kaksipainikkeinen anturi päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R",
@@ -6394,7 +6394,7 @@
     },
     {
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor_instructions_4",
       "ident_webui": "",
       "en": "If your sensor has one button, keep the button pressed for ten seconds",
       "fi": "Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike",
@@ -6405,7 +6405,7 @@
     },
     {
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
-      "ident_android": "",
+      "ident_android": "prepare_your_sensor_instructions_5",
       "ident_webui": "",
       "en": "3. When successfully completed you will see a continuous red light",
       "fi": "3. Laite on päivitystilassa punaisen LED-valon ollessa aktivoituna",
@@ -6416,7 +6416,7 @@
     },
     {
       "ident_ios": "DFUUIView.updatingTitle",
-      "ident_android": "",
+      "ident_android": "updating",
       "ident_webui": "",
       "en": "Updating...",
       "fi": "Päivitetään...",
@@ -6427,7 +6427,7 @@
     },
     {
       "ident_ios": "DFUUIView.searchingTitle",
-      "ident_android": "",
+      "ident_android": "searching_for_sensor",
       "ident_webui": "",
       "en": "Searching for a sensor",
       "fi": "Laitetta etsitään",
@@ -6438,7 +6438,7 @@
     },
     {
       "ident_ios": "DFUUIView.startTitle",
-      "ident_android": "",
+      "ident_android": "start_the_update",
       "ident_webui": "",
       "en": "Start the update",
       "fi": "Aloita päivitys",
@@ -6449,7 +6449,7 @@
     },
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
-      "ident_android": "",
+      "ident_android": "dfu_update_do_not_close_app",
       "ident_webui": "",
       "en": "Do not close app or power off the sensor during the update.",
       "fi": "Älä sulje sovellusta tai poista paristoa laitteesta päivityksen aikana.",
@@ -6460,7 +6460,7 @@
     },
     {
       "ident_ios": "DFUUIView.successfulTitle",
-      "ident_android": "",
+      "ident_android": "update_successful",
       "ident_webui": "",
       "en": "Update successful",
       "fi": "Päivitys onnistui",
@@ -6875,6 +6875,39 @@
       "sv": "",
       "fr": "",
       "de": "Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "error_dfu_disconnected",
+      "ident_webui": "",
+      "en": "Device disconnected",
+      "fi": "Yhteys päivitettävään laitteeseen menetetty",
+      "ru": "Потеряно соединение с датчиком",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "error_dfu_update",
+      "ident_webui": "",
+      "en": "Firmware update failed",
+      "fi": "Laiteohjelmiston päivitys epäonnistui",
+      "ru": "Сбой обновления прошивки",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "error_dfu_firmware_not_valid",
+      "ident_webui": "",
+      "en": "Firmware is not valid",
+      "fi": "Laiteohjelmisto ei kelpaa",
+      "ru": "Неверный файл обновления",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
