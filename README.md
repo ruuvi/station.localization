@@ -7,13 +7,14 @@ This project was created to get single place for localization strings used in Ru
 - Sweden
 - French
 - Russian
+- German
 
-If you want to add new language and ready to help with translation send email to denis@ruuvi.com. We'll make preparations for new laguage. 
+If you want to add new language and ready to help with translation send email to denis@ruuvi.com. We'll make preparations for new language. 
 
 ## Repository structure
 
 #### File station.localization.json
-Main file of repository containig all localized strings
+Main file of repository containing all localized strings
 
 #### Directory localize.converter.android
 Tool we use to convert from *station.localization.json* to *string.xml* files for Android project
@@ -25,7 +26,7 @@ Tool we use to convert from *station.localization.json* to *string.xml* files fo
 ## Structure of station.localization.json
 File consist of one root `translations` element with many childs. Each child is a translation of one specific string. If string is used in Android application `ident_android` will be filled. Same for iOS and `ident_ios`. These 2 fields are being filled by developers and should not be modified.
 
-You can modify `en` - for English, `fi` - for Finnish, `ru` - for Russian, `sv` - for Sweden and `fr` - for French. 
+You can modify `en` - for English, `fi` - for Finnish, `ru` - for Russian, `sv` - for Sweden, `fr` - for French and `de` - for German. 
 
     {
     	"translations": [
@@ -36,7 +37,8 @@ You can modify `en` - for English, `fi` - for Finnish, `ru` - for Russian, `sv` 
     			"fi": "Asetukset",
     			"ru": "Настройки",
     			"sv": "App Inställningar",
-    			"fr": "Réglages"
+    			"fr": "Réglages",
+                "de": "App Einstellungen"
     		},
     		...
     	]
@@ -52,7 +54,8 @@ Example:
       "fi": "{%@^%1$s} sitten",
       "ru": "{%@^%1$s} назад",
       "sv": "{%@^%1$s} sedan",
-      "fr": "il y'a {%@^%1$s}"
+      "fr": "il y'a {%@^%1$s}",
+      "de": "vor {%@^%1$s}"
     }
 
 ###### Remark for developers about using value template
