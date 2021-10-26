@@ -29,19 +29,19 @@ File consist of one root `translations` element with many childs. Each child is 
 You can modify `en` - for English, `fi` - for Finnish, `ru` - for Russian, `sv` - for Sweden, `fr` - for French and `de` - for German. 
 
     {
-    	"translations": [
-    		{
-    			"ident_ios": "Menu.Label.AppSettings.text",
-    			"ident_android": "menu_app_settings",
-    			"en": "App Settings",
-    			"fi": "Asetukset",
-    			"ru": "Настройки",
-    			"sv": "App Inställningar",
-    			"fr": "Réglages",
+        "translations": [
+            {
+                "ident_ios": "Menu.Label.AppSettings.text",
+                "ident_android": "menu_app_settings",
+                "en": "App Settings",
+                "fi": "Asetukset",
+                "ru": "Настройки",
+                "sv": "App Inställningar",
+                "fr": "Réglages",
                 "de": "App Einstellungen"
-    		},
-    		...
-    	]
+            },
+            ...
+        ]
     }
 
 If original English string contain some strange chars like `{%@^%1$s}` or `%1$s` - don't worry just leave it as is. It's a template where application will insert value during runtime. But you can change the position of this template if grammar rules of your language demand it. 
