@@ -652,7 +652,7 @@
     {
       "ident_ios": "ErrorPresenterAlert.Error",
       "ident_android": "error",
-      "ident_webui": "",
+      "ident_webui": "error",
       "en": "Error",
       "fi": "Virhe",
       "ru": "Ошибка",
@@ -3271,7 +3271,7 @@
     {
       "ident_ios": "HumidityUnit.gm3.title",
       "ident_android": "humidity_absolute_name",
-      "ident_webui": "",
+      "ident_webui": "humidity_absolute_name",
       "en": "Absolute (g/m³)",
       "fi": "Absoluuttinen (g/m³)",
       "ru": "Абсолютная влажность (г/м³)",
@@ -3293,7 +3293,7 @@
     {
       "ident_ios": "",
       "ident_android": "humidity_dew_point_name",
-      "ident_webui": "",
+      "ident_webui": "humidity_dew_point_name",
       "en": "Dew point (°)",
       "fi": "Kastepiste (°)",
       "ru": "Точка росы (°)",
@@ -3326,7 +3326,7 @@
     {
       "ident_ios": "HumidityUnit.Percent.title",
       "ident_android": "humidity_relative_name",
-      "ident_webui": "",
+      "ident_webui": "humidity_relative_name",
       "en": "Relative (%)",
       "fi": "Suhteellinen (%)",
       "ru": "Относительная влажность (%)",
@@ -3612,7 +3612,7 @@
     {
       "ident_ios": "UnitPressure.hectopascal.title",
       "ident_android": "pressure_hpa_name",
-      "ident_webui": "",
+      "ident_webui": "pressure_hpa_name",
       "en": "Hectopascal (hPa)",
       "fi": "Hehtopascal (hPa)",
       "ru": "Гектопаскаль (гПа)",
@@ -3634,7 +3634,7 @@
     {
       "ident_ios": "UnitPressure.inchOfMercury.title",
       "ident_android": "pressure_inhg_name",
-      "ident_webui": "",
+      "ident_webui": "pressure_inhg_name",
       "en": "Inch of mercury (inHg)",
       "fi": "Elohopeatuuma (inHg)",
       "ru": "Дюймов ртутного столба (inHg)",
@@ -3656,7 +3656,7 @@
     {
       "ident_ios": "UnitPressure.millimetreOfMercury.title",
       "ident_android": "pressure_mmhg_name",
-      "ident_webui": "",
+      "ident_webui": "pressure_mmhg_name",
       "en": "Millimetre of mercury (mmHg)",
       "fi": "Elohopeamillimetri (mmHg)",
       "ru": "Миллиметров ртутного столба (мм.рт.ст.)",
@@ -3678,7 +3678,7 @@
     {
       "ident_ios": "",
       "ident_android": "pressure_pa_name",
-      "ident_webui": "",
+      "ident_webui": "pressure_pa_name",
       "en": "Pascal (Pa)",
       "fi": "Pascal (Pa)",
       "ru": "Паскаль (Па)",
@@ -3832,7 +3832,7 @@
     {
       "ident_ios": "Settings.navigationItem.title",
       "ident_android": "settings",
-      "ident_webui": "",
+      "ident_webui": "settings",
       "en": "Settings",
       "fi": "Asetukset",
       "ru": "Настройки",
@@ -4196,7 +4196,7 @@
     {
       "ident_ios": "Settings.Label.HumidityUnit.text",
       "ident_android": "settings_humidity_unit",
-      "ident_webui": "",
+      "ident_webui": "settings_humidity_unit",
       "en": "Humidity Unit",
       "fi": "Kosteusyksikkö",
       "ru": "Ед. изм. Влажности",
@@ -4218,7 +4218,7 @@
     {
       "ident_ios": "Settings.Label.PressureUnit.text",
       "ident_android": "settings_pressure_unit",
-      "ident_webui": "",
+      "ident_webui": "settings_pressure_unit",
       "en": "Pressure Unit",
       "fi": "Paineyksikkö",
       "ru": "Ед. изм. Давления",
@@ -4240,7 +4240,7 @@
     {
       "ident_ios": "Settings.Label.TemperatureUnit.text",
       "ident_android": "settings_temperature_unit",
-      "ident_webui": "",
+      "ident_webui": "settings_temperature_unit",
       "en": "Temperature Unit",
       "fi": "Lämpötilayksikkö",
       "ru": "Ед. изм. Температуры",
@@ -4394,7 +4394,7 @@
     {
       "ident_ios": "TemperatureUnit.Celsius.title",
       "ident_android": "temperature_celsius_name",
-      "ident_webui": "",
+      "ident_webui": "temperature_celsius_name",
       "en": "Celsius (℃)",
       "fi": "Celsius (℃)",
       "ru": "Цельсий (℃)",
@@ -4416,7 +4416,7 @@
     {
       "ident_ios": "TemperatureUnit.Fahrenheit.title",
       "ident_android": "temperature_fahrenheit_name",
-      "ident_webui": "",
+      "ident_webui": "temperature_fahrenheit_name",
       "en": "Fahrenheit (℉)",
       "fi": "Fahrenheit (℉)",
       "ru": "Фаренгейт (℉)",
@@ -4438,6 +4438,7 @@
     {
       "ident_ios": "TemperatureUnit.Kelvin.title",
       "ident_android": "temperature_kelvin_name",
+      "ident_webui": "temperature_kelvin_name",
       "en": "Kelvin (K)",
       "fi": "Kelvin (K)",
       "ru": "Кельвин (K)",
@@ -5471,7 +5472,7 @@
     {
       "ident_ios": "OffsetCorrection.CalibrationDescription.text",
       "ident_android": "calibration_description",
-      "ident_webui": "",
+      "ident_webui": "calibration_description",
       "en": "In normal use, it's not necessary to adjust the offset.\\n\\nIf you're an advanced user and you'd like to manually configure the factory calibrated sensors, it's possible to do so.\\n\\nCalibration tips are available on ruuvi.com/support",
       "fi": "Anturin kalibrointi ei ole tarpeellista normaalissa käytössä.\\n\\nTämä ominaisuus on tarkoitettu edistyneille käyttäjille.\\n\\nKalibroinnin lisäohjeet löytyvät osoitteesta ruuvi.com/fi/tuki",
       "ru": "Обычно нет необходимости калибровать датчики.\\n\\nОднако, если вы продивнутый пользователь и хотите вручную откалибровать настроенные на заводе сенсоры, это возможно.\\n\\nПодсказки и информация доступны на сайте ruuvi.com/support",
@@ -5482,7 +5483,7 @@
     {
       "ident_ios": "",
       "ident_android": "calibration_description_link",
-      "ident_webui": "",
+      "ident_webui": "calibration_description_link",
       "en": "ruuvi.com/support",
       "fi": "ruuvi.com/fi/tuki",
       "ru": "ruuvi.com/support",
@@ -5493,7 +5494,7 @@
     {
       "ident_ios": "",
       "ident_android": "calibration_description_link_url",
-      "ident_webui": "",
+      "ident_webui": "calibration_description_link_url",
       "en": "http://ruuvi.com/support",
       "fi": "http://ruuvi.com/fi/tuki",
       "ru": "http://ruuvi.com/support",
@@ -5504,7 +5505,7 @@
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.ClearConfirm",
       "ident_android": "calibration_clear_confirm",
-      "ident_webui": "",
+      "ident_webui": "calibration_clear_confirm",
       "en": "Clear calibration settings?",
       "fi": "Poista kalibrointiasetuset?",
       "ru": "Сбросить настройки калибровки?",
@@ -5515,7 +5516,7 @@
     {
       "ident_ios": "",
       "ident_android": "calibration_offset",
-      "ident_webui": "",
+      "ident_webui": "calibration_offset",
       "en": "(Offset {%@^%1$s})",
       "fi": "(Poikkeama {%@^%1$s})",
       "ru": "(Калибровка {%@^%1$s})",
@@ -5526,7 +5527,7 @@
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.Title",
       "ident_android": "calibration_setup",
-      "ident_webui": "",
+      "ident_webui": "calibration_setup",
       "en": "Calibration setup",
       "fi": "Kalibrointi",
       "ru": "Настройка калибровок",
@@ -5537,7 +5538,7 @@
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterTemperature",
       "ident_android": "calibration_enter_temperature",
-      "ident_webui": "",
+      "ident_webui": "calibration_enter_temperature",
       "en": "Enter the expected temperature value from sensor under current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu lämpötila tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение температуры в текущих условиях ({%@^%1$s}): ",
@@ -5548,7 +5549,7 @@
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterPressure",
       "ident_android": "calibration_enter_pressure",
-      "ident_webui": "",
+      "ident_webui": "calibration_enter_pressure",
       "en": "Enter the expected pressure value from sensor under current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu paine tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение давления в текущих условиях ({%@^%1$s}): ",
@@ -5559,7 +5560,7 @@
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.EnterHumidity",
       "ident_android": "calibration_enter_humidity",
-      "ident_webui": "",
+      "ident_webui": "calibration_enter_humidity",
       "en": "Enter the expected humidity value from sensor under current conditions ({%@^%1$s}): ",
       "fi": "Syötä anturin oletettu kosteus tämänhetkisissä olosuhteissa ({%@^%1$s}): ",
       "ru": "Введите ожидаемое значение влажности в текущих условиях ({%@^%1$s}): ",
@@ -5570,7 +5571,7 @@
     {
       "ident_ios": "OffsetCorrection.OriginalValue.title",
       "ident_android": "calibration_original_value",
-      "ident_webui": "",
+      "ident_webui": "calibration_original_value",
       "en": "Original measured value",
       "fi": "Alkuperäinen arvo",
       "ru": "Измеренное значение",
@@ -5581,7 +5582,7 @@
     {
       "ident_ios": "OffsetCorrection.CorrectedValue.title",
       "ident_android": "calibration_corrected_value",
-      "ident_webui": "",
+      "ident_webui": "calibration_corrected_value",
       "en": "Corrected value",
       "fi": "Korjattu arvo",
       "ru": "Откалиброванное значение",
@@ -5592,7 +5593,7 @@
     {
       "ident_ios": "OffsetCorrection.Temperature.Title",
       "ident_android": "calibration_temperature_offset",
-      "ident_webui": "",
+      "ident_webui": "temperature_offset",
       "en": "Temperature offset",
       "fi": "Lämpötilapoikkeama",
       "ru": "Калибровка по температуре",
@@ -5603,7 +5604,7 @@
     {
       "ident_ios": "OffsetCorrection.Humidity.Title",
       "ident_android": "calibration_humidity_offset",
-      "ident_webui": "",
+      "ident_webui": "humidity_offset",
       "en": "Humidity offset",
       "fi": "Kosteuspoikkeama",
       "ru": "Калибровка по влажности",
@@ -5614,7 +5615,7 @@
     {
       "ident_ios": "OffsetCorrection.Pressure.Title",
       "ident_android": "calibration_pressure_offset",
-      "ident_webui": "",
+      "ident_webui": "pressure_offset",
       "en": "Pressure offset",
       "fi": "Painepoikkeama",
       "ru": "Калибровка по давлению",
@@ -6939,6 +6940,28 @@
       "fi": "Tuntematon virhe",
       "ru": "Неизвестная ошибка",
       "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "on",
+      "en": "On",
+      "fi": "Päällä",
+      "ru": "",
+      "sv": "På",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "off",
+      "en": "Off",
+      "fi": "Pois",
+      "ru": "",
+      "sv": "Av",
       "fr": "",
       "de": ""
     }
