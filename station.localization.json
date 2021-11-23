@@ -3578,6 +3578,17 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "permission_location_needed_api31",
+      "ident_webui": "",
+      "en": "Please allow to discover nearby devices in Settings to see sensors.",
+      "fi": "Salli lähellä olevien laitteiden näyttäminen asetuksista",
+      "ru": "Разрешите доступ к устройствам поблизости, чтобы увидеть датчики.",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "press_to_add",
       "ident_webui": "",
       "en": "No sensors added,\\npress here to add sensors",
