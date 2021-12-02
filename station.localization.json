@@ -2909,12 +2909,12 @@
       "ident_ios": "",
       "ident_android": "dashboard_description",
       "ident_webui": "",
-      "en": "Use dashboard view to see multiple sensors at a glance. Restart the app after enabling it.",
-      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla. Koontinäyttö otetaan käyttöön sovelluksen uudelleenkäynnistyksen yhteydessä.",
-      "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно. Перезапустите приложение после включения функции",
-      "sv": "Använd översikt vy för att se flera sensorer på samma gång. Starta om appen för att ändringen ska träda i kraft.",
-      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord. Le tableau de bord s'affiche après redémarrage de l'application.",
-      "de": "Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen. Starten Sie die App nach der Aktivierung neu."
+      "en": "Use dashboard view to see multiple sensors at a glance",
+      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla",
+      "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно",
+      "sv": "Använd översikt vy för att se flera sensorer på samma gång",
+      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord",
+      "de": "Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen"
     },
     {
       "ident_ios": "",
