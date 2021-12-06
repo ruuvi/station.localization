@@ -2952,11 +2952,11 @@
     {
       "ident_ios": "TagCharts.Export.title",
       "ident_android": "export",
-      "ident_webui": "",
+      "ident_webui": "export",
       "en": "EXPORT",
       "fi": "VIE",
       "ru": "ЭКСПОРТ",
-      "sv": "EXPORT",
+      "sv": "EXPORTERA",
       "fr": "EXPORTER",
       "de": "EXPORT"
     },
@@ -3583,7 +3583,7 @@
       "en": "Please allow to discover nearby devices in Settings to see sensors.",
       "fi": "Salli lähellä olevien laitteiden näyttäminen asetuksista",
       "ru": "Разрешите доступ к устройствам поблизости, чтобы увидеть датчики.",
-      "sv": "",
+      "sv": "Tillåt att enheter i närheten visas i Inställningar.",
       "fr": "",
       "de": ""
     },
@@ -6884,7 +6884,7 @@
       "en": "Your sensors will be in alphabetical order.",
       "fi": "Anturisi asettuvat automaattisesti aakkosjärjestykseen.",
       "ru": "Датчики будут отсортированы в алфавитном порядке.",
-      "sv": "",
+      "sv": "Dina sensorer kommer att vara i alfabetisk ordning.",
       "fr": "",
       "de": "Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt."
     },
@@ -6895,7 +6895,7 @@
       "en": "Device disconnected",
       "fi": "Yhteys päivitettävään laitteeseen menetetty",
       "ru": "Потеряно соединение с датчиком",
-      "sv": "",
+      "sv": "Kontakten till sensor förlorades",
       "fr": "",
       "de": ""
     },
@@ -6906,7 +6906,7 @@
       "en": "Firmware update failed",
       "fi": "Laiteohjelmiston päivitys epäonnistui",
       "ru": "Сбой обновления прошивки",
-      "sv": "",
+      "sv": "Programvaruuppdateringen misslyckades",
       "fr": "",
       "de": ""
     },
@@ -6917,7 +6917,7 @@
       "en": "Firmware is not valid",
       "fi": "Laiteohjelmisto ei kelpaa",
       "ru": "Неверный файл обновления",
-      "sv": "",
+      "sv": "Ogiltig programmvara",
       "fr": "",
       "de": ""
     },
@@ -6928,7 +6928,7 @@
       "en": "Unable to get latest firmware. Check your Internet connection. ",
       "fi": "Laiteohjelmiston lataaminen epäonnistui. Tarkasta Internet-yhteyden tila.",
       "ru": "Не удалось получить последнюю версию прошивки. Проверьте подключение к интернету.",
-      "sv": "",
+      "sv": "Nedladdning av programvara misslyckades. Kontrollera din internetanslutning.",
       "fr": "",
       "de": ""
     },
@@ -6939,7 +6939,7 @@
       "en": "Unknown error",
       "fi": "Tuntematon virhe",
       "ru": "Неизвестная ошибка",
-      "sv": "",
+      "sv": "Okänt fel",
       "fr": "",
       "de": ""
     },
@@ -6972,7 +6972,7 @@
       "en": "Sensor's battery voltage seems to be low and the firmware update process may fail. We recommend to replace the battery before updating.",
       "fi": "Anturin paristojännite on alhainen ja päivitysprosessi voi epäonnistua. Suosittelemme vaihtamaan pariston ennen ohjelmiston päivittämistä.",
       "ru": "Уровень заряда батареи датчика слишком низкий и обновление прошивки может завершиться неудачей. Мы рекомендуем заменить батарейку перед обновлением.",
-      "sv": "",
+      "sv": "Sensorns batterispänning är låg och uppgraderingsprocessen kan misslyckas. Vi rekommenderar att du byter ut batteriet innan du uppdaterar programvaran.",
       "fr": "",
       "de": ""
     }
