@@ -6964,6 +6964,17 @@
       "sv": "Av",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "dfu_low_battery_warning",
+      "ident_webui": "",
+      "en": "Sensor's battery voltage seems to be low and the firmware update process may fail. We recommend to replace the battery before updating.",
+      "fi": "Anturin paristojännite on alhainen ja päivitysprosessi voi epäonnistua. Suosittelemme vaihtamaan pariston ennen ohjelmiston päivittämistä.",
+      "ru": "Уровень заряда батареи датчика слишком низкий и обновление прошивки может завершиться неудачей. Мы рекомендуем заменить батарейку перед обновлением.",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
