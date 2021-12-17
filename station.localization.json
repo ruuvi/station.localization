@@ -6975,6 +6975,94 @@
       "sv": "Sensorns batterispänning är låg och uppgraderingsprocessen kan misslyckas. Vi rekommenderar att du byter ut batteriet innan du uppdaterar programvaran.",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_humidity_high_threshold",
+      "ident_webui": "",
+      "en": "Air Humidity is above %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_humidity_low_threshold",
+      "ident_webui": "",
+      "en": "Air Humidity is under %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pressure_high_threshold",
+      "ident_webui": "",
+      "en": "Air Pressure is above %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pressure_low_threshold",
+      "ident_webui": "",
+      "en": "Air Pressure is under %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_rssi_high_threshold",
+      "ident_webui": "",
+      "en": "Signal strength is above %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_rssi_low_threshold",
+      "ident_webui": "",
+      "en": "Signal strength is under %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_temperature_high_threshold",
+      "ident_webui": "",
+      "en": "Temperature is above %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_temperature_low_threshold",
+      "ident_webui": "",
+      "en": "Temperature is under %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
