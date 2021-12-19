@@ -6858,6 +6858,28 @@
     {
       "ident_ios": "",
       "ident_android": "",
+      "ident_webui": "year",
+      "en": "year",
+      "fi": "vuosi",
+      "ru": "",
+      "sv": "år",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "years",
+      "en": "years",
+      "fi": "vuotta",
+      "ru": "",
+      "sv": "år",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
       "ident_webui": "no_data",
       "en": "No data.\nThe sensor need to be in range of a gateway.",
       "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
@@ -7061,6 +7083,17 @@
       "fi": "",
       "ru": "",
       "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "dashboard_no_sensors",
+      "en": "Seems that this is a new user account with no sensors. Login on your mobile application with the same email address and claim ownerships of your Ruuvi sensors.\\n\\nNote: Cloud access to your sensors requires a Ruuvi Gateway router. Order more Ruuvi sensors and a Gateway on ruuvi.com",
+      "fi": "Vaikuttaa siltä, että tämä on uusi käyttäjätili ilman antureita. Kirjaudu sisään mobiilisovelluksessa samalla sähköpostiosoitteella ja vahvista Ruuvi-anturiesi omistajuus.\\n\\nHuom: Anturien etäseuranta pilven kautta vaatii Ruuvi Gateway -reitittimen. Tilaa lisää Ruuvin antureita ja Gateway osoitteessa ruuvi.com",
+      "ru": "",
+      "sv": "Det ser ut som att detta är ett nytt användarkonto utan sensorer. Logga in på mobilappen med samma e-postadress och bekräfta äganderätten till dina Ruuvi sensorer.\\n\\nObs: För att se data från sensorer via molnet kräver en Ruuvi Gateway-router. Beställ fler Ruuvi sensorer och Gateway på ruuvi.com",
       "fr": "",
       "de": ""
     }
