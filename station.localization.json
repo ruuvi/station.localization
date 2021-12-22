@@ -7129,6 +7129,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "already_logged_in_message",
+      "ident_webui": "",
+      "en": "User %1$s is already signed in. If you'd like to use a different account, please sign out first and then try again.",
+      "fi": "Käyttäjä %1$s on jo kirjautuneena sisälle. Mikäli haluat käyttää toista tiliä, kirjaudu ensin ulos ja yritä sitten uudelleen.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
