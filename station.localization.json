@@ -7096,6 +7096,39 @@
       "sv": "Det ser ut som att detta är ett nytt användarkonto utan sensorer. Logga in på mobilappen med samma e-postadress och bekräfta äganderätten till dina Ruuvi sensorer.\\n\\nObs: För att se data från sensorer via molnet kräver en Ruuvi Gateway-router. Beställ fler Ruuvi sensorer och Gateway på ruuvi.com",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "background_interval",
+      "ident_webui": "",
+      "en": "every %1$s min",
+      "fi": "joka %1$s min",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "background_interval_10sec",
+      "ident_webui": "",
+      "en": "every %1$s sec",
+      "fi": "joka %1$s sek",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "chart_view_period_days_count",
+      "ident_webui": "",
+      "en": "Number of days: %1$s",
+      "fi": "Päivien lukumäärä: %1$s ",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
