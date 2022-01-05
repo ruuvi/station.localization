@@ -7162,6 +7162,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "zoom_info",
+      "en": "Desktop browser: Zoom in by selecting a desired timespan with cursor.\n\nMobile browser: Zoom in and out with two fingers.\n\nReset zoom level to original by double clicking/tapping the graph.",
+      "fi": "Työpöytäselain: Lähennä valitsemalla haluttu alue hiirellä.\n\nMobiiliselain: Lähennä ja loitonna kahdella sormella.\n\nPalauta näkymä alkuperäiseen klikkaamalla/napauttamalla kuvaajaa kaksi kertaa.",
+      "ru": "",
+      "sv": "Desktop webbläsare: Markera önskat område med musen för att zooma in.\n\nMobil webbläsare: Zooma in och ut med två fingrar.\n\nDubbelklicka på grafen för att återställá.",
+      "fr": "",
+      "de": ""
     }
   ]
 }
