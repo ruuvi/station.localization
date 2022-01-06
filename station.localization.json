@@ -7184,6 +7184,17 @@
       "sv": "Sparat",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "internet_connection_problem",
+      "en": "Internet connection problem",
+      "fi": "Ongelma internet-yhteydessä",
+      "ru": "",
+      "sv": "Internetanslutningsproblem",
+      "fr": "",
+      "de": ""
     }
   ]
 }
