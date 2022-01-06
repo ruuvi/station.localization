@@ -4295,7 +4295,7 @@
     {
       "ident_ios": "",
       "ident_android": "something_went_wrong",
-      "ident_webui": "",
+      "ident_webui": "something_went_wrong",
       "en": "Something went wrong",
       "fi": "Tapahtui virhe",
       "ru": "Что-то пошло не так",
@@ -7171,6 +7171,17 @@
       "fi": "Työpöytäselain: Lähennä valitsemalla haluttu alue hiirellä.\n\nMobiiliselain: Lähennä ja loitonna kahdella sormella.\n\nPalauta näkymä alkuperäiseen klikkaamalla/napauttamalla kuvaajaa kaksi kertaa.",
       "ru": "",
       "sv": "Desktop webbläsare: Markera önskat område med musen för att zooma in.\n\nMobil webbläsare: Zooma in och ut med två fingrar.\n\nDubbelklicka på grafen för att återställá.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "successfully_saved",
+      "en": "Successfully saved",
+      "fi": "Tallennettu onnistuneesti",
+      "ru": "",
+      "sv": "Sparat",
       "fr": "",
       "de": ""
     }
