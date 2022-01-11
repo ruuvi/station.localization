@@ -7195,6 +7195,39 @@
       "sv": "Internetanslutningsproblem",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "background_scanning",
+      "ident_webui": "",
+      "en": "Background scanning",
+      "fi": "Taustaskannaus",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "data_forwarding_location_enable",
+      "ident_webui": "",
+      "en": "Send also location coordinates of this device",
+      "fi": "Lähetä myös tämän laitteen paikkatietokoordinaatit",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "data_forwarding_background_location_message",
+      "ident_webui": "",
+      "en": "This feature requires a location permission. In order to include your location coordinates, allow the app to use your location 'all the time' when prompted in the next dialog.",
+      "fi": "Tämä ominaisuus vaatii luvan paikkatiedon käyttöön. Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin, anna sovellukselle oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
