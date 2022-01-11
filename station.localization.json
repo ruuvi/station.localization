@@ -4810,17 +4810,6 @@
       "de": "Nach der Anmeldung werden Sie automatisch als Besitzer Ihrer Ruuvi-Sensoren in der Nähe markiert. Die Sensoren werden nach einer Neuinstallation der App wiederhergestellt.\\n\\nMit einem Ruuvi Gateway-Router können Sie die Sensoren aus der Ferne überwachen und mit Ihren Freunden teilen."
     },
     {
-      "ident_ios": "",
-      "ident_android": "sign_in_benefits_title",
-      "ident_webui": "",
-      "en": "Benefits of the Ruuvi cloud service",
-      "fi": "Ruuvin pilvipalvelun etuja",
-      "ru": "",
-      "sv": "Fördelarna med Ruuvi cloud",
-      "fr": "",
-      "de": "Vorteile des Ruuvi Cloud-Dienstes"
-    },
-    {
       "ident_ios": "SignIn.EmailPlaceholder",
       "ident_android": "email",
       "ident_webui": "email",
@@ -4914,7 +4903,7 @@
       "ident_webui": "",
       "en": "When you sign out, sensors the ownerships of which you've claimed on the sensor Settings page will be automatically removed from the app. When you sign in again using the same email address, the sensors will be returned from the cloud.\\n\\nDo you want to sign out?",
       "fi": "Anturit, joiden omistajuuden olet vahvistanut asetussivulla poistetaan sovelluksesta automaattisesti uloskirjauduttaessa. Anturitiedot palautetaan pilvipalvelusta samalla sähköpostiosoitteella uudelleenkirjauduttaessa.\\n\\nHaluatko varmasti kirjautua ulos?",
-      "ru": "",
+      "ru": "После выхода все датчики, которые зарегистрованы на вас, будут удалены из приложения. Если вы повторно войдете с тем же email адресом, список ваших датчиков будет загружен из облака. \\n\\nВы хотите выйти из сети?",
       "sv": "Sensorer som du har verifierat äganderätten till på inställningssidan tas automatiskt bort från appen när du loggar ut. Sensordata hämtas från molnet igen om du loggar in med samma e-postadress.\\n\\nÄr du säker på att du vill logga ut? ",
       "fr": "",
       "de": "Wenn Sie sich abmelden, werden Sensoren, deren Eigentum Sie mit den Sensoreinstellungen bestätigt haben, automatisch aus der App entfernt. Wenn Sie sich erneut mit derselben E-Mail-Adresse anmelden, werden die Sensoren aus der Cloud zurückgegeben.\\n\\nMöchten Sie sich abmelden?"
@@ -4925,7 +4914,7 @@
       "ident_webui": "",
       "en": "Claim ownership",
       "fi": "Vahvista omistajuus",
-      "ru": "",
+      "ru": "Заявить о собственности",
       "sv": "Bekräfta ägandet",
       "fr": "",
       "de": "Inhaberschaft beanspruchen"
@@ -4936,7 +4925,7 @@
       "ident_webui": "",
       "en": "Unclaim ownership",
       "fi": "Vapauta omistajuus",
-      "ru": "",
+      "ru": "Отказаться от владения",
       "sv": "Hävda ägande",
       "fr": "",
       "de": "Eigentumsanspruch aufheben"
@@ -5068,7 +5057,7 @@
       "ident_webui": "share_sensor_description",
       "en": "You can share the sensor with friends and family if it's in range of a Ruuvi Gateway.\\n\\nReceiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.\\n\\nNote that the sensor's custom name and background image will be shared. The name and image sync is one time only, and after this, they can be privately customised by the receiver. Offset values (if any) set by the owner, will be automatically synced, and the receiver will always see the final corrected values.",
       "fi": "Voit jakaa tämän anturin ystäville tai perheenjäsenille, mikäli laite on Ruuvi Gateway -reitittimen kuuluvuusalueella.\\n\\nVastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.\\n\\nAnturin nimi ja taustakuva jaetaan vastaanottajalle vain kertaalleen. Sen jälkeen kumpikin voivat muokata vain omia anturiasetuksiaan. Kalibrointiarvot (mikäli käytössä) synkronoidaan automaattisesti jaetuille antureille ja vastaanottaja näkee vain lopulliset korjatut arvot.",
-      "ru": "",
+      "ru": "Вы можете поделиться измерениями этого датчика с друзьями или членами семьи, если датчик находится в радиусе действия Ruuvi Gateway.\\n\\nПолучатель будет извещен по электронной почте. Если у него нет аккаунта Ruuvi, то бесплатный аккаунт будет создан при первом входе.\\n\\nНазвание датчика и изображение использованное в качестве фона будет также доступно для пользователя. Пользователь сможет позже изменить название и изображение на удобное для себя. Данные калибровки датчика (если они были установлены владельцем) будут автоматически синхронизированы и получатель всегда будет видеть данные после калибровки.",
       "sv": "Du kan dela sensorn med vänner och familj om den är inom räckhåll för en Ruuvi Gateway.\\n\\nMottagaren meddelas via e-post. Om mottagaren inte har ett Ruuvi-konto skapas ett gratis Ruuvi-konto automatiskt vid första inloggningen.\\n\\nObservera att sensorns anpassade namn och bakgrundsbild delas. Namnet och bildsynkroniseringen sker endast vid en gång, efteråt kan det anpassas av mottagaren. Kalibreringsvärden (om sådana finns) synkroniseras automatiskt och mottagaren ser alltid de korrigerade värdena.",
       "fr": "",
       "de": "Sie können den Sensor mit Freunden und Familie teilen, wenn er sich in Reichweite eines Ruuvi Gateways befindet.\\n\\nDer Empfänger wird per E-Mail benachrichtigt. Wenn der Empfänger kein Ruuvi-Konto hat, wird beim ersten Anmelden automatisch ein kostenloses Ruuvi-Konto erstellt.\\n\\nBeachten Sie, dass der benutzerdefinierte Name und das Hintergrundbild des Sensors geteilt werden. Der Name und das Bild werden nur einmal synchronisiert und können danach vom Empfänger privat angepasst werden. Vom Besitzer eingestellte Offset-Werte (sofern vorhanden) werden automatisch synchronisiert und der Empfänger sieht immer die endgültigen korrigierten Werte."
@@ -6520,7 +6509,7 @@
       "ident_webui": "sensors",
       "en": "Sensors",
       "fi": "Anturit",
-      "ru": "",
+      "ru": "Датчики",
       "sv": "Sensorer",
       "fr": "",
       "de": "Sensoren"
@@ -6531,7 +6520,7 @@
       "ident_webui": "alerts",
       "en": "Alerts",
       "fi": "Hälytykset",
-      "ru": "",
+      "ru": "Уведомления",
       "sv": "Alarm",
       "fr": "",
       "de": "Benachrichtigungen"
@@ -6542,7 +6531,7 @@
       "ident_webui": "sensor_info",
       "en": "Sensor info",
       "fi": "Anturin tiedot",
-      "ru": "",
+      "ru": "Данные датчика",
       "sv": "Sensor info",
       "fr": "",
       "de": "Sensor info"
@@ -6553,7 +6542,7 @@
       "ident_webui": "remove_this_sensor",
       "en": "Remove this sensor",
       "fi": "Poista tämä anturi",
-      "ru": "",
+      "ru": "Удалить датчик",
       "sv": "Ta bort sensorn",
       "fr": "",
       "de": "Entfernen Sie diesen Sensor"
@@ -6564,7 +6553,7 @@
       "ident_webui": "type_your_email",
       "en": "Type your email below. You will receive a confirmation code in your inbox",
       "fi": "Anna sähköpostiosoitteesi. Kirjautumiskoodi lähetetään sinulle sähköpostitse",
-      "ru": "",
+      "ru": "Укажите свой email ниже. Вы получите письмо с кодом подтверждения",
       "sv": "Ange din epost-adress. Du kommer att få en bekräftelsekod i din epost.",
       "fr": "",
       "de": "Geben Sie unten Ihre E-Mail ein. Sie erhalten einen Bestätigungscode in Ihrem Posteingang"
@@ -6575,21 +6564,10 @@
       "ident_webui": "times",
       "en": "Times",
       "fi": "Kertaa",
-      "ru": "",
+      "ru": "Раз",
       "sv": "Gånger",
       "fr": "",
       "de": "Zeiten"
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sensors",
-      "fi": "Anturit",
-      "ru": "",
-      "sv": "Sensorer",
-      "fr": "",
-      "de": "Sensoren"
     },
     {
       "ident_ios": "",
@@ -6608,7 +6586,7 @@
       "ident_webui": "update",
       "en": "Update",
       "fi": "Päivitä",
-      "ru": "",
+      "ru": "Обновить",
       "sv": "Uppdatera",
       "fr": "",
       "de": "Update"
@@ -6619,7 +6597,7 @@
       "ident_webui": "last",
       "en": "Last",
       "fi": "Viimeinen",
-      "ru": "",
+      "ru": "Последний",
       "sv": "Senaste",
       "fr": "",
       "de": "Zuletzt"
@@ -6630,7 +6608,7 @@
       "ident_webui": "time",
       "en": "Time",
       "fi": "Aika",
-      "ru": "",
+      "ru": "Время",
       "sv": "Tid",
       "fr": "",
       "de": "Zeit"
@@ -6674,7 +6652,7 @@
       "ident_webui": "sensor_shared",
       "en": "Shared",
       "fi": "Jaettu",
-      "ru": "",
+      "ru": "Поделились",
       "sv": "Delad",
       "fr": "",
       "de": "Geteilt"
@@ -6685,7 +6663,7 @@
       "ident_webui": "",
       "en": "Not shared",
       "fi": "Ei jaettu",
-      "ru": "",
+      "ru": "Не делились",
       "sv": "Inte delad",
       "fr": "",
       "de": "Nicht geteilt"
@@ -6696,7 +6674,7 @@
       "ident_webui": "",
       "en": "Claim sensor",
       "fi": "Vahvista omistajuus",
-      "ru": "",
+      "ru": "Заявить о собственности",
       "sv": "Bekräfta ägandet",
       "fr": "",
       "de": "Sensor beanspruchen"
@@ -6707,7 +6685,7 @@
       "ident_webui": "",
       "en": "Claim Ownership",
       "fi": "Vahvista Omistajuus",
-      "ru": "",
+      "ru": "Заявить о владении",
       "sv": "Bekräfta Ägandet",
       "fr": "",
       "de": "Inhaberschaft beanspruchen"
@@ -6718,7 +6696,7 @@
       "ident_webui": "",
       "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Every Ruuvi sensor can have only one owner.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
       "fi": "Omistatko tämän anturin? Vahvista omistajuus ja anturi lisätään Ruuvi-tilillesi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.\\n\\nHyödyt:\\n\\n ● Anturien nimet, taustakuvat sekä kalibrointi- ja hälytysasetukset tallentuvat turvallisesti tilillesi pilvipalveluun\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Selaa jopa 2 vuoden historiatietoja osoitteessa station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
-      "ru": "",
+      "ru": "Это ваш датчик? Если да, то пожалуйста заявите о владении и датчик будет добавлен в ваш Ruuvi аккаунт. Каждый датчик может иметь только одного владельца.\\n\\nПреимущества:\\n\\n ● Название датчика, изображение фона, данные калибровки и настройки тревог будут безопасно храниться в облаке\\n\\n ● Получите доступ к датчикам через интернет (требуестся Ruuvi Gateway)\\n\\n ● Поделитесь данными датчиков с друзьями и членами семьи (требуется Ruuvi Gateway)\\n\\n ● Просматривайте до 2-х лет истории на сайте station.ruuvi.com (требуется a Ruuvi Gateway)",
       "sv": "Äger du den här sensorn? Bekräfta ägandet och så läggs sensorn till på ditt Ruuvi-konto. Varje Ruuvi-sensor kan bara ha en ägare.\\n\\nFördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
       "fr": "",
       "de": "Besitzen Sie diesen Sensor? Wenn ja, beanspruchen Sie bitte den Besitz des Sensors und er wird Ihrem Ruuvi-Konto hinzugefügt. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.\\n\\nVorteile:\\n\\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\\n\\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\\n\\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\\n\\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)"
@@ -6729,7 +6707,7 @@
       "ident_webui": "",
       "en": "Ownership of the sensor claimed successfully",
       "fi": "Anturin omistajuus vahvistettu",
-      "ru": "",
+      "ru": "Владение датчиком зарегистрировано",
       "sv": "Sensorägande bekräftat",
       "fr": "",
       "de": "Besitz des Sensors erfolgreich beansprucht"
@@ -6740,7 +6718,7 @@
       "ident_webui": "remove_claimed_sensor",
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Every Ruuvi sensor can have only one owner.",
       "fi": "Anturin poistaminen mitätöi omistajuuden. Kuka tahansa voi vaatia anturin omistajuutta poistamisen jälkeen. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
-      "ru": "",
+      "ru": "Удаляя датчик вы также отказываетесь от владения. Кто-то другой сможет заявить о владении этим датчиком. Каждый датчик может иметь только одного владельца.",
       "sv": "Om du tar bort sensorn upphör ägarskapet. Vem som helst kan göra anspråk på ägandet av sensorn efter borttagning. Varje Ruuvi-sensor kan bara ha en ägare.",
       "fr": "",
       "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus widerrufen. Nach dem Entfernen kann eine andere Person das Eigentum an dem Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben."
@@ -6751,18 +6729,18 @@
       "ident_webui": "remove_shared_sensor",
       "en": "If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.",
       "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen lukuoikeus päättyy.",
-      "ru": "",
+      "ru": "Если вы удалите датчик, то владелец будет уведомлен и вы более не сможете получать данные с него.",
       "sv": "Om du tar bort sensorn så meddelas ägaren till sensorn och du kan inte komma åt den längre.",
       "fr": "",
       "de": "Wenn Sie den Sensor entfernen, wird der Besitzer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen."
     },
     {
       "ident_ios": "TagSettings.General.Owner.none",
-      "ident_android": "",
+      "ident_android": "owner_none",
       "ident_webui": "",
-      "en": "None",
+      "en": "No owner",
       "fi": "Ei omistajaa",
-      "ru": "Нет",
+      "ru": "Нет владельца",
       "sv": "Ingen",
       "fr": "",
       "de": "Keiner"
@@ -6795,7 +6773,7 @@
       "ident_webui": "day",
       "en": "Day",
       "fi": "päivä",
-      "ru": "",
+      "ru": "день",
       "sv": "Dag",
       "fr": "",
       "de": "Tag"
@@ -6806,7 +6784,7 @@
       "ident_webui": "week",
       "en": "Week",
       "fi": "viikko",
-      "ru": "",
+      "ru": "неделя",
       "sv": "Vecka",
       "fr": "",
       "de": "Woche"
@@ -6817,7 +6795,7 @@
       "ident_webui": "weeks",
       "en": "Weeks",
       "fi": "viikkoa",
-      "ru": "",
+      "ru": "Недель",
       "sv": "Veckor",
       "fr": "",
       "de": "Wochen"
@@ -6828,7 +6806,7 @@
       "ident_webui": "month",
       "en": "Month",
       "fi": "kuukausi",
-      "ru": "",
+      "ru": "Месяц",
       "sv": "Månad",
       "fr": "",
       "de": "Monat"
@@ -6839,7 +6817,7 @@
       "ident_webui": "months",
       "en": "Months",
       "fi": "kuukautta",
-      "ru": "",
+      "ru": "Месяцев",
       "sv": "Månader",
       "fr": "",
       "de": "Monate"
@@ -6850,7 +6828,7 @@
       "ident_webui": "hour",
       "en": "Hour",
       "fi": "tunti",
-      "ru": "",
+      "ru": "час",
       "sv": "Timme",
       "fr": "",
       "de": "Stunde"
@@ -6861,7 +6839,7 @@
       "ident_webui": "year",
       "en": "year",
       "fi": "vuosi",
-      "ru": "",
+      "ru": "год",
       "sv": "år",
       "fr": "",
       "de": ""
@@ -6872,7 +6850,7 @@
       "ident_webui": "years",
       "en": "years",
       "fi": "vuotta",
-      "ru": "",
+      "ru": "год",
       "sv": "år",
       "fr": "",
       "de": ""
@@ -6883,7 +6861,7 @@
       "ident_webui": "no_data",
       "en": "No data.\nThe sensor need to be in range of a gateway.",
       "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
-      "ru": "",
+      "ru": "Нет данных.\nДатчик должен находиться в зоне действия Ruuvi Gateway.",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
       "fr": "",
       "de": "Keine Daten. Der Sensor muss sich in Reichweite eines Gateways befinden."
@@ -6894,7 +6872,7 @@
       "ident_webui": "no_data_in_range",
       "en": "No data for this time range",
       "fi": "Tältä ajalta ei ole tietoja",
-      "ru": "",
+      "ru": "Нет данных для выбранного временного промежутка",
       "sv": "Ingen data för detta tidsintervall",
       "fr": "",
       "de": "Keine Daten für diesen Zeitraum"
@@ -6907,7 +6885,7 @@
       "fi": "Anturisi asettuvat automaattisesti aakkosjärjestykseen.",
       "ru": "Датчики будут отсортированы в алфавитном порядке.",
       "sv": "Dina sensorer kommer att vara i alfabetisk ordning.",
-      "fr": "",
+      "fr": "Ваши датчики будут в алфавитном порядке",
       "de": "Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt."
     },
     {
@@ -6971,7 +6949,7 @@
       "ident_webui": "on",
       "en": "On",
       "fi": "Päällä",
-      "ru": "",
+      "ru": "Вкл",
       "sv": "På",
       "fr": "",
       "de": ""
@@ -6982,7 +6960,7 @@
       "ident_webui": "off",
       "en": "Off",
       "fi": "Pois",
-      "ru": "",
+      "ru": "Выкл",
       "sv": "Av",
       "fr": "",
       "de": ""
@@ -7004,7 +6982,7 @@
       "ident_webui": "",
       "en": "Air Humidity is above %1$s",
       "fi": "Ilmankosteus on yli %1$s",
-      "ru": "",
+      "ru": "Влажность выше %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7015,7 +6993,7 @@
       "ident_webui": "",
       "en": "Air Humidity is under %1$s",
       "fi": "Ilmankosteus on alle %1$s",
-      "ru": "",
+      "ru": "Влажность ниже %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7026,7 +7004,7 @@
       "ident_webui": "",
       "en": "Air Pressure is above %1$s",
       "fi": "Ilmanpaine on yli %1$s",
-      "ru": "",
+      "ru": "Давление выше %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7037,7 +7015,7 @@
       "ident_webui": "",
       "en": "Air Pressure is under %1$s",
       "fi": "Ilmanpaine on alle %1$s",
-      "ru": "",
+      "ru": "Давление ниже %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7048,7 +7026,7 @@
       "ident_webui": "",
       "en": "Signal strength is above %1$s",
       "fi": "Signaalinvoimakkuus on yli %1$s",
-      "ru": "",
+      "ru": "Сила сигнала выше %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7059,7 +7037,7 @@
       "ident_webui": "",
       "en": "Signal strength is under %1$s",
       "fi": "Signaalinvoimakkuus on alle %1$s",
-      "ru": "",
+      "ru": "Сила сигнала ниже %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7070,7 +7048,7 @@
       "ident_webui": "",
       "en": "Temperature is above %1$s",
       "fi": "Lämpötila on yli %1$s",
-      "ru": "",
+      "ru": "Температура выше %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7081,7 +7059,7 @@
       "ident_webui": "",
       "en": "Temperature is under %1$s",
       "fi": "Lämpötila on alle %1$s",
-      "ru": "",
+      "ru": "Температура ниже %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7092,7 +7070,7 @@
       "ident_webui": "dashboard_no_sensors",
       "en": "Seems that this is a new user account with no sensors. Login on your mobile application with the same email address and claim ownerships of your Ruuvi sensors.\\n\\nNote: Cloud access to your sensors requires a Ruuvi Gateway router. Order more Ruuvi sensors and a Gateway on ruuvi.com",
       "fi": "Vaikuttaa siltä, että tämä on uusi käyttäjätili ilman antureita. Kirjaudu sisään mobiilisovelluksessa samalla sähköpostiosoitteella ja vahvista Ruuvi-anturiesi omistajuus.\\n\\nHuom: Anturien etäseuranta pilven kautta vaatii Ruuvi Gateway -reitittimen. Tilaa lisää Ruuvin antureita ja Gateway osoitteessa ruuvi.com",
-      "ru": "",
+      "ru": "Похоже, что это новый аккаунт без датчиков. Войдите в мобильное приложение под таким же адресом электронной почты и заявите о владении своих Ruuvi датчиков.\\n\\nПримечание: доступ к вашим датчикам через облако требует наличия Ruuvi Gateway. Закажите датчики и Gateway на сайте ruuvi.com",
       "sv": "Det ser ut som att detta är ett nytt användarkonto utan sensorer. Logga in på mobilappen med samma e-postadress och bekräfta äganderätten till dina Ruuvi sensorer.\\n\\nObs: För att se data från sensorer via molnet kräver en Ruuvi Gateway-router. Beställ fler Ruuvi sensorer och Gateway på ruuvi.com",
       "fr": "",
       "de": ""
@@ -7103,7 +7081,7 @@
       "ident_webui": "",
       "en": "every %1$s min",
       "fi": "joka %1$s min",
-      "ru": "",
+      "ru": "каждые %1$s мин",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7114,7 +7092,7 @@
       "ident_webui": "",
       "en": "every %1$s sec",
       "fi": "joka %1$s sek",
-      "ru": "",
+      "ru": "каждые %1$s сек",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7125,7 +7103,7 @@
       "ident_webui": "",
       "en": "Number of days: %1$s",
       "fi": "Päivien lukumäärä: %1$s ",
-      "ru": "",
+      "ru": "Количество дней: %1$s",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7136,7 +7114,7 @@
       "ident_webui": "",
       "en": "User %1$s is already signed in. If you'd like to use a different account, please sign out first and then try again.",
       "fi": "Käyttäjä %1$s on jo kirjautuneena sisälle. Mikäli haluat käyttää toista tiliä, kirjaudu ensin ulos ja yritä sitten uudelleen.",
-      "ru": "",
+      "ru": "Пользователь %1$s уже совершил вход. Если вы хотите войти под другим аккаунтом, пожалуйста вначале выйдите, а затем повторите попытку.",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7147,7 +7125,7 @@
       "ident_webui": "",
       "en": "Cloud Mode",
       "fi": "Pilvitila",
-      "ru": "",
+      "ru": "Режим облака",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7158,7 +7136,7 @@
       "ident_webui": "",
       "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages. Requires a Ruuvi Gateway router.",
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
-      "ru": "",
+      "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7169,7 +7147,7 @@
       "ident_webui": "zoom_info",
       "en": "Desktop browser: Zoom in by selecting a desired timespan with cursor.\n\nMobile browser: Zoom in and out with two fingers.\n\nReset zoom level to original by double clicking/tapping the graph.",
       "fi": "Työpöytäselain: Lähennä valitsemalla haluttu alue hiirellä.\n\nMobiiliselain: Lähennä ja loitonna kahdella sormella.\n\nPalauta näkymä alkuperäiseen klikkaamalla/napauttamalla kuvaajaa kaksi kertaa.",
-      "ru": "",
+      "ru": "Браузер компьютера: выбирайте желаемый временной отрезок курсором мыши.\n\nМобильный браузер: приближайте исплользуя два пальца.\n\nСбросить настройки зума при помощи двойного клика/тапа по графику.",
       "sv": "Desktop webbläsare: Markera önskat område med musen för att zooma in.\n\nMobil webbläsare: Zooma in och ut med två fingrar.\n\nDubbelklicka på grafen för att återställá.",
       "fr": "",
       "de": ""
@@ -7180,7 +7158,7 @@
       "ident_webui": "successfully_saved",
       "en": "Successfully saved",
       "fi": "Tallennettu onnistuneesti",
-      "ru": "",
+      "ru": "Успешно сохранено",
       "sv": "Sparat",
       "fr": "",
       "de": ""
@@ -7191,7 +7169,7 @@
       "ident_webui": "internet_connection_problem",
       "en": "Internet connection problem",
       "fi": "Ongelma internet-yhteydessä",
-      "ru": "",
+      "ru": "Проблема с подключением",
       "sv": "Internetanslutningsproblem",
       "fr": "",
       "de": ""
@@ -7202,7 +7180,7 @@
       "ident_webui": "",
       "en": "Background scanning",
       "fi": "Taustaskannaus",
-      "ru": "",
+      "ru": "Фоновое сканирование",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7213,7 +7191,7 @@
       "ident_webui": "",
       "en": "Send also location coordinates of this device",
       "fi": "Lähetä myös tämän laitteen paikkatietokoordinaatit",
-      "ru": "",
+      "ru": "Отправлять также координаты местоположения устройство",
       "sv": "",
       "fr": "",
       "de": ""
@@ -7224,7 +7202,7 @@
       "ident_webui": "",
       "en": "This feature requires a location permission. In order to include your location coordinates, allow the app to use your location 'all the time' when prompted in the next dialog.",
       "fi": "Tämä ominaisuus vaatii luvan paikkatiedon käyttöön. Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin, anna sovellukselle oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
-      "ru": "",
+      "ru": "Эта функция требует доступа к местоположению устройства. Чтобы добавить данные о местоположении, на следующем системном диалоге выберите 'Разрешить в любом режиме'",
       "sv": "",
       "fr": "",
       "de": ""
