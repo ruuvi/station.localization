@@ -6983,7 +6983,7 @@
       "en": "Air Humidity is above %1$s",
       "fi": "Ilmankosteus on yli %1$s",
       "ru": "Влажность выше %1$s",
-      "sv": "",
+      "sv": "Luftfuktigheten är över %1$s",
       "fr": "",
       "de": ""
     },
@@ -6994,7 +6994,7 @@
       "en": "Air Humidity is under %1$s",
       "fi": "Ilmankosteus on alle %1$s",
       "ru": "Влажность ниже %1$s",
-      "sv": "",
+      "sv": "Luftfuktigheten är under %1$s",
       "fr": "",
       "de": ""
     },
@@ -7005,7 +7005,7 @@
       "en": "Air Pressure is above %1$s",
       "fi": "Ilmanpaine on yli %1$s",
       "ru": "Давление выше %1$s",
-      "sv": "",
+      "sv": "Lufttrycket är över %1$s",
       "fr": "",
       "de": ""
     },
@@ -7016,7 +7016,7 @@
       "en": "Air Pressure is under %1$s",
       "fi": "Ilmanpaine on alle %1$s",
       "ru": "Давление ниже %1$s",
-      "sv": "",
+      "sv": "Lufttrycket är under %1$s",
       "fr": "",
       "de": ""
     },
@@ -7027,7 +7027,7 @@
       "en": "Signal strength is above %1$s",
       "fi": "Signaalinvoimakkuus on yli %1$s",
       "ru": "Сила сигнала выше %1$s",
-      "sv": "",
+      "sv": "Signalstyrkan är över %1$s",
       "fr": "",
       "de": ""
     },
@@ -7038,7 +7038,7 @@
       "en": "Signal strength is under %1$s",
       "fi": "Signaalinvoimakkuus on alle %1$s",
       "ru": "Сила сигнала ниже %1$s",
-      "sv": "",
+      "sv": "Signalstyrkan är under %1$s",
       "fr": "",
       "de": ""
     },
@@ -7049,7 +7049,7 @@
       "en": "Temperature is above %1$s",
       "fi": "Lämpötila on yli %1$s",
       "ru": "Температура выше %1$s",
-      "sv": "",
+      "sv": "Temperaturen är över %1$s",
       "fr": "",
       "de": ""
     },
@@ -7060,7 +7060,7 @@
       "en": "Temperature is under %1$s",
       "fi": "Lämpötila on alle %1$s",
       "ru": "Температура ниже %1$s",
-      "sv": "",
+      "sv": "Temperaturen är under %1$s",
       "fr": "",
       "de": ""
     },
@@ -7082,7 +7082,7 @@
       "en": "every %1$s min",
       "fi": "joka %1$s min",
       "ru": "каждые %1$s мин",
-      "sv": "",
+      "sv": "varje %1$s min",
       "fr": "",
       "de": ""
     },
@@ -7093,7 +7093,7 @@
       "en": "every %1$s sec",
       "fi": "joka %1$s sek",
       "ru": "каждые %1$s сек",
-      "sv": "",
+      "sv": "varje %1$s sek",
       "fr": "",
       "de": ""
     },
@@ -7104,7 +7104,7 @@
       "en": "Number of days: %1$s",
       "fi": "Päivien lukumäärä: %1$s ",
       "ru": "Количество дней: %1$s",
-      "sv": "",
+      "sv": "Antal dagar: %1$s",
       "fr": "",
       "de": ""
     },
@@ -7115,7 +7115,7 @@
       "en": "User %1$s is already signed in. If you'd like to use a different account, please sign out first and then try again.",
       "fi": "Käyttäjä %1$s on jo kirjautuneena sisälle. Mikäli haluat käyttää toista tiliä, kirjaudu ensin ulos ja yritä sitten uudelleen.",
       "ru": "Пользователь %1$s уже совершил вход. Если вы хотите войти под другим аккаунтом, пожалуйста вначале выйдите, а затем повторите попытку.",
-      "sv": "",
+      "sv": "Användare %1$s är redan inloggad. Om du vill använda ett annat konto, logga ut först och försök sedan igen.",
       "fr": "",
       "de": ""
     },
@@ -7126,7 +7126,7 @@
       "en": "Cloud Mode",
       "fi": "Pilvitila",
       "ru": "Режим облака",
-      "sv": "",
+      "sv": "Molnläge",
       "fr": "",
       "de": ""
     },
@@ -7137,7 +7137,7 @@
       "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages. Requires a Ruuvi Gateway router.",
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
-      "sv": "",
+      "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden. Kräver en Ruuvi Gateway.",
       "fr": "",
       "de": ""
     },
@@ -7181,7 +7181,7 @@
       "en": "Background scanning",
       "fi": "Taustaskannaus",
       "ru": "Фоновое сканирование",
-      "sv": "",
+      "sv": "Bakgrundsskanning",
       "fr": "",
       "de": ""
     },
@@ -7192,7 +7192,7 @@
       "en": "Send also location coordinates of this device",
       "fi": "Lähetä myös tämän laitteen paikkatietokoordinaatit",
       "ru": "Отправлять также координаты местоположения устройство",
-      "sv": "",
+      "sv": "Skicka även platskoordinater för denna enhet",
       "fr": "",
       "de": ""
     },
@@ -7203,7 +7203,7 @@
       "en": "This feature requires a location permission. In order to include your location coordinates, allow the app to use your location 'all the time' when prompted in the next dialog.",
       "fi": "Tämä ominaisuus vaatii luvan paikkatiedon käyttöön. Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin, anna sovellukselle oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
       "ru": "Эта функция требует доступа к местоположению устройства. Чтобы добавить данные о местоположении, на следующем системном диалоге выберите 'Разрешить в любом режиме'",
-      "sv": "",
+      "sv": "Den här funktionen kräver platsbehörighet. För att inkludera dina platskoordinater, välj 'tillåt alltid' när du uppmanas till det i nästa dialogruta.",
       "fr": "",
       "de": ""
     }
