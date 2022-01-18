@@ -7217,6 +7217,17 @@
       "sv": "Delningen har tagits bort",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "zoom",
+      "en": "Zoom",
+      "fi": "Zoomaa",
+      "ru": "",
+      "sv": "Zoom",
+      "fr": "",
+      "de": ""
     }
   ]
 }
