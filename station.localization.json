@@ -6724,7 +6724,7 @@
       "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus widerrufen. Nach dem Entfernen kann eine andere Person das Eigentum an dem Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben."
     },
     {
-      "ident_ios": "remove_shared_sensor",
+      "ident_ios": "",
       "ident_android": "remove_shared_sensor",
       "ident_webui": "remove_shared_sensor",
       "en": "If you remove the sensor, the owner of the sensor will be notified and you cannot access the sensor anymore.",
