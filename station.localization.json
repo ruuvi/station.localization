@@ -6731,7 +6731,7 @@
       "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen lukuoikeus päättyy.",
       "ru": "Если вы удалите датчик, то владелец будет уведомлен и вы более не сможете получать данные с него.",
       "sv": "Om du tar bort sensorn så meddelas ägaren till sensorn och du kan inte komma åt den längre.",
-      "fr": "",
+      "fr": "Si vous supprimez le capteur, le propriétaire du capteur sera averti et vous ne pourrez plus accéder au capteur.",
       "de": "Wenn Sie den Sensor entfernen, wird der Besitzer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen."
     },
     {
