@@ -7250,6 +7250,28 @@
       "sv": "Zoom",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widgets_sign_in_first",
+      "ident_webui": "",
+      "en": "To use widgets, you need first to sign in.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widgets_gateway_only",
+      "ident_webui": "",
+      "en": "You can use Ruuvi widgets if you're a Ruuvi Gateway user or if someone has shared you a Ruuvi sensor.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
