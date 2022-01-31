@@ -5360,6 +5360,17 @@
       "de": ""
     },
     {
+      "ident_ios": "UserApiError.ER_SENSOR_ALREADY_CLAIMED_NO_EMAIL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sensor already claimed",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
       "ident_android": "cloud_er_unable_to_send_email",
       "ident_webui": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
