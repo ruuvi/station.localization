@@ -2,7 +2,7 @@
   "translations": [
     {
       "ident_ios": "Done",
-      "ident_android": "",
+      "ident_android": "done",
       "ident_webui": "",
       "en": "Done",
       "fi": "Valmis",
@@ -4756,6 +4756,17 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "acceleration_unit",
+      "ident_webui": "",
+      "en": "g",
+      "fi": "g",
+      "ru": "g",
+      "sv": "g",
+      "fr": "g",
+      "de": "g"
+    },
+    {
+      "ident_ios": "",
       "ident_android": "tx_power_reading",
       "ident_webui": "",
       "en": "%1$,.0f dBm",
@@ -7357,6 +7368,39 @@
       "en": "Select the type of sensor to display in the widget",
       "fi": "Valitse widgetissä näytettävä anturityyppi",
       "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "back",
+      "ident_webui": "",
+      "en": "Back",
+      "fi": "Takaisin",
+      "ru": "Назад",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "select_sensor",
+      "ident_webui": "",
+      "en": "Select sensor",
+      "fi": "Valitse anturi",
+      "ru": "Выберите датчик",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "movements",
+      "ident_webui": "",
+      "en": "movements",
+      "fi": "liikettä",
+      "ru": "движений",
       "sv": "",
       "fr": "",
       "de": ""
