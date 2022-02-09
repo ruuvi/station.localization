@@ -5364,9 +5364,9 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Sensor already claimed by %@",
-      "fi": "",
+      "fi": "Anturilla on jo toinen omistaja: %@",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorn ägs redan av %@",
       "fr": "",
       "de": ""
     },
@@ -5375,9 +5375,9 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Sensor already claimed",
-      "fi": "",
+      "fi": "Anturilla on jo toinen omistaja",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorn har redan en ägare",
       "fr": "",
       "de": ""
     },
