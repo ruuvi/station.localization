@@ -5367,8 +5367,8 @@
       "fi": "Anturilla on jo toinen omistaja: %@",
       "ru": "",
       "sv": "Sensorn ägs redan av %@",
-      "fr": "",
-      "de": ""
+      "fr": "Capteur déjà revendiqué par %@",
+      "de": "Sensor bereits beansprucht von %@"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_CLAIMED_NO_EMAIL",
@@ -5378,8 +5378,8 @@
       "fi": "Anturilla on jo toinen omistaja",
       "ru": "",
       "sv": "Sensorn har redan en ägare",
-      "fr": "",
-      "de": ""
+      "fr": "Capteur déjà revendiqué",
+      "de": "Sensor bereits beansprucht"
     },
     {
       "ident_ios": "UserApiError.ER_UNABLE_TO_SEND_EMAIL",
