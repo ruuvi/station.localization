@@ -7319,6 +7319,17 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "widgets_missing_sensors",
+      "ident_webui": "",
+      "en": "Cannot see all your sensors in the list? Make sure that you've claimed ownerships of all your sensors and that the sensors are in the range of a Ruuvi Gateway router.",
+      "fi": "Etkö näe kaikkia antureitasi listassa? Varmista, että olet vahvistanut kaikkien anturiesi omistajuudet sovelluksessa ja että ne ovat Ruuvi Gateway -reitittimen kuuluvuusalueella.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "widgets_loading",
       "ident_webui": "",
       "en": "loading...",
@@ -7401,6 +7412,17 @@
       "en": "movements",
       "fi": "liikettä",
       "ru": "движений",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "no_data",
+      "ident_webui": "",
+      "en": "No data",
+      "fi": "Ei tietoja",
+      "ru": "Нет данных",
       "sv": "",
       "fr": "",
       "de": ""
