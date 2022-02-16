@@ -506,50 +506,7 @@
       "fr": "Durée de l'historique",
       "de": "Diagrammdauer"
     },
-    {
-      "ident_ios": "Advanced.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Advanced Settings",
-      "fi": "Lisäasetukset",
-      "ru": "Расширенные настройки",
-      "sv": "Avancerade inställningar",
-      "fr": "Paramètres avancés",
-      "de": "Erweiterte Einstellungen"
-    },
-    {
-      "ident_ios": "Advanced.ChartIntervalMinutes.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Chart Interval",
-      "fi": "Historian esitystarkkuus",
-      "ru": "Интервал графиков",
-      "sv": "Historikens noggrannhet",
-      "fr": "Intervalle d'affichage",
-      "de": "Diagrammintervall"
-    },
-    {
-      "ident_ios": "Advanced.Downsampling.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Downsampling",
-      "fi": "Tarkkuuden vähennys",
-      "ru": "Downsampling",
-      "sv": "Nedsampling",
-      "fr": "Sous-échantillonage",
-      "de": "Downsampling"
-    },
-    {
-      "ident_ios": "Advanced.Interval.Min.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "min",
-      "fi": "min",
-      "ru": "мин",
-      "sv": "min",
-      "fr": "min",
-      "de": "min"
-    },
+
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
       "ident_android": "",
@@ -1341,17 +1298,6 @@
       "sv": "Bakgrundsprocesser",
       "fr": "Tâches d'arrière plan",
       "de": "Hintergrund"
-    },
-    {
-      "ident_ios": "Settings.Label.Advanced",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Advanced",
-      "fi": "Lisäasetukset",
-      "ru": "Дополнительно",
-      "sv": "Avancerat",
-      "fr": "Réglages avancés",
-      "de": "Erweitert"
     },
     {
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
@@ -3236,7 +3182,7 @@
       "de": "FEHLERBEHEBUNG"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Interval.Hour.string",
       "ident_android": "hours",
       "ident_webui": "hours",
       "en": "Hours",
@@ -3247,7 +3193,7 @@
       "de": "Stunden"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Interval.Day.string",
       "ident_android": "days",
       "ident_webui": "days",
       "en": "Days",
@@ -4017,7 +3963,7 @@
       "de": "Definieren Sie, wie oft der Hintergrundscan ausgeführt wird"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.Label.Chart",
       "ident_android": "settings_chart",
       "ident_webui": "",
       "en": "Chart Settings",
@@ -4028,7 +3974,7 @@
       "de": "Diagramm Einstellungen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.AllPoints.title",
       "ident_android": "settings_chart_all_points",
       "ident_webui": "",
       "en": "Display all data in chart",
@@ -4039,7 +3985,7 @@
       "de": "Alle Daten im Diagramm anzeigen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.AllPoints.description",
       "ident_android": "settings_chart_all_points_description",
       "ident_webui": "",
       "en": "Enabling it may cause charts to update slowly",
@@ -4061,7 +4007,7 @@
       "de": "Konfigurieren Sie das Intervall zwischen den auf dem Diagramm angezeigten Punkten"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.DrawDots.title",
       "ident_android": "settings_chart_draw_dots",
       "ident_webui": "",
       "en": "Draw dots in chart",
@@ -4072,7 +4018,7 @@
       "de": "Punkte im Diagramm zeichnen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.DrawDots.description",
       "ident_android": "settings_chart_draw_dots_description",
       "ident_webui": "",
       "en": "Small dots will help to understand when measurements were collected",
@@ -4105,7 +4051,7 @@
       "de": "Stellen Sie das Intervall zwischen den Punkten für das Diagramm von 1 bis 60 Minuten ein. Kleinere Werte bedeuten ein genaueres Diagramm, aber auch einen höheren Leistungsbedarf für Ihr Gerät"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.Duration.title",
       "ident_android": "settings_chart_view_period",
       "ident_webui": "",
       "en": "Chart history view period",
@@ -4116,7 +4062,7 @@
       "de": "Anzeigezeitraum des Diagrammverlaufs"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ChartSettings.Duration.description",
       "ident_android": "settings_chart_view_period_description",
       "ident_webui": "",
       "en": "Configure the period of history to be shown on chart from 1 to 10 days",
@@ -5710,39 +5656,6 @@
       "sv": "Lufttryck",
       "fr": "Pression",
       "de": "Druck"
-    },
-    {
-      "ident_ios": "Advanced.Charts.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Charts",
-      "fi": "Histogrammit",
-      "ru": "Графики",
-      "sv": "Histogram",
-      "fr": "Histogramme",
-      "de": "Diagramme"
-    },
-    {
-      "ident_ios": "Advanced.Network.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Network",
-      "fi": "Verkko",
-      "ru": "Облако",
-      "sv": "Nätverk",
-      "fr": "Réseau",
-      "de": "Netzwerk"
-    },
-    {
-      "ident_ios": "Advanced.NetworkInterval.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Pull Interval",
-      "fi": "Tiedonhakuväli",
-      "ru": "Интервал Синхронизации",
-      "sv": "Datahämtningsintervall",
-      "fr": "Intervalle de mise à jour,",
-      "de": "Pull intervall"
     },
     {
       "ident_ios": "PhotoPicker.Sheet.files",
