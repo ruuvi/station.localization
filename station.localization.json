@@ -6805,7 +6805,7 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "no_data",
-      "en": "No data.\nThe sensor needs to be in range of a gateway.",
+      "en": "No data.\nThe sensor needs to be in range of a Ruuvi Gateway.",
       "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
       "ru": "Нет данных.\nДатчик должен находиться в зоне действия Ruuvi Gateway.",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
