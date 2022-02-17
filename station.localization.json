@@ -3193,7 +3193,7 @@
       "de": "Stunden"
     },
     {
-      "ident_ios": "Interval.Day.string",
+      "ident_ios": "Interval.Days.string",
       "ident_android": "days",
       "ident_webui": "days",
       "en": "Days",
@@ -6714,7 +6714,7 @@
       "de": "Eingeloggt:"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Interval.Day.string",
       "ident_android": "",
       "ident_webui": "day",
       "en": "Day",
