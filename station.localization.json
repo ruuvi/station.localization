@@ -7365,6 +7365,28 @@
     {
       "ident_ios": "",
       "ident_android": "",
+      "ident_webui": "hide",
+      "en": "Hide",
+      "fi": "Piilota",
+      "ru": "",
+      "sv": "Dölj",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "show",
+      "en": "Show",
+      "fi": "Näytä",
+      "ru": "",
+      "sv": "Visa",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
       "ident_webui": "temperature_info",
       "en": "",
       "fi": "",
