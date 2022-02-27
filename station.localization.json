@@ -1949,15 +1949,26 @@
       "de": "FIRMWARE"
     },
     {
+      "ident_ios": "TagSettings.Firmware.CurrentVersion",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Current Version",
+      "fi": "Nykyinen versio",
+      "ru": "Текущая версия",
+      "sv": "Nuvarande version",
+      "fr": "Version actuelle",
+      "de": "Aktuelle Version"
+    },
+    {
       "ident_ios": "TagSettings.Firmware.UpdateFirmware",
       "ident_android": "firmware_update",
       "ident_webui": "",
-      "en": "Update Firmware",
-      "fi": "Päivitä laiteohjelmisto",
-      "ru": "Обновить прошивку",
-      "sv": "Uppdatera Programvara",
-      "fr": "Mettre à jour le firmware",
-      "de": "Firmware aktualisieren"
+      "en": "Update",
+      "fi": "Päivitä",
+      "ru": "Обновить",
+      "sv": "Uppdatera",
+      "fr": "Mettre à jour",
+      "de": "Aktualisiere"
     },
     {
       "ident_ios": "UnexpectedError.callbackErrorAndResultAreNil",
