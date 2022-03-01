@@ -7077,7 +7077,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.Label.CloudMode",
       "ident_android": "cloud_only_mode",
       "ident_webui": "",
       "en": "Cloud Mode",
@@ -7088,7 +7088,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.Label.CloudMode.description",
       "ident_android": "cloud_only_mode_description",
       "ident_webui": "",
       "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages. Requires a Ruuvi Gateway router.",
