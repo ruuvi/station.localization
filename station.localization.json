@@ -1950,7 +1950,7 @@
     },
     {
       "ident_ios": "TagSettings.Firmware.CurrentVersion",
-      "ident_android": "",
+      "ident_android": "current_version",
       "ident_webui": "",
       "en": "Current Version",
       "fi": "Nykyinen versio",
