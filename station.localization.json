@@ -221,6 +221,17 @@
       "de": "Scheint, als ob Sie eine verbindbare Firmware auf Ihrem Ruuvi-Gerät ausführen. Möchten Sie die Verbindung zu diesem Ruuvi-Gerät im Hintergrund offen halten? Dadurch können Histogramme und Warnungen auch dann angezeigt werden, wenn die Anwendung minimiert ist."
     },
     {
+      "ident_ios": "Cards.KeepConnectionDialog.Settings.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This setting enables alerts for this sensor and allows collecting data from sensor locally while app is running in background.",
+      "fi": "Tämä asetus mahdollistaa Bluetooth-hälytykset ja historiatietojen tallentamisen sovelluksen omaan muistiin silloinkin, kun sovellus on taka-alalla.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
       "ident_android": "",
       "ident_webui": "",
