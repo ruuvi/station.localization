@@ -7088,7 +7088,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Cards.Alert.AlreadyLoggedIn.message",
       "ident_android": "already_logged_in_message",
       "ident_webui": "",
       "en": "User %1$s is already signed in. If you'd like to use a different account, please sign out first and then try again.",
