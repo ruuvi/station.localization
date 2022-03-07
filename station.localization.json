@@ -1971,6 +1971,17 @@
       "de": "Aktuelle Version"
     },
     {
+      "ident_ios": "TagSettings.Firmware.CurrentVersion.VeryOld",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Very Old",
+      "fi": "Hyvin vanha",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "TagSettings.Firmware.UpdateFirmware",
       "ident_android": "firmware_update",
       "ident_webui": "",
