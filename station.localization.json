@@ -7526,6 +7526,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "update_downloaded_message",
+      "ident_webui": "",
+      "en": "An update has just been downloaded.",
+      "fi": "",
+      "ru": "Обновление готово к установке.",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "update_action",
+      "ident_webui": "",
+      "en": "RESTART",
+      "fi": "",
+      "ru": "ПЕРЕЗАПУСК",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
