@@ -7532,9 +7532,9 @@
       "ident_android": "update_downloaded_message",
       "ident_webui": "",
       "en": "An update has just been downloaded.",
-      "fi": "",
+      "fi": "Päivitys on ladattu.",
       "ru": "Обновление готово к установке.",
-      "sv": "",
+      "sv": "En uppdatering har laddats ner.",
       "fr": "",
       "de": ""
     },
@@ -7543,9 +7543,9 @@
       "ident_android": "update_action",
       "ident_webui": "",
       "en": "RESTART",
-      "fi": "",
+      "fi": "KÄYNNISTÄ UUDELLEEN",
       "ru": "ПЕРЕЗАПУСК",
-      "sv": "",
+      "sv": "STARTA OM",
       "fr": "",
       "de": ""
     }
