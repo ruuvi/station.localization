@@ -276,6 +276,17 @@
       "de": ""
     },
     {
+      "ident_ios": "Cards.LegacyFirmwareUpdateDialog.ShowUpdatingInstructions.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show updating instructions",
+      "fi": "Näytä päivitysohjeet",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Cards.Connected.title",
       "ident_android": "",
       "ident_webui": "",
