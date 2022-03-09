@@ -254,6 +254,28 @@
       "de": "Verbindung aufrecht erhalten"
     },
     {
+      "ident_ios": "Cards.LegacyFirmwareUpdateDialog.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Seems that your sensor is using an old firmware software version. To access new features such as history graphs, alerts and cloud services, updating is mandatory.",
+      "fi": "Näyttää siltä, että anturisi laiteohjelmistoversio on vanha. Käyttääksesi uusia ominaisuuksia kuten historiakuvaajia, hälytyksiä ja pilvipalvelua, päivitys on pakollinen.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Cards.LegacyFirmwareUpdateDialog.CancelConfirmation.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Are you sure? Without updating, you won't be able to claim ownership of the sensor, download history graphs and set alerts. The update includes also bug fixes. If you cancel now, you can start the update process again from the sensor's settings page.",
+      "fi": "Oletko varma? Ilman päivittämistä et voi vahvistaa anturin omistajuutta, ladata sen sisäistä historiaa etkä asettaa hälytyksiä. Päivitys sisältää myös bugikorjauksia. Mikäli peruutat nyt, voit aloittaa päivityksen uudelleen anturin asetussivulta käsin.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Cards.Connected.title",
       "ident_android": "",
       "ident_webui": "",
