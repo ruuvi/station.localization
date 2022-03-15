@@ -1105,12 +1105,12 @@
       "ident_ios": "Language.German",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Deutsche",
-      "fi": "Deutsche",
-      "ru": "Deutsche",
-      "sv": "Deutsche",
-      "fr": "Deutsche",
-      "de": "Deutsche"
+      "en": "Deutsch",
+      "fi": "Deutsch",
+      "ru": "Deutsch",
+      "sv": "Deutsch",
+      "fr": "Deutsch",
+      "de": "Deutsch"
     },
     {
       "ident_ios": "LocalNotificationsManager.DidConnect.title",
