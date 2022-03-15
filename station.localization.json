@@ -1102,6 +1102,17 @@
       "de": "Français"
     },
     {
+      "ident_ios": "Language.German",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Deutsche",
+      "fi": "Deutsche",
+      "ru": "Deutsche",
+      "sv": "Deutsche",
+      "fr": "Deutsche",
+      "de": "Deutsche"
+    },
+    {
       "ident_ios": "LocalNotificationsManager.DidConnect.title",
       "ident_android": "",
       "ident_webui": "",
