@@ -7581,6 +7581,28 @@
       "sv": "STARTA OM",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "open_settings",
+      "ident_webui": "",
+      "en": "Open settings",
+      "fi": "Avaa asetukset",
+      "ru": "Открыть настройки",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widgets_battery_optimisation_hint",
+      "ident_webui": "",
+      "en": "To allow Ruuvi widgets to refresh automatically, please disable the app's battery optimisation.",
+      "fi": "Jotta widgettien arvot voisivat päivittyä automaattisesti, poista sovelluksen virransäästöominaisuudet käytöstä.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
