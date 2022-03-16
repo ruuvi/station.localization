@@ -227,7 +227,7 @@
       "en": "This setting enables alerts for this sensor and allows collecting data from sensor locally while app is running in background.",
       "fi": "Tämä asetus mahdollistaa Bluetooth-hälytykset ja historiatietojen tallentamisen sovelluksen omaan muistiin silloinkin, kun sovellus on taka-alalla.",
       "ru": "",
-      "sv": "",
+      "sv": "Den här inställningen gör det möjligt använda alarm och spara sensordata, även när appen är i bakgrunden.",
       "fr": "",
       "de": ""
     },
@@ -260,7 +260,7 @@
       "en": "Seems that your sensor is using an old firmware software version. To access new features such as history graphs, alerts and cloud services, updating is mandatory.",
       "fi": "Näyttää siltä, että anturisi laiteohjelmistoversio on vanha. Käyttääksesi uusia ominaisuuksia kuten historiakuvaajia, hälytyksiä ja pilvipalvelua, päivitys on pakollinen.",
       "ru": "",
-      "sv": "",
+      "sv": "Det verkar som om din sensor använder en gammal programvaruversion. För att komma åt nya funktioner som historikgrafer, alarm och molntjänster krävs en mjukvaruuppdatering.",
       "fr": "",
       "de": ""
     },
@@ -271,7 +271,7 @@
       "en": "Are you sure? Without updating, you won't be able to claim ownership of the sensor, download history graphs and set alerts. The update includes also bug fixes. If you cancel now, you can start the update process again from the sensor's settings page.",
       "fi": "Oletko varma? Ilman päivittämistä et voi vahvistaa anturin omistajuutta, ladata sen sisäistä historiaa etkä asettaa hälytyksiä. Päivitys sisältää myös bugikorjauksia. Mikäli peruutat nyt, voit aloittaa päivityksen uudelleen anturin asetussivulta käsin.",
       "ru": "",
-      "sv": "",
+      "sv": "Är du säker? Utan uppdatering kommer du inte att kunna göra anspråk på äganderätten till sensorn, ladda ner historikdiagram och ställa in alarm. Uppdateringen innehåller även buggfixar. Om du avbryter nu kan du starta uppdateringsprocessen igen från sensorns inställningssida.",
       "fr": "",
       "de": ""
     },
@@ -282,7 +282,7 @@
       "en": "Show updating instructions",
       "fi": "Näytä päivitysohjeet",
       "ru": "",
-      "sv": "",
+      "sv": "Visa uppdateringsinstruktioner",
       "fr": "",
       "de": ""
     },
@@ -2021,7 +2021,7 @@
       "en": "Very Old",
       "fi": "Hyvin vanha",
       "ru": "Устаревшая",
-      "sv": "",
+      "sv": "Väldigt gammal",
       "fr": "",
       "de": ""
     },
@@ -7226,7 +7226,7 @@
       "en": "This feature requires a location permission. In order to include your location coordinates, please select if you want precise or approximate location and allow access while using the app when prompted in the next dialog.",
       "fi": "Tämä ominaisuus vaatii luvan paikkatiedon käyttöön. Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin, anna sovellukselle oikeus paikkatietojen käyttöön sovelluksen ollessa päällä ja lisäksi valitse haluatko käyttää tarkkaa vai summittaista paikkatietoa.",
       "ru": "Эта функция требует доступа к местоположению устройства. Чтобы добавить данные о местоположении, на следующем системном диалоге укажите хотите вы точное или примерное местоположение и разрешите доступ к местоположению пока приложение активно.",
-      "sv": "",
+      "sv": "Den här funktionen kräver platsbehörighet. För att inkludera dina platskoordinater, välj om du vill ha exakt eller ungefärlig plats och tillåt åtkomst medan du använder appen när du uppmanas till det i nästa dialogruta.",
       "fr": "",
       "de": ""
     },
@@ -7237,7 +7237,7 @@
       "en": "To be able to include location when app is running in background please allow the app to use your location 'all the time' when prompted in the next dialog.",
       "fi": "Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin sovelluksen ollessa tausta-ajossa, anna oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
       "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'",
-      "sv": "",
+      "sv": "För att kunna inkludera platskoordinater när appen körs i bakgrunden, låt appen använda din plats 'hela tiden' när du uppmanas till det i nästa dialogruta.",
       "fr": "",
       "de": ""
     },
@@ -7248,7 +7248,7 @@
       "en": "Please enable location permission in Settings to include coordinates",
       "fi": "",
       "ru": "Включите доступ к местоположению, чтобы добавить координаты",
-      "sv": "",
+      "sv": "Aktivera platsbehörighet i Inställningar för att inkludera koordinater",
       "fr": "",
       "de": ""
     },
@@ -7600,7 +7600,7 @@
       "en": "Open settings",
       "fi": "Avaa asetukset",
       "ru": "Открыть настройки",
-      "sv": "",
+      "sv": "Öppna inställningar",
       "fr": "",
       "de": ""
     },
@@ -7611,7 +7611,7 @@
       "en": "To allow Ruuvi widgets to refresh automatically, please disable the app's battery optimisation.",
       "fi": "Jotta widgettien arvot voisivat päivittyä automaattisesti, poista sovelluksen virransäästöominaisuudet käytöstä.",
       "ru": "",
-      "sv": "",
+      "sv": "För att tillåta widgetsvärden att uppdateras automatiskt, stäng av appens batterioptimering.",
       "fr": "",
       "de": ""
     }
