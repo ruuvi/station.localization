@@ -7179,12 +7179,12 @@
       "ident_ios": "TagSettings.Connection.description",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Sensor can not be connected when cloud mode is enabled",
-      "fi": "",
+      "en": "The sensor cannot be connected to via Bluetooth when the cloud mode is active. You can re-enable Bluetooth connection for the cloud sensors by disabling cloud mode in the app settings.",
+      "fi": "Anturiin ei voida yhdistää Bluetoothilla sovelluksen pilvitilan ollessa aktiivinen. Voit ottaa pilvianturiesi Bluetoothin takaisin käyttöön sammuttamalla pilvitilan sovelluksen asetussivulta.",
       "ru": "",
       "sv": "",
       "fr": "",
-      "de": ""
+      "de": "Der Sensor kann nicht über Bluetooth verbunden werden, wenn der Cloud-Modus aktiv ist. Sie können die Bluetooth-Verbindung für die Cloud-Sensoren wieder aktivieren, indem Sie den Cloud-Modus in den App-Einstellungen deaktivieren."
     },
     {
       "ident_ios": "",
