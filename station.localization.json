@@ -229,7 +229,7 @@
       "ru": "",
       "sv": "Den här inställningen gör det möjligt använda alarm och spara sensordata, även när appen är i bakgrunden.",
       "fr": "",
-      "de": ""
+      "de": "Diese Einstellung aktiviert Warnungen für diesen Sensor und ermöglicht das lokale Sammeln von Daten vom Sensor, während die App im Hintergrund ausgeführt wird."
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
@@ -262,7 +262,7 @@
       "ru": "",
       "sv": "Det verkar som om din sensor använder en gammal programvaruversion. För att komma åt nya funktioner som historikgrafer, alarm och molntjänster krävs en mjukvaruuppdatering.",
       "fr": "",
-      "de": ""
+      "de": "Scheint, dass Ihr Sensor eine alte Firmware-Softwareversion verwendet. Um auf neue Funktionen wie Verlaufsdiagramme, Warnungen und Cloud-Dienste zugreifen zu können, ist eine Aktualisierung obligatorisch."
     },
     {
       "ident_ios": "Cards.LegacyFirmwareUpdateDialog.CancelConfirmation.message",
@@ -273,18 +273,18 @@
       "ru": "",
       "sv": "Är du säker? Utan uppdatering kommer du inte att kunna göra anspråk på äganderätten till sensorn, ladda ner historikdiagram och ställa in alarm. Uppdateringen innehåller även buggfixar. Om du avbryter nu kan du starta uppdateringsprocessen igen från sensorns inställningssida.",
       "fr": "",
-      "de": ""
+      "de": "Bist du sicher? Ohne Aktualisierung können Sie den Besitz des Sensors nicht beanspruchen, Verlaufsdiagramme herunterladen und Warnungen einstellen. Das Update enthält auch Fehlerbehebungen. Wenn Sie jetzt abbrechen, können Sie den Update-Vorgang erneut von der Einstellungsseite des Sensors starten."
     },
     {
-      "ident_ios": "Cards.LegacyFirmwareUpdateDialog.ShowUpdatingInstructions.title",
+      "ident_ios": "Cards.LegacyFirmwareUpdateDialog.CheckForUpdate.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Show updating instructions",
-      "fi": "Näytä päivitysohjeet",
+      "en": "Check for update",
+      "fi": "Tarkista päivitykset",
       "ru": "",
       "sv": "Visa uppdateringsinstruktioner",
       "fr": "",
-      "de": ""
+      "de": "Überprüfe auf Updates"
     },
     {
       "ident_ios": "Cards.Connected.title",
@@ -2023,7 +2023,7 @@
       "ru": "Устаревшая",
       "sv": "Väldigt gammal",
       "fr": "",
-      "de": ""
+      "de": "Sehr alt"
     },
     {
       "ident_ios": "TagSettings.Firmware.UpdateFirmware",
@@ -7140,7 +7140,7 @@
       "ru": "Пользователь {%@^%1$s} уже совершил вход. Если вы хотите войти под другим аккаунтом, пожалуйста вначале выйдите, а затем повторите попытку.",
       "sv": "Användare {%@^%1$s} är redan inloggad. Om du vill använda ett annat konto, logga ut först och försök sedan igen.",
       "fr": "",
-      "de": ""
+      "de": "Benutzer %@ ist bereits angemeldet. Wenn Sie ein anderes Konto verwenden möchten, melden Sie sich bitte zuerst ab und versuchen Sie es dann erneut."
     },
     {
       "ident_ios": "Settings.Label.CloudMode",
@@ -7154,13 +7154,35 @@
       "de": ""
     },
     {
-      "ident_ios": "Settings.Label.CloudMode.description",
+      "ident_ios": "",
       "ident_android": "cloud_only_mode_description",
       "ident_webui": "",
       "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages. Requires a Ruuvi Gateway router.",
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden. Kräver en Ruuvi Gateway.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Settings.Label.CloudMode.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages and receiving alerts only by email. Requires a Ruuvi Gateway router.",
+      "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä ja vastaanota ainoastaan sähköpostihälytyksiä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router."
+    },
+    {
+      "ident_ios": "TagSettings.Connection.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sensor can not be connected when cloud mode is enabled",
+      "fi": "",
+      "ru": "",
+      "sv": "",
       "fr": "",
       "de": ""
     },
