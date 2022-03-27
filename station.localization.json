@@ -4844,6 +4844,17 @@
       "de": "Nach der Anmeldung werden Sie automatisch als Besitzer Ihrer Ruuvi-Sensoren in der Nähe markiert. Die Sensoren werden nach einer Neuinstallation der App wiederhergestellt.\\n\\nMit einem Ruuvi Gateway-Router können Sie die Sensoren aus der Ferne überwachen und mit Ihren Freunden teilen."
     },
     {
+      "ident_ios": "",
+      "ident_android": "sign_in_benefits_title",
+      "ident_webui": "",
+      "en": "Benefits of the Ruuvi cloud service",
+      "fi": "Ruuvin pilvipalvelun etuja",
+      "ru": "",
+      "sv": "Fördelarna med Ruuvi cloud",
+      "fr": "",
+      "de": "Vorteile des Ruuvi Cloud-Dienstes"
+    },
+    {
       "ident_ios": "SignIn.EmailPlaceholder",
       "ident_android": "email",
       "ident_webui": "email",
@@ -4939,7 +4950,7 @@
       "fi": "Anturit, joiden omistajuuden olet vahvistanut asetussivulla poistetaan sovelluksesta automaattisesti uloskirjauduttaessa. Anturitiedot palautetaan pilvipalvelusta samalla sähköpostiosoitteella uudelleenkirjauduttaessa.\\n\\nHaluatko varmasti kirjautua ulos?",
       "ru": "После выхода все датчики, которые зарегистрованы на вас, будут удалены из приложения. Если вы повторно войдете с тем же email адресом, список ваших датчиков будет загружен из облака. \\n\\nВы хотите выйти из сети?",
       "sv": "Sensorer som du har verifierat äganderätten till på inställningssidan tas automatiskt bort från appen när du loggar ut. Sensordata hämtas från molnet igen om du loggar in med samma e-postadress.\\n\\nÄr du säker på att du vill logga ut? ",
-      "fr": "",
+      "fr": "Les capteurs dont vous êtes propriétaire seront suspprimés de l'application lorsque vous vous déconnectez de votre compte Ruuvi. Les données seront importées du cloud lorsque vous vous connectez à nouveau.\\n\\nSouhaitez vous vous déconnecter ?",
       "de": "Wenn Sie sich abmelden, werden Sensoren, deren Eigentum Sie mit den Sensoreinstellungen bestätigt haben, automatisch aus der App entfernt. Wenn Sie sich erneut mit derselben E-Mail-Adresse anmelden, werden die Sensoren aus der Cloud zurückgegeben.\\n\\nMöchten Sie sich abmelden?"
     },
     {
@@ -4950,7 +4961,7 @@
       "fi": "Vahvista omistajuus",
       "ru": "Заявить о собственности",
       "sv": "Bekräfta ägandet",
-      "fr": "",
+      "fr": "Confirmer l'appropriation",
       "de": "Inhaberschaft beanspruchen"
     },
     {
@@ -4961,7 +4972,7 @@
       "fi": "Vapauta omistajuus",
       "ru": "Отказаться от владения",
       "sv": "Hävda ägande",
-      "fr": "",
+      "fr": "Réinitialiser l'appropriation",
       "de": "Eigentumsanspruch aufheben"
     },
     {
@@ -5093,7 +5104,7 @@
       "fi": "Voit jakaa tämän anturin ystäville tai perheenjäsenille, mikäli laite on Ruuvi Gateway -reitittimen kuuluvuusalueella.\\n\\nVastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.\\n\\nAnturin nimi ja taustakuva jaetaan vastaanottajalle vain kertaalleen. Sen jälkeen kumpikin voivat muokata vain omia anturiasetuksiaan. Kalibrointiarvot (mikäli käytössä) synkronoidaan automaattisesti jaetuille antureille ja vastaanottaja näkee vain lopulliset korjatut arvot.",
       "ru": "Вы можете поделиться измерениями этого датчика с друзьями или членами семьи, если датчик находится в радиусе действия Ruuvi Gateway.\\n\\nПолучатель будет извещен по электронной почте. Если у него нет аккаунта Ruuvi, то бесплатный аккаунт будет создан при первом входе.\\n\\nНазвание датчика и изображение использованное в качестве фона будет также доступно для пользователя. Пользователь сможет позже изменить название и изображение на удобное для себя. Данные калибровки датчика (если они были установлены владельцем) будут автоматически синхронизированы и получатель всегда будет видеть данные после калибровки.",
       "sv": "Du kan dela sensorn med vänner och familj om den är inom räckhåll för en Ruuvi Gateway.\\n\\nMottagaren meddelas via e-post. Om mottagaren inte har ett Ruuvi-konto skapas ett gratis Ruuvi-konto automatiskt vid första inloggningen.\\n\\nObservera att sensorns anpassade namn och bakgrundsbild delas. Namnet och bildsynkroniseringen sker endast vid en gång, efteråt kan det anpassas av mottagaren. Kalibreringsvärden (om sådana finns) synkroniseras automatiskt och mottagaren ser alltid de korrigerade värdena.",
-      "fr": "",
+      "fr": "Vous pouvez partager ce capteur à des amis ou à des membres de votre famille si le capteur est à portée du routeur Ruuvi Gateway.\\n\\nL'utilisateur recevra une notification par mail. Le compte Ruuvi est créé en utilisant une adresse mail; si l'utilisateur n'en possède pas encore.\\n\\Le nom du capteur ainsi que le fond d'écran sont partgés seulement une fois. Si la fonction calibrage est utilisée, les utilisateurs verront seulement la valeur finale une fois ajustée.",
       "de": "Sie können den Sensor mit Freunden und Familie teilen, wenn er sich in Reichweite eines Ruuvi Gateways befindet.\\n\\nDer Empfänger wird per E-Mail benachrichtigt. Wenn der Empfänger kein Ruuvi-Konto hat, wird beim ersten Anmelden automatisch ein kostenloses Ruuvi-Konto erstellt.\\n\\nBeachten Sie, dass der benutzerdefinierte Name und das Hintergrundbild des Sensors geteilt werden. Der Name und das Bild werden nur einmal synchronisiert und können danach vom Empfänger privat angepasst werden. Vom Besitzer eingestellte Offset-Werte (sofern vorhanden) werden automatisch synchronisiert und der Empfänger sieht immer die endgültigen korrigierten Werte."
     },
     {
@@ -5368,7 +5379,7 @@
       "fi": "Jotta voit jakaa anturin, sen täytyy olla Ruuvi Gateway -reitittimen kuuluvuusalueella",
       "ru": "Чтобы поделиться датчиком необходимо наличие Ruuvi Gateway поблизости",
       "sv": "För att dela sensorn måste du ha en Ruuvi Gateway router i närheten av sensorn",
-      "fr": "",
+      "fr": "Pour partager le capteur, ce dernier doit être à portée du routeur Ruuvi Gateway",
       "de": "Um den Sensor zu teilen, benötigen Sie einen Ruuvi Gateway-Router in der Nähe des Sensors"
     },
     {
@@ -6534,7 +6545,7 @@
       "fi": "Anturit",
       "ru": "Датчики",
       "sv": "Sensorer",
-      "fr": "",
+      "fr": "Capteurs",
       "de": "Sensoren"
     },
     {
@@ -6545,7 +6556,7 @@
       "fi": "Hälytykset",
       "ru": "Уведомления",
       "sv": "Alarm",
-      "fr": "",
+      "fr": "Alerte",
       "de": "Benachrichtigungen"
     },
     {
@@ -6556,7 +6567,7 @@
       "fi": "Anturin tiedot",
       "ru": "Данные датчика",
       "sv": "Sensor info",
-      "fr": "",
+      "fr": "Informations du capteur",
       "de": "Sensor info"
     },
     {
@@ -6567,7 +6578,7 @@
       "fi": "Poista tämä anturi",
       "ru": "Удалить датчик",
       "sv": "Ta bort sensorn",
-      "fr": "",
+      "fr": "Retirer le capteur",
       "de": "Entfernen Sie diesen Sensor"
     },
     {
@@ -6578,7 +6589,7 @@
       "fi": "Anna sähköpostiosoitteesi. Kirjautumiskoodi lähetetään sinulle sähköpostitse",
       "ru": "Укажите свой email ниже. Вы получите письмо с кодом подтверждения",
       "sv": "Ange din epost-adress. Du kommer att få en bekräftelsekod i din epost.",
-      "fr": "",
+      "fr": "Entrez votre adresse mail. Vous allez recvoir un code d'inscription par email.",
       "de": "Geben Sie unten Ihre E-Mail ein. Sie erhalten einen Bestätigungscode in Ihrem Posteingang"
     },
     {
@@ -6589,8 +6600,19 @@
       "fi": "Kertaa",
       "ru": "Раз",
       "sv": "Gånger",
-      "fr": "",
+      "fr": "Fois",
       "de": "Zeiten"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sensors",
+      "fi": "Anturit",
+      "ru": "",
+      "sv": "Sensorer",
+      "fr": "",
+      "de": "Sensoren"
     },
     {
       "ident_ios": "",
@@ -6611,7 +6633,7 @@
       "fi": "Päivitä",
       "ru": "Обновить",
       "sv": "Uppdatera",
-      "fr": "",
+      "fr": "Mettre à jour",
       "de": "Update"
     },
     {
@@ -6622,7 +6644,7 @@
       "fi": "Viimeinen",
       "ru": "Последний",
       "sv": "Senaste",
-      "fr": "",
+      "fr": "Dernier",
       "de": "Zuletzt"
     },
     {
@@ -6633,7 +6655,7 @@
       "fi": "Aika",
       "ru": "Время",
       "sv": "Tid",
-      "fr": "",
+      "fr": "Temps",
       "de": "Zeit"
     },
     {
@@ -6644,7 +6666,7 @@
       "fi": "Anturi jaettu onnistuneesti",
       "ru": "Успешно поделились данными датчика",
       "sv": "Delningen lyckades",
-      "fr": "",
+      "fr": "Capteur partagé avec succès",
       "de": "Sensor erfolgreich geteilt"
     },
     {
@@ -6655,7 +6677,7 @@
       "fi": "Yleisasetukset",
       "ru": "Основное",
       "sv": "Allmänt",
-      "fr": "",
+      "fr": "Général",
       "de": "Allgemein"
     },
     {
@@ -6666,7 +6688,7 @@
       "fi": "Poista tämä anturi",
       "ru": "Удалить этот датчик",
       "sv": "Ta bort sensorn",
-      "fr": "",
+      "fr": "Supprimer le capteur",
       "de": "Entfernen Sie diesen Sensor"
     },
     {
@@ -6677,7 +6699,7 @@
       "fi": "Jaettu",
       "ru": "Поделились",
       "sv": "Delad",
-      "fr": "",
+      "fr": "Partagé",
       "de": "Geteilt"
     },
     {
@@ -6688,7 +6710,7 @@
       "fi": "Ei jaettu",
       "ru": "Не делились",
       "sv": "Inte delad",
-      "fr": "",
+      "fr": "Non partagé",
       "de": "Nicht geteilt"
     },
     {
@@ -6699,7 +6721,7 @@
       "fi": "Vahvista omistajuus",
       "ru": "Заявить о собственности",
       "sv": "Bekräfta ägandet",
-      "fr": "",
+      "fr": "Confirmer l'appropriation",
       "de": "Sensor beanspruchen"
     },
     {
@@ -6710,7 +6732,7 @@
       "fi": "Vahvista Omistajuus",
       "ru": "Заявить о владении",
       "sv": "Bekräfta Ägandet",
-      "fr": "",
+      "fr": "Confirmer l'appropriation",
       "de": "Inhaberschaft beanspruchen"
     },
     {
@@ -6721,7 +6743,7 @@
       "fi": "Omistatko tämän anturin? Vahvista omistajuus ja anturi lisätään Ruuvi-tilillesi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.\\n\\nHyödyt:\\n\\n ● Anturien nimet, taustakuvat sekä kalibrointi- ja hälytysasetukset tallentuvat turvallisesti tilillesi pilvipalveluun\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Selaa jopa 2 vuoden historiatietoja osoitteessa station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
       "ru": "Это ваш датчик? Если да, то пожалуйста заявите о владении и датчик будет добавлен в ваш Ruuvi аккаунт. Каждый датчик может иметь только одного владельца.\\n\\nПреимущества:\\n\\n ● Название датчика, изображение фона, данные калибровки и настройки тревог будут безопасно храниться в облаке\\n\\n ● Получите доступ к датчикам через интернет (требуестся Ruuvi Gateway)\\n\\n ● Поделитесь данными датчиков с друзьями и членами семьи (требуется Ruuvi Gateway)\\n\\n ● Просматривайте до 2-х лет истории на сайте station.ruuvi.com (требуется a Ruuvi Gateway)",
       "sv": "Äger du den här sensorn? Bekräfta ägandet och så läggs sensorn till på ditt Ruuvi-konto. Varje Ruuvi-sensor kan bara ha en ägare.\\n\\nFördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
-      "fr": "",
+      "fr": "Êtes-vous propriétaire de ce capteur ? En devenant propriétaire, le capteur sera associé à votre compte Ruuvi. Chaque capteur ne peut avoir qu'un seul propriétaire.\\n\\nAvantages :\\n\\n ● Les noms, fonds d'écrans, les réglages de calibration, ainsi que les alertes sont enregistrés de façon sécurisée dans notre cloud\\n\\n ● Consultez les données à distance depuis n'importe quel navigateur (routeur Ruuvi Gateway requis)\\n\\n ● Partager les capteurs avec votre famille ou des amis (routeur Ruuvi Gateway requis)\\n\\n ● consultez jusqu'à deux ans d'historique de vos données sur le site station.ruuvi.com (routeur Ruuvi Gateway requis)",
       "de": "Besitzen Sie diesen Sensor? Wenn ja, beanspruchen Sie bitte den Besitz des Sensors und er wird Ihrem Ruuvi-Konto hinzugefügt. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.\\n\\nVorteile:\\n\\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\\n\\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\\n\\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\\n\\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)"
     },
     {
@@ -6732,7 +6754,7 @@
       "fi": "Anturin omistajuus vahvistettu",
       "ru": "Владение датчиком зарегистрировано",
       "sv": "Sensorägande bekräftat",
-      "fr": "",
+      "fr": "Appropriation confirmée",
       "de": "Besitz des Sensors erfolgreich beansprucht"
     },
     {
@@ -6743,7 +6765,7 @@
       "fi": "Anturin poistaminen mitätöi omistajuuden. Kuka tahansa voi vaatia anturin omistajuutta poistamisen jälkeen. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "Удаляя датчик вы также отказываетесь от владения. Кто-то другой сможет заявить о владении этим датчиком. Каждый датчик может иметь только одного владельца.",
       "sv": "Om du tar bort sensorn upphör ägarskapet. Vem som helst kan göra anspråk på ägandet av sensorn efter borttagning. Varje Ruuvi-sensor kan bara ha en ägare.",
-      "fr": "",
+      "fr": "Le propriétaire sera réinitialisé en supprimant le capteur. N'importe qui pourra alors s'approprier le capteur. Chaque capteur Ruuvi ne pouvant avoir qu'un propriétaire.",
       "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus widerrufen. Nach dem Entfernen kann eine andere Person das Eigentum an dem Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben."
     },
     {
@@ -6754,7 +6776,7 @@
       "fi": "Poistamisesta ilmoitetaan anturin omistajalle ja anturin tietojen lukuoikeus päättyy.",
       "ru": "Если вы удалите датчик, то владелец будет уведомлен и вы более не сможете получать данные с него.",
       "sv": "Om du tar bort sensorn så meddelas ägaren till sensorn och du kan inte komma åt den längre.",
-      "fr": "Si vous supprimez le capteur, le propriétaire du capteur sera averti et vous ne pourrez plus accéder au capteur.",
+      "fr": "En supprimant le capteur vous n'aurez plus accès aux données du capteur et une notification sera envoyée au propriétaire.",
       "de": "Wenn Sie den Sensor entfernen, wird der Besitzer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen."
     },
     {
@@ -6765,7 +6787,7 @@
       "fi": "Ei omistajaa",
       "ru": "Нет владельца",
       "sv": "Ingen",
-      "fr": "",
+      "fr": "Pas de propriétaire",
       "de": "Keiner"
     },
     {
@@ -6787,7 +6809,7 @@
       "fi": "Kirjautunut:",
       "ru": "Пользователь:",
       "sv": "Inloggad:",
-      "fr": "",
+      "fr": "Connecté :",
       "de": "Eingeloggt:"
     },
     {
@@ -6809,7 +6831,7 @@
       "fi": "viikko",
       "ru": "неделя",
       "sv": "Vecka",
-      "fr": "",
+      "fr": "Semaine",
       "de": "Woche"
     },
     {
@@ -6820,7 +6842,7 @@
       "fi": "viikkoa",
       "ru": "Недель",
       "sv": "Veckor",
-      "fr": "",
+      "fr": "Semaines",
       "de": "Wochen"
     },
     {
@@ -6831,7 +6853,7 @@
       "fi": "kuukausi",
       "ru": "Месяц",
       "sv": "Månad",
-      "fr": "",
+      "fr": "Mois",
       "de": "Monat"
     },
     {
@@ -6842,7 +6864,7 @@
       "fi": "kuukautta",
       "ru": "Месяцев",
       "sv": "Månader",
-      "fr": "",
+      "fr": "Mois",
       "de": "Monate"
     },
     {
@@ -6853,7 +6875,7 @@
       "fi": "tunti",
       "ru": "час",
       "sv": "Timme",
-      "fr": "",
+      "fr": "Heure",
       "de": "Stunde"
     },
     {
@@ -6886,7 +6908,7 @@
       "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
       "ru": "Нет данных.\nДатчик должен находиться в зоне действия Ruuvi Gateway.",
       "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
-      "fr": "",
+      "fr": "Pas de données de mesure.\nLe capteur doit être à la portée du routeur.",
       "de": "Keine Daten. Der Sensor muss sich in Reichweite eines Gateways befinden."
     },
     {
@@ -6897,7 +6919,7 @@
       "fi": "Tältä ajalta ei ole tietoja",
       "ru": "Нет данных для выбранного временного промежутка",
       "sv": "Ingen data för detta tidsintervall",
-      "fr": "",
+      "fr": "Pas de données pour cet intervalle",
       "de": "Keine Daten für diesen Zeitraum"
     },
     {
@@ -6908,7 +6930,7 @@
       "fi": "Anturisi asettuvat automaattisesti aakkosjärjestykseen.",
       "ru": "Датчики будут отсортированы в алфавитном порядке.",
       "sv": "Dina sensorer kommer att vara i alfabetisk ordning.",
-      "fr": "Ваши датчики будут в алфавитном порядке",
+      "fr": "Les capteurs sont dans l'ordre alphabétique.",
       "de": "Ihre Sensoren werden in alphabetischer Reihenfolge angezeigt."
     },
     {
@@ -6919,7 +6941,7 @@
       "fi": "Yhteys päivitettävään laitteeseen menetetty",
       "ru": "Потеряно соединение с датчиком",
       "sv": "Kontakten till sensor förlorades",
-      "fr": "",
+      "fr": "Connexion interrompue avec le capteur",
       "de": ""
     },
     {
@@ -6930,7 +6952,7 @@
       "fi": "Laiteohjelmiston päivitys epäonnistui",
       "ru": "Сбой обновления прошивки",
       "sv": "Programvaruuppdateringen misslyckades",
-      "fr": "",
+      "fr": "Echec de la mise à jour système",
       "de": ""
     },
     {
@@ -7579,7 +7601,7 @@
       "fi": "",
       "ru": "",
       "sv": "",
-      "fr": "",
+      "fr": "Mise à jour invalide",
       "de": ""
     },
     {

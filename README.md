@@ -1,4 +1,4 @@
-# station.localization
+# Ruuvi Station Localization Project
 This project was created to get single place for localization strings used in Ruuvi Station application for both platforms at once: iOS and Android. This should help to enforce unified user experience. 
 
 ## Supported languages 
@@ -17,11 +17,12 @@ If you want to add new language and ready to help with translation send email to
 Main file of repository containing all localized strings
 
 #### Directory localize.converter.android
-Tool we use to convert from *station.localization.json* to *string.xml* files for Android project
+Tool we use to convert from *station.localization.json* to *strings.xml* files for Android project
 
 ## Branches
 **master** - main branch for confirmed translations
-**dev** - working branch. If you want to participate in translation project you should fork from this branch.
+
+**dev** - working branch
 
 ## Structure of station.localization.json
 File consist of one root `translations` element with many childs. Each child is a translation of one specific string. If string is used in Android application `ident_android` will be filled. Same for iOS and `ident_ios`. These 2 fields are being filled by developers and should not be modified.
