@@ -5192,7 +5192,7 @@
       "fi": "Ruuvin pilven tila",
       "ru": "Статус сети Ruuvi",
       "sv": "Ruuvi cloud status",
-      "fr": "",
+      "fr": "Statut du Ruuvi cloud",
       "de": "Ruuvi-Cloud-Status"
     },
     {
@@ -6941,7 +6941,7 @@
       "fi": "Laiteohjelmisto ei kelpaa",
       "ru": "Неверный файл обновления",
       "sv": "Ogiltig programmvara",
-      "fr": "",
+      "fr": "Mise à jour invalide",
       "de": ""
     },
     {
@@ -6952,7 +6952,7 @@
       "fi": "Laiteohjelmiston lataaminen epäonnistui. Tarkasta Internet-yhteyden tila.",
       "ru": "Не удалось получить последнюю версию прошивки. Проверьте подключение к интернету.",
       "sv": "Nedladdning av programvara misslyckades. Kontrollera din internetanslutning.",
-      "fr": "",
+      "fr": "Echec du téléchargement de la mise à jour. Veuillez vérifier votre connexion Internet.",
       "de": ""
     },
     {
@@ -6963,7 +6963,7 @@
       "fi": "Tuntematon virhe",
       "ru": "Неизвестная ошибка",
       "sv": "Okänt fel",
-      "fr": "",
+      "fr": "Erreur inconnue",
       "de": ""
     },
     {
@@ -6974,7 +6974,7 @@
       "fi": "Päällä",
       "ru": "Вкл",
       "sv": "På",
-      "fr": "",
+      "fr": "Activé",
       "de": ""
     },
     {
@@ -6985,7 +6985,7 @@
       "fi": "Pois",
       "ru": "Выкл",
       "sv": "Av",
-      "fr": "",
+      "fr": "Désactivé",
       "de": ""
     },
     {
@@ -6996,7 +6996,7 @@
       "fi": "Anturin paristojännite on alhainen ja päivitysprosessi voi epäonnistua. Suosittelemme vaihtamaan pariston ennen ohjelmiston päivittämistä.",
       "ru": "Уровень заряда батареи датчика слишком низкий и обновление прошивки может завершиться неудачей. Мы рекомендуем заменить батарейку перед обновлением.",
       "sv": "Sensorns batterispänning är låg och uppgraderingsprocessen kan misslyckas. Vi rekommenderar att du byter ut batteriet innan du uppdaterar programvaran.",
-      "fr": "",
+      "fr": "La tension de la pile du capteur est faible et risque de faire echouer la mise à jour. Nous vous conseillons de remplacer la batterie avant la mise à jour.",
       "de": ""
     },
     {
@@ -7007,7 +7007,7 @@
       "fi": "Ilmankosteus on yli %1$s",
       "ru": "Влажность выше %1$s",
       "sv": "Luftfuktigheten är över %1$s",
-      "fr": "",
+      "fr": "L'humidité de l'air est supérieure à %1$s",
       "de": ""
     },
     {
@@ -7018,7 +7018,7 @@
       "fi": "Ilmankosteus on alle %1$s",
       "ru": "Влажность ниже %1$s",
       "sv": "Luftfuktigheten är under %1$s",
-      "fr": "",
+      "fr": "L'humidité de l'air est inférieure à %1$s",
       "de": ""
     },
     {
@@ -7029,7 +7029,7 @@
       "fi": "Ilmanpaine on yli %1$s",
       "ru": "Давление выше %1$s",
       "sv": "Lufttrycket är över %1$s",
-      "fr": "",
+      "fr": "La pression de l'air est supérieure à %1$s",
       "de": ""
     },
     {
@@ -7040,7 +7040,7 @@
       "fi": "Ilmanpaine on alle %1$s",
       "ru": "Давление ниже %1$s",
       "sv": "Lufttrycket är under %1$s",
-      "fr": "",
+      "fr": "La pression de l'air est inférieure à %1$s",
       "de": ""
     },
     {
@@ -7051,7 +7051,7 @@
       "fi": "Signaalinvoimakkuus on yli %1$s",
       "ru": "Сила сигнала выше %1$s",
       "sv": "Signalstyrkan är över %1$s",
-      "fr": "",
+      "fr": "La puissance du signal est supérieure à %1$s",
       "de": ""
     },
     {
@@ -7062,7 +7062,7 @@
       "fi": "Signaalinvoimakkuus on alle %1$s",
       "ru": "Сила сигнала ниже %1$s",
       "sv": "Signalstyrkan är under %1$s",
-      "fr": "",
+      "fr": "La puissance du signal est inférieure à %1$s",
       "de": ""
     },
     {
@@ -7073,7 +7073,7 @@
       "fi": "Lämpötila on yli %1$s",
       "ru": "Температура выше %1$s",
       "sv": "Temperaturen är över %1$s",
-      "fr": "",
+      "fr": "La température est supérieure à %1$s",
       "de": ""
     },
     {
@@ -7084,7 +7084,7 @@
       "fi": "Lämpötila on alle %1$s",
       "ru": "Температура ниже %1$s",
       "sv": "Temperaturen är under %1$s",
-      "fr": "",
+      "fr": "La température est inférieure à %1$s",
       "de": ""
     },
     {
@@ -7095,7 +7095,7 @@
       "fi": "Vaikuttaa siltä, että tämä on uusi käyttäjätili ilman antureita. Kirjaudu sisään mobiilisovelluksessa samalla sähköpostiosoitteella ja vahvista Ruuvi-anturiesi omistajuus.\\n\\nHuom: Anturien etäseuranta pilven kautta vaatii Ruuvi Gateway -reitittimen. Tilaa lisää Ruuvin antureita ja Gateway osoitteessa ruuvi.com",
       "ru": "Похоже, что это новый аккаунт без датчиков. Войдите в мобильное приложение под таким же адресом электронной почты и заявите о владении своих Ruuvi датчиков.\\n\\nПримечание: доступ к вашим датчикам через облако требует наличия Ruuvi Gateway. Закажите датчики и Gateway на сайте ruuvi.com",
       "sv": "Det ser ut som att detta är ett nytt användarkonto utan sensorer. Logga in på mobilappen med samma e-postadress och bekräfta äganderätten till dina Ruuvi sensorer.\\n\\nObs: För att se data från sensorer via molnet kräver en Ruuvi Gateway-router. Beställ fler Ruuvi sensorer och Gateway på ruuvi.com",
-      "fr": "",
+      "fr": "Il semblerait que ceci est un nouveau compte sans capteurs encore associés. Connectez-vous depuis l'application mobile avec cette adresse mail pour vous approprier les capteurs.\\n\\nRemarque : pour suivre les capteurs à distance vous aurez besoin du routeur Ruuvi Gateway. Commandez d'avantage de capteurs Ruuvi ainsi que le Gateway sur le site ruuvi.com",
       "de": ""
     },
     {
@@ -7106,7 +7106,7 @@
       "fi": "joka %1$s min",
       "ru": "каждые %1$s мин",
       "sv": "varje %1$s min",
-      "fr": "",
+      "fr": "toutes les %1$s min",
       "de": ""
     },
     {
@@ -7117,7 +7117,7 @@
       "fi": "joka %1$s sek",
       "ru": "каждые %1$s сек",
       "sv": "varje %1$s sek",
-      "fr": "",
+      "fr": "toutes les %1$s sec",
       "de": ""
     },
     {
@@ -7128,7 +7128,7 @@
       "fi": "Päivien lukumäärä: %1$s ",
       "ru": "Количество дней: %1$s",
       "sv": "Antal dagar: %1$s",
-      "fr": "",
+      "fr": "Nombre de jours : %1$s",
       "de": ""
     },
     {
@@ -7139,7 +7139,7 @@
       "fi": "Käyttäjä {%@^%1$s} on jo kirjautuneena sisälle. Mikäli haluat käyttää toista tiliä, kirjaudu ensin ulos ja yritä sitten uudelleen.",
       "ru": "Пользователь {%@^%1$s} уже совершил вход. Если вы хотите войти под другим аккаунтом, пожалуйста вначале выйдите, а затем повторите попытку.",
       "sv": "Användare {%@^%1$s} är redan inloggad. Om du vill använda ett annat konto, logga ut först och försök sedan igen.",
-      "fr": "",
+      "fr": "L'utilisateur {%@^%1$s} est déjà connecté. Si vous souhaitez utiliser un autre compte veuillez vous déconnecter d'abord.",
       "de": "Benutzer %@ ist bereits angemeldet. Wenn Sie ein anderes Konto verwenden möchten, melden Sie sich bitte zuerst ab und versuchen Sie es dann erneut."
     },
     {
@@ -7150,7 +7150,7 @@
       "fi": "Pilvitila",
       "ru": "Режим облака",
       "sv": "Molnläge",
-      "fr": "",
+      "fr": "Statut du cloud",
       "de": ""
     },
     {
@@ -7161,7 +7161,7 @@
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden. Kräver en Ruuvi Gateway.",
-      "fr": "",
+      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement en rejetant les messages Bluetooth depuis le could. Nécessite le routeur Ruuvi Gateway",
       "de": ""
     },
     {
@@ -7172,7 +7172,7 @@
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä ja vastaanota ainoastaan sähköpostihälytyksiä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "",
       "sv": "",
-      "fr": "",
+      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway",
       "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router."
     },
     {
@@ -7183,7 +7183,7 @@
       "fi": "Anturiin ei voida yhdistää Bluetoothilla sovelluksen pilvitilan ollessa aktiivinen. Voit ottaa pilvianturiesi Bluetoothin takaisin käyttöön sammuttamalla pilvitilan sovelluksen asetussivulta.",
       "ru": "",
       "sv": "",
-      "fr": "",
+      "fr": "Impossible de se connecter au capteur tant que le statut du cloud est actif. Vous pouvez modifier le statut dans les paramètres de l'application.",
       "de": "Der Sensor kann nicht über Bluetooth verbunden werden, wenn der Cloud-Modus aktiv ist. Sie können die Bluetooth-Verbindung für die Cloud-Sensoren wieder aktivieren, indem Sie den Cloud-Modus in den App-Einstellungen deaktivieren."
     },
     {
@@ -7194,7 +7194,7 @@
       "fi": "Työpöytäselain: Lähennä valitsemalla haluttu alue hiirellä.\n\nMobiiliselain: Lähennä ja loitonna kahdella sormella.\n\nPalauta näkymä alkuperäiseen klikkaamalla/napauttamalla kuvaajaa kaksi kertaa.",
       "ru": "Браузер компьютера: выбирайте желаемый временной отрезок курсором мыши.\n\nМобильный браузер: приближайте исплользуя два пальца.\n\nСбросить настройки зума при помощи двойного клика/тапа по графику.",
       "sv": "Desktop webbläsare: Markera önskat område med musen för att zooma in.\n\nMobil webbläsare: Zooma in och ut med två fingrar.\n\nDubbelklicka på grafen för att återställá.",
-      "fr": "",
+      "fr": "Application web : zoomez en selectionnant la zone désirée avec votre souris.\n\nApplication mobile : zoomez et dézoomez en utilisant deux doigts.\n\nPour revenir à l'echelle initiale double cliquez sur le graphique",
       "de": ""
     },
     {
@@ -7205,7 +7205,7 @@
       "fi": "Tallennettu onnistuneesti",
       "ru": "Успешно сохранено",
       "sv": "Sparat",
-      "fr": "",
+      "fr": "Enregistré avec succès",
       "de": ""
     },
     {
@@ -7216,7 +7216,7 @@
       "fi": "Ongelma internet-yhteydessä",
       "ru": "Проблема с подключением",
       "sv": "Internetanslutningsproblem",
-      "fr": "",
+      "fr": "Problème de connexion Internet",
       "de": ""
     },
     {
@@ -7227,7 +7227,7 @@
       "fi": "Taustaskannaus",
       "ru": "Фоновое сканирование",
       "sv": "Bakgrundsskanning",
-      "fr": "",
+      "fr": "Balayage en arrière plan",
       "de": ""
     },
     {
@@ -7238,7 +7238,7 @@
       "fi": "Lähetä myös tämän laitteen paikkatietokoordinaatit",
       "ru": "Отправлять также координаты местоположения устройство",
       "sv": "Skicka även platskoordinater för denna enhet",
-      "fr": "",
+      "fr": "Partager également la géolocalisation de cet appareil",
       "de": ""
     },
     {
@@ -7249,7 +7249,7 @@
       "fi": "Tämä ominaisuus vaatii luvan paikkatiedon käyttöön. Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin, anna sovellukselle oikeus paikkatietojen käyttöön sovelluksen ollessa päällä ja lisäksi valitse haluatko käyttää tarkkaa vai summittaista paikkatietoa.",
       "ru": "Эта функция требует доступа к местоположению устройства. Чтобы добавить данные о местоположении, на следующем системном диалоге укажите хотите вы точное или примерное местоположение и разрешите доступ к местоположению пока приложение активно.",
       "sv": "Den här funktionen kräver platsbehörighet. För att inkludera dina platskoordinater, välj om du vill ha exakt eller ungefärlig plats och tillåt åtkomst medan du använder appen när du uppmanas till det i nästa dialogruta.",
-      "fr": "",
+      "fr": "Cette fonctionnalité nécessite l'accès à la position de l'appareil. Veuillez donner les autorisations nécessaires depuis les réglages de l'appareil et choisir la précision de la localisation.",
       "de": ""
     },
     {
@@ -7260,7 +7260,7 @@
       "fi": "Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin sovelluksen ollessa tausta-ajossa, anna oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
       "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'",
       "sv": "För att kunna inkludera platskoordinater när appen körs i bakgrunden, låt appen använda din plats 'hela tiden' när du uppmanas till det i nästa dialogruta.",
-      "fr": "",
+      "fr": "Pour partager la position même lorsque l'application est en arrière-plan, veuillez choisir 'toujours'",
       "de": ""
     },
     {
@@ -7271,7 +7271,7 @@
       "fi": "",
       "ru": "Включите доступ к местоположению, чтобы добавить координаты",
       "sv": "Aktivera platsbehörighet i Inställningar för att inkludera koordinater",
-      "fr": "",
+      "fr": "Veuillez autoriser l'accès aux données de localisation",
       "de": ""
     },
     {
@@ -7282,7 +7282,7 @@
       "fi": "Jakamisen peruutus onnistui",
       "ru": "",
       "sv": "Delningen har tagits bort",
-      "fr": "",
+      "fr": "Partage annulé avec succès",
       "de": ""
     },
     {
@@ -7293,7 +7293,7 @@
       "fi": "Zoomaa",
       "ru": "",
       "sv": "Zoom",
-      "fr": "",
+      "fr": "Agrandir",
       "de": ""
     },
     {
@@ -7304,7 +7304,7 @@
       "fi": "Sähköposti- ja selainhälytykset käynnistetty onnistuneesti",
       "ru": "",
       "sv": "E-post- och webbläsaralarm har aktiverats",
-      "fr": "",
+      "fr": "Les alarmes du navigateur et par email activées avec succès",
       "de": ""
     },
     {
@@ -7315,7 +7315,7 @@
       "fi": "Käyttääksesi widgettejä, sinun on ensin kirjauduttava sisään.",
       "ru": "",
       "sv": "För att använda widgets måste du först logga in.",
-      "fr": "",
+      "fr": "Pour utiliser les widgets vous devez d'abord vous connecter",
       "de": ""
     },
     {
@@ -7326,7 +7326,7 @@
       "fi": "Voit käyttää Ruuvin widgettejä mikäli anturisi ovat Ruuvi Gatewayn kuuluvuusalueella tai mikäli joku on jakanut sinulle Ruuvi-anturin.",
       "ru": "",
       "sv": "Du kan använda Ruuvi widgets om dina sensorer är inom räckhåll för en Ruuvi Gateway eller om någon har delat en Ruuvi Sensor med dig.",
-      "fr": "",
+      "fr": "Vous pouvez utiliser les widgets Ruuvi si les capteurs sont à la portée d'un Ruuvi Gateway ou si quelqu'un vous a partagé un capteur",
       "de": ""
     },
     {
@@ -7337,7 +7337,7 @@
       "fi": "Etkö näe kaikkia antureitasi listassa? Varmista, että olet vahvistanut kaikkien anturiesi omistajuudet sovelluksessa ja että ne ovat Ruuvi Gateway -reitittimen kuuluvuusalueella.",
       "ru": "",
       "sv": "Kan du inte se alla dina sensorer i listan? Se till att du har bekräftat ägandet av alla dina sensorer i applikationen och att de är inom räckhåll för Ruuvi Gateway-routern.",
-      "fr": "",
+      "fr": "Vous ne voyez pas tous vos capteurs sur la liste ? Assurez-vous de vous être approprié tous les capteurs depuis l'application mobile et que les capteurs sont à la portée d'un routeur Ruuvi Gateway.",
       "de": ""
     },
     {
@@ -7348,7 +7348,7 @@
       "fi": "ladataan...",
       "ru": "загрузка...",
       "sv": "laddar...",
-      "fr": "",
+      "fr": "Chargement...",
       "de": ""
     },
     {
@@ -7359,7 +7359,7 @@
       "fi": "Sauna",
       "ru": "Сауна",
       "sv": "Bastu",
-      "fr": "",
+      "fr": "Sauna",
       "de": ""
     },
     {
@@ -7392,7 +7392,7 @@
       "fi": "Valitse widgetissä näytettävä anturityyppi",
       "ru": "",
       "sv": "Välj vilken typ av sensor som ska visas i widgeten",
-      "fr": "",
+      "fr": "Choisissez le type de capteur à afficher dans le widget",
       "de": ""
     },
     {
@@ -7403,7 +7403,7 @@
       "fi": "Takaisin",
       "ru": "Назад",
       "sv": "Tillbaka",
-      "fr": "",
+      "fr": "Retour",
       "de": ""
     },
     {
@@ -7414,7 +7414,7 @@
       "fi": "Valitse anturi",
       "ru": "Выберите датчик",
       "sv": "Välj sensor",
-      "fr": "",
+      "fr": "Choisissez le capteur",
       "de": ""
     },
     {
@@ -7425,7 +7425,7 @@
       "fi": "liikettä",
       "ru": "движений",
       "sv": "rörelser",
-      "fr": "",
+      "fr": "Mouvements",
       "de": ""
     },
     {
@@ -7436,7 +7436,7 @@
       "fi": "Ei tietoja",
       "ru": "Нет данных",
       "sv": "Ingen data",
-      "fr": "",
+      "fr": "Pas d'informations",
       "de": ""
     },
     {
@@ -7447,7 +7447,7 @@
       "fi": "Historia",
       "ru": "",
       "sv": "Historik",
-      "fr": "",
+      "fr": "Historique",
       "de": ""
     },
     {
@@ -7458,7 +7458,7 @@
       "fi": "Valittu",
       "ru": "",
       "sv": "Vald",
-      "fr": "",
+      "fr": "Choisi",
       "de": ""
     },
     {
@@ -7469,7 +7469,7 @@
       "fi": "Piilota",
       "ru": "",
       "sv": "Dölj",
-      "fr": "",
+      "fr": "Cacher",
       "de": ""
     },
     {
@@ -7480,7 +7480,7 @@
       "fi": "Näytä",
       "ru": "",
       "sv": "Visa",
-      "fr": "",
+      "fr": "Afficher",
       "de": ""
     },
     {
@@ -7601,7 +7601,7 @@
       "fi": "Päivitys on ladattu.",
       "ru": "Обновление готово к установке.",
       "sv": "En uppdatering har laddats ner.",
-      "fr": "",
+      "fr": "La mise à jour a été téléchargée",
       "de": ""
     },
     {
@@ -7612,7 +7612,7 @@
       "fi": "KÄYNNISTÄ UUDELLEEN",
       "ru": "ПЕРЕЗАПУСК",
       "sv": "STARTA OM",
-      "fr": "",
+      "fr": "REDÉMARRER",
       "de": ""
     },
     {
@@ -7623,7 +7623,7 @@
       "fi": "Avaa asetukset",
       "ru": "Открыть настройки",
       "sv": "Öppna inställningar",
-      "fr": "",
+      "fr": "Ouvrir les réglages",
       "de": ""
     },
     {
@@ -7634,7 +7634,7 @@
       "fi": "Jotta widgettien arvot voisivat päivittyä automaattisesti, poista sovelluksen virransäästöominaisuudet käytöstä.",
       "ru": "",
       "sv": "För att tillåta widgetsvärden att uppdateras automatiskt, stäng av appens batterioptimering.",
-      "fr": "",
+      "fr": "Pour que les widgets puissent se mettre à jour automatiquement, désactivez le mode économie d'énergie de l'application.",
       "de": ""
     }
   ]
