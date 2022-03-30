@@ -7442,7 +7442,7 @@
     {
       "ident_ios": "",
       "ident_android": "movements",
-      "ident_webui": "",
+      "ident_webui": "movements",
       "en": "movements",
       "fi": "liikettä",
       "ru": "движений",
