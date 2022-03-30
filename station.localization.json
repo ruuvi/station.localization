@@ -6438,7 +6438,8 @@
       "fr": "",
       "de": ""
     },
-"ident_ios": "DFUUIView.toBootModeOneButtonDescription",
+    {
+      "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
       "ident_android": "prepare_your_sensor_instructions_5",
       "ident_webui": "",
       "en": "3.2. If your sensor has single button: keep button pressed for 10 seconds.",
@@ -6446,7 +6447,8 @@
       "ru": "",
       "sv": "",
       "fr": "",
-      "de": "",
+      "de": ""
+    },
     {
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
       "ident_android": "prepare_your_sensor_instructions_6",
