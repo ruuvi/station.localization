@@ -3425,14 +3425,25 @@
     },
     {
       "ident_ios": "Menu.Label.GetMoreSensors.text",
-      "ident_android": "menu_get_more_sensors",
+      "ident_android": "menu_buy_sensors",
       "ident_webui": "",
-      "en": "Get More Sensors",
-      "fi": "Osta lisää antureita",
-      "ru": "Больше Сенсоров",
-      "sv": "Köp fler Sensorer",
-      "fr": "Acheter plus de capteurs",
-      "de": "Mehr Sensoren kaufen"
+      "en": "Buy Ruuvi Sensors",
+      "fi": "Osta Ruuvi-antureita",
+      "ru": "Купить датчики Ruuvi",
+      "sv": "",
+      "fr": "Acheter des capteurs Ruuvi",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "menu_buy_gateway",
+      "ident_webui": "",
+      "en": "Buy Ruuvi Gateway",
+      "fi": "Osta Ruuvi Gateway",
+      "ru": "Купить Ruuvi Gateway",
+      "sv": "",
+      "fr": "Acheter le routeur Ruuvi Gateway",
+      "de": ""
     },
     {
       "ident_ios": "Menu.Label.Feedback.text",
