@@ -550,7 +550,6 @@
       "fr": "Durée de l'historique",
       "de": "Diagrammdauer"
     },
-
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
       "ident_android": "",
@@ -7658,6 +7657,17 @@
       "sv": "För att tillåta widgetsvärden att uppdateras automatiskt, stäng av appens batterioptimering.",
       "fr": "Pour que les widgets puissent se mettre à jour automatiquement, désactivez le mode économie d'énergie de l'application.",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "timestamp",
+      "en": "Timestamp",
+      "fi": "Päivämäärä",
+      "ru": "Дата",
+      "sv": "Datum",
+      "fr": "Date",
+      "de": "Zeitstempel"
     }
   ]
 }
