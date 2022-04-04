@@ -6405,7 +6405,7 @@
       "de": "1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors"
     },
     {
-      "ident_ios": "DFUUIView.setUpdatingModeTitle",
+      "ident_ios": "DFUUIView.locateBootButtonTitle",
       "ident_android": "prepare_your_sensor_instructions_2",
       "ident_webui": "",
       "en": "2. Locate small round black buttons on white circuit board; older Ruuvi sensors have 2 buttons labelled “R” and “B” while newer ones have only one button with no label.",
@@ -6416,7 +6416,7 @@
       "de": ""
     },
     {
-      "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
+      "ident_ios": "DFUUIView.setUpdatingModeTitle",
       "ident_android": "prepare_your_sensor_instructions_3",
       "ident_webui": "",
       "en": "3. Set the sensor to updating mode:",
@@ -6427,7 +6427,7 @@
       "de": ""
     },
     {
-      "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
+      "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
       "ident_android": "prepare_your_sensor_instructions_4",
       "ident_webui": "",
       "en": "3.1. If your sensor has 2 buttons: keep “B” button pressed while tapping button “R” momentarily. Release button “B”.",
