@@ -6388,10 +6388,10 @@
       "ident_webui": "",
       "en": "Prepare your sensor",
       "fi": "Laitteen asettaminen päivitystilaan",
-      "ru": "Подготовьте ваш сенсор",
-      "sv": "Förbered din sensor",
-      "fr": "Configuration de l'appareil pour la mise à jour",
-      "de": "Bereiten Sie Ihren Sensor vor"
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "DFUUIView.openCoverTitle",
@@ -6399,10 +6399,10 @@
       "ident_webui": "",
       "en": "1. Open the cover of your Ruuvi sensor",
       "fi": "1. Avaa Ruuvi-anturin suojakotelo",
-      "ru": "1. Откройте крышку вашего сенсора Ruuvi",
-      "sv": "1. Öppna locket på din Ruuvi sensor",
-      "fr": "1. Ouvrir le boitier du capteur Ruuvi",
-      "de": "1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors"
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "DFUUIView.locateBootButtonTitle",
