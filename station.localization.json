@@ -6476,10 +6476,10 @@
       "ident_webui": "",
       "en": "Searching for a sensor",
       "fi": "Laitetta etsitään",
-      "ru": "Ищу сенсор",
-      "sv": "Söker efter sensor",
-      "fr": "Recherche de capteur",
-      "de": "Auf der Suche nach einem Sensor"
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "DFUUIView.startTitle",
@@ -6487,10 +6487,10 @@
       "ident_webui": "",
       "en": "Start the update",
       "fi": "Aloita päivitys",
-      "ru": "Начать обновление",
-      "sv": "Starta uppdateringen",
-      "fr": "Commencer la mise à jour",
-      "de": "Starten Sie das Update"
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
