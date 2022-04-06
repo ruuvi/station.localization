@@ -3753,7 +3753,7 @@
       "de": "%1$,.0f %2$s"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagCharts.Status.ReadingHistory",
       "ident_android": "reading_history",
       "ident_webui": "",
       "en": "Reading history",
