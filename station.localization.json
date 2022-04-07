@@ -3434,7 +3434,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Menu.Label.BuyRuuviGateway.text",
       "ident_android": "menu_buy_gateway",
       "ident_webui": "",
       "en": "Buy Ruuvi Gateway",
