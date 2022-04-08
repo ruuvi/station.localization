@@ -7010,7 +7010,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "DFUUIView.lowBattery.warning.message",
       "ident_android": "dfu_low_battery_warning",
       "ident_webui": "",
       "en": "Sensor's battery voltage seems to be low and the firmware update process may fail. We recommend to replace the battery before updating.",
