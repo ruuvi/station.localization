@@ -7439,7 +7439,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Cards.Movements.title",
       "ident_android": "movements",
       "ident_webui": "movements",
       "en": "movements",
