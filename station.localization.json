@@ -6922,7 +6922,7 @@
       "de": "Keine Daten für diesen Zeitraum"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.tagNameTitleLabel.rename.text",
       "ident_android": "rename_sensor_message",
       "ident_webui": "",
       "en": "Your sensors will be in alphabetical order.",
