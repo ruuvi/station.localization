@@ -3621,7 +3621,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Cards.NoSensors.title",
       "ident_android": "press_to_add",
       "ident_webui": "",
       "en": "No sensors added,\\npress here to add sensors",
