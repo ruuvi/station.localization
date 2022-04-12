@@ -4604,12 +4604,23 @@
       "ident_ios": "",
       "ident_android": "welcome_text_4",
       "ident_webui": "",
-      "en": "Let the app act as a gateway",
-      "fi": "Lähetä sovelluksen keräämät tiedot ulkoiselle palvelimelle",
-      "ru": "Используйте приложение как гейтвей",
-      "sv": "Skicka den information som samlas in av applikationen till en extern server",
-      "fr": "Exporter les données mesurées vers un autre support",
-      "de": "Lassen Sie die App als Gateway fungieren"
+      "en": "Sign in to use the full potential of the app.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "welcome_text_4_2",
+      "ident_webui": "",
+      "en": "Claim ownership of your sensors with a free Ruuvi Cloud account.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "",
@@ -4843,15 +4854,70 @@
       "de": "Ausloggen"
     },
     {
-      "ident_ios": "SignIn.SignInBenefits",
+      "ident_ios": "",
       "ident_android": "sign_in_benefits_description",
       "ident_webui": "",
-      "en": "After signing in, you will automatically be marked as the owner of your nearby Ruuvi sensors. The claimed sensors will be restored after an app re-install.\\n\\nWith a Ruuvi Gateway router, you'll be able to monitor the claimed sensors remotely and share them with your friends.",
-      "fi": "Sinut merkitään lähelläsi olevien Ruuvi-anturien omistajaksi sisäänkirjautumisen yhteydessä. Kaikki omistajan vaatimat anturit palautetaan verkosta sovelluksen uudelleenasennuksen yhteydessä.\\n\\nRuuvi Gatewayn avulla voit tarkastella omistamiasi antureita etänä ja jakaa niitä ystävillesi verkossa.",
-      "ru": "После входа в систему вы будете автоматически отмечены как владелец ближайших сенсоров Ruuvi. Заявленные сенсоры будут восстановлены после повторной установки приложения.\\n\\nС помощью Ruuvi Gateway вы сможете удаленно контролировать заявленные сенсоры и делиться ими со своими друзьями.",
-      "sv": "Efter inloggning markeras du automatiskt som ägare till dina närliggande Ruuvi-sensorer. Sensorernas ägare kommer att återställas om appen installerats om igen.\\n\\nMed en Ruuvi Gateway kan du övervaka dina sensorer på distans och dele dem med dina vänner.",
-      "fr": "Après la connexion, vous serez automatiquement propriétaire des RuuviTags à proximité. Les capteurs couplés seront réinitialisés si vous réinstallez l'application.\\n\\ Avec un routeur Ruuvi Gateway vous pourrez contrôlez vos capteurs à distance et partager vos données avec vos amis.",
-      "de": "Nach der Anmeldung werden Sie automatisch als Besitzer Ihrer Ruuvi-Sensoren in der Nähe markiert. Die Sensoren werden nach einer Neuinstallation der App wiederhergestellt.\\n\\nMit einem Ruuvi Gateway-Router können Sie die Sensoren aus der Ferne überwachen und mit Ihren Freunden teilen."
+      "en": "Benefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
+      "fi": "Hyödyt:\\n\\n ● Anturien nimet, taustakuvat sekä kalibrointi- ja hälytysasetukset tallentuvat turvallisesti tilillesi pilvipalveluun\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Selaa jopa 2 vuoden historiatietoja osoitteessa station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
+      "ru": "Преимущества:\\n\\n ● Название датчика, изображение фона, данные калибровки и настройки тревог будут безопасно храниться в облаке\\n\\n ● Получите доступ к датчикам через интернет (требуестся Ruuvi Gateway)\\n\\n ● Поделитесь данными датчиков с друзьями и членами семьи (требуется Ruuvi Gateway)\\n\\n ● Просматривайте до 2-х лет истории на сайте station.ruuvi.com (требуется a Ruuvi Gateway)",
+      "sv": "Fördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
+      "fr": "Avantages :\\n\\n ● Les noms, fonds d'écrans, les réglages de calibration, ainsi que les alertes sont enregistrés de façon sécurisée dans notre cloud\\n\\n ● Consultez les données à distance depuis n'importe quel navigateur (routeur Ruuvi Gateway requis)\\n\\n ● Partager les capteurs avec votre famille ou des amis (routeur Ruuvi Gateway requis)\\n\\n ● consultez jusqu'à deux ans d'historique de vos données sur le site station.ruuvi.com (routeur Ruuvi Gateway requis)",
+      "de": "Vorteile:\\n\\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\\n\\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\\n\\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\\n\\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "details",
+      "ident_webui": "",
+      "en": "Details",
+      "fi": "",
+      "ru": "Подробнее",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "ruuvi_cloud",
+      "ident_webui": "",
+      "en": "Ruuvi Cloud",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_skip_confirm_title",
+      "ident_webui": "",
+      "en": "Are you sure want to skip sign in?",
+      "fi": "",
+      "ru": "Точно хотите пропустить вход?",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_skip_confirm_yes",
+      "ident_webui": "",
+      "en": "Yes, skip",
+      "fi": "",
+      "ru": "Пропустить",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_skip_confirm_go_back",
+      "ident_webui": "",
+      "en": "Go back",
+      "fi": "",
+      "ru": "Назад",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
