@@ -4557,81 +4557,92 @@
       "de": "V"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Welcome.title",
       "ident_android": "welcome_text_0",
       "ident_webui": "",
-      "en": "Swipe to see what Ruuvi Station can do for you",
-      "fi": "Tutustu Ruuvi Station -sovellukseen",
-      "ru": "Проведите пальцем чтобы узнать, чем Ruuvi Station может помочь вам",
-      "sv": "Det här kan Ruuvi Station göra för dig",
-      "fr": "Découvrez l'application Ruuvi Station",
-      "de": "Wischen Sie, um zu sehen, was Ruuvi Station für Sie tun kann"
+      "en": "Swipe to see what Ruuvi Station can do for you.",
+      "fi": "Tutustu Ruuvi Station -sovellukseen.",
+      "ru": "Проведите пальцем чтобы узнать, чем Ruuvi Station может помочь вам.",
+      "sv": "Det här kan Ruuvi Station göra för dig.",
+      "fr": "Découvrez l'application Ruuvi Station.",
+      "de": "Wischen Sie, um zu sehen, was Ruuvi Station für Sie tun kann."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Measure.title",
       "ident_android": "welcome_text_1",
       "ident_webui": "",
-      "en": "Measure environmental data: temperature, relative humidity and air pressure",
-      "fi": "Mittaa ympäristösi olosuhteita: lämpötilaa, ilmankosteutta ja ilmanpainetta",
-      "ru": "Измеряйте параметры окружающей среды: температуру, влажность и атмосферное давление",
-      "sv": "Mät förhållandena i din miljö: temperatur, luftfuktighet och lufttryck",
-      "fr": "Mesurer votre environnement : température, humidité, et pression de l'air",
-      "de": "Umweltdaten messen: Temperatur, relative Luftfeuchtigkeit und Luftdruck"
+      "en": "Measure environmental data: temperature, relative humidity and air pressure.",
+      "fi": "Mittaa ympäristösi olosuhteita: lämpötilaa, ilmankosteutta ja ilmanpainetta.",
+      "ru": "Измеряйте параметры окружающей среды: температуру, влажность и атмосферное давление.",
+      "sv": "Mät förhållandena i din miljö: temperatur, luftfuktighet och lufttryck.",
+      "fr": "Mesurer votre environnement : température, humidité, et pression de l'air.",
+      "de": "Umweltdaten messen: Temperatur, relative Luftfeuchtigkeit und Luftdruck."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Access.title",
       "ident_android": "welcome_text_2",
       "ident_webui": "",
-      "en": "Access data for each linked sensor in real time and explore history graphs",
-      "fi": "Tarkastele anturitietoja reaaliaikaisesti tai tutki laitteelle tallennettuja historiatietoja",
-      "ru": "В реальном времени считывайте показатели с датчиков и просматривайте историю на графиках",
-      "sv": "Visa sensordata i realtid eller granska historisk data som är lagrad på enheten",
-      "fr": "Vérifier les données en temps réels ou consultez les histogrammes",
-      "de": "Greifen Sie in Echtzeit auf Daten für jeden verknüpften Sensor zu und erkunden Sie Verlaufsdiagramme"
+      "en": "Access data for each linked sensor in real time and explore history graphs.",
+      "fi": "Tarkastele anturitietoja reaaliaikaisesti tai tutki laitteelle tallennettuja historiatietoja.",
+      "ru": "В реальном времени считывайте показатели с датчиков и просматривайте историю на графиках.",
+      "sv": "Visa sensordata i realtid eller granska historisk data som är lagrad på enheten.",
+      "fr": "Vérifier les données en temps réels ou consultez les histogrammes.",
+      "de": "Greifen Sie in Echtzeit auf Daten für jeden verknüpften Sensor zu und erkunden Sie Verlaufsdiagramme."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Alerts.title",
       "ident_android": "welcome_text_3",
       "ident_webui": "",
-      "en": "Set alerts and get notified whenever your limits are hit",
-      "fi": "Aseta hälytyksiä ja ilmoituksia haluamallasi tavalla",
-      "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление",
-      "sv": "Ställ in alarm och få notiser om dem",
-      "fr": "Définir des alarmes et des notifications comme vous le souhaitez",
-      "de": "Legen Sie Benachrichtigungen fest und lassen Sie sich benachrichtigen, wenn Ihre Grenzen erreicht sind"
+      "en": "Set alerts and get notified whenever your limits are hit.",
+      "fi": "Aseta hälytyksiä ja ilmoituksia haluamallasi tavalla.",
+      "ru": "Устанавливайте лимиты значений, при  превышении которых вы получите уведомление.",
+      "sv": "Ställ in alarm och få notiser om dem.",
+      "fr": "Définir des alarmes et des notifications comme vous le souhaitez.",
+      "de": "Legen Sie Benachrichtigungen fest und lassen Sie sich benachrichtigen, wenn Ihre Grenzen erreicht sind."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.title",
       "ident_android": "welcome_text_4",
       "ident_webui": "",
       "en": "Sign in to use the full potential of the app.",
-      "fi": "",
+      "fi": "Kirjaudu sisään käyttääksesi kaikkia sovelluksen ominaisuuksia.",
       "ru": "",
       "sv": "",
       "fr": "",
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.subtitle",
       "ident_android": "welcome_text_4_2",
       "ident_webui": "",
       "en": "Claim ownership of your sensors with a free Ruuvi Cloud account.",
-      "fi": "",
+      "fi": "Vahvista anturiesi omistajuudet ilmaisen Ruuvi Cloud -tilin avulla.",
       "ru": "",
       "sv": "",
       "fr": "",
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.subtitle.signed",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Great! You already signed in!",
+      "fi": "Hienoa, olet jo kirjautunut sisään!",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "RuuviOnboard.Start.title",
       "ident_android": "welcome_text_5",
       "ident_webui": "",
-      "en": "Press SCAN to find and add nearby sensors to your Ruuvi Station",
-      "fi": "Näytä lähietäisyydellä olevat anturit napauttamalla SKANNAA",
-      "ru": "Нажмите СКАНИРОВАТЬ, чтобы найти и добавить датчики в Ruuvi Station",
-      "sv": "Tryck på SCAN för att se sensorerna i närheten",
-      "fr": "Afficher les capteurs à proximité en appuyant sur BALAYAGE",
-      "de": "Drücken Sie SCAN, um Sensoren in der Nähe zu finden und zu Ihrer Ruuvi Station hinzuzufügen"
+      "en": "Press SCAN to find and add nearby sensors to your Ruuvi Station.",
+      "fi": "Näytä lähietäisyydellä olevat anturit napauttamalla SKANNAA.",
+      "ru": "Нажмите СКАНИРОВАТЬ, чтобы найти и добавить датчики в Ruuvi Station.",
+      "sv": "Tryck på SCAN för att se sensorerna i närheten.",
+      "fr": "Afficher les capteurs à proximité en appuyant sur BALAYAGE.",
+      "de": "Drücken Sie SCAN, um Sensoren in der Nähe zu finden und zu Ihrer Ruuvi Station hinzuzufügen."
     },
     {
       "ident_ios": "Yes",
@@ -4854,7 +4865,7 @@
       "de": "Ausloggen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Benefits.message",
       "ident_android": "sign_in_benefits_description",
       "ident_webui": "",
       "en": "Benefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
@@ -4865,7 +4876,7 @@
       "de": "Vorteile:\\n\\n ● Sensornamen, Hintergrundbilder, Offsets und Alarmeinstellungen werden sicher in der Cloud gespeichert\\n\\n ● Fernzugriff auf Sensoren über das Internet (erfordert ein Ruuvi Gateway)\\n\\n ● Teilen Sie Sensoren mit Freunden und Familie (erfordert ein Ruuvi Gateway)\\n\\n ● Sehen Sie bis zu 2 Jahre Geschichtsdaten auf station.ruuvi.com (erfordert ein Ruuvi-Gateway)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Details.title",
       "ident_android": "details",
       "ident_webui": "",
       "en": "Details",
@@ -4876,7 +4887,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Benefits.title",
       "ident_android": "ruuvi_cloud",
       "ident_webui": "",
       "en": "Ruuvi Cloud",
@@ -4887,7 +4898,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Skip.title",
       "ident_android": "sign_in_skip_confirm_title",
       "ident_webui": "",
       "en": "Are you sure you want to skip sign in?",
@@ -4898,7 +4909,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Skip.Yes.title",
       "ident_android": "sign_in_skip_confirm_yes",
       "ident_webui": "",
       "en": "Yes, skip",
@@ -4909,7 +4920,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "RuuviOnboard.Cloud.Skip.GoBack.title",
       "ident_android": "sign_in_skip_confirm_go_back",
       "ident_webui": "",
       "en": "Go back",
