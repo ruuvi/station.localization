@@ -4624,7 +4624,7 @@
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.subtitle.signed",
-      "ident_android": "",
+      "ident_android": "already_signed_in",
       "ident_webui": "",
       "en": "Great! You already signed in!",
       "fi": "Hienoa, olet jo kirjautunut sisään!",
