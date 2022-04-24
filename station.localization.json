@@ -3429,7 +3429,7 @@
       "en": "Buy Ruuvi Sensors",
       "fi": "Osta Ruuvi-antureita",
       "ru": "Купить датчики Ruuvi",
-      "sv": "",
+      "sv": "Köp Ruuvi-sensorer",
       "fr": "Acheter des capteurs Ruuvi",
       "de": ""
     },
@@ -3440,7 +3440,7 @@
       "en": "Buy Ruuvi Gateway",
       "fi": "Osta Ruuvi Gateway",
       "ru": "Купить Ruuvi Gateway",
-      "sv": "",
+      "sv": "Köp Ruuvi Gateway",
       "fr": "Acheter le routeur Ruuvi Gateway",
       "de": ""
     },
@@ -4607,7 +4607,7 @@
       "en": "Sign in to use the full potential of the app.",
       "fi": "Kirjaudu sisään käyttääksesi kaikkia sovelluksen ominaisuuksia.",
       "ru": "",
-      "sv": "",
+      "sv": "Logga in för att få tillgång till alla appens funktioner.",
       "fr": "",
       "de": ""
     },
@@ -4618,7 +4618,7 @@
       "en": "Claim ownership of your sensors with a free Ruuvi Cloud account.",
       "fi": "Vahvista anturiesi omistajuudet ilmaisen Ruuvi Cloud -tilin avulla.",
       "ru": "",
-      "sv": "",
+      "sv": "Verifiera ditt sensorägande med ett gratis Ruuvi Cloud-konto.",
       "fr": "",
       "de": ""
     },
@@ -4629,7 +4629,7 @@
       "en": "Great! You already signed in!",
       "fi": "Hienoa, olet jo kirjautunut sisään!",
       "ru": "",
-      "sv": "",
+      "sv": "Bra! Du är redan inloggad!",
       "fr": "",
       "de": ""
     },
@@ -4882,7 +4882,7 @@
       "en": "Details",
       "fi": "Tiedot",
       "ru": "Подробнее",
-      "sv": "",
+      "sv": "Info",
       "fr": "",
       "de": ""
     },
@@ -4904,7 +4904,7 @@
       "en": "Are you sure you want to skip sign in?",
       "fi": "Haluatko varmasti ohittaa sisäänkirjautumisen?",
       "ru": "Точно хотите пропустить вход?",
-      "sv": "",
+      "sv": "Är du säker på att du vill hoppa över inloggningen?",
       "fr": "",
       "de": ""
     },
@@ -4915,7 +4915,7 @@
       "en": "Yes, skip",
       "fi": "Kyllä, ohita",
       "ru": "Пропустить",
-      "sv": "",
+      "sv": "Ja, hoppa över",
       "fr": "",
       "de": ""
     },
@@ -4926,7 +4926,7 @@
       "en": "Go back",
       "fi": "Takaisin",
       "ru": "Назад",
-      "sv": "",
+      "sv": "Gå tillbaka",
       "fr": "",
       "de": ""
     },
@@ -6466,7 +6466,7 @@
       "en": "Prepare your sensor",
       "fi": "Laitteen asettaminen päivitystilaan",
       "ru": "",
-      "sv": "",
+      "sv": "Förbered din sensor",
       "fr": "",
       "de": ""
     },
@@ -6477,7 +6477,7 @@
       "en": "1. Open the cover of your Ruuvi sensor",
       "fi": "1. Avaa Ruuvi-anturin suojakotelo",
       "ru": "",
-      "sv": "",
+      "sv": "1. Öppna locket på din Ruuvi sensor",
       "fr": "",
       "de": ""
     },
@@ -6488,7 +6488,7 @@
       "en": "2. Locate small round black buttons on white circuit board; older Ruuvi sensors have 2 buttons labelled “R” and “B” while newer ones have only one button with no label.",
       "fi": "2. Paikanna valkoisella piirilevyllä olevat pienet pyöreät mustat painikkeet; vanhemmissa Ruuvi-antureissa on 2 painiketta “R” ja “B”, kun taas uudemmissa on vain yksi nimeämätön painike.",
       "ru": "",
-      "sv": "",
+      "sv": "2. Leta reda på små runda svarta knappar på det vita kretskortet; äldre Ruuvi-sensorer har 2 knappar märkta “R“ och “B“ medan nyare har bara en knapp utan etikett.",
       "fr": "",
       "de": ""
     },
@@ -6499,7 +6499,7 @@
       "en": "3. Set the sensor to updating mode:",
       "fi": "3. Aseta anturi päivitystilaan:",
       "ru": "",
-      "sv": "",
+      "sv": "3. Lägg sensorn i uppdateringsläge",
       "fr": "",
       "de": ""
     },
@@ -6510,7 +6510,7 @@
       "en": "3.1. If your sensor has 2 buttons: keep “B” button pressed while tapping button “R” momentarily. Release button “B”.",
       "fi": "3.1. Anturissasi on kaksi painiketta: pidä painike “B” alaspainettuna ja napauta samalla painiketta “R”. Vapauta painike “B”.",
       "ru": "",
-      "sv": "",
+      "sv": "3.1. Om din sensor har två knappar: håll knappen “B” intryckt medan du trycker en gång på “R”. Släpp knapp “B”.",
       "fr": "",
       "de": ""
     },
@@ -6521,7 +6521,7 @@
       "en": "3.2. If your sensor has single button: keep button pressed for 10 seconds.",
       "fi": "3.2. Anturissasi on yksi painike: pidä painiketta alaspainettuna 10 sekunnin ajan.",
       "ru": "",
-      "sv": "",
+      "sv": "3.2. Om din sensor har en knapp, håll knappen intryckt i 10 sekunder.",
       "fr": "",
       "de": ""
     },
@@ -6532,7 +6532,7 @@
       "en": "4. If set successfully, you will see solid red light lit on circuit board and button in app changes to “Start the update”.",
       "fi": "4. Päivitystilaan siirtyminen onnistui, mikäli piirilevyllä oleva punainen LED-valo on nyt aktiivinen ja sovelluksen painikkeen nimeksi on vaihtunut “Aloita päivitys”.",
       "ru": "",
-      "sv": "",
+      "sv": "4. Uppgraderingsläget lyckades om den röda lysdioden på kretskortet lyser och knappens text i appen har bytts till “Starta uppdatering“.",
       "fr": "",
       "de": ""
     },
@@ -6554,7 +6554,7 @@
       "en": "Searching for a sensor",
       "fi": "Laitetta etsitään",
       "ru": "",
-      "sv": "",
+      "sv": "Söker efter en sensor",
       "fr": "",
       "de": ""
     },
@@ -6565,7 +6565,7 @@
       "en": "Start the update",
       "fi": "Aloita päivitys",
       "ru": "",
-      "sv": "",
+      "sv": "Starta uppdatering",
       "fr": "",
       "de": ""
     },
@@ -7269,7 +7269,7 @@
       "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages and receiving alerts only by email. Requires a Ruuvi Gateway router.",
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä ja vastaanota ainoastaan sähköpostihälytyksiä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "",
-      "sv": "",
+      "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden och endast ta emot varningar via e-post. Kräver en Ruuvi Gateway.",
       "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway",
       "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router."
     },
@@ -7280,7 +7280,7 @@
       "en": "The sensor cannot be connected to via Bluetooth when the cloud mode is active. You can re-enable Bluetooth connection for the cloud sensors by disabling cloud mode in the app settings.",
       "fi": "Anturiin ei voida yhdistää Bluetoothilla sovelluksen pilvitilan ollessa aktiivinen. Voit ottaa pilvianturiesi Bluetoothin takaisin käyttöön sammuttamalla pilvitilan sovelluksen asetussivulta.",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorn kan inte anslutas till via Bluetooth när molnläget är aktivt. Du kan återaktivera Bluetooth-anslutning för molnsensorerna genom att inaktivera molnläget i appinställningarna.",
       "fr": "Impossible de se connecter au capteur tant que le statut du cloud est actif. Vous pouvez modifier le statut dans les paramètres de l'application.",
       "de": "Der Sensor kann nicht über Bluetooth verbunden werden, wenn der Cloud-Modus aktiv ist. Sie können die Bluetooth-Verbindung für die Cloud-Sensoren wieder aktivieren, indem Sie den Cloud-Modus in den App-Einstellungen deaktivieren."
     },
@@ -7588,7 +7588,7 @@
       "en": "Tip: You can change the unit in settings. Available units are: Celsius (°C), Fahrenheit (°F) and Kelvin (K).",
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Celsius (°C), Fahrenheit (°F) ja Kelvin (K).",
       "ru": "",
-      "sv": "",
+      "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga enheterna är: Celsius (°C), Fahrenheit (°F) och Kelvin (K).",
       "fr": "",
       "de": ""
     },
@@ -7599,7 +7599,7 @@
       "en": "Tip: You can change the unit in settings. Available units are: Relative (%), absolute (g/m^3) and dew point (°).",
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Suhteellinen (%), absoluuttinen (g/m^3) ja kastepiste (°).",
       "ru": "",
-      "sv": "",
+      "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga enheterna är: Relativ (%), Absolut (g/m^3) och Daggpunkt (°).",
       "fr": "",
       "de": ""
     },
@@ -7610,7 +7610,7 @@
       "en": "Tip: You can change the unit in settings. Available units are: Pascal (Pa), hectopascal (hPa), millimetre of mercury (mmHg) and inch of mercury (inHg).",
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Pascal (Pa), hehtopascal (hPa), elohopeamillimetri (mmHg) ja elohopeatuuma (inHg).",
       "ru": "",
-      "sv": "",
+      "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga måttenheterna är: Pascal (Pa), hektopascal (hPa), millimeter kvicksilver (mmHg) och tum kvicksilver (inHg).",
       "fr": "",
       "de": ""
     },
@@ -7621,7 +7621,7 @@
       "en": "Every time Ruuvi sensor is moved, its internal movement counter is increased.\n\nTip: Maximum value of the counter is 255 and when reached, it starts again from zero. When the sensor is rebooted, the counter is also automatically reset to zero.",
       "fi": "Liikelaskuri ilmoittaa anturin sisäisen liikelaskurin mittaamien liikkeiden lukumäärän.\n\nVinkki: Laskurin suurin mahdollinen lukema on 255, jonka jälkeen laskuri aloittaa jälleen nollasta. Laskuri nollaantuu myös anturin uudelleenkäynnistämisen yhteydessä.",
       "ru": "",
-      "sv": "",
+      "sv": "Rörelseräknaren indikerar antalet rörelser som mäts av sensorns interna rörelseräknare.\n\nTips: Maxräkningen för räknaren är 255, varefter räknaren startar om från noll. Räknaren återställs även när sensorn startas om.",
       "fr": "",
       "de": ""
     },
@@ -7632,7 +7632,7 @@
       "en": "We recommend replacing the battery when voltage is lower than 2,4 volts in room temperature.\n\nTip: When the temperature of the battery goes down, voltage readings also decrease. But this necessarily doesn't mean that the battery would be empty.",
       "fi": "Suosittelemme pariston vaihtoa, kun pariston varaus on alle 2,4 voltin jännitettä huoneenlämmössä.\n\nVinkki: Paristosta mitattu jännite laskee myös ympäröivän lämpötilan laskiessa. Tämä ei kuitenkaan välttämättä tarkoita sitä, että pariston varaus olisi nolla.",
       "ru": "",
-      "sv": "",
+      "sv": "Vi rekommenderar att du byter batteriet när batteriet är mindre än 2,4 volt vid rumstemperatur.\n\nTips: Spänningen som mäts på batteriet kommer också att sjunka när omgivningstemperaturen sjunker. Detta behöver dock inte betyda att batteriladdningen är noll.",
       "fr": "",
       "de": ""
     },
@@ -7643,7 +7643,7 @@
       "en": "Ruuvi sensor's three-dimensional digital accelerometer continuously measures proper acceleration in g (g ≈ 9,81 m/s^2).\n\nTip: Acceleration values can tell you orientation of a stationary sensor.",
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
-      "sv": "",
+      "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
       "fr": "",
       "de": ""
     },
@@ -7654,7 +7654,7 @@
       "en": "Ruuvi sensor's three-dimensional digital accelerometer continuously measures proper acceleration in g (g ≈ 9,81 m/s^2).\n\nTip: Acceleration values can tell you orientation of a stationary sensor.",
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
-      "sv": "",
+      "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
       "fr": "",
       "de": ""
     },
@@ -7665,7 +7665,7 @@
       "en": "Ruuvi sensor's three-dimensional digital accelerometer continuously measures proper acceleration in g (g ≈ 9,81 m/s^2).\n\nTip: Acceleration values can tell you orientation of a stationary sensor.",
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
-      "sv": "",
+      "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
       "fr": "",
       "de": ""
     },
@@ -7676,7 +7676,7 @@
       "en": "Received signal strength is measured by receiver device in decibel milliwatts (dBm). Bigger the number, stronger the received signal.\n\nTip: Every 3 dB step doubles the received radio energy. Meaning, for example, -37 dBm is two times stronger than -40 dBm.",
       "fi": "Vastaanotin mittaa vastaanotettua signaalia desibelimilliwatteina (dBm). Suurempi lukema tarkoittaa vahvempaa signaalia.\n\nVinkki: Vastaanotettu radiotaajuusenergia tuplaantuu jokaisen 3 dB välein. Tämä tarkoittaa sitä, että esimerkiksi -37 dBm signaali on puolet vahvempi kuin -40 dBm.",
       "ru": "",
-      "sv": "",
+      "sv": "Mottagaren mäter den mottagna signalen i decibel milliwatt (dBm). En högre avläsning betyder en starkare signal.\n\nTips: Den mottagna RF-energin fördubblas varje 3 dB. Det betyder till exempel att en signal på -37 dBm är hälften så stark som en signal på -40 dBm.",
       "fr": "",
       "de": ""
     },
@@ -7687,7 +7687,7 @@
       "en": "When Ruuvi sensor is refreshing its measurements (every ~2,5 seconds), the measurement sequence number is increased. Maximum value of the counter is 16 bits (65536) and when reached, it starts again from zero.\n\nTip: When the sensor is rebooting, the counter is automatically reset to zero. By examinating history cycles of the measurement counter, you can see if the sensor has rebooted unintentionally.",
       "fi": "Mittausjärjestysnumero kasvaa, koska mittauksia päivitetään jatkuvasti (~2,5 sekunnin välein). Suurin mahdollinen luku on 16 bittiä (65536) ja tämän täyttyessä laskuri nollaantuu.\n\nVinkki: Mittausjärjestysnumero alkaa nollasta myös anturin uudelleenkäynnistymisen yhteydessä. Mittaussyklien perusteella vaikuttaa siltä, että anturi on uudelleenkäynnistynyt.",
       "ru": "",
-      "sv": "",
+      "sv": "Mätsekvensnumret ökar när mätningarna ständigt uppdateras (var ~2,5 sekund). Maximalt möjliga antal är 16 bitar (65536) och när den är fylld kommer räknaren att återställas.\n\nTips: Mätsekvensnumret börjar från noll även när sensorn startas om. Baserat på mätcyklerna kan man se om sensors har starts om.",
       "fr": "",
       "de": ""
     },
