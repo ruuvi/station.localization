@@ -7745,6 +7745,39 @@
       "sv": "Datum",
       "fr": "Date",
       "de": "Zeitstempel"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "replace_battery",
+      "ident_webui": "",
+      "en": "Replace battery!",
+      "fi": "Vaihda paristo!",
+      "ru": "Замените батарею!",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "battery_ok",
+      "ident_webui": "",
+      "en": "Battery OK",
+      "fi": "Paristo OK",
+      "ru": "Батарея OK",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "brackets_text",
+      "ident_webui": "",
+      "en": "({%@^%1$s})",
+      "fi": "({%@^%1$s})",
+      "ru": "({%@^%1$s})",
+      "sv": "({%@^%1$s})",
+      "fr": "({%@^%1$s})",
+      "de": "({%@^%1$s})"
     }
   ]
 }
