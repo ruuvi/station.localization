@@ -7749,22 +7749,22 @@
     {
       "ident_ios": "",
       "ident_android": "replace_battery",
-      "ident_webui": "",
+      "ident_webui": "replace_battery",
       "en": "Replace battery!",
       "fi": "Vaihda paristo!",
       "ru": "Замените батарею!",
-      "sv": "",
+      "sv": "Byt batteriet!",
       "fr": "",
       "de": ""
     },
     {
       "ident_ios": "",
       "ident_android": "battery_ok",
-      "ident_webui": "",
+      "ident_webui": "battery_ok",
       "en": "Battery OK",
       "fi": "Paristo OK",
       "ru": "Батарея OK",
-      "sv": "",
+      "sv": "Batteri OK",
       "fr": "",
       "de": ""
     },
