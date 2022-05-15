@@ -7778,6 +7778,17 @@
       "sv": "({%@^%1$s})",
       "fr": "({%@^%1$s})",
       "de": "({%@^%1$s})"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "voltage",
+      "en": "Voltage",
+      "fi": "Jännite",
+      "ru": "Напряжение",
+      "sv": "Spänning",
+      "fr": "Tension",
+      "de": "Spannung"
     }
   ]
 }
