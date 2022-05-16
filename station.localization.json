@@ -7439,7 +7439,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Widgets.Loading.message",
       "ident_android": "widgets_loading",
       "ident_webui": "",
       "en": "loading...",
@@ -7789,6 +7789,39 @@
       "sv": "Spänning",
       "fr": "Tension",
       "de": "Spannung"
+    },
+    {
+      "ident_ios": "Widgets.Description.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Create widgets of your favourite Ruuvi sensors. Widgets update from Ruuvi Cloud. Ruuvi Gateway router is required.",
+      "fi": "Luo widgettejä Ruuvi-antureistasi. Widgetit päivittyvät Ruuvin pilvipalvelun kautta ja vaativat toimiakseen Ruuvi Gateway -reitittimen.",
+      "ru": "",
+      "sv": "Skapa widgets av dina favorit Ruuvi-sensorer. Widgetdatan kommer från Ruuvi Cloud och kräver en Ruuvi Gateway-router.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unauthorized.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sign in to use the widget.",
+      "fi": "Kirjaudu sisään käyttääksesi widgettiä.",
+      "ru": "",
+      "sv": "Logga in för att använda widgeten.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unconfigured.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Force tap to edit the widget.",
+      "fi": "Paina pitkään muokataksesi widgettiä.",
+      "ru": "",
+      "sv": "Tryck och håll ned för att redigera widgeten.",
+      "fr": "",
+      "de": ""
     }
   ]
 }
