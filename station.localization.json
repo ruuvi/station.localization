@@ -4802,12 +4802,12 @@
       "ident_ios": "",
       "ident_android": "acceleration_reading",
       "ident_webui": "",
-      "en": "%1$,.3f g",
-      "fi": "%1$,.3f g",
-      "ru": "%1$,.3f g",
-      "sv": "%1$,.3f g",
-      "fr": "%1$,.3f g",
-      "de": "%1$,.3f g"
+      "en": "%1$,.3f %2$s",
+      "fi": "%1$,.3f %2$s",
+      "ru": "%1$,.3f %2$s",
+      "sv": "%1$,.3f %2$s",
+      "fr": "%1$,.3f %2$s",
+      "de": "%1$,.3f %2$s"
     },
     {
       "ident_ios": "",
@@ -4819,6 +4819,39 @@
       "sv": "g",
       "fr": "g",
       "de": "g"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_unit_x",
+      "ident_webui": "",
+      "en": "g (x)",
+      "fi": "g (x)",
+      "ru": "g (x)",
+      "sv": "g (x)",
+      "fr": "g (x)",
+      "de": "g (x)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_unit_y",
+      "ident_webui": "",
+      "en": "g (y)",
+      "fi": "g (y)",
+      "ru": "g (y)",
+      "sv": "g (y)",
+      "fr": "g (y)",
+      "de": "g (y)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "acceleration_unit_z",
+      "ident_webui": "",
+      "en": "g (z)",
+      "fi": "g (z)",
+      "ru": "g (z)",
+      "sv": "g (z)",
+      "fr": "g (z)",
+      "de": "g (z)"
     },
     {
       "ident_ios": "",
