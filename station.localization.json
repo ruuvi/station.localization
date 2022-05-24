@@ -7855,6 +7855,17 @@
       "sv": "Tryck och håll ned för att redigera widgeten.",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widget_empty",
+      "ident_webui": "",
+      "en": "Press + to add sensors",
+      "fi": "Paina + lisääksesi antureita",
+      "ru": "Нажмите + чтобы добавить датчики",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
