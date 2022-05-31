@@ -1321,6 +1321,28 @@
       "de": "Sprache"
     },
     {
+      "ident_ios": "Settings.Language.Dialog.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Select Language",
+      "fi": "Valitse kieli",
+      "ru": "Выберите Язык",
+      "sv": "Välj språk",
+      "fr": "Choisissez une Langue",
+      "de": "Sprache auswählen"
+    },
+    {
+      "ident_ios": "Settings.Language.Dialog.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Open settings and tap Language to change language of the app. \nIf you cannot see the Language option in the settings, make sure that you have at least one preferred language added in system settings: Settings -> General -> Language & Region.",
+      "fi": "Avaa asetukset ja napauta Kieli vaihtaaksesi sovelluksen kieltä. \nMikäli et näe Kieli-valintaa asetuksissa, varmista, että sinulla on vähintään yksi ensisijainen kieli on valittuna järjestelmäasetuksissa: Asetukset -> Yleiset -> Kieli ja alue.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Settings.Label.Foreground",
       "ident_android": "",
       "ident_webui": "",
