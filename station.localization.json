@@ -1321,6 +1321,28 @@
       "de": "Sprache"
     },
     {
+      "ident_ios": "Settings.Language.Dialog.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Select Language",
+      "fi": "Valitse Kieli",
+      "ru": "Выберите Язык",
+      "sv": "Välj Språk",
+      "fr": "Choisissez une Langue",
+      "de": "Sprache auswählen"
+    },
+    {
+      "ident_ios": "Settings.Language.Dialog.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Open settings and tap Language to select the preferred language for Ruuvi Station. \nMake sure you have a preferred language added in iOS Settings -> General -> Language & Region.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Settings.Label.Foreground",
       "ident_android": "",
       "ident_webui": "",
