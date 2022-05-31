@@ -1335,7 +1335,7 @@
       "ident_ios": "Settings.Language.Dialog.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Open General settings and tap Language to select your preferred language for the app. \nMake sure you have a preferred language added in iOS Settings -> General -> Language & Region.",
+      "en": "Open settings and tap Language to select your preferred language for the app. \nMake sure you have a preferred language added in iOS Settings -> General -> Language & Region.",
       "fi": "Avaa asetukset ja valitse Kieli valitaksesi ensisijainen kieli sovellukselle. \nVarmista, että ensisijainen kieli on valittuna iOS:n asetuksissa -> Yleiset -> Kieli ja alue.",
       "ru": "",
       "sv": "",
