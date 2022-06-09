@@ -3060,6 +3060,17 @@
       "de": "https://your.gateway/..."
     },
     {
+      "ident_ios": "",
+      "ident_android": "data_forwarding_during_sync_enable",
+      "ident_webui": "",
+      "en": "Forward data while syncing (beta)",
+      "fi": "Välitä mittaustiedot synkronoitaessa (beta)",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "h",
       "ident_android": "h",
       "ident_webui": "h",
