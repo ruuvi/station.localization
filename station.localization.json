@@ -309,6 +309,17 @@
       "de": "Fehler beim Laden der Daten für den virtuellen Sensor. Das Betriebslimit für umgekehrte Geokodierung wurde überschritten."
     },
     {
+      "ident_ios": "Cards.UpdatedLabel.NoData.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "No data in last 10 days.",
+      "fi": "Ei tietoja viimeiseltä 10 päivältä.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "CoreError.failedToGetPngRepresentation",
       "ident_android": "",
       "ident_webui": "",
