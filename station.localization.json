@@ -2028,12 +2028,12 @@
       "ident_ios": "TagSettings.SectionHeader.Firmware.title",
       "ident_android": "firmware",
       "ident_webui": "",
-      "en": "FIRMWARE",
-      "fi": "LAITEOHJELMISTO",
-      "ru": "ПРОШИВКА",
-      "sv": "PROGRAMVARA",
-      "fr": "FIRMWARE",
-      "de": "FIRMWARE"
+      "en": "Firmware",
+      "fi": "Laiteohjelmisto",
+      "ru": "Прошивка",
+      "sv": "Programvara",
+      "fr": "Firmware",
+      "de": "Firmware"
     },
     {
       "ident_ios": "TagSettings.Firmware.CurrentVersion",
@@ -2688,12 +2688,12 @@
       "ident_ios": "TagSettings.Label.alerts.text",
       "ident_android": "alerts",
       "ident_webui": "",
-      "en": "ALERTS",
-      "fi": "HÄLYTYKSET",
-      "ru": "УВЕДОМЛЕНИЯ",
-      "sv": "ALARM",
-      "fr": "NOTIFICATIONS",
-      "de": "WARNUNGEN"
+      "en": "Alerts",
+      "fi": "Hälytykset",
+      "ru": "Уведомления",
+      "sv": "Alarm",
+      "fr": "Notifications",
+      "de": "Warnungen"
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
@@ -3525,12 +3525,12 @@
       "ident_ios": "TagSettings.Label.moreInfo.text",
       "ident_android": "more_info",
       "ident_webui": "more_info",
-      "en": "MORE INFO",
-      "fi": "LISÄTIETOA",
-      "ru": "ДОПОЛНИТЕЛЬНО",
-      "sv": "MER INFO",
-      "fr": "PLUS D'INFOS",
-      "de": "MEHR INFO"
+      "en": "More info",
+      "fi": "Lisätietoa",
+      "ru": "Дополнительно",
+      "sv": "Mer info",
+      "fr": "Plus d'infos",
+      "de": "Mehr info"
     },
     {
       "ident_ios": "TagSettings.SectionHeader.Name.title",
