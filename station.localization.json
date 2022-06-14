@@ -3107,12 +3107,12 @@
       "ident_ios": "About.AboutHelp.header",
       "ident_android": "help_about_title",
       "ident_webui": "",
-      "en": "ABOUT / HELP",
-      "fi": "TIETOA / APUA",
-      "ru": "О ПРИЛОЖЕНИИ",
-      "sv": "OM / HJÄLP",
-      "fr": "INFOS / AIDE",
-      "de": "ÜBER / HILFE"
+      "en": "About / Help",
+      "fi": "Tietoa / Apua",
+      "ru": "О приложении",
+      "sv": "Om / Hjälp",
+      "fr": "Infos / Aide",
+      "de": "Über / Hilfe"
     },
     {
       "ident_ios": "",
@@ -3184,12 +3184,12 @@
       "ident_ios": "About.More.header",
       "ident_android": "help_more_to_read_title",
       "ident_webui": "",
-      "en": "MORE TO READ",
-      "fi": "LUE LISÄÄ",
-      "ru": "ПОЧИТАТЬ ЕЩЕ",
-      "sv": "LÄS MER",
-      "fr": "PLUS D'INFOS",
-      "de": "MEHR ERFAHREN"
+      "en": "More to read",
+      "fi": "Lue lisää",
+      "ru": "Почитать еще",
+      "sv": "Läs mer",
+      "fr": "Plus d'infos",
+      "de": "Mehr erfahren"
     },
     {
       "ident_ios": "About.OpenSource.contents",
@@ -3206,12 +3206,12 @@
       "ident_ios": "About.OpenSource.header",
       "ident_android": "help_opensource_title",
       "ident_webui": "",
-      "en": "OPEN-SOURCE",
-      "fi": "AVOIN LÄHDEKOODI",
-      "ru": "ОТКРЫТЫЙ ИСХОДНЫЙ КОД",
-      "sv": "ÖPPEN KÄLLKOD",
-      "fr": "OPEN-SOURCE",
-      "de": "OPEN-SOURCE"
+      "en": "Open-source",
+      "fi": "Avoin lähdekoodi",
+      "ru": "Открытый исходный код",
+      "sv": "Öppen källkod",
+      "fr": "Open-source",
+      "de": "Open-source"
     },
     {
       "ident_ios": "About.OperationsManual.contents",
@@ -3228,12 +3228,12 @@
       "ident_ios": "About.OperationsManual.header",
       "ident_android": "help_operations_title",
       "ident_webui": "",
-      "en": "OPERATIONS MANUAL",
-      "fi": "KÄYTTÖOHJE",
-      "ru": "РУКОВОДСТВО",
-      "sv": "BRUKSANVISNING",
-      "fr": "NOTICE D'UTILISATION",
-      "de": "ANLEITUNG"
+      "en": "Operations manual",
+      "fi": "Käyttöohje",
+      "ru": "Руководство",
+      "sv": "Bruksanvisning",
+      "fr": "Notice d'utilisation",
+      "de": "Anleitung"
     },
     {
       "ident_ios": "About.Privacy.contents",
@@ -3250,12 +3250,12 @@
       "ident_ios": "About.Privacy.header",
       "ident_android": "help_privacy_policy_title",
       "ident_webui": "",
-      "en": "PRIVACY POLICY",
-      "fi": "TIETOSUOJAKÄYTÄNTÖ",
-      "ru": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-      "sv": "INTEGRITETSPOLICY",
-      "fr": "PROTECTION DES DONNÉES PERSONNELLES",
-      "de": "DATENSCHUTZ-BESTIMMUNGEN"
+      "en": "Privacy policy",
+      "fi": "Tietosuojakäytäntö",
+      "ru": "Политика конфиденциальности",
+      "sv": "Integritetspolicy",
+      "fr": "Protection des données personnelles",
+      "de": "Datenschutz-bestimmungen"
     },
     {
       "ident_ios": "",
@@ -3294,12 +3294,12 @@
       "ident_ios": "About.Troubleshooting.header",
       "ident_android": "help_troubleshooting_title",
       "ident_webui": "",
-      "en": "TROUBLESHOOTING",
-      "fi": "VIANETSINTÄ",
-      "ru": "РЕШЕНИЕ ПРОБЛЕМ",
-      "sv": "FELSÖKNING",
-      "fr": "DÉPANNAGE TECHNIQUE",
-      "de": "FEHLERBEHEBUNG"
+      "en": "Troubleshooting",
+      "fi": "Vianetsintä",
+      "ru": "Решение проблем",
+      "sv": "Felsökning",
+      "fr": "Dépannage technique",
+      "de": "Fehlerbehebung"
     },
     {
       "ident_ios": "Interval.Hour.string",
@@ -4384,12 +4384,12 @@
       "ident_ios": "TagCharts.Sync.title",
       "ident_android": "sync",
       "ident_webui": "",
-      "en": "SYNC",
-      "fi": "SYNKRONOI",
-      "ru": "СКАЧАТЬ",
-      "sv": "SYNK",
-      "fr": "SYNCHRONISATION",
-      "de": "SYNCHRONISIEREN"
+      "en": "Sync",
+      "fi": "Synkronoi",
+      "ru": "Скачать",
+      "sv": "Synk",
+      "fr": "Synchronisation",
+      "de": "Synchronisieren"
     },
     {
       "ident_ios": "",
