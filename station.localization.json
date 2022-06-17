@@ -7834,8 +7834,8 @@
       "fr": "Date",
       "de": "Zeitstempel"
     },
-    {
-      "ident_ios": "",
+        {
+      "ident_ios": "TagSettings.BatteryStatusLabel.Replace.message",
       "ident_android": "replace_battery",
       "ident_webui": "replace_battery",
       "en": "Replace battery!",
@@ -7846,7 +7846,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.BatteryStatusLabel.Ok.message",
       "ident_android": "battery_ok",
       "ident_webui": "battery_ok",
       "en": "Battery OK",
