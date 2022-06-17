@@ -2699,12 +2699,12 @@
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
       "ident_webui": "",
-      "en": "BACKGROUND\\nIMAGE",
-      "fi": "TAUSTAKUVA",
-      "ru": "ФОНОВОЕ\\nИЗОБРАЖЕНИЕ",
-      "sv": "BAKGRUNDSBILD",
-      "fr": "FOND D'ÉCRAN",
-      "de": "HINTERGRUND BILD"
+      "en": "Background\\nimage",
+      "fi": "Taustakuva",
+      "ru": "Фоновое\\nизображение",
+      "sv": "Bakgrundsbild",
+      "fr": "Fond d'écran",
+      "de": "Hintergrund bild"
     },
     {
       "ident_ios": "",
@@ -4335,6 +4335,17 @@
       "sv": "Välj den temperaturenhet som du vill ska visas",
       "fr": "Choisissez l'unité souhaitée pour la température",
       "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "settings_appearance",
+      "ident_webui": "",
+      "en": "Appearance settings",
+      "fi": "",
+      "ru": "Настройки внешнего вида",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "",
