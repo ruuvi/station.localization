@@ -1959,6 +1959,17 @@
       "de": "Benutzerdefinierte Beschreibung festlegen..."
     },
     {
+      "ident_ios": "",
+      "ident_android": "alarm_custom_description_title",
+      "ident_webui": "",
+      "en": "Alert custom description",
+      "fi": "Aseta hälytysviesti",
+      "ru": "Описание уведомления",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "TagSettings.Alerts.Humidity.description",
       "ident_android": "",
       "ident_webui": "",
