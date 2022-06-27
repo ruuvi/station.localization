@@ -576,23 +576,12 @@
       "ident_ios": "Defaults.AskReviewIfLaunchDivisibleBy.Count.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Ask review if app launch divisible by:",
-      "fi": "Pyydä tarkistusta, onko sovelluksen käynnistys jaettavissa:",
-      "ru": "Запросить отзыв, если запуск приложения делится на:",
-      "sv": "Fråga granskning om appstart är delbart med:",
-      "fr": "Demander un avis si le lancement de l'application est divisible par:",
-      "de": "Überprüfung fragen, ob App-Start teilbar durch:"
-    },
-    {
-      "ident_ios": "Defaults.Interval.th.String",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "th",
-      "fi": "th",
-      "ru": "th",
-      "sv": "th",
-      "fr": "th",
-      "de": "th"
+      "en": "Ask review if app launch divisible by",
+      "fi": "Pyydä tarkistusta, onko sovelluksen käynnistys jaettavissa",
+      "ru": "Запросить отзыв, если запуск приложения делится на",
+      "sv": "Fråga granskning om appstart är delbart med",
+      "fr": "Demander un avis si le lancement de l'application est divisible par",
+      "de": "Überprüfung fragen, ob App-Start teilbar durch"
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
