@@ -562,6 +562,28 @@
       "de": "Diagrammdauer"
     },
     {
+      "ident_ios": "Defaults.AppLaunchRequiredForReview.Count.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "App launch required to ask review",
+      "fi": "Tarkistuksen pyytäminen edellyttää sovelluksen käynnistämistä",
+      "ru": "Запуск приложения необходим, чтобы запросить отзыв",
+      "sv": "Appstart krävs för att begära granskning",
+      "fr": "Lancement de l'application requis pour demander un examen",
+      "de": "App-Start erforderlich, um eine Überprüfung anzufordern"
+    },
+    {
+      "ident_ios": "Defaults.Interval.th.String",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "th",
+      "fi": "th",
+      "ru": "th",
+      "sv": "th",
+      "fr": "th",
+      "de": "th"
+    },
+    {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
       "ident_android": "",
       "ident_webui": "",
