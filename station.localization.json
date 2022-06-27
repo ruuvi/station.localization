@@ -565,12 +565,23 @@
       "ident_ios": "Defaults.AppLaunchRequiredForReview.Count.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "App launch required to ask review",
-      "fi": "Tarkistuksen pyytäminen edellyttää sovelluksen käynnistämistä",
-      "ru": "Запуск приложения необходим, чтобы запросить отзыв",
-      "sv": "Appstart krävs för att begära granskning",
-      "fr": "Lancement de l'application requis pour demander un examen",
-      "de": "App-Start erforderlich, um eine Überprüfung anzufordern"
+      "en": "App launch count to ask for review for the first time",
+      "fi": "Sovelluksen käynnistyskerrat, kun pyydetään tarkistusta ensimmäistä kertaa",
+      "ru": "Количество запусков приложения, чтобы запросить обзор в первый раз",
+      "sv": "Appstartsräkning för att be om granskning för första gången",
+      "fr": "Nombre de lancements d'applications pour demander un examen pour la première fois",
+      "de": "Anzahl der App-Starts, um zum ersten Mal eine Überprüfung anzufordern"
+    },
+    {
+      "ident_ios": "Defaults.AskReviewIfLaunchDivisibleBy.Count.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Ask review if app launch divisible by:",
+      "fi": "Pyydä tarkistusta, onko sovelluksen käynnistys jaettavissa:",
+      "ru": "Запросить отзыв, если запуск приложения делится на:",
+      "sv": "Fråga granskning om appstart är delbart med:",
+      "fr": "Demander un avis si le lancement de l'application est divisible par:",
+      "de": "Überprüfung fragen, ob App-Start teilbar durch:"
     },
     {
       "ident_ios": "Defaults.Interval.th.String",
