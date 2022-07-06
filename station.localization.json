@@ -3511,6 +3511,17 @@
       "de": ""
     },
     {
+      "ident_ios": "Menu.BuySensors.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products",
+      "fi": "https://ruuvi.com/fi/tuotteet",
+      "ru": "https://ruuvi.com/products",
+      "sv": "https://ruuvi.com/products",
+      "fr": "https://ruuvi.com/products",
+      "de": "https://ruuvi.com/products"
+    },
+    {
       "ident_ios": "Menu.Label.BuyRuuviGateway.text",
       "ident_android": "menu_buy_gateway",
       "ident_webui": "",
@@ -3520,6 +3531,39 @@
       "sv": "Köp Ruuvi Gateway",
       "fr": "Acheter le routeur Ruuvi Gateway",
       "de": ""
+    },
+    {
+      "ident_ios": "Menu.BuyGateway.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/gateway",
+      "fi": "https://ruuvi.com/fi/gateway",
+      "ru": "https://ruuvi.com/gateway",
+      "sv": "https://ruuvi.com/gateway",
+      "fr": "https://ruuvi.com/gateway",
+      "de": "https://ruuvi.com/gateway"
+    },
+    {
+      "ident_ios": "Menu.Label.WhatToMeasure.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "What to measure with Ruuvi?",
+      "fi": "Mitä mitata Ruuvilla?",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Menu.Measure.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/ideas/",
+      "fi": "https://ruuvi.com/fi/ideat",
+      "ru": "https://ruuvi.com/ideas",
+      "sv": "https://ruuvi.com/ideas",
+      "fr": "https://ruuvi.com/ideas",
+      "de": "https://ruuvi.com/ideas"
     },
     {
       "ident_ios": "Menu.Label.Feedback.text",
@@ -5743,39 +5787,6 @@
       "sv": "http://ruuvi.com/support",
       "fr": "http://ruuvi.com/support",
       "de": "http://ruuvi.com/support"
-    },
-    {
-      "ident_ios": "Menu.BuySensors.URL",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "https://ruuvi.com/products",
-      "fi": "https://ruuvi.com/fi/tuotteet",
-      "ru": "https://ruuvi.com/products",
-      "sv": "https://ruuvi.com/products",
-      "fr": "https://ruuvi.com/products",
-      "de": "https://ruuvi.com/products"
-    },
-    {
-      "ident_ios": "Menu.BuyGateway.URL",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "https://ruuvi.com/gateway",
-      "fi": "https://ruuvi.com/fi/gateway",
-      "ru": "https://ruuvi.com/gateway",
-      "sv": "https://ruuvi.com/gateway",
-      "fr": "https://ruuvi.com/gateway",
-      "de": "https://ruuvi.com/gateway"
-    },
-    {
-      "ident_ios": "Menu.Measure.URL",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "https://ruuvi.com/ideas/",
-      "fi": "https://ruuvi.com/fi/ideat",
-      "ru": "https://ruuvi.com/ideas",
-      "sv": "https://ruuvi.com/ideas",
-      "fr": "https://ruuvi.com/ideas",
-      "de": "https://ruuvi.com/ideas"
     },
     {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.ClearConfirm",
