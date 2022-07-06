@@ -5745,6 +5745,39 @@
       "de": "http://ruuvi.com/support"
     },
     {
+      "ident_ios": "Menu.BuySensors.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products",
+      "fi": "https://ruuvi.com/fi/tuotteet",
+      "ru": "https://ruuvi.com/products",
+      "sv": "https://ruuvi.com/products",
+      "fr": "https://ruuvi.com/products",
+      "de": "https://ruuvi.com/products"
+    },
+    {
+      "ident_ios": "Menu.BuyGateway.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/gateway",
+      "fi": "https://ruuvi.com/fi/gateway",
+      "ru": "https://ruuvi.com/gateway",
+      "sv": "https://ruuvi.com/gateway",
+      "fr": "https://ruuvi.com/gateway",
+      "de": "https://ruuvi.com/gateway"
+    },
+    {
+      "ident_ios": "Menu.Measure.URL",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/ideas/",
+      "fi": "https://ruuvi.com/fi/ideat",
+      "ru": "https://ruuvi.com/ideas",
+      "sv": "https://ruuvi.com/ideas",
+      "fr": "https://ruuvi.com/ideas",
+      "de": "https://ruuvi.com/ideas"
+    },
+    {
       "ident_ios": "OffsetCorrection.Dialog.Calibration.ClearConfirm",
       "ident_android": "calibration_clear_confirm",
       "ident_webui": "calibration_clear_confirm",
