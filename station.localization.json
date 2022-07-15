@@ -8097,6 +8097,83 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "temperature_accuracy_title",
+      "ident_webui": "",
+      "en": "Temperature resolution",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "humidity_accuracy_title",
+      "ident_webui": "",
+      "en": "Humidity resolution",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "pressure_accuracy_title",
+      "ident_webui": "",
+      "en": "Pressure resolution",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "accuracy0_template",
+      "ident_webui": "",
+      "en": "%1$,.0f %2$s",
+      "fi": "%1$,.0f %2$s",
+      "ru": "%1$,.0f %2$s",
+      "sv": "%1$,.0f %2$s",
+      "fr": "%1$,.0f %2$s",
+      "de": "%1$,.0f %2$s"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "accuracy1_template",
+      "ident_webui": "",
+      "en": "%1$,.1f %2$s",
+      "fi": "%1$,.1f %2$s",
+      "ru": "%1$,.1f %2$s",
+      "sv": "%1$,.1f %2$s",
+      "fr": "%1$,.1f %2$s",
+      "de": "%1$,.1f %2$s"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "accuracy2_template",
+      "ident_webui": "",
+      "en": "%1$,.2f %2$s",
+      "fi": "%1$,.2f %2$s",
+      "ru": "%1$,.2f %2$s",
+      "sv": "%1$,.2f %2$s",
+      "fr": "%1$,.2f %2$s",
+      "de": "%1$,.2f %2$s"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "accuracy_description",
+      "ident_webui": "",
+      "en": "Select how accurately you'd like to see sensors live measurement values in the app. This setting doesn't affect history graphs or alerts.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
