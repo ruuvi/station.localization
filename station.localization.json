@@ -3512,7 +3512,7 @@
     },
     {
       "ident_ios": "Menu.BuySensors.URL",
-      "ident_android": "",
+      "ident_android": "buy_sensors_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/products",
       "fi": "https://ruuvi.com/fi/tuotteet",
@@ -3534,7 +3534,7 @@
     },
     {
       "ident_ios": "Menu.BuyGateway.URL",
-      "ident_android": "",
+      "ident_android": "buy_gateway_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/gateway",
       "fi": "https://ruuvi.com/fi/gateway",
@@ -3545,7 +3545,7 @@
     },
     {
       "ident_ios": "Menu.Label.WhatToMeasure.text",
-      "ident_android": "",
+      "ident_android": "menu_what_to_measure",
       "ident_webui": "",
       "en": "What to measure with Ruuvi?",
       "fi": "Mitä mitata Ruuvilla?",
@@ -3556,7 +3556,7 @@
     },
     {
       "ident_ios": "Menu.Measure.URL",
-      "ident_android": "",
+      "ident_android": "what_to_measure_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/ideas/",
       "fi": "https://ruuvi.com/fi/ideat",
@@ -4659,12 +4659,12 @@
       "ident_ios": "",
       "ident_android": "voltage_reading",
       "ident_webui": "",
-      "en": "%1$s %2$s",
-      "fi": "%1$s %2$s",
-      "ru": "%1$s %2$s",
-      "sv": "%1$s %2$s",
-      "fr": "%1$s %2$s",
-      "de": "%1$s %2$s"
+      "en": "%1$,.2f %2$s",
+      "fi": "%1$,.2f %2$s",
+      "ru": "%1$,.2f %2$s",
+      "sv": "%1$,.2f %2$s",
+      "fr": "%1$,.2f %2$s",
+      "de": "%1$,.2f %2$s"
     },
     {
       "ident_ios": "V",
