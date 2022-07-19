@@ -3549,10 +3549,10 @@
       "ident_webui": "",
       "en": "What to measure with Ruuvi?",
       "fi": "Mitä mitata Ruuvilla?",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "ru": "Что измерять с помощью Ruuvi?",
+      "sv": "Vad ska man mäta med Ruuvi?",
+      "fr": "Que mesurer avec Ruuvi?",
+      "de": "Was mit Ruuvi messen?"
     },
     {
       "ident_ios": "Menu.Measure.URL",
