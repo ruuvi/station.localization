@@ -315,7 +315,7 @@
       "en": "No data in last 10 days.",
       "fi": "Ei tietoja viimeiseltä 10 päivältä.",
       "ru": "",
-      "sv": "",
+      "sv": "Ingen data under de senaste 10 dagarna.",
       "fr": "",
       "de": ""
     },
@@ -1371,7 +1371,7 @@
       "en": "Open settings and tap Language to change language of the app.\n\nIf you cannot see the Language option in the settings, make sure that you have at least one preferred language added in system settings: Settings -> General -> Language & Region.",
       "fi": "Avaa asetukset ja napauta Kieli vaihtaaksesi sovelluksen kieltä.\n\nMikäli et näe Kieli-valintaa asetuksissa, varmista, että sinulla on vähintään yksi ensisijainen kieli on valittuna järjestelmäasetuksissa: Asetukset -> Yleiset -> Kieli ja alue.",
       "ru": "",
-      "sv": "",
+      "sv": "Öppna inställningar och tryck på Språk för att ändra språket i appen.\n\nOm du inte kan se språkalternativet i inställningarna, se till att du har lagt till minst ett föredraget språk i systeminställningarna: Inställningar -> Allmänt -> Språk och region .",
       "fr": "",
       "de": ""
     },
@@ -1987,7 +1987,7 @@
       "en": "Alert custom description",
       "fi": "Aseta hälytysviesti",
       "ru": "Описание уведомления",
-      "sv": "",
+      "sv": "Ställ in ett alarm-meddelande",
       "fr": "",
       "de": ""
     },
@@ -3088,7 +3088,7 @@
       "en": "Data Forwarding URL",
       "fi": "Välityspalvelimen URL-osoite",
       "ru": "URL шлюза",
-      "sv": "Proxy URL",
+      "sv": "Vidarebefordings-URL",
       "fr": "URL du routeur",
       "de": "Datenweiterleitungs-URL"
     },
@@ -3099,7 +3099,7 @@
       "en": "https://your.gateway/...",
       "fi": "https://välitys.palvelin/...",
       "ru": "https://your.gateway/...",
-      "sv": "https://proxy.server/...",
+      "sv": "https://din.server/...",
       "fr": "https://mon.routeur/...",
       "de": "https://your.gateway/..."
     },
@@ -3110,7 +3110,7 @@
       "en": "Forward data while syncing (beta)",
       "fi": "Välitä mittaustiedot synkronoitaessa (beta)",
       "ru": "",
-      "sv": "",
+      "sv": "Vidarebefordra data under synkronisering (beta)",
       "fr": "",
       "de": ""
     },
@@ -4287,7 +4287,7 @@
       "en": "Data Forwarding Settings",
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
-      "sv": "Proxyinställningar",
+      "sv": "Inställningar för vidarebefordran av data",
       "fr": "Paramètres du routeur",
       "de": "Einstellungen für die Datenweiterleitung"
     },
@@ -4343,7 +4343,7 @@
       "en": "Test data forwarding",
       "fi": "Testaa välityspalvelin",
       "ru": "Тест шлюза",
-      "sv": "Testa proxyn",
+      "sv": "Testa vidarebefordran av data",
       "fr": "Tester le routeur",
       "de": "Testdatenweiterleitung"
     },
@@ -4849,7 +4849,7 @@
       "en": "Data forwarding works! Response code: %1$d",
       "fi": "Palvelin vastasi! Palautekoodi: %1$d",
       "ru": "Шлюз работает! Код ответа: %1$d",
-      "sv": "Proxyn fungerar! HTTP svarskod: %1$d",
+      "sv": "Vidarebefordran fungerar! HTTP svarskod: %1$d",
       "fr": "Le routeur fonctionne ! Réponse : %1$d",
       "de": "Datenweiterleitung funktioniert! Antwortcode: %1$d"
     },
@@ -5047,7 +5047,7 @@
       "en": "Ruuvi Cloud",
       "fi": "Ruuvi Cloud",
       "ru": "",
-      "sv": "",
+      "sv": "Ruuvi Cloud",
       "fr": "",
       "de": ""
     },
@@ -7984,7 +7984,7 @@
       "en": "Press + to add sensors",
       "fi": "Paina + lisääksesi antureita",
       "ru": "Нажмите + чтобы добавить датчики",
-      "sv": "",
+      "sv": "Tryck på + för att lägga till sensorer",
       "fr": "",
       "de": ""
     },
@@ -7995,7 +7995,7 @@
       "en": "Appearance Settings",
       "fi": "Sovelluksen ulkoasuasetukset",
       "ru": "Настройки внешнего вида",
-      "sv": "",
+      "sv": "Utseendeinställningar",
       "fr": "",
       "de": ""
     },
@@ -8006,7 +8006,7 @@
       "en": "Dashboard view is enabled. ",
       "fi": "Koontinäyttö käytössä. ",
       "ru": "",
-      "sv": "",
+      "sv": "Översiksvyn är aktiverad. ",
       "fr": "",
       "de": ""
     },
@@ -8017,7 +8017,7 @@
       "en": "Dashboard view is disabled. ",
       "fi": "Koontinäyttö ei käytössä. ",
       "ru": "",
-      "sv": "",
+      "sv": "Översiksvyn är inaktiverad. ",
       "fr": "",
       "de": ""
     },
@@ -8028,7 +8028,7 @@
       "en": "Dark theme is enabled.",
       "fi": "Tumma teema käytössä.",
       "ru": "",
-      "sv": "",
+      "sv": "Mörkt tema är aktiverat.",
       "fr": "",
       "de": ""
     },
@@ -8039,7 +8039,7 @@
       "en": "Dark theme is disabled.",
       "fi": "Tumma teema ei käytössä.",
       "ru": "",
-      "sv": "",
+      "sv": "Mörkt tema är inaktiverat.",
       "fr": "",
       "de": ""
     },
@@ -8061,7 +8061,7 @@
       "en": "App Theme",
       "fi": "Sovelluksen teema",
       "ru": "",
-      "sv": "",
+      "sv": "App tema",
       "fr": "",
       "de": ""
     },
@@ -8072,7 +8072,7 @@
       "en": "Follow system theme",
       "fi": "Käytä järjestelmän oletusta",
       "ru": "",
-      "sv": "",
+      "sv": "Följ systemtema",
       "fr": "",
       "de": ""
     },
@@ -8083,7 +8083,7 @@
       "en": "Dark theme",
       "fi": "Tumma teema",
       "ru": "",
-      "sv": "",
+      "sv": "Mörkt tema",
       "fr": "",
       "de": ""
     },
@@ -8094,7 +8094,7 @@
       "en": "Light theme",
       "fi": "Vaalea teema",
       "ru": "",
-      "sv": "",
+      "sv": "Ljust tema",
       "fr": "",
       "de": ""
     },
@@ -8105,7 +8105,7 @@
       "en": "Temperature resolution",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Temperaturupplösning",
       "fr": "",
       "de": ""
     },
@@ -8116,7 +8116,7 @@
       "en": "Humidity resolution",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Fuktighetsupplösning",
       "fr": "",
       "de": ""
     },
@@ -8127,7 +8127,7 @@
       "en": "Pressure resolution",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Tryckupplösning",
       "fr": "",
       "de": ""
     },
@@ -8171,7 +8171,7 @@
       "en": "Select how accurately you'd like to see sensors live measurement values in the app. This setting doesn't affect history graphs or alerts.",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Välj hur exakt du vill se sensorernas livemätvärden i appen. Den här inställningen påverkar inte grafer eller varningar.",
       "fr": "",
       "de": ""
     },
@@ -8182,7 +8182,7 @@
       "en": "Unit",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Enhet",
       "fr": "",
       "de": ""
     },
@@ -8193,7 +8193,7 @@
       "en": "Resolution",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Upplösning",
       "fr": "",
       "de": ""
     }
