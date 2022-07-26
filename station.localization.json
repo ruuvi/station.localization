@@ -1487,14 +1487,13 @@
     },
     {
       "ident_ios": "TagCharts.Clear.title",
-      "ident_android": "",
       "ident_webui": "",
-      "en": "CLEAR",
-      "fi": "PYYHI",
-      "ru": "ОЧИСТИТЬ",
-      "sv": "RENSA",
-      "fr": "EFFACER",
-      "de": "LÖSCHEN"
+      "en": "Clear",
+      "fi": "Pyyhi",
+      "ru": "Очистить",
+      "sv": "Rensa",
+      "fr": "Effacer",
+      "de": "Löschen"
     },
     {
       "ident_ios": "TagCharts.SyncConfirmationDialog.title",
