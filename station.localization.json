@@ -1487,6 +1487,7 @@
     },
     {
       "ident_ios": "TagCharts.Clear.title",
+      "ident_android": "",
       "ident_webui": "",
       "en": "Clear",
       "fi": "Pyyhi",
