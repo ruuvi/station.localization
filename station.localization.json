@@ -8060,7 +8060,7 @@
       "ident_webui": "",
       "en": "App Theme",
       "fi": "Sovelluksen teema",
-      "ru": "",
+      "ru": "Тема приложения",
       "sv": "App tema",
       "fr": "",
       "de": ""
@@ -8071,7 +8071,7 @@
       "ident_webui": "",
       "en": "Follow system theme",
       "fi": "Käytä järjestelmän oletusta",
-      "ru": "",
+      "ru": "Как в системе",
       "sv": "Följ systemtema",
       "fr": "",
       "de": ""
@@ -8082,7 +8082,7 @@
       "ident_webui": "",
       "en": "Dark theme",
       "fi": "Tumma teema",
-      "ru": "",
+      "ru": "Темная тема",
       "sv": "Mörkt tema",
       "fr": "",
       "de": ""
@@ -8093,7 +8093,7 @@
       "ident_webui": "",
       "en": "Light theme",
       "fi": "Vaalea teema",
-      "ru": "",
+      "ru": "Светлая тема",
       "sv": "Ljust tema",
       "fr": "",
       "de": ""
