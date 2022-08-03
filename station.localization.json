@@ -4122,7 +4122,7 @@
       "en": "Background Scanning",
       "fi": "Taustaskannaus",
       "ru": "Сканирование в фоне",
-      "sv": "Bakgrundsskanningsinställningar",
+      "sv": "Bakgrundsskanning",
       "fr": "Réglages du balayage en arrière-plan",
       "de": "Scannen im Hintergrund"
     },
@@ -4287,7 +4287,7 @@
       "en": "Data Forwarding",
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
-      "sv": "Inställningar för vidarebefordran av data",
+      "sv": "Vidarebefordran av data",
       "fr": "Paramètres du routeur",
       "de": "Datenweiterleitung"
     },
@@ -7995,7 +7995,7 @@
       "en": "Appearance",
       "fi": "Sovelluksen ulkoasuasetukset",
       "ru": "Внешний вид",
-      "sv": "Utseendeinställningar",
+      "sv": "Utseende",
       "fr": "",
       "de": ""
     },
