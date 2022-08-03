@@ -4119,12 +4119,12 @@
       "ident_ios": "",
       "ident_android": "settings_background_scan",
       "ident_webui": "",
-      "en": "Background Scanning Settings",
-      "fi": "Taustaskannauksen asetukset",
-      "ru": "Настройки сканирования в фоне",
+      "en": "Background Scanning",
+      "fi": "Taustaskannaus",
+      "ru": "Сканирование в фоне",
       "sv": "Bakgrundsskanningsinställningar",
       "fr": "Réglages du balayage en arrière-plan",
-      "de": "Einstellungen für das Scannen im Hintergrund"
+      "de": "Scannen im Hintergrund"
     },
     {
       "ident_ios": "",
@@ -4284,12 +4284,12 @@
       "ident_ios": "",
       "ident_android": "settings_data_forwarding",
       "ident_webui": "",
-      "en": "Data Forwarding Settings",
+      "en": "Data Forwarding",
       "fi": "Välityspalvelimen asetukset",
       "ru": "Настройки шлюза",
       "sv": "Inställningar för vidarebefordran av data",
       "fr": "Paramètres du routeur",
-      "de": "Einstellungen für die Datenweiterleitung"
+      "de": "Datenweiterleitung"
     },
     {
       "ident_ios": "",
@@ -7992,9 +7992,9 @@
       "ident_ios": "",
       "ident_android": "settings_appearance",
       "ident_webui": "",
-      "en": "Appearance Settings",
+      "en": "Appearance",
       "fi": "Sovelluksen ulkoasuasetukset",
-      "ru": "Настройки внешнего вида",
+      "ru": "Внешний вид",
       "sv": "Utseendeinställningar",
       "fr": "",
       "de": ""
