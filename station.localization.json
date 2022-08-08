@@ -4879,34 +4879,34 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format3",
       "ident_webui": "",
-      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage",
-      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite",
-      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи",
-      "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning",
-      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension",
-      "de": "Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung"
+      "en": "Date,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V)",
+      "fi": "Päivämäärä,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Lähetysteho (dBm),Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V)",
+      "ru": "Дата,Температура (%1$s),Влажность (%2$s),Давление (%3$s),RSSI (dBm),Ускорение по X (g),Ускорение по Y (g),Ускорение по Z (g),Напряжение Батареи (V)",
+      "sv": "Datum,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Signalstyrka (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Spänning (V)",
+      "fr": "Date,Température (%1$s),Humidité (%2$s),Pression (%3$s),Puissance d'émission (dBm),Accélération en X (g),Accélération en Y (g),Accélération en Z (g),Tension (V)",
+      "de": "Zeitstempel,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Druck (%3$s),RSSI (dBm),Beschleunigung X (g),Beschleunigung Y (g),Beschleunigung Z (g),Spannung (V)"
     },
     {
       "ident_ios": "",
       "ident_android": "export_csv_header_format5",
       "ident_webui": "",
-      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI,Acceleration X,Acceleration Y,Acceleration Z,Voltage,Movement counter,Measurement sequence number,TX Power",
-      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X,Kiihtyvyys Y,Kiihtyvyys Z,Jännite,Liikelaskuri,Mittajärjestysnumero,Lähetysteho",
-      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI,Ускорение по X,Ускорение по Y,Ускорение по Z,Напряжение Батареи,Счетчик Движения,Порядковый Номер Измерения,Мощность Передачи",
-      "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka, Acceleration X,Acceleration Y,Acceleration Z, Spänning, Rörelseräknare,Mätningssekvensnummer,Sändningseffekt",
-      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission, Accélération en X, Accélération en Y, Accélération en Z, Tension, Compteur de mouvements, Numéro de séquence,Puissance d'émission",
-      "de": "Zeitstempel,Temperatur (%1$s), Feuchtigkeit (%2$s), Druck (%3$s),RSSI,Beschleunigung X,Beschleunigung Y,Beschleunigung Z,Spannung,Bewegungszähler,Messsequenznummer,TX-Leistung"
+      "en": "Date,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V),Movement counter (movements),Measurement sequence number,TX Power (dBm)",
+      "fi": "Päivämäärä,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Lähetysteho,Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V),Liikelaskuri (liikettä),Mittajärjestysnumero,Lähetysteho (dBm)",
+      "ru": "Дата,Температура (%1$s),Влажность (%2$s),Давление (%3$s),RSSI (dBm),Ускорение по X (g),Ускорение по Y (g),Ускорение по Z (g),Напряжение Батареи (V),Счетчик Движения (движений),Порядковый Номер Измерения,Мощность Передачи (dBm)",
+      "sv": "Datum,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Signalstyrka (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Spänning (V),Rörelseräknare (rörelser),Mätningssekvensnummer,Sändningseffekt (dBm)",
+      "fr": "Date,Température (%1$s),Humidité (%2$s),Pression (%3$s),Puissance d'émission (dBm),Accélération en X (g), Accélération en Y (g), Accélération en Z (g),Tension (V),Compteur de mouvements (mouvements),Numéro de séquence,Puissance d'émission (dBm)",
+      "de": "Zeitstempel,Temperatur (%1$s),Feuchtigkeit (%2$s),Druck (%3$s),RSSI (dBm),Beschleunigung X (g),Beschleunigung Y (g),Beschleunigung Z (g),Spannung (V),Bewegungszähler,Messsequenznummer,TX-Leistung (dBm)"
     },
     {
       "ident_ios": "",
       "ident_android": "export_csv_header_format2_4",
       "ident_webui": "",
-      "en": "Timestamp,Temperature (%1$s), Humidity (%2$s), Pressure (%3$s),RSSI",
-      "fi": "Päivämäärä,Lämpötila (%1$s), Ilmankosteus (%2$s), Ilmanpaine (%3$s),Lähetysteho",
-      "ru": "Дата,Температура (%1$s), Влажность (%2$s), Давление (%3$s),RSSI",
-      "sv": "Datum,Temperatur (%1$s), Luftfuktighet (%2$s), Lufttryck (%3$s), Signalstyrka",
-      "fr": "Date, Température (%1$s), Humidité (%2$s), Pression (%3$s), Puissance d'émission",
-      "de": "Zeitstempel,Temperatur (%1$s), Luftfeuchtigkeit (%2$s), Druck (%3$s),RSSI"
+      "en": "Date,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),RSSI(dBm)",
+      "fi": "Päivämäärä,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Lähetysteho(dBm)",
+      "ru": "Дата,Температура (%1$s),Влажность (%2$s),Давление (%3$s),RSSI(dBm)",
+      "sv": "Datum,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Signalstyrka(dBm)",
+      "fr": "Date,Température (%1$s),Humidité (%2$s),Pression (%3$s),Puissance d'émission(dBm)",
+      "de": "Zeitstempel,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Druck (%3$s),RSSI(dBm)"
     },
     {
       "ident_ios": "LocalNotificationsManager.Mute.button",
