@@ -1345,7 +1345,7 @@
     {
       "ident_ios": "Settings.Label.Language.text",
       "ident_android": "settings_language",
-      "ident_webui": "",
+      "ident_webui": "language",
       "en": "Language",
       "fi": "Kieli",
       "ru": "Язык",
