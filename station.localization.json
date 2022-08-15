@@ -1629,6 +1629,28 @@
       "de": "Mehr erfahren"
     },
     {
+      "ident_ios": "TagSettings.AbortSync.Alert.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "History downloading via Bluetooth connection is in progress. Please wait.",
+      "fi": "Historian lataaminen Bluetooth-yhteydellä on käynnissä. Odota hetki.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "TagSettings.AbortSync.Button.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Abort downloading",
+      "fi": "Peruuta lataaminen",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "TagSettings.EmptyValue.sign",
       "ident_android": "",
       "ident_webui": "",
