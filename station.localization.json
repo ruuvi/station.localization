@@ -1081,7 +1081,7 @@
     {
       "ident_ios": "Language.English",
       "ident_android": "language_english",
-      "ident_webui": "",
+      "ident_webui": "language_english",
       "en": "English",
       "fi": "English",
       "ru": "English",
@@ -1092,7 +1092,7 @@
     {
       "ident_ios": "Language.Finnish",
       "ident_android": "language_finnish",
-      "ident_webui": "",
+      "ident_webui": "language_finnish",
       "en": "Suomi",
       "fi": "Suomi",
       "ru": "Suomi",
@@ -1114,7 +1114,7 @@
     {
       "ident_ios": "Language.Swedish",
       "ident_android": "language_swedish",
-      "ident_webui": "",
+      "ident_webui": "language_swedish",
       "en": "Svenska",
       "fi": "Svenska",
       "ru": "Svenska",
