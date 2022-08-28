@@ -7188,7 +7188,7 @@
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.rename.text",
       "ident_android": "rename_sensor_message",
-      "ident_webui": "",
+      "ident_webui": "rename_sensor_message",
       "en": "Your sensors will be in alphabetical order.",
       "fi": "Anturisi asettuvat automaattisesti aakkosjärjestykseen.",
       "ru": "Датчики будут отсортированы в алфавитном порядке.",
