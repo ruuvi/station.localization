@@ -7090,7 +7090,7 @@
       "ident_ios": "Menu.LoggedIn.title",
       "ident_android": "logged_in",
       "ident_webui": "",
-      "en": "Logged in:",
+      "en": "Signed in:",
       "fi": "Kirjautunut:",
       "ru": "Пользователь:",
       "sv": "Inloggad:",
