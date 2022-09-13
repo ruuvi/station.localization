@@ -6779,6 +6779,17 @@
       "de": "Aktualisierung erfolgreich"
     },
     {
+      "ident_ios": "DFUUIView.DBMigration.Error.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Updating was successful, but an unexpected database migration error occurred. To continue using this sensor, please remove it from the app and then add it again.",
+      "fi": "Päivitys onnistui, mutta sovelluksen tietokannassa tapahtui odottamaton virhe. Jatkaaksesi tämän anturin käyttöä, poista se sovelluksesta ja lisää se sitten uudelleen.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "RuuviDfuError.failedToConstructUUID",
       "ident_android": "",
       "ident_webui": "",
@@ -8227,6 +8238,28 @@
       "fi": "Resoluutio",
       "ru": "",
       "sv": "Upplösning",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "MyRuuvi.Settings.DeleteAccount.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Delete Account",
+      "fi": "Poista tili",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "MyRuuvi.Settings.DeleteAccount.Confirmation.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "A confirmation is sent to your email. To proceed with the deletion, please check your inbox and follow the instructions.",
+      "fi": "Vahvistussähköposti lähetetty. Poistaaksesi tilin, toimi sähköpostin ohjeiden mukaan.",
+      "ru": "",
+      "sv": "",
       "fr": "",
       "de": ""
     }
