@@ -1409,6 +1409,17 @@
       "de": "Hintergrund"
     },
     {
+      "ident_ios": "Settings.Label.MyRuuviAccount",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "My Ruuvi Account",
+      "fi": "Minun Ruuvi-tili",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
       "ident_android": "",
       "ident_webui": "",
