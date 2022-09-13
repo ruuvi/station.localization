@@ -1409,17 +1409,6 @@
       "de": "Hintergrund"
     },
     {
-      "ident_ios": "Settings.Label.MyRuuviAccount",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "My Ruuvi Account",
-      "fi": "Minun Ruuvi-tili",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
-    },
-    {
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
       "ident_android": "",
       "ident_webui": "",
@@ -3619,6 +3608,17 @@
       "sv": "Skicka Feedback",
       "fr": "Donnez-nous votre avis!",
       "de": "Feedback schicken"
+    },
+    {
+      "ident_ios": "Menu.Label.MyRuuviAccount.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "My Ruuvi Account",
+      "fi": "Minun Ruuvi-tili",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "min",
