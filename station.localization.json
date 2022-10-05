@@ -8156,7 +8156,7 @@
     {
       "ident_ios": "Settings.Temperature.Resolution.title",
       "ident_android": "temperature_accuracy_title",
-      "ident_webui": "",
+      "ident_webui": "temperature_resolution",
       "en": "Temperature resolution",
       "fi": "Lämpötilan resoluutio",
       "ru": "",
@@ -8167,7 +8167,7 @@
     {
       "ident_ios": "Settings.Humidity.Resolution.title",
       "ident_android": "humidity_accuracy_title",
-      "ident_webui": "",
+      "ident_webui": "humidity_resolution",
       "en": "Humidity resolution",
       "fi": "Kosteuden resoluutio",
       "ru": "",
@@ -8178,7 +8178,7 @@
     {
       "ident_ios": "Settings.Pressure.Resolution.title",
       "ident_android": "pressure_accuracy_title",
-      "ident_webui": "",
+      "ident_webui": "pressure_resolution",
       "en": "Pressure resolution",
       "fi": "Paineen resoluutio",
       "ru": "",
