@@ -7955,7 +7955,7 @@
       "fr": "Date",
       "de": "Zeitstempel"
     },
-        {
+    {
       "ident_ios": "TagSettings.BatteryStatusLabel.Replace.message",
       "ident_android": "replace_battery",
       "ident_webui": "replace_battery",
@@ -8348,6 +8348,28 @@
       "fi": "Hälytys",
       "ru": "",
       "sv": "Alert",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "color_mode_tooltip",
+      "en": "Toggle color mode",
+      "fi": "Vaihda väritilaa",
+      "ru": "",
+      "sv": "Byt färgeläge",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "toggle_image_tooltip",
+      "en": "Toggle between image or graph only cards",
+      "fi": "Vaihda vain kuva- tai kaaviokorttien välillä",
+      "ru": "",
+      "sv": "Växla mellan kort med endast bild eller graf",
       "fr": "",
       "de": ""
     }
