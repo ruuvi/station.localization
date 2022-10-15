@@ -3943,7 +3943,7 @@
       "ident_ios": "TagSettings.rssiTitleLabel.text",
       "ident_android": "rssi",
       "ident_webui": "signal_strength",
-      "en": "Signal strength (RSSI)",
+      "en": "Signal Strength (RSSI)",
       "fi": "Signaalin voimakkuus (RSSI)",
       "ru": "Сила сигнала (RSSI)",
       "sv": "Signalstyrka (RSSI)",
