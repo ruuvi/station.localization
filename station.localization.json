@@ -7530,11 +7530,11 @@
       "ident_ios": "",
       "ident_android": "background_scanning",
       "ident_webui": "",
-      "en": "Background scanning",
-      "fi": "Taustaskannaus",
-      "ru": "Фоновое сканирование",
-      "sv": "Bakgrundsskanning",
-      "fr": "Balayage en arrière plan",
+      "en": "Background scanning (Bluetooth)",
+      "fi": "Taustaskannaus (Bluetooth)",
+      "ru": "Фоновое сканирование (Bluetooth)",
+      "sv": "Bakgrundsskanning (Bluetooth)",
+      "fr": "Balayage en arrière plan (Bluetooth)",
       "de": ""
     },
     {
