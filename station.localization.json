@@ -185,7 +185,7 @@
       "ru": "Ruuvi Station необходим Bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre téléphone.",
-      "de": "Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehe zu Einstellungen und schalte Bluetooth ein"
+      "de": "Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehe zu Einstellungen und schalte Bluetooth ein."
     },
     {
       "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.title",
@@ -312,10 +312,10 @@
       "ident_ios": "Cards.UpdatedLabel.NoData.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "No data in last 10 days.",
-      "fi": "Ei tietoja viimeiseltä 10 päivältä.",
+      "en": "No data in last 10 days",
+      "fi": "Ei tietoja viimeiseltä 10 päivältä",
       "ru": "",
-      "sv": "Ingen data under de senaste 10 dagarna.",
+      "sv": "Ingen data under de senaste 10 dagarna",
       "fr": "",
       "de": ""
     },
@@ -988,7 +988,7 @@
       "ru": "каждые",
       "sv": "varje",
       "fr": "toutes les",
-      "de": "Jeder"
+      "de": "jeder"
     },
     {
       "ident_ios": "Heartbeat.Interval.Min.string",
@@ -1051,9 +1051,9 @@
       "ident_webui": "",
       "en": "You are going to clear humidity offset. This can't be undone. Tap \\\"Confirm\\\" to continue.",
       "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения",
-      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta",
-      "fr": "Vous allez réinitialiser le calibrage de l'hygromètre. Cette action est irréversible. Appuyez sur \\\"confirmer\\\" pour continuer",
+      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения.",
+      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta.",
+      "fr": "Vous allez réinitialiser le calibrage de l'hygromètre. Cette action est irréversible. Appuyez sur \\\"confirmer\\\" pour continuer.",
       "de": "Feuchtigkeits-Offset wird gelöscht. Dies kann nicht rückgängig gemacht werden. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren."
     },
     {
@@ -1073,10 +1073,10 @@
       "ident_webui": "",
       "en": "You are going to calibrate humidity offset. Tap \\\"Confirm\\\" to continue",
       "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения",
-      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta",
-      "fr": "Vous allez calibrer l'hygromètre. Appuyez sur \\\"confirmer\\\" pour continuer",
-      "de": "Feuchtigkeits-Offset wird kalibriert. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren"
+      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения.",
+      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta.",
+      "fr": "Vous allez calibrer l'hygromètre. Appuyez sur \\\"confirmer\\\" pour continuer.",
+      "de": "Feuchtigkeits-Offset wird kalibriert. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren."
     },
     {
       "ident_ios": "Language.English",
@@ -1249,10 +1249,10 @@
       "ident_webui": "",
       "en": "Ruuvi Station needs Push Notifications permission to enable this feature",
       "fi": "Tämä ominaisuus vaatii oikeuden palveluilmoitusten näyttämiseen.",
-      "ru": "Ruuvi Station необходим доступ к уведомлениям для того, чтобы использовать эту функцию",
+      "ru": "Ruuvi Station необходим доступ к уведомлениям для того, чтобы использовать эту функцию.",
       "sv": "Ruuvi Station behöver behörighett ill Push-meddelanden för att aktivera den här funktionen.",
       "fr": "Veuillez autoriser les notifications dans les réglages de l'appareil.",
-      "de": "Ruuvi Station benötigt die Berechtigung für Push-Benachrichtigungen, um diese Funktion zu aktivieren"
+      "de": "Ruuvi Station benötigt die Berechtigung für Push-Benachrichtigungen, um diese Funktion zu aktivieren."
     },
     {
       "ident_ios": "PhotoPicker.Sheet.message",
@@ -1371,7 +1371,7 @@
       "en": "Open settings and tap Language to change language of the app.\n\nIf you cannot see the Language option in the settings, make sure that you have at least one preferred language added in system settings: Settings -> General -> Language & Region.",
       "fi": "Avaa asetukset ja napauta Kieli vaihtaaksesi sovelluksen kieltä.\n\nMikäli et näe Kieli-valintaa asetuksissa, varmista, että sinulla on vähintään yksi ensisijainen kieli on valittuna järjestelmäasetuksissa: Asetukset -> Yleiset -> Kieli ja alue.",
       "ru": "",
-      "sv": "Öppna inställningar och tryck på Språk för att ändra språket i appen.\n\nOm du inte kan se språkalternativet i inställningarna, se till att du har lagt till minst ett föredraget språk i systeminställningarna: Inställningar -> Allmänt -> Språk och region .",
+      "sv": "Öppna inställningar och tryck på Språk för att ändra språket i appen.\n\nOm du inte kan se språkalternativet i inställningarna, se till att du har lagt till minst ett föredraget språk i systeminställningarna: Inställningar -> Allmänt -> Språk och region.",
       "fr": "",
       "de": ""
     },
@@ -1412,12 +1412,12 @@
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Failed to parse Open Weather Map response.",
-      "fi": "Open Weather Map -vastauksen jäsentäminen epäonnistui.",
-      "ru": "Не удалось распарсить ответ от OpenWeatherMap.",
-      "sv": "Det gick inte att tolka Open Weather Map data.",
-      "fr": "Echec lors de l'ajout de la réponse Weather Map.",
-      "de": "Fehler beim Parsen der Open Weather Map-Antwort."
+      "en": "Failed to parse Open Weather Map response",
+      "fi": "Open Weather Map -vastauksen jäsentäminen epäonnistui",
+      "ru": "Не удалось распарсить ответ от OpenWeatherMap",
+      "sv": "Det gick inte att tolka Open Weather Map data",
+      "fr": "Echec lors de l'ajout de la réponse Weather Map",
+      "de": "Fehler beim Parsen der Open Weather Map-Antwort"
     },
     {
       "ident_ios": "OWMError.apiLimitExceeded",
@@ -1687,12 +1687,12 @@
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Humidity value is greater than 100.0% after calibration. This value doesn't make sense, so the value is adjusted to 100.0%.",
+      "en": "Humidity value is greater than 100% after calibration. This value doesn't make sense, so the value is adjusted to 100%.",
       "fi": "Kalibroinnin jälkeinen kosteusarvo on suurempi kuin 100%. Tämä ei käy järkeen, joten maksimiarvona näytetään 100%.",
       "ru": "Значение относительной влажности больше 100% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%.",
       "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%. Detta är inte rimligt, så det maximala värdet visas som 100%.",
-      "fr": "L'humidité est supérieure à 100.0% après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100%.",
-      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100,0 %. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100,0 % angepasst."
+      "fr": "L'humidité est supérieure à 100 % après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100 %.",
+      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100 %. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100 % angepasst."
     },
     {
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.Fix.button",
@@ -3030,12 +3030,12 @@
       "ident_ios": "",
       "ident_android": "dashboard_description",
       "ident_webui": "",
-      "en": "Use dashboard view to see multiple sensors at a glance",
-      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla",
-      "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно",
-      "sv": "Använd översikt vy för att se flera sensorer på samma gång",
-      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord",
-      "de": "Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen"
+      "en": "Use dashboard view to see multiple sensors at a glance.",
+      "fi": "Koontinäyttö mahdollistaa useamman anturin tietojen näyttämisen yhdellä sivulla.",
+      "ru": "Используйте панель датчиков чтобы видеть показания сразу нескольких датчиков одноременно.",
+      "sv": "Använd översikt vy för att se flera sensorer på samma gång.",
+      "fr": "Vous pouvez afficher différentes informations importantes sur le tableau de bord.",
+      "de": "Verwenden Sie die Dashboard-Ansicht, um mehrere Sensoren auf einen Blick zu sehen."
     },
     {
       "ident_ios": "",
@@ -3075,7 +3075,7 @@
       "ident_android": "export",
       "ident_webui": "export",
       "en": "EXPORT",
-      "fi": "VIE",
+      "fi": "LATAA",
       "ru": "ЭКСПОРТ",
       "sv": "EXPORTERA",
       "fr": "EXPORTER",
@@ -3309,7 +3309,7 @@
       "fi": "Sovelluksen käyttäminen vaatii Ruuvin käyttöehtojen hyväksymisen: ruuvi.com/terms",
       "ru": "Используя это приложение, вы соглашаетесь со стандартными условиями и положениями Ruuvi: ruuvi.com/terms",
       "sv": "Användning av applikationen kräver godkännande av användarvillkoren\\nruuvi.com/terms",
-      "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi: ruuvi.com/terms",
+      "fr": "L'utilisation de l'application nécessite l'approbation des conditions générales de Ruuvi : ruuvi.com/terms",
       "de": "Durch die Nutzung der Anwendung akzeptieren Sie die allgemeinen Geschäftsbedingungen von Ruuvi: ruuvi.com/terms"
     },
     {
@@ -3736,7 +3736,7 @@
       "ident_webui": "",
       "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \\n\\nPlease click 'allow all the time' if you'd like to use the background scanning feature. \\n\\nRuuvi doesn't track your movements. You're safe.",
       "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
-      "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
+      "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности.",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\nTillåt om du vill använda bakgrundsskanning\\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
       "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nAutorisez l'utilisation de votre position pour utiliser le balayage en arrière plan. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle.",
       "de": "Um Bluetooth-Geräte in der Nähe im Hintergrund zu scannen, muss für Android der Zugriff auf den Standort im Hintergrund aktiviert sein. \\n\\n Bitte klicken Sie auf 'immer zulassen', wenn Sie die Funktion zum Scannen im Hintergrund verwenden möchten. \\n\\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher."
@@ -3747,7 +3747,7 @@
       "ident_webui": "",
       "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \\n\\nRuuvi doesn't track your movements. You're safe.",
       "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
-      "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности",
+      "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности.",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
       "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle.",
       "de": "Um Bluetooth-Geräte in der Nähe zu scannen, muss für Android der Standortzugriff aktiviert sein. \\n\\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher."
@@ -3789,12 +3789,12 @@
       "ident_ios": "Cards.NoSensors.title",
       "ident_android": "press_to_add",
       "ident_webui": "",
-      "en": "No sensors added,\\npress here to add sensors",
-      "fi": "Ei antureita. Lisää antureita napauttamalla tästä",
-      "ru": "Нет добавленных датчиков,\\nнажмите чтобы добавить",
-      "sv": "Inga sensorer har lags till,\\ntryck här för att lägga till sensorer",
-      "fr": "Pas de capteurs. Ajoutez-en en cliquant ici",
-      "de": "Keine Sensoren hinzugefügt, klicken Sie hier, um Sensoren hinzuzufügen"
+      "en": "No sensors added\\nPress here to add sensors",
+      "fi": "Ei antureita\\nLisää antureita napauttamalla tästä",
+      "ru": "Нет добавленных датчиков\\nнажмите чтобы добавить",
+      "sv": "Inga sensorer har lags till\\nTryck här för att lägga till sensorer",
+      "fr": "Pas de capteurs\\nAjoutez-en en cliquant ici",
+      "de": "Keine Sensoren hinzugefügt\\nKlicken Sie hier, um Sensoren hinzuzufügen"
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
@@ -4053,11 +4053,11 @@
       "ident_ios": "",
       "ident_android": "settings_background_battery_optimization_common_instructions",
       "ident_webui": "",
-      "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimisation and select 'Don't optimise for Ruuvi Station'",
-      "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Akku -> Virransäästö ja valitse 'Älä käytä'",
-      "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд",
-      "sv": "Gå till operativsystemets Inställningar -> Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station",
-      "fr": "Allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Économie d'énergie -> Désactiver",
+      "en": "Go to Android Settings -> Apps -> Ruuvi Station -> Battery -> Battery Optimisation and select 'Don't optimise for Ruuvi Station'.",
+      "fi": "Mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Akku -> Virransäästö ja valitse 'Älä käytä'.",
+      "ru": "Перейдите в настройки Android -> Приложения -> Ruuvi Station -> Батарея -> укажите, что не нужно экономить заряд.",
+      "sv": "Gå till operativsystemets Inställningar -> Appar -> Batteri -> Batterioptimering och välj Optimera inte för Ruuvi Station.",
+      "fr": "Allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Économie d'énergie -> Désactiver.",
       "de": "Gehen Sie zu Android-Einstellungen -> Apps -> Ruuvi Station -> Akku -> Akkuoptimierung und wählen Sie 'Nicht für Ruuvi Station optimieren'."
     },
     {
@@ -4066,7 +4066,7 @@
       "ident_webui": "",
       "en": "On Huawei devices go to Android Settings -> Apps -> Ruuvi Station -> Power usage details -> App launch. Disable 'Manage Automatically' and enable options: 'Auto-Launch', 'Secondary Launch' and 'Run in background'.",
       "fi": "Huawei-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Ruuvi Station -> Virrankulutustiedot -> Sovelluksen käynnistys -> poista käytöstä 'Hallitse automaattisesti' ja varmista, että kaikki manuaalisen hallinnan alla olevat vaihtoehdot ovat käytössä.",
-      "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме",
+      "ru": "Для устройств Huawei перейдите в настройки Android -> Приложения -> Ruuvi Station -> Сведения энергопотребления -> Запуск приложений -> отключите Автоматическое Управление и включите Автозапуск, Косвенный запуск и Работу в фоновом режиме.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Appar -> Ruuvi Station -> Information om energiförbrukning -> Appstart. Avaktivera Hantera automatiskt och aktivera Autostart, Sekundär start och Kör i bakgrunden.",
       "fr": "Pour les appareils Huawei allez dans : Réglages -> Applications -> RuuviStation -> Utilisation de la batterie -> Démarrage de l'application -> Désactiver 'contrôle automatique' et assurez-vous que les options de contrôle manuel sont activées.",
       "de": "Gehen Sie auf Huawei-Geräten zu Android-Einstellungen -> Apps -> Ruuvi Station -> Details zum Stromverbrauch -> App-Start. Deaktivieren Sie 'Automatisch verwalten' und aktivieren Sie die Optionen: 'Automatischer Start', 'Sekundärer Start' und 'Im Hintergrund ausführen'."
@@ -4077,7 +4077,7 @@
       "ident_webui": "",
       "en": "On Samsung devices go to Android Settings -> Battery -> App power saving detail and set option 'Turned off' for Ruuvi Station.",
       "fi": "Samsung-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Akku -> Sovelluksen virransäästö -> Ruuvi Station ja valitse 'Ei käytössä'.",
-      "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station",
+      "ru": "Для телефонов Самсунг перейдите в настройки Android -> Батарея -> Энергопотребление приложений -> кнопка Подробно -> отключите оптимизацию для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Batteri -> Information (under Programenergisparläge) -> Ruuvi Station. Välj Inaktiv.",
       "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
       "de": "Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -> Akku -> App-Energiespardetails und stellen Sie die Option 'Ausgeschaltet' für Ruuvi Station ein."
@@ -4091,7 +4091,7 @@
       "ru": "Для телефонов Самсунг перейдите в Настройки Android -> Обслуживание устройства -> Батарея -> Мониторинг энергопотребления приложений -> Отключите 'Перевод в режим сна'. Исключите Ruuvi Station из приложений в спящем режиме. Отключите оптимизацию расхода батареи для Ruuvi Station.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Tryck på menyn i högra övre hörnet -> Särskild åtkomst -> Optimera batterianvändning. Välj Allt, sök efter Ruuvi Station och välj bort appen från optimerade appar.",
       "fr": "Pour les appareils Samsung allez dans : Réglages -> Applications -> Ruuvi Station -> Batterie -> Autoriser activité arrière-plan.",
-      "de": "Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -> Gerätewartung (oder Gerätepflege) -> Akku. Deaktivieren Sie 'Nicht verwendete Apps in den Ruhezustand versetzen'. Deaktivieren Sie 'Nicht verwendete Apps automatisch deaktivieren'"
+      "de": "Gehen Sie auf Samsung-Geräten zu Android-Einstellungen -> Gerätewartung (oder Gerätepflege) -> Akku. Deaktivieren Sie 'Nicht verwendete Apps in den Ruhezustand versetzen'. Deaktivieren Sie 'Nicht verwendete Apps automatisch deaktivieren'."
     },
     {
       "ident_ios": "",
@@ -4110,9 +4110,9 @@
       "ident_webui": "",
       "en": "On Xiaomi devices go to Android Settings -> Apps -> Manage apps -> Ruuvi Station. Enable Autostart and set Battery Saver to 'No restrictions'.",
       "fi": "Xiaomi-laitteet: mene käyttöjärjestelmän sivulle Asetukset -> Sovellukset -> Hallitse sovelluksia -> Ruuvi Station -> ota käyttöön Automaattinen käynnistys ja valitse 'Ei rajoituksia' kohdasta Virransäästö.",
-      "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений",
+      "ru": "На телефонах Xiaomi откройте настройки Android -> Приложения -> Все приложения -> найдите Ruuvi Station -> включите Автозапуск и установите 'Контроль Активности' без ограничений.",
       "sv": "Gå till operativsystemets Inställningar -> Appar -> Hantera Appar -> Ruuvi Station. Aktivera Starta automatiskt, gå sedan till Batterisparare och välj Inga restriktioner.",
-      "fr": "Sur les appareils Xiaomi allez dans : Réglages -> Applications -> Gérer les applications -> Ruuvi Station -> Utiliser le lancement automatique et choisir 'aucune restriction' pour l'économie d'énergie",
+      "fr": "Sur les appareils Xiaomi allez dans : Réglages -> Applications -> Gérer les applications -> Ruuvi Station -> Utiliser le lancement automatique et choisir 'aucune restriction' pour l'économie d'énergie.",
       "de": "Gehen Sie auf Xiaomi-Geräten zu Android-Einstellungen -> Apps -> Apps verwalten -> Ruuvi Station. Aktivieren Sie Autostart und stellen Sie Battery Saver auf 'Keine Einschränkungen'."
     },
     {
@@ -4187,7 +4187,7 @@
       "ident_webui": "",
       "en": "The app will periodically search for beacons using a service (with notifications), allowing for very frequent and reliable scanning, even when you are not using it.",
       "fi": "Sovellus hakee säännöllisesti tietoja lähellä olevista antureista sovelluksen ollessa taustalla.",
-      "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение",
+      "ru": "Приложение будет периодически получать данные от датчиков при помощи службы (с уведомлениями), обеспечивая частое и надежное сканирование даже когда вы не используете приложение.",
       "sv": "Programmet hämtar regelbundet data från sensorer i närheten medan appen körs i bakgrunden.",
       "fr": "L'application va régulièrement rechercher des capteurs en utilisant la fonction de balayage en continu même lorsque vous n'êtes pas sur l'application",
       "de": "Die App sucht regelmäßig über einen Dienst (mit Benachrichtigungen) nach Beacons, was ein sehr häufiges und zuverlässiges Scannen ermöglicht, auch wenn Sie sie nicht verwenden."
@@ -4295,12 +4295,12 @@
       "ident_ios": "",
       "ident_android": "settings_chart_interval_description",
       "ident_webui": "",
-      "en": "Set interval between points for chart from 1 to 60 minutes. Smaller values mean a more accurate chart, but also a higher performance requirement for your device",
-      "fi": "Aseta historian tallennusväli 1 - 60 minuuttia. Tiheämpi tallennusväli mahdollistaa tarkempien historiatietojen esittämisen, mutta tämä käyttää enemmän laitteen resursseja",
+      "en": "Set interval between points for chart from 1 to 60 minutes. Smaller values mean a more accurate chart, but also a higher performance requirement for your device.",
+      "fi": "Aseta historian tallennusväli 1 - 60 minuuttia. Tiheämpi tallennusväli mahdollistaa tarkempien historiatietojen esittämisen, mutta tämä käyttää enemmän laitteen resursseja.",
       "ru": "Установите интервал между точками на графиках от 1 до 60 минут. Чем меньше значение, тем выше точность отображения. Но в тоже время повышаются требования к быстродействию вашего телефона.",
-      "sv": "Ställ in intervallet för datapunkter i graferna från 1 till 60 minuter. Ett tätare intervall gör det möjligt att visa mer exakt historikinformation, men detta använder mer enhetsresurser",
+      "sv": "Ställ in intervallet för datapunkter i graferna från 1 till 60 minuter. Ett tätare intervall gör det möjligt att visa mer exakt historikinformation, men detta använder mer enhetsresurser.",
       "fr": "Définir l'intervalle de l'histogramme 1 - 60 minutes. Un intervalle plus faible permet une analyse plus précise mais utilise d'avantage les ressources de votre appareil.",
-      "de": "Stellen Sie das Intervall zwischen den Punkten für das Diagramm von 1 bis 60 Minuten ein. Kleinere Werte bedeuten ein genaueres Diagramm, aber auch einen höheren Leistungsbedarf für Ihr Gerät"
+      "de": "Stellen Sie das Intervall zwischen den Punkten für das Diagramm von 1 bis 60 Minuten ein. Kleinere Werte bedeuten ein genaueres Diagramm, aber auch einen höheren Leistungsbedarf für Ihr Gerät."
     },
     {
       "ident_ios": "ChartSettings.Duration.title",
@@ -4317,12 +4317,12 @@
       "ident_ios": "ChartSettings.Duration.description",
       "ident_android": "settings_chart_view_period_description",
       "ident_webui": "",
-      "en": "Configure the period of history to be shown on chart from 1 to 10 days",
-      "fi": "Määritä historian tarkastelujakso 1 - 10 päivää",
-      "ru": "Установите диапазон для отображения на графиках от 1-го до 10-ти дней",
-      "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 10 dagar",
+      "en": "Configure the period of history to be shown on chart from 1 to 10 days.",
+      "fi": "Määritä historian tarkastelujakso 1 - 10 päivää.",
+      "ru": "Установите диапазон для отображения на графиках от 1-го до 10-ти дней.",
+      "sv": "Ange hur långt bak historiken skall visas, mellan 1 - 10 dagar.",
       "fr": "Définir la période de l'histogramme 1 - 10 jours",
-      "de": "Konfigurieren Sie den Zeitraum, der im Diagramm angezeigt werden soll, von 1 bis 10 Tagen"
+      "de": "Konfigurieren Sie den Zeitraum, der im Diagramm angezeigt werden soll, von 1 bis 10 Tagen."
     },
     {
       "ident_ios": "",
@@ -4341,7 +4341,7 @@
       "ident_webui": "",
       "en": "When you add a URL here, the app will execute an HTTP POST with the linked sensors when it does background scanning. \\n\\nFor more info, check the documentation.",
       "fi": "Sovellus lähettää anturitiedot HTTP POST -toiminnolla määritettyyn välityspalvelinosoitteeseen taustaskannauksen yhteydessä. \\n\\nLue lisää ohjesivulta.",
-      "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию",
+      "ru": "Если вы укажете URL здесь, приложение будет выполнять HTTP POST запрос для привязанных датчиков.\\n\\nИзучите документацию.",
       "sv": "När du anger en URL så kommer appen att skicka sensordata genom HTTP POST när den gör bakgrundsskanning. \\n\\nFör mer information, läs dokumentationen.",
       "fr": "L'application envoie les données du capteur via la fonction HTTP POST à une adresse de routage définie pendant le balayage en arrière-plan\\n\\nPour plus d'informations, consultez la page de support.",
       "de": "Wenn Sie hier eine URL hinzufügen, führt die App beim Hintergrundscannen einen HTTP POST mit den verknüpften Sensoren aus. Weitere Informationen finden Sie in der Dokumentation."
@@ -4352,11 +4352,11 @@
       "ident_webui": "",
       "_COMMENT_": "Translated text here should be exact part of settings_gateway_details. It will be highlighted as hyperlink in app",
       "en": "check the documentation.",
-      "fi": "ohjesivulta",
-      "ru": "документацию",
-      "sv": "läs dokumentationen",
-      "fr": "page de support",
-      "de": "Dokumentation"
+      "fi": "ohjesivulta.",
+      "ru": "документацию.",
+      "sv": "läs dokumentationen.",
+      "fr": "page de support.",
+      "de": "dokumentation."
     },
     {
       "ident_ios": "",
@@ -4428,12 +4428,12 @@
       "ident_ios": "Settings.ChoosePressureUnit.text",
       "ident_android": "settings_pressure_unit_details",
       "ident_webui": "",
-      "en": "Choose the pressure unit you want to be displayed",
-      "fi": "Valitse sovelluksessa käytettävä paineyksikkö",
-      "ru": "Выберите единицу измерения давления для отображения",
-      "sv": "Välj den tryckenhet du vill ska visas",
-      "fr": "Choisissez l'unité souhaitée pour la pression",
-      "de": "Wählen Sie die Druckeinheit, die angezeigt werden soll"
+      "en": "Choose the pressure unit you want to be displayed.",
+      "fi": "Valitse sovelluksessa käytettävä paineyksikkö.",
+      "ru": "Выберите единицу измерения давления для отображения.",
+      "sv": "Välj den tryckenhet du vill ska visas.",
+      "fr": "Choisissez l'unité souhaitée pour la pression.",
+      "de": "Wählen Sie die Druckeinheit, die angezeigt werden soll."
     },
     {
       "ident_ios": "Settings.Label.TemperatureUnit.text",
@@ -4450,12 +4450,12 @@
       "ident_ios": "Settings.ChooseTemperatureUnit.text",
       "ident_android": "settings_temperature_unit_details",
       "ident_webui": "",
-      "en": "Choose the temperature unit you want to be displayed",
-      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö",
-      "ru": "Выберите единицу измерения температуры для отображения",
-      "sv": "Välj den temperaturenhet som du vill ska visas",
-      "fr": "Choisissez l'unité souhaitée pour la température",
-      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll"
+      "en": "Choose the temperature unit you want to be displayed.",
+      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö.",
+      "ru": "Выберите единицу измерения температуры для отображения.",
+      "sv": "Välj den temperaturenhet som du vill ska visas.",
+      "fr": "Choisissez l'unité souhaitée pour la température.",
+      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll."
     },
     {
       "ident_ios": "",
@@ -4531,7 +4531,7 @@
       "fi": "Ladataanko historiatiedot anturista?",
       "ru": "Вы уверены что хотите синхронизировать данные с устройством?",
       "sv": "Ladda ner historik-data från sensorn?",
-      "fr": "Souhaitez vous importer les données du capteur?",
+      "fr": "Souhaitez vous importer les données du capteur ?",
       "de": "Daten vom Sensor herunterladen?"
     },
     {
@@ -5334,7 +5334,7 @@
       "fi": "Synkronointi onnistui!",
       "ru": "Синхронизировано успешно!",
       "sv": "Synkroniseringen lyckades!",
-      "fr": "Synchronisation réussie!",
+      "fr": "Synchronisation réussie !",
       "de": "Erfolgreich synchronisiert!"
     },
     {
@@ -5837,10 +5837,10 @@
       "ident_android": "calibration_clear_confirm",
       "ident_webui": "calibration_clear_confirm",
       "en": "Clear calibration settings?",
-      "fi": "Poista kalibrointiasetuset?",
+      "fi": "Poista kalibrointiasetukset?",
       "ru": "Сбросить настройки калибровки?",
       "sv": "Renas kalibereringsinställningar?",
-      "fr": "Supprimer la calibration",
+      "fr": "Supprimer la calibration ?",
       "de": "Kalibrierungseinstellungen löschen?"
     },
     {
@@ -6309,12 +6309,12 @@
       "ident_ios": "DfuDevicesScanner.Description.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Find and select sensor \\\"RuuviBoot\\\"",
-      "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\"",
-      "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\"",
+      "en": "Find and select sensor \\\"RuuviBoot\\\".",
+      "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\".",
+      "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\".",
       "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
-      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\"",
-      "de": "Suchen und wählen Sie den Sensor \\\"RuuviBoot\\\""
+      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\".",
+      "de": "Suchen und wählen Sie den Sensor \\\"RuuviBoot\\\"."
     },
     {
       "ident_ios": "DfuDevicesScanner.NoDevice.text",
@@ -6452,12 +6452,12 @@
       "ident_ios": "DfuFlash.FirmwareSelectionGuide.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Locate the previously downloaded ZIP file on your mobile",
-      "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto",
-      "ru": "Выберите ранее загруженный ZIP файл",
-      "sv": "Hitta ZIP-filen som du laddade ner",
-      "fr": "Chercher le fichier ZIP",
-      "de": "Suchen Sie die zuvor heruntergeladene ZIP-Datei auf Ihrem Handy"
+      "en": "Locate the previously downloaded ZIP file on your mobile.",
+      "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto.",
+      "ru": "Выберите ранее загруженный ZIP файл.",
+      "sv": "Hitta ZIP-filen som du laddade ner.",
+      "fr": "Chercher le fichier ZIP.",
+      "de": "Suchen Sie die zuvor heruntergeladene ZIP-Datei auf Ihrem Handy."
     },
     {
       "ident_ios": "DfuFlash.Firmware.FileName.text",
@@ -6596,7 +6596,7 @@
       "ident_android": "latest_available_fw",
       "ident_webui": "",
       "en": "Latest available Ruuvi Firmware version:",
-      "fi": "Uusin saatavilla oleva Ruuvi-laiteohjelmisto",
+      "fi": "Uusin saatavilla oleva Ruuvi-laiteohjelmisto:",
       "ru": "Доступная версия прошивки Ruuvi:",
       "sv": "Senast tillgängliga Ruuvi firmwareversion:",
       "fr": "Dernière version du Ruuvi Firmware :",
@@ -6617,12 +6617,12 @@
       "ident_ios": "DFUUIView.notReportingDescription",
       "ident_android": "old_sensor_fw",
       "ident_webui": "",
-      "en": "Your sensor doesn't report its current firmware version. This means that it's probably running an old firmware version and updating it is recommended",
-      "fi": "Laitteessa oleva laiteohjelmisto ei ilmoita nykyistä versiota. Kyseessä on todennäköisesti vanha laiteohjelmisto ja sen päivittäminen on suositeltavaa",
-      "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано",
-      "sv": "Din sensor rapporterar inte sin nuvarande firmwareversion. Det betyder att den förmodligen har en gammal firmwareversion och uppdatering rekommenderas",
-      "fr": "Impossible d'obtenir la version actuelle de l'appareil. La version est probablement trop ancienne et il est recommandé d'effectuer une mise à jour",
-      "de": "Ihr Sensor meldet seine aktuelle Firmware-Version nicht. Dies bedeutet, dass wahrscheinlich eine alte Firmware-Version ausgeführt wird und eine Aktualisierung empfohlen wird"
+      "en": "Your sensor doesn't report its current firmware version. This means that it's probably running an old firmware version and updating it is recommended.",
+      "fi": "Laitteessa oleva laiteohjelmisto ei ilmoita nykyistä versiota. Kyseessä on todennäköisesti vanha laiteohjelmisto ja sen päivittäminen on suositeltavaa.",
+      "ru": "Ваш сенсор не возвращает версию прошивки. Вероятно, на нем установлена старая версия прошивки и обновление рекомендовано.",
+      "sv": "Din sensor rapporterar inte sin nuvarande firmwareversion. Det betyder att den förmodligen har en gammal firmwareversion och uppdatering rekommenderas.",
+      "fr": "Impossible d'obtenir la version actuelle de l'appareil. La version est probablement trop ancienne et il est recommandé d'effectuer une mise à jour.",
+      "de": "Ihr Sensor meldet seine aktuelle Firmware-Version nicht. Dies bedeutet, dass wahrscheinlich eine alte Firmware-Version ausgeführt wird und eine Aktualisierung empfohlen wird."
     },
     {
       "ident_ios": "DFUUIView.alreadyOnLatest",
@@ -6775,7 +6775,7 @@
       "fi": "Älä sulje sovellusta tai poista paristoa laitteesta päivityksen aikana.",
       "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
       "sv": "Stäng inte appen eller stäng av sensorn under uppdateringen.",
-      "fr": "Ne pas fermer l'application ou enlever la pile du capteur pendant la mise à jour",
+      "fr": "Ne pas fermer l'application ou enlever la pile du capteur pendant la mise à jour.",
       "de": "Schließen Sie die App nicht und schalten Sie den Sensor während des Updates nicht aus."
     },
     {
@@ -6826,12 +6826,12 @@
       "ident_ios": "SignIn.EmailMissing.Alert.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Oops, the email you've used to get the code was not saved. Please try to sign in again",
-      "fi": "Hupsis, kirjautumiskoodin saamiseksi antamaasi sähköpostia ei voitu tallentaa. Yritä kirjautumista uudelleen",
-      "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова",
-      "sv": "Oj, e-postadressen du har använt för att få koden sparades inte. Försök att logga in igen ",
+      "en": "Oops, the email you've used to get the code was not saved. Please try to sign in again.",
+      "fi": "Hupsis, kirjautumiskoodin saamiseksi antamaasi sähköpostia ei voitu tallentaa. Yritä kirjautumista uudelleen.",
+      "ru": "Почтовый адрес, который вы использовали для входа, не был сохранен. Пожалуйста, попробуйте войти снова.",
+      "sv": "Oj, e-postadressen du har använt för att få koden sparades inte. Försök att logga in igen.",
       "fr": "Oups, l'adresse mail utilisée n'a pu être enregistrée. Veuillez réessayer.",
-      "de": "Hoppla, die E-Mail, mit der Sie den Code erhalten haben, wurde nicht gespeichert. Bitte versuchen Sie erneut, sich anzumelden"
+      "de": "Hoppla, die E-Mail, mit der Sie den Code erhalten haben, wurde nicht gespeichert. Bitte versuchen Sie erneut, sich anzumelden."
     },
     {
       "ident_ios": "",
@@ -6881,12 +6881,12 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "type_your_email",
-      "en": "Type your email below. You will receive a confirmation code in your inbox",
-      "fi": "Anna sähköpostiosoitteesi. Kirjautumiskoodi lähetetään sinulle sähköpostitse",
-      "ru": "Укажите свой email ниже. Вы получите письмо с кодом подтверждения",
+      "en": "Type your email below. You will receive a confirmation code in your inbox.",
+      "fi": "Anna sähköpostiosoitteesi. Kirjautumiskoodi lähetetään sinulle sähköpostitse.",
+      "ru": "Укажите свой email ниже. Вы получите письмо с кодом подтверждения.",
       "sv": "Ange din epost-adress. Du kommer att få en bekräftelsekod i din epost.",
       "fr": "Entrez votre adresse mail. Vous allez recvoir un code d'inscription par email.",
-      "de": "Geben Sie unten Ihre E-Mail ein. Sie erhalten einen Bestätigungscode in Ihrem Posteingang"
+      "de": "Geben Sie unten Ihre E-Mail ein. Sie erhalten einen Bestätigungscode in Ihrem Posteingang."
     },
     {
       "ident_ios": "",
@@ -7255,7 +7255,7 @@
       "ident_ios": "",
       "ident_android": "dfu_no_internet",
       "ident_webui": "",
-      "en": "Unable to get latest firmware. Check your Internet connection. ",
+      "en": "Unable to get latest firmware. Check your Internet connection.",
       "fi": "Laiteohjelmiston lataaminen epäonnistui. Tarkasta Internet-yhteyden tila.",
       "ru": "Не удалось получить последнюю версию прошивки. Проверьте подключение к интернету.",
       "sv": "Nedladdning av programvara misslyckades. Kontrollera din internetanslutning.",
@@ -7468,7 +7468,7 @@
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden. Kräver en Ruuvi Gateway.",
-      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement en rejetant les messages Bluetooth depuis le could. Nécessite le routeur Ruuvi Gateway",
+      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement en rejetant les messages Bluetooth depuis le could. Nécessite le routeur Ruuvi Gateway.",
       "de": ""
     },
     {
@@ -7479,7 +7479,7 @@
       "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä ja vastaanota ainoastaan sähköpostihälytyksiä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "",
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden och endast ta emot varningar via e-post. Kräver en Ruuvi Gateway.",
-      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway",
+      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway.",
       "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router."
     },
     {
@@ -7565,9 +7565,9 @@
       "ident_webui": "",
       "en": "To be able to include location when app is running in background please allow the app to use your location 'all the time' when prompted in the next dialog.",
       "fi": "Sisällyttääksesi paikkatietokoordinaatit lähetettäviin viesteihin sovelluksen ollessa tausta-ajossa, anna oikeus paikkatietojen käyttöön seuraavassa kohdassa kysyttäessä 'aina'.",
-      "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'",
+      "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'.",
       "sv": "För att kunna inkludera platskoordinater när appen körs i bakgrunden, låt appen använda din plats 'hela tiden' när du uppmanas till det i nästa dialogruta.",
-      "fr": "Pour partager la position même lorsque l'application est en arrière-plan, veuillez choisir 'toujours'",
+      "fr": "Pour partager la position même lorsque l'application est en arrière-plan, veuillez choisir 'toujours'.",
       "de": ""
     },
     {
@@ -7622,7 +7622,7 @@
       "fi": "Käyttääksesi widgettejä, sinun on ensin kirjauduttava sisään.",
       "ru": "",
       "sv": "För att använda widgets måste du först logga in.",
-      "fr": "Pour utiliser les widgets vous devez d'abord vous connecter",
+      "fr": "Pour utiliser les widgets vous devez d'abord vous connecter.",
       "de": ""
     },
     {
@@ -7633,7 +7633,7 @@
       "fi": "Voit käyttää Ruuvin widgettejä mikäli anturisi ovat Ruuvi Gatewayn kuuluvuusalueella tai mikäli joku on jakanut sinulle Ruuvi-anturin.",
       "ru": "",
       "sv": "Du kan använda Ruuvi widgets om dina sensorer är inom räckhåll för en Ruuvi Gateway eller om någon har delat en Ruuvi Sensor med dig.",
-      "fr": "Vous pouvez utiliser les widgets Ruuvi si les capteurs sont à la portée d'un Ruuvi Gateway ou si quelqu'un vous a partagé un capteur",
+      "fr": "Vous pouvez utiliser les widgets Ruuvi si les capteurs sont à la portée d'un Ruuvi Gateway ou si quelqu'un vous a partagé un capteur.",
       "de": ""
     },
     {
@@ -7908,7 +7908,7 @@
       "fi": "Päivitys on ladattu.",
       "ru": "Обновление готово к установке.",
       "sv": "En uppdatering har laddats ner.",
-      "fr": "La mise à jour a été téléchargée",
+      "fr": "La mise à jour a été téléchargée.",
       "de": ""
     },
     {
@@ -8037,7 +8037,7 @@
       "ident_android": "widget_empty",
       "ident_webui": "",
       "en": "Press + to add sensors",
-      "fi": "Paina + lisääksesi antureita",
+      "fi": "Paina + lisätäksesi antureita",
       "ru": "Нажмите + чтобы добавить датчики",
       "sv": "Tryck på + för att lägga till sensorer",
       "fr": "",
@@ -8268,7 +8268,7 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "A confirmation is sent to your email. To proceed with the deletion, please check your inbox and follow the instructions.",
-      "fi": "Vahvistussähköposti lähetetty. Poistaaksesi tilin, toimi sähköpostin ohjeiden mukaan.",
+      "fi": "Vahvistussähköposti lähetetty. Poista tili noudattamalla sähköpostissa annettuja ohjeita.",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8312,7 +8312,7 @@
       "ident_android": "alert_dialog_title_rssi",
       "ident_webui": "",
       "en": "Set signal strength alert",
-      "fi": "Aseta signaalivoimakkuushälytys",
+      "fi": "Aseta signaalinvoimakkuushälytys",
       "ru": "",
       "sv": "Ställ in signalstyrkealarm",
       "fr": "",
@@ -8389,7 +8389,7 @@
       "ident_android": "export_history",
       "ident_webui": "",
       "en": "Export history (csv)",
-      "fi": "",
+      "fi": "Lataa historia (csv)",
       "ru": "Выгрузить историю (csv)",
       "sv": "",
       "fr": "",
@@ -8400,7 +8400,7 @@
       "ident_android": "clear_view",
       "ident_webui": "",
       "en": "Clear View",
-      "fi": "",
+      "fi": "Tyhjennä kaaviot",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8411,7 +8411,7 @@
       "ident_android": "day_1",
       "ident_webui": "",
       "en": "1 day",
-      "fi": "",
+      "fi": "1 päivä",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8422,7 +8422,7 @@
       "ident_android": "day_2",
       "ident_webui": "",
       "en": "2 days",
-      "fi": "",
+      "fi": "2 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8433,7 +8433,7 @@
       "ident_android": "day_3",
       "ident_webui": "",
       "en": "3 days",
-      "fi": "",
+      "fi": "3 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8444,7 +8444,7 @@
       "ident_android": "day_4",
       "ident_webui": "",
       "en": "4 days",
-      "fi": "",
+      "fi": "4 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8455,7 +8455,7 @@
       "ident_android": "day_5",
       "ident_webui": "",
       "en": "5 days",
-      "fi": "",
+      "fi": "5 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8466,7 +8466,7 @@
       "ident_android": "day_6",
       "ident_webui": "",
       "en": "6 days",
-      "fi": "",
+      "fi": "6 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8477,7 +8477,7 @@
       "ident_android": "day_7",
       "ident_webui": "",
       "en": "7 days",
-      "fi": "",
+      "fi": "7 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8488,7 +8488,7 @@
       "ident_android": "day_8",
       "ident_webui": "",
       "en": "8 days",
-      "fi": "",
+      "fi": "8 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8499,7 +8499,7 @@
       "ident_android": "day_9",
       "ident_webui": "",
       "en": "9 days",
-      "fi": "",
+      "fi": "9 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8510,7 +8510,7 @@
       "ident_android": "day_10",
       "ident_webui": "",
       "en": "10 days",
-      "fi": "",
+      "fi": "10 päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8521,7 +8521,7 @@
       "ident_android": "day_x",
       "ident_webui": "",
       "en": "{^%1$s} days",
-      "fi": "",
+      "fi": "{^%1$s} päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8532,7 +8532,7 @@
       "ident_android": "more",
       "ident_webui": "",
       "en": "More...",
-      "fi": "",
+      "fi": "Lisää...",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8543,7 +8543,7 @@
       "ident_android": "longer_history_message",
       "ident_webui": "",
       "en": "Longer history is available on web for Ruuvi Gateway users",
-      "fi": "",
+      "fi": "Laajempi historia saatavilla verkossa Ruuvi Gateway -käyttäjille",
       "ru": "",
       "sv": "",
       "fr": "",
