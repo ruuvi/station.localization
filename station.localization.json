@@ -8520,8 +8520,8 @@
       "ident_ios": "",
       "ident_android": "day_x",
       "ident_webui": "",
-      "en": "{^%1$s} days",
-      "fi": "{^%1$s} päivää",
+      "en": "%1$s days",
+      "fi": "%1$s päivää",
       "ru": "",
       "sv": "",
       "fr": "",
@@ -8548,6 +8548,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "reading_history_x",
+      "ident_webui": "",
+      "en": "Reading history.. %1$s",
+      "fi": "Historiatietoja luetaan.. %1$s",
+      "ru": "Чтение истории.. %1$s",
+      "sv": "Läser historik.. %1$s",
+      "fr": "Analyse de l'historique.. %1$s",
+      "de": "History wird gelesen.. %1$s"
     }
   ]
 }
