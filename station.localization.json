@@ -8559,6 +8559,17 @@
       "sv": "Läser historik.. %1$s",
       "fr": "Analyse de l'historique.. %1$s",
       "de": "History wird gelesen.. %1$s"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "muted_till",
+      "ident_webui": "",
+      "en": "Muted till %1$s",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
