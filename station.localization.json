@@ -8614,6 +8614,50 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "clear_local_history",
+      "ident_webui": "",
+      "en": "Clear local history",
+      "fi": "Tyhjennä paikallinen historia",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "clear_local_history_description",
+      "ident_webui": "",
+      "en": "Do you want to clear locally stored historical data from the app? This won't clear internally stored history from sensor or historical data stored in Ruuvi Cloud service.",
+      "fi": "Haluatko tyhjentää sovelluksen muistiin tallennetun mittaushistorian? Tämä ei tyhjennä anturin sisäistä historiaa eikä Ruuvi Cloud -pilvipalveluun tallennettua historiaa.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gatt_not_in_range_description",
+      "ident_webui": "",
+      "en": "Bluetooth history download failed. Check that you're within Bluetooth range, your sensor has firmware that supports downloading and that sensor is not simultaneously connected to another iOS device. Sensor connection is reserved for Ruuvi Station when using connected mode in iOS.",
+      "fi": "Bluetooth-historian lataus epäonnistui. Tarkasta, että olet Bluetooth-kantaman sisällä, että anturissa on latausta tukeva laiteohjelmisto ja ettei anturi ole yhteydessä toiseen iOS-laitteeseen samanaikaisesti. Ruuvi Stationin iOS-versio varaa anturin yhteyden käyttöönsä jatkuvaa yhteystilaa käytettäessä.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "try_again",
+      "ident_webui": "",
+      "en": "Try again",
+      "fi": "Yritä uudelleen",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
