@@ -8570,6 +8570,50 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "rssi_alert_description",
+      "ident_webui": "",
+      "en": "Notice that data sent by Ruuvi sensors can be received using mobile devices or Ruuvi Gateway routers. The received signal strength will be different depending on the receiving device and it will affect the value being used to trigger RSSI alert. Use Cloud Mode when you want to record signal strength data only via Ruuvi Gateway.",
+      "fi": "Huomaathan, että anturin lähettämät tiedot voidaan vastaanottaa mobiililaitteilla tai Ruuvi Gateway -reitittimillä. Signaalinvoimakkuuden lukemat poikkeavat toisistaan riippuen siitä, mikä laite tiedon vastaanotti ja tämä vaikuttaa RSSI-hälytyksessä käytettävään arvoon. Käytä pilvitilaa, mikäli haluat signaalinvoimakkuustiedon päivittyvän ainoastaan Ruuvi Gatewayn kautta.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "bluetooth_download",
+      "ident_webui": "",
+      "en": "Bluetooth download",
+      "fi": "Bluetooth-lataus",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "bluetooth_download_description",
+      "ident_webui": "",
+      "en": "Local sensor data can be downloaded, when you're within its Bluetooth range.",
+      "fi": "Voit ladata anturin sisäisen historian ollessasi Bluetooth-kantaman sisällä.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "download",
+      "ident_webui": "",
+      "en": "Download",
+      "fi": "Lataa",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
