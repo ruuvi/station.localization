@@ -1646,7 +1646,7 @@
       "en": "Sometimes history downloading is slow due to the Bluetooth connectivity. Please wait a moment.",
       "fi": "Historian lataaminen voi kestää pitkään Bluetooth-yhteyden laadusta riippuen. Odota hetki.",
       "ru": "",
-      "sv": "",
+      "sv": "Ibland går nedladdningen av historik långsamt på grund av Bluetooth-anslutningen. Var god vänta ett ögonblick.",
       "fr": "",
       "de": ""
     },
@@ -3616,7 +3616,7 @@
       "en": "My Ruuvi Account",
       "fi": "Minun Ruuvi-tili",
       "ru": "",
-      "sv": "",
+      "sv": "Mitt Ruuvi-konto",
       "fr": "",
       "de": ""
     },
@@ -6796,7 +6796,7 @@
       "en": "Updating was successful, but an unexpected database migration error occurred. To continue using this sensor, please remove it from the app and then add it again.",
       "fi": "Päivitys onnistui, mutta sovelluksen tietokannassa tapahtui odottamaton virhe. Jatkaaksesi tämän anturin käyttöä, poista se sovelluksesta ja lisää se sitten uudelleen.",
       "ru": "",
-      "sv": "",
+      "sv": "Uppdateringen lyckades, men ett oväntat databasmigreringsfel inträffade. För att fortsätta använda den här sensorn, ta bort den från appen och lägg sedan till den igen.",
       "fr": "",
       "de": ""
     },
@@ -8259,7 +8259,7 @@
       "en": "Delete Account",
       "fi": "Poista tili",
       "ru": "",
-      "sv": "",
+      "sv": "Radera konto",
       "fr": "",
       "de": ""
     },
@@ -8270,7 +8270,7 @@
       "en": "A confirmation is sent to your email. To proceed with the deletion, please check your inbox and follow the instructions.",
       "fi": "Vahvistussähköposti lähetetty. Poista tili noudattamalla sähköpostissa annettuja ohjeita.",
       "ru": "",
-      "sv": "",
+      "sv": "En bekräftelse skickas till din e-post. För att fortsätta med raderingen, kontrollera din inkorg och följ instruktionerna.",
       "fr": "",
       "de": ""
     },
@@ -8391,7 +8391,7 @@
       "en": "Export history (csv)",
       "fi": "Lataa historia (csv)",
       "ru": "Выгрузить историю (csv)",
-      "sv": "",
+      "sv": "Exportera historik (csv)",
       "fr": "",
       "de": ""
     },
@@ -8402,7 +8402,7 @@
       "en": "Clear View",
       "fi": "Tyhjennä kaaviot",
       "ru": "",
-      "sv": "",
+      "sv": "Töm grafer",
       "fr": "",
       "de": ""
     },
@@ -8413,7 +8413,7 @@
       "en": "1 day",
       "fi": "1 päivä",
       "ru": "",
-      "sv": "",
+      "sv": "1 dag",
       "fr": "",
       "de": ""
     },
@@ -8424,7 +8424,7 @@
       "en": "2 days",
       "fi": "2 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "2 dagar",
       "fr": "",
       "de": ""
     },
@@ -8435,7 +8435,7 @@
       "en": "3 days",
       "fi": "3 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "3 dagar",
       "fr": "",
       "de": ""
     },
@@ -8446,7 +8446,7 @@
       "en": "4 days",
       "fi": "4 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "4 dagar",
       "fr": "",
       "de": ""
     },
@@ -8457,7 +8457,7 @@
       "en": "5 days",
       "fi": "5 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "5 dagar",
       "fr": "",
       "de": ""
     },
@@ -8468,7 +8468,7 @@
       "en": "6 days",
       "fi": "6 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "6 dagar",
       "fr": "",
       "de": ""
     },
@@ -8479,7 +8479,7 @@
       "en": "7 days",
       "fi": "7 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "7 dagar",
       "fr": "",
       "de": ""
     },
@@ -8490,7 +8490,7 @@
       "en": "8 days",
       "fi": "8 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "8 dagar",
       "fr": "",
       "de": ""
     },
@@ -8501,7 +8501,7 @@
       "en": "9 days",
       "fi": "9 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "9 dagar",
       "fr": "",
       "de": ""
     },
@@ -8512,7 +8512,7 @@
       "en": "10 days",
       "fi": "10 päivää",
       "ru": "",
-      "sv": "",
+      "sv": "10 dagar",
       "fr": "",
       "de": ""
     },
@@ -8523,7 +8523,7 @@
       "en": "%1$s days",
       "fi": "%1$s päivää",
       "ru": "",
-      "sv": "",
+      "sv": "%1$s dagar",
       "fr": "",
       "de": ""
     },
@@ -8534,7 +8534,7 @@
       "en": "More...",
       "fi": "Lisää...",
       "ru": "",
-      "sv": "",
+      "sv": "Mer...",
       "fr": "",
       "de": ""
     },
@@ -8545,7 +8545,7 @@
       "en": "Longer history is available on web for Ruuvi Gateway users",
       "fi": "Laajempi historia saatavilla verkossa Ruuvi Gateway -käyttäjille",
       "ru": "",
-      "sv": "",
+      "sv": "Längre historik är tillgänglig på webben för Ruuvi Gateway-användare",
       "fr": "",
       "de": ""
     },
@@ -8567,7 +8567,7 @@
       "en": "Muted till %1$s",
       "fi": "",
       "ru": "",
-      "sv": "",
+      "sv": "Avstängd till %1$s",
       "fr": "",
       "de": ""
     },
@@ -8578,7 +8578,7 @@
       "en": "Notice that data sent by Ruuvi sensors can be received using mobile devices or Ruuvi Gateway routers. The received signal strength will be different depending on the receiving device and it will affect the value being used to trigger RSSI alert. Use Cloud Mode when you want to record signal strength data only via Ruuvi Gateway.",
       "fi": "Huomaathan, että anturin lähettämät tiedot voidaan vastaanottaa mobiililaitteilla tai Ruuvi Gateway -reitittimillä. Signaalinvoimakkuuden lukemat poikkeavat toisistaan riippuen siitä, mikä laite tiedon vastaanotti ja tämä vaikuttaa RSSI-hälytyksessä käytettävään arvoon. Käytä pilvitilaa, mikäli haluat signaalinvoimakkuustiedon päivittyvän ainoastaan Ruuvi Gatewayn kautta.",
       "ru": "",
-      "sv": "",
+      "sv": "Observera att data som skickas från Ruuvi-sensorer kan tas emot med mobila enheter eller Ruuvi Gateway-routrar. Den mottagna signalstyrkan kommer att vara olika beroende på den mottagande enheten och det kommer att påverka värdet som används för att utlösa RSSI-varning. Använd molnläge när du bara vill spela in signalstyrka via Ruuvi Gateway.",
       "fr": "",
       "de": ""
     },
@@ -8589,7 +8589,7 @@
       "en": "Bluetooth download",
       "fi": "Bluetooth-lataus",
       "ru": "",
-      "sv": "",
+      "sv": "Bluetooth-nedladdning",
       "fr": "",
       "de": ""
     },
@@ -8600,7 +8600,7 @@
       "en": "Local sensor data can be downloaded, when you're within its Bluetooth range.",
       "fi": "Voit ladata anturin sisäisen historian ollessasi Bluetooth-kantaman sisällä.",
       "ru": "",
-      "sv": "",
+      "sv": "Lokal sensordata kan laddas ner när du är inom Bluetooth-räckvidd.",
       "fr": "",
       "de": ""
     },
@@ -8611,7 +8611,7 @@
       "en": "Download",
       "fi": "Lataa",
       "ru": "",
-      "sv": "",
+      "sv": "Ladda ner",
       "fr": "",
       "de": ""
     },
@@ -8622,7 +8622,7 @@
       "en": "Clear local history",
       "fi": "Tyhjennä paikallinen historia",
       "ru": "",
-      "sv": "",
+      "sv": "Rensa lokal historik",
       "fr": "",
       "de": ""
     },
@@ -8633,7 +8633,7 @@
       "en": "Do you want to clear locally stored historical data from the app? This won't clear internally stored history from sensor or historical data stored in Ruuvi Cloud service.",
       "fi": "Haluatko tyhjentää sovelluksen muistiin tallennetun mittaushistorian? Tämä ei tyhjennä anturin sisäistä historiaa eikä Ruuvi Cloud -pilvipalveluun tallennettua historiaa.",
       "ru": "",
-      "sv": "",
+      "sv": "Vill du rensa lokalt lagrad historisk data från appen? Detta kommer inte att rensa internt lagrad historik i sensorer eller historisk data lagrad i Ruuvi Cloud-tjänst.",
       "fr": "",
       "de": ""
     },
@@ -8644,7 +8644,7 @@
       "en": "Bluetooth history download failed. Check that you're within Bluetooth range, your sensor has firmware that supports downloading and that sensor is not simultaneously connected to another iOS device. Sensor connection is reserved for Ruuvi Station when using connected mode in iOS.",
       "fi": "Bluetooth-historian lataus epäonnistui. Tarkasta, että olet Bluetooth-kantaman sisällä, että anturissa on latausta tukeva laiteohjelmisto ja ettei anturi ole yhteydessä toiseen iOS-laitteeseen samanaikaisesti. Ruuvi Stationin iOS-versio varaa anturin yhteyden käyttöönsä jatkuvaa yhteystilaa käytettäessä.",
       "ru": "",
-      "sv": "",
+      "sv": "Nedladdning av Bluetooth-historik misslyckades. Kontrollera att du är inom Bluetooth-räckvidd, att din sensor har firmware som stöder nedladdning och att sensorn inte samtidigt är ansluten till en annan iOS-enhet. Sensoranslutning är reserverad för Ruuvi Station vid användning av anslutet läge i iOS.",
       "fr": "",
       "de": ""
     },
@@ -8655,7 +8655,7 @@
       "en": "Try again",
       "fi": "Yritä uudelleen",
       "ru": "",
-      "sv": "",
+      "sv": "Försök igen",
       "fr": "",
       "de": ""
     }
