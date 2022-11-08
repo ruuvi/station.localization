@@ -111,17 +111,6 @@
       "de": " Verbindung behalten"
     },
     {
-      "ident_ios": "Background.SaveHeartbeats.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Data Logging Interval",
-      "fi": "Historian tallennusväli",
-      "ru": "Сохранять Данные",
-      "sv": "Datalagringsintervall",
-      "fr": "Intervalle de sauvegarde",
-      "de": "Datenprotokollierungsintervall"
-    },
-    {
       "ident_ios": "Background.Interval.Every.string",
       "ident_android": "",
       "ident_webui": "",
@@ -956,28 +945,6 @@
       "sv": "Alla",
       "fr": "Tous",
       "de": "Alle"
-    },
-    {
-      "ident_ios": "Heartbeat.navigationItem.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Background",
-      "fi": "Taustaprosessit",
-      "ru": "Фоновый Режим",
-      "sv": "Bakgrund",
-      "fr": "Tâches d'arrière plan",
-      "de": "Hintergrund"
-    },
-    {
-      "ident_ios": "Heartbeat.SaveHeartbeats.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Data Logging Interval",
-      "fi": "Historian tallennusväli",
-      "ru": "Сохранять Данные",
-      "sv": "Dataloggningsintervall",
-      "fr": "Intervalle d'enregistrement",
-      "de": "Datenprotokollierungsintervall"
     },
     {
       "ident_ios": "Heartbeat.Interval.Every.string",
@@ -4160,7 +4127,7 @@
       "de": "Es ist kein Hintergrundscanmodus aktiviert"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.BackgroundScanning.title",
       "ident_android": "settings_background_scan",
       "ident_webui": "",
       "en": "Background Scanning",
@@ -4193,7 +4160,7 @@
       "de": "Die App sucht regelmäßig über einen Dienst (mit Benachrichtigungen) nach Beacons, was ein sehr häufiges und zuverlässiges Scannen ermöglicht, auch wenn Sie sie nicht verwenden."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Background.SaveHeartbeats.Interval.title",
       "ident_android": "settings_background_scan_interval",
       "ident_webui": "",
       "en": "Data logging interval",
