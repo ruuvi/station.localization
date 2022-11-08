@@ -78,17 +78,6 @@
       "de": "Version"
     },
     {
-      "ident_ios": "Background.navigationItem.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Background",
-      "fi": "Taustaprosessit",
-      "ru": "Фоновый Режим",
-      "sv": "Bakgrund",
-      "fr": "Tâches en arrière plan",
-      "de": "Hintergrund"
-    },
-    {
       "ident_ios": "Background.PresentNotifications.title",
       "ident_android": "",
       "ident_webui": "",
@@ -1363,17 +1352,6 @@
       "sv": "Standardinställningar",
       "fr": "Paramètres d'usine",
       "de": "Standardeinstellungen"
-    },
-    {
-      "ident_ios": "Settings.Label.Heartbeat",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Background",
-      "fi": "Taustaprosessit",
-      "ru": "Фоновый Режим",
-      "sv": "Bakgrundsprocesser",
-      "fr": "Tâches d'arrière plan",
-      "de": "Hintergrund"
     },
     {
       "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
@@ -4160,7 +4138,7 @@
       "de": "Die App sucht regelmäßig über einen Dienst (mit Benachrichtigungen) nach Beacons, was ein sehr häufiges und zuverlässiges Scannen ermöglicht, auch wenn Sie sie nicht verwenden."
     },
     {
-      "ident_ios": "Background.SaveHeartbeats.Interval.title",
+      "ident_ios": "Settings.BackgroundScanning.interval",
       "ident_android": "settings_background_scan_interval",
       "ident_webui": "",
       "en": "Data logging interval",
