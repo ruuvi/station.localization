@@ -8603,6 +8603,17 @@
       "sv": "Försök igen",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "support",
+      "en": "Support",
+      "fi": "Tuki",
+      "ru": "",
+      "sv": "Support",
+      "fr": "",
+      "de": ""
     }
   ]
 }
