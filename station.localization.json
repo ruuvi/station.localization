@@ -3556,7 +3556,7 @@
     },
     {
       "ident_ios": "Menu.Label.MyRuuviAccount.text",
-      "ident_android": "",
+      "ident_android": "my_ruuvi_account",
       "ident_webui": "",
       "en": "My Ruuvi Account",
       "fi": "Minun Ruuvi-tili",
@@ -8199,7 +8199,7 @@
     },
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.title",
-      "ident_android": "",
+      "ident_android": "delete_account",
       "ident_webui": "",
       "en": "Delete Account",
       "fi": "Poista tili",
@@ -8210,7 +8210,7 @@
     },
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.Confirmation.message",
-      "ident_android": "",
+      "ident_android": "account_delete_confirmation_description",
       "ident_webui": "",
       "en": "A confirmation is sent to your email. To proceed with the deletion, please check your inbox and follow the instructions.",
       "fi": "Vahvistussähköposti lähetetty. Poista tili noudattamalla sähköpostissa annettuja ohjeita.",
@@ -8485,10 +8485,21 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "longer_history_title",
+      "ident_webui": "",
+      "en": "Longer history",
+      "fi": "Pidempi historia",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "longer_history_message",
       "ident_webui": "",
-      "en": "Longer history is available on web for Ruuvi Gateway users",
-      "fi": "Laajempi historia saatavilla verkossa Ruuvi Gateway -käyttäjille",
+      "en": "Ruuvi Station mobile app supports maximum 10 days history. Ruuvi Cloud subscribers are able to view up to 2 years of historical data using web app at ruuvi.com/station (requires Ruuvi Gateway router).",
+      "fi": "Ruuvi Station -mobiilisovellus tukee maksimissaan 10 päivän historiaa. Ruuvi Cloud -tilaajat voivat tarkastella historiatietoja jopa 2 vuoden ajalta web-sovelluksessa osoitteessa ruuvi.com/fi/station (vaatii Ruuvi Gateway -reitittimen).",
       "ru": "",
       "sv": "Längre historik är tillgänglig på webben för Ruuvi Gateway-användare",
       "fr": "",
