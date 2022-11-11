@@ -8625,6 +8625,17 @@
       "sv": "Support",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "permission_notification_needed",
+      "ident_webui": "",
+      "en": "To enable alerts please allow Notifications in Settings.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
