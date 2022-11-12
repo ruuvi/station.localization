@@ -1805,26 +1805,26 @@
       "de": "KALIBRIERUNG"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.Connection.title",
+      "ident_ios": "TagSettings.SectionHeader.BTConnection.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "CONNECTION",
-      "fi": "YHTEYS",
-      "ru": "СОЕДИНЕНИЕ",
-      "sv": "ANSLUTNING",
-      "fr": "CONNEXION",
-      "de": "VERBINDUNG"
+      "en": "BLUETOOTH CONNECTION",
+      "fi": "BLUETOOTH YHTEYS",
+      "ru": "BLUETOOTH СОЕДИНЕНИЕ",
+      "sv": "BLUETOOTH ANSLUTNING",
+      "fr": "BLUETOOTH CONNEXION",
+      "de": "BLUETOOTH VERBINDUNG"
     },
     {
-      "ident_ios": "TagSettings.KeepConnection.title",
+      "ident_ios": "TagSettings.PairAndBackgroundScan.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Keep the Connection",
-      "fi": "Säilytä yhteys",
-      "ru": "Держать Соединение",
-      "sv": "Behåll Anslutningen",
-      "fr": "Veuillez maintenir la connexion",
-      "de": "Halte die Verbindung"
+      "en": "Pair and use background scan",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
@@ -1948,7 +1948,7 @@
       "de": "Benutzerdefinierte Beschreibung festlegen..."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.Alert.CustomDescription.title",
       "ident_android": "alarm_custom_description_title",
       "ident_webui": "",
       "en": "Alert custom description",
@@ -7208,7 +7208,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "On",
       "ident_android": "",
       "ident_webui": "on",
       "en": "On",
@@ -7219,7 +7219,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Off",
       "ident_android": "",
       "ident_webui": "off",
       "en": "Off",
