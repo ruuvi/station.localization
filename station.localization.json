@@ -1816,10 +1816,65 @@
       "de": "BLUETOOTH VERBINDUNG"
     },
     {
-      "ident_ios": "TagSettings.PairAndBackgroundScan.title",
+      "ident_ios": "TagSettings.PairAndBackgroundScan.Unpaired.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Pair and use background scan",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "TagSettings.PairAndBackgroundScan.Pairing.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Connecting to the sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "TagSettings.PairAndBackgroundScan.Paired.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Paired and background scan enabled",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "TagSettings.PairAndBackgroundScan.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Alerts are not available over Bluetooth connection if background scanning is not enabled. Only one iOS device can be paired to Ruuvi sensor at a time.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "TagSettings.PairError.CloudMode.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "The sensor cannot be connected to via Bluetooth when the cloud mode is active. You can re-enable Bluetooth connection for the cloud sensors by disabling cloud mode in the app settings.",
+      "fi": "Anturiin ei voida yhdistää Bluetoothilla sovelluksen pilvitilan ollessa aktiivinen. Voit ottaa pilvianturiesi Bluetoothin takaisin käyttöön sammuttamalla pilvitilan sovelluksen asetussivulta.",
+      "ru": "",
+      "sv": "Sensorn kan inte anslutas till via Bluetooth när molnläget är aktivt. Du kan återaktivera Bluetooth-anslutning för molnsensorerna genom att inaktivera molnläget i appinställningarna.",
+      "fr": "Impossible de se connecter au capteur tant que le statut du cloud est actif. Vous pouvez modifier le statut dans les paramètres de l'application.",
+      "de": "Der Sensor kann nicht über Bluetooth verbunden werden, wenn der Cloud-Modus aktiv ist. Sie können die Bluetooth-Verbindung für die Cloud-Sensoren wieder aktivieren, indem Sie den Cloud-Modus in den App-Einstellungen deaktivieren."
+    },
+    {
+      "ident_ios": "TagSettings.PairError.Timeout.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "The sensor may be out of range or paired to another iOS device. Please unpair first or bring the sensor to the range and try again.",
       "fi": "",
       "ru": "",
       "sv": "",
@@ -7415,17 +7470,6 @@
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden och endast ta emot varningar via e-post. Kräver en Ruuvi Gateway.",
       "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway.",
       "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router."
-    },
-    {
-      "ident_ios": "TagSettings.Connection.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "The sensor cannot be connected to via Bluetooth when the cloud mode is active. You can re-enable Bluetooth connection for the cloud sensors by disabling cloud mode in the app settings.",
-      "fi": "Anturiin ei voida yhdistää Bluetoothilla sovelluksen pilvitilan ollessa aktiivinen. Voit ottaa pilvianturiesi Bluetoothin takaisin käyttöön sammuttamalla pilvitilan sovelluksen asetussivulta.",
-      "ru": "",
-      "sv": "Sensorn kan inte anslutas till via Bluetooth när molnläget är aktivt. Du kan återaktivera Bluetooth-anslutning för molnsensorerna genom att inaktivera molnläget i appinställningarna.",
-      "fr": "Impossible de se connecter au capteur tant que le statut du cloud est actif. Vous pouvez modifier le statut dans les paramètres de l'application.",
-      "de": "Der Sensor kann nicht über Bluetooth verbunden werden, wenn der Cloud-Modus aktiv ist. Sie können die Bluetooth-Verbindung für die Cloud-Sensoren wieder aktivieren, indem Sie den Cloud-Modus in den App-Einstellungen deaktivieren."
     },
     {
       "ident_ios": "",
