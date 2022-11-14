@@ -8620,7 +8620,7 @@
       "ident_android": "permission_notification_needed",
       "ident_webui": "",
       "en": "To enable alerts please allow Notifications in Settings.",
-      "fi": "",
+      "fi": "Hälytysten näyttäminen vaatii ilmoitusten sallimisen asetuksista.",
       "ru": "",
       "sv": "",
       "fr": "",
