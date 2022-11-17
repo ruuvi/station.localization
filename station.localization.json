@@ -1841,7 +1841,7 @@
       "ident_ios": "TagSettings.PairAndBackgroundScan.Paired.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Paired and background scan enabled",
+      "en": "Paired and background scan on",
       "fi": "",
       "ru": "",
       "sv": "",
@@ -1968,28 +1968,6 @@
       "sv": "Alarm är inaktiverade eftersom du inte är ansluten till enheten.",
       "fr": "Les notifications sont désactivées car l'appreil n'est pas connecté.",
       "de": "Warnungen sind deaktiviert, weil Sie nicht mit dem Gerät verbunden sind."
-    },
-    {
-      "ident_ios": "TagSettings.ConnectStatus.Connected",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Connected",
-      "fi": "Yhdistetty",
-      "ru": "Соединен",
-      "sv": "Ansluten",
-      "fr": "Connecté",
-      "de": "Verbunden"
-    },
-    {
-      "ident_ios": "TagSettings.ConnectStatus.Connecting",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Connecting...",
-      "fi": "Yhdistetään...",
-      "ru": "Соединяюсь...",
-      "sv": "Ansluter...",
-      "fr": "Connexion...",
-      "de": "Verbinden..."
     },
     {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
@@ -8253,7 +8231,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.Alert.SetTemperature.title",
       "ident_android": "alert_dialog_title_temperature",
       "ident_webui": "",
       "en": "Set temperature alert",
@@ -8264,7 +8242,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.Alert.SetHumidity.title",
       "ident_android": "alert_dialog_title_humidity",
       "ident_webui": "",
       "en": "Set humidity alert",
@@ -8275,7 +8253,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.Alert.SetPressure.title",
       "ident_android": "alert_dialog_title_pressure",
       "ident_webui": "",
       "en": "Set pressure alert",
@@ -8297,24 +8275,24 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.AlertSettings.Dialog.Min",
       "ident_android": "alert_dialog_min",
       "ident_webui": "",
-      "en": "Min (%1$s)",
-      "fi": "Min (%1$s)",
+      "en": "Min ({%.0f^%1$s})",
+      "fi": "Min ({%.0f^%1$s})",
       "ru": "",
-      "sv": "Min (%1$s)",
+      "sv": "Min ({%.0f^%1$s})",
       "fr": "",
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagSettings.AlertSettings.Dialog.Max",
       "ident_android": "alert_dialog_max",
       "ident_webui": "",
-      "en": "Max (%1$s)",
-      "fi": "Max (%1$s)",
+      "en": "Max ({%.0f^%1$s})",
+      "fi": "Max ({%.0f^%1$s})",
       "ru": "",
-      "sv": "Max (%1$s)",
+      "sv": "Max ({%.0f^%1$s})",
       "fr": "",
       "de": ""
     },
