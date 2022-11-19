@@ -598,12 +598,12 @@
       "ident_ios": "DiscoverTable.GetMoreSensors.button.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "BUY SENSORS",
-      "fi": "OSTA ANTUREITA",
-      "ru": "КУПИТЬ СЕНСОРЫ",
-      "sv": "KÖP SENSORER",
-      "fr": "ACHETER DES CAPTEURS",
-      "de": "SENSOREN KAUFEN"
+      "en": "Buy Ruuvi Sensors",
+      "fi": "Osta Ruuvi-antureita",
+      "ru": "Купить датчики Ruuvi",
+      "sv": "Köp Ruuvi-sensorer",
+      "fr": "Acheter des capteurs Ruuvi",
+      "de": "Ruuvi Sensoren kaufen"
     },
     {
       "ident_ios": "DiscoverTable.NoDevicesSection.NotFound.text",
@@ -3508,10 +3508,10 @@
       "ru": "Купить датчики Ruuvi",
       "sv": "Köp Ruuvi-sensorer",
       "fr": "Acheter des capteurs Ruuvi",
-      "de": ""
+      "de": "Ruuvi Sensoren kaufen"
     },
     {
-      "ident_ios": "Menu.BuySensors.URL",
+      "ident_ios": "",
       "ident_android": "buy_sensors_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/products",
@@ -3520,6 +3520,17 @@
       "sv": "https://ruuvi.com/products",
       "fr": "https://ruuvi.com/products",
       "de": "https://ruuvi.com/products"
+    },
+    {
+      "ident_ios": "Ruuvi.BuySensors.URL.IOS",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fi": "https://ruuvi.com/fi/tuotteet?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "ru": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "sv": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fr": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "de": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios"
     },
     {
       "ident_ios": "Menu.Label.BuyRuuviGateway.text",
@@ -3533,7 +3544,7 @@
       "de": ""
     },
     {
-      "ident_ios": "Menu.BuyGateway.URL",
+      "ident_ios": "",
       "ident_android": "buy_gateway_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/gateway",
@@ -3542,6 +3553,17 @@
       "sv": "https://ruuvi.com/gateway",
       "fr": "https://ruuvi.com/gateway",
       "de": "https://ruuvi.com/gateway"
+    },
+    {
+      "ident_ios": "Menu.BuyGateway.URL.IOS",
+      "ident_android": "buy_gateway_link",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fi": "https://ruuvi.com/fi/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "ru": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "sv": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fr": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "de": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios"
     },
     {
       "ident_ios": "Menu.Label.WhatToMeasure.text",
@@ -3555,7 +3577,7 @@
       "de": "Was mit Ruuvi messen?"
     },
     {
-      "ident_ios": "Menu.Measure.URL",
+      "ident_ios": "",
       "ident_android": "what_to_measure_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/ideas/",
@@ -3564,6 +3586,17 @@
       "sv": "https://ruuvi.com/ideas",
       "fr": "https://ruuvi.com/ideas",
       "de": "https://ruuvi.com/ideas"
+    },
+    {
+      "ident_ios": "Menu.Measure.URL.IOS",
+      "ident_android": "what_to_measure_link",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/ideas?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fi": "https://ruuvi.com/fi/ideat?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "ru": "https://ruuvi.com/ideas?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "sv": "https://ruuvi.com/ideas?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "fr": "https://ruuvi.com/ideas?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
+      "de": "https://ruuvi.com/ideas?utm_campaign=app_ua&utm_medium=referral&utm_source=ios"
     },
     {
       "ident_ios": "Menu.Label.Feedback.text",
