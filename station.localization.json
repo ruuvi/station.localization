@@ -1497,28 +1497,6 @@
       "de": "Fehler"
     },
     {
-      "ident_ios": "TagCharts.FailedToSyncDialog.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to establish connection in %.0f seconds. Sync aborted.",
-      "fi": "Yhteys aikakatkaistiin. Synkronointi peruutettiin.",
-      "ru": "Не удалось установить соединение за %.0f сек. Синхронизация отменена.",
-      "sv": "Det gick inte att upprätta anslutning efter %.0f sekunder. Synkronisering avbröts.",
-      "fr": "Délai de réponse dépassé. Synchronisation annullée.",
-      "de": "Verbindung konnte in %.0f Sekunden nicht hergestellt werden. Synchronisierung abgebrochen."
-    },
-    {
-      "ident_ios": "TagCharts.FailedToServeDialog.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to serve in %.0f seconds. Serve aborted.",
-      "fi": "Synkronointi aikakatkaistiin. Synkronointi peruutettiin.",
-      "ru": "Не удалось обменяться данными за %.0f сек. Обмен данными отменен.",
-      "sv": "Synkroniseringen avbröts efter %.0f sekunder. Synkronisering avbruten",
-      "fr": "Délai de réponse dépassé. Synchronisation annullée.",
-      "de": "Fehler beim Bereitstellen in %.0f Sekunden. Service abgebrochen."
-    },
-    {
       "ident_ios": "TagSettings.UUID.Alert.title",
       "ident_android": "",
       "ident_webui": "",
@@ -8638,7 +8616,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagCharts.FailedToSyncDialog.message",
       "ident_android": "gatt_not_in_range_description",
       "ident_webui": "",
       "en": "Bluetooth history download failed. Check that you're within Bluetooth range, your sensor has firmware that supports downloading and that sensor is not simultaneously connected to another iOS device. Sensor connection is reserved for Ruuvi Station when using connected mode in iOS.",
@@ -8649,7 +8627,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "TagCharts.TryAgain.title",
       "ident_android": "try_again",
       "ident_webui": "",
       "en": "Try again",
