@@ -8724,6 +8724,50 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "force_claim_sensor",
+      "ident_webui": "",
+      "en": "Force Claim Sensor",
+      "fi": "Vaihda omistajuus",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "force_claim_sensor_description1",
+      "ident_webui": "",
+      "en": "This sensor has been claimed by another user. You can force ownership to your account if you have physical access to this sensor. Every Ruuvi sensor can have only one owner.",
+      "fi": "Tällä anturilla on jo toinen omistaja. Omistajuus voidaan vaihtaa pakotetusti, mikäli anturi on lähettyvilläsi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "force_claim_sensor_description2",
+      "ident_webui": "",
+      "en": "Force Claim is done by using Near-Field Communication (NFC). Make sure NFC is enabled on your mobile device.\\n\\n\\t1. Touch your Ruuvi sensor with your mobile device to start the claiming process.\\n\\n\\t2. When successfully claimed you will be forwarded back to Sensor Settings.\\n\\nIf claiming was unsuccessful or NFC is not available on your device:\\n\\n\\t1. Open the cover of your Ruuvi sensor.\\n\\n\\t2. Locate round black button (or button B in case your sensor has 2 buttons) on white circuit board and press it briefly to start the claiming process.\\n\\n\\t3. When successfully claimed you will be forwarded back to Sensor Settings.",
+      "fi": "Omistajuuden pakotettu vaihtaminen tapahtuu Near-Field Communication (NFC) ominaisuutta käyttämällä. Varmista, että NFC on käytössä mobiililaitteessasi.\\n\\n\\t1. Aloita omistajuuden pakotettu vaihto koskettamalla Ruuvi-anturia mobiililaitteellasi.\\n\\n\\t2. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.\\n\\nMikäli pakotettu vaihto epäonnistui tai NFC-ominaisuutta ei ole saatavilla mobiililaitteessasi:\\n\\n\\t1. Avaa Ruuvi-anturin suojakotelo.\\n\\n\\t2. Paikanna valkoisella piirilevyllä oleva pieni musta painike (tai painike \\\"B\\\", mikäli anturissasi on 2 painiketta) ja napauta painiketta lyhyesti pakotetun vaihdon aloittamiseksi.\\n\\n\\t3. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "force_claim",
+      "ident_webui": "",
+      "en": "Force Claim",
+      "fi": "Vaadi omistajuutta",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
