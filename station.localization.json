@@ -4149,6 +4149,17 @@
       "de": "Scannen im Hintergrund"
     },
     {
+      "ident_ios": "Settings.BackgroundScanning.Footer.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Important notes: Bluetooth background history logging and Bluetooth alerts work only when the app hasn't been killed. If you disable the background scanning, all paired Ruuvi sensors will be automatically unpaired and you need to pair them again from their settings pages.",
+      "fi": "Tärkeitä huomioita: Historian Bluetooth-taustatallennus ja Bluetooth-hälytykset toimivat ainoastaan mikäli sovellusta ei ole tapettu tausta-ajosta. Mikäli poistat taustaskannauksen käytöstä, kaikkien yhdistettyjen Ruuvi-anturien paritukset poistetaan ja joudut parittamaan ne uudelleen niiden asetussivuilta käsin.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "settings_background_scan_details",
       "ident_webui": "",
