@@ -8889,6 +8889,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "change_background_image",
+      "ident_webui": "",
+      "en": "Change background image",
+      "fi": "Vaihda taustakuva",
+      "ru": "Изменить фоновое изображение",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
