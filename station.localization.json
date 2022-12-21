@@ -8867,6 +8867,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_csv_feature_location",
+      "ident_webui": "",
+      "en": "You can export sensor's history from its history graph page. Tap three dots menu icon on top right corner, and then select \\\"Export history (csv)\\\".",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "low_battery",
+      "ident_webui": "",
+      "en": "Low battery",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
