@@ -3126,15 +3126,15 @@
       "de": "Über / Hilfe"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "About.TagsCount.text",
       "ident_android": "help_added_tags",
       "ident_webui": "",
-      "en": "Added sensors: %1$,d",
-      "fi": "Lisätyt anturit: %1$,d",
-      "ru": "Добавленных датчиков: %1$,d",
-      "sv": "Tillagda sensorer: %1$,d",
-      "fr": "Capteurs jumelés : %1$,d",
-      "de": "Sensoren hinzugefügt: %1$,d"
+      "en": "Added sensors: {%d^%1$,d}",
+      "fi": "Lisätyt anturit: {%d^%1$,d}",
+      "ru": "Добавленных датчиков: {%d^%1$,d}",
+      "sv": "Tillagda sensorer: {%d^%1$,d}",
+      "fr": "Capteurs jumelés : {%d^%1$,d}",
+      "de": "Sensoren hinzugefügt: {%d^%1$,d}"
     },
     {
       "ident_ios": "",
@@ -3278,17 +3278,6 @@
       "sv": "Upptäckta sensorer: %1$,d",
       "fr": "Capteurs détectés : %1$,d",
       "de": "Gesehene Sensoren: %1$,d"
-    },
-    {
-      "ident_ios": "About.TagsCount.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Seen sensors: %d",
-      "fi": "Havaitut anturit: %d",
-      "ru": "Датчиков обнаружено: %d",
-      "sv": "Upptäckta sensorer: %d",
-      "fr": "Capteurs détectés : %d",
-      "de": "Gesehene Sensoren: %d"
     },
     {
       "ident_ios": "About.Troubleshooting.contents",
