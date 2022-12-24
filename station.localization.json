@@ -8889,6 +8889,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "SignIn.Sync.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Downloading content from the cloud. Please wait.",
+      "fi": "Ladataan tietoja pilvestä. Odota hetki.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
