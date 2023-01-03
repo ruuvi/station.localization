@@ -8550,7 +8550,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "rssi_alert_description",
       "ident_android": "rssi_alert_description",
       "ident_webui": "",
       "en": "Notice that data sent by Ruuvi sensors can be received using mobile devices or Ruuvi Gateway routers. The received signal strength will be different depending on the receiving device and it will affect the value being used to trigger RSSI alert. Use Cloud Mode when you want to record signal strength data only via Ruuvi Gateway.",
@@ -8561,7 +8561,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "bluetooth_download",
       "ident_android": "bluetooth_download",
       "ident_webui": "",
       "en": "Bluetooth download",
@@ -8572,7 +8572,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "bluetooth_download_description",
       "ident_android": "bluetooth_download_description",
       "ident_webui": "",
       "en": "Local sensor data can be downloaded, when you're within its Bluetooth range.",
@@ -8583,7 +8583,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "download",
       "ident_android": "download",
       "ident_webui": "",
       "en": "Download",
@@ -8594,7 +8594,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "clear_local_history",
       "ident_android": "clear_local_history",
       "ident_webui": "",
       "en": "Clear local history",
@@ -8605,7 +8605,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "clear_local_history_description",
       "ident_android": "clear_local_history_description",
       "ident_webui": "",
       "en": "Do you want to clear locally stored historical data from the app? This won't clear internally stored history from sensor or historical data stored in Ruuvi Cloud service.",
@@ -8638,7 +8638,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "support",
       "ident_android": "",
       "ident_webui": "support",
       "en": "Support",
@@ -8660,7 +8660,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "full_image_view",
       "ident_android": "full_image_view",
       "ident_webui": "",
       "en": "Full image view",
@@ -8671,7 +8671,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "history_view",
       "ident_android": "history_view",
       "ident_webui": "",
       "en": "History view",
@@ -8682,7 +8682,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "settings_and_alerts",
       "ident_android": "settings_and_alerts",
       "ident_webui": "",
       "en": "Settings & Alerts",
@@ -8693,7 +8693,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "change_background",
       "ident_android": "change_background",
       "ident_webui": "",
       "en": "Change background",
@@ -8704,7 +8704,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "check_claim_state",
       "ident_android": "check_claim_state",
       "ident_webui": "",
       "en": "Checking claim state",
@@ -8715,7 +8715,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "claim_in_progress",
       "ident_android": "claim_in_progress",
       "ident_webui": "",
       "en": "Claim in progress",
@@ -8726,7 +8726,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "force_claim_sensor",
       "ident_android": "force_claim_sensor",
       "ident_webui": "",
       "en": "Force Claim Sensor",
@@ -8737,7 +8737,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "force_claim_sensor_description1",
       "ident_android": "force_claim_sensor_description1",
       "ident_webui": "",
       "en": "This sensor has been claimed by another user. You can force ownership to your account if you have physical access to this sensor. Every Ruuvi sensor can have only one owner.",
@@ -8748,7 +8748,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "force_claim_sensor_description2",
       "ident_android": "force_claim_sensor_description2",
       "ident_webui": "",
       "en": "Force Claim is done by using Near-Field Communication (NFC). Make sure NFC is enabled on your mobile device.\\n\\n\\t1. Touch your Ruuvi sensor with your mobile device to start the claiming process.\\n\\n\\t2. When successfully claimed you will be forwarded back to Sensor Settings.\\n\\nIf claiming was unsuccessful or NFC is not available on your device:\\n\\n\\t1. Open the cover of your Ruuvi sensor.\\n\\n\\t2. Locate round black button (or button B in case your sensor has 2 buttons) on white circuit board and press it briefly to start the claiming process.\\n\\n\\t3. When successfully claimed you will be forwarded back to Sensor Settings.",
@@ -8759,7 +8759,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "force_claim",
       "ident_android": "force_claim",
       "ident_webui": "",
       "en": "Force Claim",
@@ -8770,7 +8770,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "claim_wrong_sensor_scanned",
       "ident_android": "claim_wrong_sensor_scanned",
       "ident_webui": "",
       "en": "You are scanning different RuuviTag",
@@ -8781,7 +8781,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "view",
       "ident_android": "view",
       "ident_webui": "",
       "en": "View",
@@ -8792,7 +8792,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "simple_view",
       "ident_android": "simple_view",
       "ident_webui": "",
       "en": "Simple view",
@@ -8803,7 +8803,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "image_view",
       "ident_android": "image_view",
       "ident_webui": "",
       "en": "Image view",
@@ -8814,7 +8814,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "change_background_message",
       "ident_android": "change_background_message",
       "ident_webui": "",
       "en": "Select background image. If you're not signed in, you'll lose the image in case of app reinstall.",
@@ -8825,7 +8825,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "take_photo",
       "ident_android": "take_photo",
       "ident_webui": "",
       "en": "Take a photo",
@@ -8836,7 +8836,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "select_from_gallery",
       "ident_android": "select_from_gallery",
       "ident_webui": "",
       "en": "Select from phone gallery",
@@ -8847,7 +8847,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "select_default_image",
       "ident_android": "select_default_image",
       "ident_webui": "",
       "en": "Select from default images",
@@ -8858,7 +8858,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "export_csv_feature_location",
       "ident_android": "export_csv_feature_location",
       "ident_webui": "",
       "en": "You can export sensor's history from its history graph page. Tap three dots menu icon on top right corner, and then select \\\"Export history (csv)\\\".",
@@ -8869,7 +8869,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "low_battery",
       "ident_android": "low_battery",
       "ident_webui": "",
       "en": "Low battery",
@@ -8880,7 +8880,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "change_background_image",
       "ident_android": "change_background_image",
       "ident_webui": "",
       "en": "Change background image",
@@ -8900,6 +8900,17 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "uploading_progress",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Uploading: %.0f",
+      "fi": "Ladataan: %.0f",
+      "ru": "Загружаю: %.0f",
+      "sv": "Uppladdning: %.0f",
+      "fr": "Chargement: %.0f",
+      "de": "Hochladen: %.0f"
     }
   ]
 }
