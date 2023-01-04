@@ -3579,7 +3579,7 @@
     {
       "ident_ios": "Menu.Label.MyRuuviAccount.text",
       "ident_android": "my_ruuvi_account",
-      "ident_webui": "",
+      "ident_webui": "my_ruuvi_account",
       "en": "My Ruuvi Account",
       "fi": "Minun Ruuvi-tili",
       "ru": "",
@@ -8222,7 +8222,7 @@
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.title",
       "ident_android": "delete_account",
-      "ident_webui": "",
+      "ident_webui": "delete_account",
       "en": "Delete Account",
       "fi": "Poista tili",
       "ru": "",
@@ -8233,7 +8233,7 @@
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.Confirmation.message",
       "ident_android": "account_delete_confirmation_description",
-      "ident_webui": "",
+      "ident_webui": "account_delete_confirmation_description",
       "en": "A confirmation is sent to your email. To proceed with the deletion, please check your inbox and follow the instructions.",
       "fi": "Vahvistussähköposti lähetetty. Poista tili noudattamalla sähköpostissa annettuja ohjeita.",
       "ru": "",
@@ -8911,6 +8911,50 @@
       "sv": "Uppladdning: %.0f",
       "fr": "Chargement: %.0f",
       "de": "Hochladen: %.0f"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "activation_code",
+      "en": "Activation code",
+      "fi": "Aktivointikoodi",
+      "ru": "",
+      "sv": "Aktiveringskod",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "activate",
+      "en": "Activate",
+      "fi": "Aktivoi",
+      "ru": "",
+      "sv": "Aktivera",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "expires",
+      "en": "Expires",
+      "fi": "Päättyy",
+      "ru": "",
+      "sv": "Går ut",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "current_plan",
+      "en": "Current plan",
+      "fi": "Nykyinen suunnitelma",
+      "ru": "",
+      "sv": "Nuvarande plan",
+      "fr": "",
+      "de": ""
     }
   ]
 }
