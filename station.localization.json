@@ -8550,13 +8550,24 @@
       "de": ""
     },
     {
-      "ident_ios": "rssi_alert_description",
+      "ident_ios": "",
       "ident_android": "rssi_alert_description",
       "ident_webui": "",
       "en": "Notice that data sent by Ruuvi sensors can be received using mobile devices or Ruuvi Gateway routers. The received signal strength will be different depending on the receiving device and it will affect the value being used to trigger RSSI alert. Use Cloud Mode when you want to record signal strength data only via Ruuvi Gateway.",
       "fi": "Huomaathan, että anturin lähettämät tiedot voidaan vastaanottaa mobiililaitteilla tai Ruuvi Gateway -reitittimillä. Signaalinvoimakkuuden lukemat poikkeavat toisistaan riippuen siitä, mikä laite tiedon vastaanotti ja tämä vaikuttaa RSSI-hälytyksessä käytettävään arvoon. Käytä pilvitilaa, mikäli haluat signaalinvoimakkuustiedon päivittyvän ainoastaan Ruuvi Gatewayn kautta.",
       "ru": "",
       "sv": "Observera att data som skickas från Ruuvi-sensorer kan tas emot med mobila enheter eller Ruuvi Gateway-routrar. Den mottagna signalstyrkan kommer att vara olika beroende på den mottagande enheten och det kommer att påverka värdet som används för att utlösa RSSI-varning. Använd molnläge när du bara vill spela in signalstyrka via Ruuvi Gateway.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "rssi_alert_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Using this alert requires you to be signed in to the app, that you have claimed ownership of this sensor and it's in the range of Ruuvi Gateway router. iOS devices are unable to indicate signal strength information of received data sent by Ruuvi sensor when sensor is paired and measurements are being received in the background. Realtime Bluetooth signal strength is shown in the app but doesn't affect this alert.",
+      "fi": "Tämän hälytyksen käyttö vaatii, että olet sisäänkirjautunut sovellukseen, sinut on merkitty anturin omistajaksi ja anturi on Ruuvi Gateway -reitittimen kuuluvuusalueella. iOS-päätelaitteet eivät pysty näyttämään Ruuvin anturien lähettämien viestien signaalinvoimakkuustietoja anturin ollessa paritettuna ja kun mittauksia luetaan taustalla. Reaaliaikainen Bluetooth-signaalinvoimakkuus näytetään sovelluksessa, mutta sitä ei käytetä tässä hälytyksessä.",
+      "ru": "",
+      "sv": "",
       "fr": "",
       "de": ""
     },
