@@ -1233,17 +1233,6 @@
       "de": "Foto aufnehmen"
     },
     {
-      "ident_ios": "Settings.SectionHeader.General.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "GENERAL",
-      "fi": "YLEISET",
-      "ru": "ОСНОВНЫЕ",
-      "sv": "ALLMÄNT",
-      "fr": "GÉNÉRAL",
-      "de": "ALLGEMEINES"
-    },
-    {
       "ident_ios": "Settings.SegmentedControl.Humidity.Relative.title",
       "ident_android": "",
       "ident_webui": "",
@@ -1275,17 +1264,6 @@
       "sv": "Dew",
       "fr": "Rosée",
       "de": "Tau"
-    },
-    {
-      "ident_ios": "Settings.SectionHeader.Application.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "APPLICATION",
-      "fi": "OHJELMA",
-      "ru": "ПРИЛОЖЕНИЕ",
-      "sv": "APPLIKATION",
-      "fr": "APPLICATION",
-      "de": "ANWENDUNG"
     },
     {
       "ident_ios": "Settings.Label.Language.text",
@@ -5063,7 +5041,7 @@
       "de": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Benefits.title",
+      "ident_ios": "ruuvi_cloud",
       "ident_android": "ruuvi_cloud",
       "ident_webui": "",
       "en": "Ruuvi Cloud",
