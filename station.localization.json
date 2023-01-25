@@ -8330,7 +8330,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "export_history",
       "ident_android": "export_history",
       "ident_webui": "",
       "en": "Export history (csv)",
@@ -8341,7 +8341,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "clear_view",
       "ident_android": "clear_view",
       "ident_webui": "",
       "en": "Clear View",
@@ -8352,7 +8352,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_1",
       "ident_android": "day_1",
       "ident_webui": "",
       "en": "1 day",
@@ -8363,7 +8363,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_2",
       "ident_android": "day_2",
       "ident_webui": "",
       "en": "2 days",
@@ -8374,7 +8374,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_3",
       "ident_android": "day_3",
       "ident_webui": "",
       "en": "3 days",
@@ -8385,7 +8385,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_4",
       "ident_android": "day_4",
       "ident_webui": "",
       "en": "4 days",
@@ -8396,7 +8396,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_5",
       "ident_android": "day_5",
       "ident_webui": "",
       "en": "5 days",
@@ -8407,7 +8407,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_6",
       "ident_android": "day_6",
       "ident_webui": "",
       "en": "6 days",
@@ -8418,7 +8418,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_7",
       "ident_android": "day_7",
       "ident_webui": "",
       "en": "7 days",
@@ -8429,7 +8429,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_8",
       "ident_android": "day_8",
       "ident_webui": "",
       "en": "8 days",
@@ -8440,7 +8440,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_9",
       "ident_android": "day_9",
       "ident_webui": "",
       "en": "9 days",
@@ -8451,7 +8451,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_10",
       "ident_android": "day_10",
       "ident_webui": "",
       "en": "10 days",
@@ -8462,18 +8462,18 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "day_x",
       "ident_android": "day_x",
       "ident_webui": "",
-      "en": "%1$s days",
-      "fi": "%1$s päivää",
+      "en": "{%.0f^%1$s} days",
+      "fi": "{%.0f^%1$s} päivää",
       "ru": "",
-      "sv": "%1$s dagar",
+      "sv": "{%.0f^%1$s} dagar",
       "fr": "",
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "more",
       "ident_android": "more",
       "ident_webui": "",
       "en": "More...",
@@ -8484,7 +8484,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "longer_history_title",
       "ident_android": "longer_history_title",
       "ident_webui": "",
       "en": "Longer history",
@@ -8495,7 +8495,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "longer_history_message",
       "ident_android": "longer_history_message",
       "ident_webui": "",
       "en": "Ruuvi Station mobile app supports maximum 10 days history. Ruuvi Cloud subscribers are able to view up to 2 years of historical data using web app at ruuvi.com/station (requires Ruuvi Gateway router).",
@@ -8506,15 +8506,15 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "reading_history_x",
       "ident_android": "reading_history_x",
       "ident_webui": "",
-      "en": "Reading history.. %1$s",
-      "fi": "Historiatietoja luetaan.. %1$s",
-      "ru": "Чтение истории.. %1$s",
-      "sv": "Läser historik.. %1$s",
-      "fr": "Analyse de l'historique.. %1$s",
-      "de": "History wird gelesen.. %1$s"
+      "en": "Reading history.. {%.0f^%1$s}",
+      "fi": "Historiatietoja luetaan.. {%.0f^%1$s}",
+      "ru": "Чтение истории.. {%.0f^%1$s}",
+      "sv": "Läser historik.. {%.0f^%1$s}",
+      "fr": "Analyse de l'historique.. {%.0f^%1$s}",
+      "de": "History wird gelesen.. {%.0f^%1$s}"
     },
     {
       "ident_ios": "",
