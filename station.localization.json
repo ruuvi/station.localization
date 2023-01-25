@@ -8944,6 +8944,17 @@
       "sv": "Nuvarande plan",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "user",
+      "en": "User",
+      "fi": "Käyttäjä",
+      "ru": "",
+      "sv": "Användare",
+      "fr": "",
+      "de": ""
     }
   ]
 }
