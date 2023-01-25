@@ -8926,11 +8926,11 @@
     {
       "ident_ios": "",
       "ident_android": "",
-      "ident_webui": "expires",
-      "en": "Expires",
-      "fi": "Päättyy",
+      "ident_webui": "plan_expiry_date",
+      "en": "Plan expiry date",
+      "fi": "Tilauksen viimeinen voimassaolopäivä",
       "ru": "",
-      "sv": "Går ut",
+      "sv": "Planens utgångsdatum",
       "fr": "",
       "de": ""
     },
