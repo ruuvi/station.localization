@@ -7956,28 +7956,6 @@
       "de": ""
     },
     {
-      "ident_ios": "Widgets.Unauthorized.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sign in to use the widget.",
-      "fi": "Kirjaudu sisään käyttääksesi widgettiä.",
-      "ru": "",
-      "sv": "Logga in för att använda widgeten.",
-      "fr": "",
-      "de": ""
-    },
-    {
-      "ident_ios": "Widgets.Unconfigured.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Force tap to edit the widget.",
-      "fi": "Paina pitkään muokataksesi widgettiä.",
-      "ru": "",
-      "sv": "Tryck och håll ned för att redigera widgeten.",
-      "fr": "",
-      "de": ""
-    },
-    {
       "ident_ios": "",
       "ident_android": "widget_empty",
       "ident_webui": "",
@@ -8952,7 +8930,71 @@
       "en": "User",
       "fi": "Käyttäjä",
       "ru": "",
-      "sv": "Användare",
+      "sv": "Användare"
+    },
+    {
+      "ident_ios": "Widgets.Unauthorized.Regular.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sign in to use the widget.",
+      "fi": "Kirjaudu sisään käyttääksesi widgettiä.",
+      "ru": "",
+      "sv": "Logga in för att använda widgeten.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unauthorized.Inline.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sign in to Ruuvi Station",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unconfigured.Simple.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Force tap to edit the widget.",
+      "fi": "Paina pitkään muokataksesi widgettiä.",
+      "ru": "",
+      "sv": "Tryck och håll ned för att redigera widgeten.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unconfigured.Rectangular.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Add sensor to use Ruuvi Widget",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unconfigured.Inline.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Add sensor to use Ruuvi Widget",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Unconfigured.Circular.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "+Add",
+      "fi": "",
+      "ru": "",
+      "sv": "",
       "fr": "",
       "de": ""
     }
