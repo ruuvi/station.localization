@@ -8997,6 +8997,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "Settings.SectionHeader.General.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "GENERAL",
+      "fi": "YLEISET",
+      "ru": "ОСНОВНЫЕ",
+      "sv": "ALLMÄNT",
+      "fr": "GÉNÉRAL",
+      "de": "ALLGEMEINES"
+    },
+    {
+      "ident_ios": "Settings.SectionHeader.Application.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "APPLICATION",
+      "fi": "OHJELMA",
+      "ru": "ПРИЛОЖЕНИЕ",
+      "sv": "APPLIKATION",
+      "fr": "APPLICATION",
+      "de": "ANWENDUNG"
     }
   ]
 }
