@@ -9041,6 +9041,83 @@
       "sv": "Grafvy",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "notification_permission_needed",
+      "ident_webui": "",
+      "en": "To enable alerts please allow Notifications in Settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "empty_chart_message",
+      "ident_webui": "",
+      "en": "No data available \\nin the selected history window.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "measure_your_world",
+      "ident_webui": "",
+      "en": "Measure Your World",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "with_ruuvi_sensors",
+      "ident_webui": "",
+      "en": "With Ruuvi sensors and Ruuvi app.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "swype_to_continue",
+      "ident_webui": "",
+      "en": "Swype to continue. →",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "read_sensors_data",
+      "ident_webui": "",
+      "en": "Read Sensor's Data",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "via_bluetooth_or_cloud",
+      "ident_webui": "",
+      "en": "Via Bluetooth or from the Cloud",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
