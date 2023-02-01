@@ -9044,6 +9044,17 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "subscription_activated",
+      "en": "subscription activated",
+      "fi": "tilaus aktivoitu",
+      "ru": "",
+      "sv": "prenumeration aktiverad",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "notification_permission_needed",
       "ident_webui": "",
       "en": "To enable alerts please allow Notifications in Settings",
