@@ -9294,6 +9294,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "onboarding_gateway_required",
+      "ident_webui": "",
+      "en": "Requires a Ruuvi Gateway wireless sensor router.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "onboarding_skip",
+      "ident_webui": "",
+      "en": "Skip",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
