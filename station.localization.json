@@ -8905,10 +8905,10 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "plan_expiry_date",
-      "en": "Plan expiry date",
-      "fi": "Tilauksen viimeinen voimassaolopäivä",
+      "en": "Ruuvi plan's expiry date",
+      "fi": "Ruuvi-tilauksen päättymispäivä",
       "ru": "",
-      "sv": "Planens utgångsdatum",
+      "sv": "Ruuvi-prenumerationens utgångsdatum",
       "fr": "",
       "de": ""
     },
@@ -8916,8 +8916,8 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "current_plan",
-      "en": "Current plan",
-      "fi": "Nykyinen palvelupaketti",
+      "en": "Current Ruuvi plan",
+      "fi": "Nykyinen tilaus",
       "ru": "",
       "sv": "Nuvarande plan",
       "fr": "",
@@ -9316,6 +9316,33 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "signed_in_user",
+      "en": "Signed in user",
+      "fi": "Kirjautunut",
+      "ru": "",
+      "sv": "Inloggad"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "information",
+      "en": "Information",
+      "fi": "Tietoja",
+      "ru": "",
+      "sv": "Information"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "enter_activation_code",
+      "en": "Enter activation code",
+      "fi": "Syötä aktivointikoodi",
+      "ru": "",
+      "sv": "Ange aktiveringskod"
     }
   ]
 }
