@@ -1778,7 +1778,7 @@
       "en": "Pair and use background scan",
       "fi": "Parita ja käytä taustaskannausta",
       "ru": "",
-      "sv": "",
+      "sv": "Para ihop och använd bakgrundsskanning",
       "fr": "",
       "de": ""
     },
@@ -1789,7 +1789,7 @@
       "en": "Connecting to the sensor",
       "fi": "Yhdistetään anturiin",
       "ru": "",
-      "sv": "",
+      "sv": "Anslutning till sensorn",
       "fr": "",
       "de": ""
     },
@@ -1800,7 +1800,7 @@
       "en": "Paired and background scan on",
       "fi": "Paritettu ja taustaskannaus päällä",
       "ru": "",
-      "sv": "",
+      "sv": "Parat och bakgrundsskanning på",
       "fr": "",
       "de": ""
     },
@@ -1811,7 +1811,7 @@
       "en": "Alerts are not available over Bluetooth connection if background scanning is not enabled. Only one iOS device can be paired to Ruuvi sensor at a time.",
       "fi": "Bluetooth-yhteyttä käyttävät hälytykset eivät ole käytettävissä silloin kun taustaskannausta ei ole otettu käyttöön. Ruuvi-anturi voidaan parittaa vain yhteen iOS-laitteeseen kerrallaan.",
       "ru": "",
-      "sv": "",
+      "sv": "Alarm är inte tillgängliga via Bluetooth-anslutning om bakgrundsskanning inte är aktiverad. Endast en iOS-enhet kan paras ihop med Ruuvi-sensorn åt gången.",
       "fr": "",
       "de": ""
     },
@@ -1833,7 +1833,7 @@
       "en": "Connection timed out. Pairing was unsuccessful. Please try again.",
       "fi": "Yhteys aikakatkaistiin. Laiteparin muodostaminen epäonnistui. Yritä uudelleen.",
       "ru": "",
-      "sv": "",
+      "sv": "Anslutningstimeout. Parningen misslyckades. Försök igen.",
       "fr": "",
       "de": ""
     },
@@ -4122,7 +4122,7 @@
       "en": "Important notes: Bluetooth background history logging and Bluetooth alerts work only when background scanning is enabled. If you disable the background scanning, all paired Ruuvi sensors will be automatically unpaired and you need to pair them again from their settings pages.",
       "fi": "Tärkeitä huomioita: Historian Bluetooth-taustatallennus ja Bluetooth-hälytykset toimivat ainoastaan sovelluksen taustaskannauksen ollessa käytössä. Mikäli poistat taustaskannauksen käytöstä, kaikkien yhdistettyjen Ruuvi-anturien paritukset poistetaan ja joudut parittamaan ne uudelleen niiden asetussivuilta käsin.",
       "ru": "",
-      "sv": "",
+      "sv": "Viktiga anteckningar: Loggning av Bluetooth-bakgrundshistorik och Bluetooth-alarm fungerar endast när bakgrundsskanning är aktiverad. Om du inaktiverar bakgrundsskanning kommer alla parade Ruuvi-sensorer att automatiskt avparas och du måste para dem igen från deras inställningssidor.",
       "fr": "",
       "de": ""
     },
@@ -8468,7 +8468,7 @@
       "en": "Longer history",
       "fi": "Pidempi historia",
       "ru": "",
-      "sv": "",
+      "sv": "Längre historik",
       "fr": "",
       "de": ""
     },
@@ -8479,7 +8479,7 @@
       "en": "Ruuvi Station mobile app supports maximum 10 days history. Ruuvi Cloud subscribers are able to view up to 2 years of historical data using web app at ruuvi.com/station (requires Ruuvi Gateway router).",
       "fi": "Ruuvi Station -mobiilisovellus tukee maksimissaan 10 päivän historiaa. Ruuvi Cloud -tilaajat voivat tarkastella historiatietoja jopa 2 vuoden ajalta web-sovelluksessa osoitteessa ruuvi.com/fi/station (vaatii Ruuvi Gateway -reitittimen).",
       "ru": "",
-      "sv": "Längre historik är tillgänglig på webben för Ruuvi Gateway-användare",
+      "sv": "Ruuvi Station mobilapp stöder högst 10 dagars historik. Ruuvi Cloud-prenumeranter kan se upp till 2 års historisk data med hjälp av webbappen på ruuvi.com/station (kräver Ruuvi Gateway-router).",
       "fr": "",
       "de": ""
     },
@@ -8523,7 +8523,7 @@
       "en": "Using this alert requires you to be signed in to the app, that you have claimed ownership of this sensor and it's in the range of Ruuvi Gateway router. iOS devices are unable to indicate signal strength information of received data sent by Ruuvi sensor when sensor is paired and measurements are being received in the background. Realtime Bluetooth signal strength is shown in the app but doesn't affect this alert.",
       "fi": "Tämän hälytyksen käyttö vaatii, että olet sisäänkirjautunut sovellukseen, sinut on merkitty anturin omistajaksi ja anturi on Ruuvi Gateway -reitittimen kuuluvuusalueella. iOS-päätelaitteet eivät pysty näyttämään Ruuvin anturien lähettämien viestien signaalinvoimakkuustietoja anturin ollessa paritettuna ja kun mittauksia luetaan taustalla. Reaaliaikainen Bluetooth-signaalinvoimakkuus näytetään sovelluksessa, mutta sitä ei käytetä tässä hälytyksessä.",
       "ru": "",
-      "sv": "",
+      "sv": "För att använda denna avisering måste du vara inloggad i appen, att du har tagit ägandeskap av den här sensorn och att den är inom räckhåll för Ruuvi Gateway-routern. IOS-enheter kan inte visa signalstyrka för mottagna data som skickas av Ruuvi-sensorn när sensorn är parat och mätningar mottas i bakgrunden. Realtids Bluetooth-signalstyrka visas i appen men påverkar inte denna avisering.",
       "fr": "",
       "de": ""
     },
@@ -8622,7 +8622,7 @@
       "en": "To enable alerts please allow Notifications in Settings.",
       "fi": "Hälytysten näyttäminen vaatii ilmoitusten sallimisen asetuksista.",
       "ru": "",
-      "sv": "",
+      "sv": "För att visa alarm krävs att aviseringar tillåts i inställningar.",
       "fr": "",
       "de": ""
     },
@@ -8633,7 +8633,7 @@
       "en": "Full image view",
       "fi": "Anturikortti",
       "ru": "",
-      "sv": "",
+      "sv": "Bildvy",
       "fr": "",
       "de": ""
     },
@@ -8644,7 +8644,7 @@
       "en": "History view",
       "fi": "Historianäkymä",
       "ru": "",
-      "sv": "",
+      "sv": "Historikvy",
       "fr": "",
       "de": ""
     },
@@ -8655,7 +8655,7 @@
       "en": "Settings & Alerts",
       "fi": "Asetukset ja hälytykset",
       "ru": "",
-      "sv": "",
+      "sv": "Inställningar & alarm",
       "fr": "",
       "de": ""
     },
@@ -8666,7 +8666,7 @@
       "en": "Change background",
       "fi": "Vaihda taustakuva",
       "ru": "",
-      "sv": "",
+      "sv": "Byt bakgrund",
       "fr": "",
       "de": ""
     },
@@ -8677,7 +8677,7 @@
       "en": "Checking claim state",
       "fi": "Omistajuuden tilaa haetaan",
       "ru": "",
-      "sv": "",
+      "sv": "Kontrollerar anspråkstillstånd",
       "fr": "",
       "de": ""
     },
@@ -8688,7 +8688,7 @@
       "en": "Claiming in progress",
       "fi": "Omistajuutta vaihdetaan",
       "ru": "",
-      "sv": "",
+      "sv": "Anspråk pågår",
       "fr": "",
       "de": ""
     },
@@ -8699,7 +8699,7 @@
       "en": "Force Claim Sensor",
       "fi": "Vaihda omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "Tvinga fram anspråk",
       "fr": "",
       "de": ""
     },
@@ -8710,7 +8710,7 @@
       "en": "This sensor has been claimed by another user. You can force ownership to your account if you have physical access to this sensor. Every Ruuvi sensor can have only one owner.",
       "fi": "Tällä anturilla on jo toinen omistaja. Omistajuus voidaan vaihtaa pakotetusti, mikäli anturi on lähettyvilläsi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "",
-      "sv": "",
+      "sv": "Den här sensorn ägs av en annan användare. Du kan tvinga ägandeskap till ditt konto om du har fysisk tillgång till den här sensorn. Varje Ruuvi-sensor kan bara ha en ägare.",
       "fr": "",
       "de": ""
     },
@@ -8721,7 +8721,7 @@
       "en": "Force Claim is done by using Near-Field Communication (NFC). Make sure NFC is enabled on your mobile device.\\n\\n\\t1. Touch your Ruuvi sensor with your mobile device to start the claiming process.\\n\\n\\t2. When successfully claimed you will be forwarded back to Sensor Settings.\\n\\nIf claiming was unsuccessful or NFC is not available on your device:\\n\\n\\t1. Open the cover of your Ruuvi sensor.\\n\\n\\t2. Locate round black button (or button B in case your sensor has 2 buttons) on white circuit board and press it briefly to start the claiming process.\\n\\n\\t3. When successfully claimed you will be forwarded back to Sensor Settings.",
       "fi": "Omistajuuden pakotettu vaihtaminen tapahtuu Near-Field Communication (NFC) ominaisuutta käyttämällä. Varmista, että NFC on käytössä mobiililaitteessasi.\\n\\n\\t1. Aloita omistajuuden pakotettu vaihto koskettamalla Ruuvi-anturia mobiililaitteellasi.\\n\\n\\t2. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.\\n\\nMikäli pakotettu vaihto epäonnistui tai NFC-ominaisuutta ei ole saatavilla mobiililaitteessasi:\\n\\n\\t1. Avaa Ruuvi-anturin suojakotelo.\\n\\n\\t2. Paikanna valkoisella piirilevyllä oleva pieni musta painike (tai painike \\\"B\\\", mikäli anturissasi on 2 painiketta) ja napauta painiketta lyhyesti pakotetun vaihdon aloittamiseksi.\\n\\n\\t3. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.",
       "ru": "",
-      "sv": "",
+      "sv": "Tvingat anspråk görs genom att använda närfältskommunikation (NFC). Se till att NFC är aktiverat på din mobil.\\n\\n\\t1. Rör din Ruuvi-givare med din mobila enhet för att starta kravprocessen.\\n\\n\\t2. När det lyckats förs du tillbaka till sensorinställningar.\\n\\nOm det misslyckades eller om NFC inte är tillgängligt på din enhet:\\n\\n\\t1. Öppna locket på sensorn. Leta upp den runda svarta knappen (eller knapp B om din sensor har två knappar) på det vita kretskortet och tryck kort för att starta processen.\\n\\n\\t3. När det har gått igenom framgångsrikt förs du tillbaka till sensorinställningar.",
       "fr": "",
       "de": ""
     },
@@ -8732,7 +8732,7 @@
       "en": "Force Claim",
       "fi": "Vaadi omistajuutta",
       "ru": "",
-      "sv": "",
+      "sv": "Tvinga fram anspråk",
       "fr": "",
       "de": ""
     },
@@ -8743,7 +8743,7 @@
       "en": "You are scanning different RuuviTag",
       "fi": "Olet lukemassa väärää RuuviTagia",
       "ru": "",
-      "sv": "",
+      "sv": "Du skannar fel RuuviTag",
       "fr": "",
       "de": ""
     },
@@ -8754,7 +8754,7 @@
       "en": "View",
       "fi": "Näkymä",
       "ru": "Вид",
-      "sv": "",
+      "sv": "Vy",
       "fr": "",
       "de": ""
     },
@@ -8765,18 +8765,18 @@
       "en": "Simple view",
       "fi": "Piilota kuvat",
       "ru": "",
-      "sv": "",
+      "sv": "Enkel vy",
       "fr": "",
       "de": ""
     },
     {
       "ident_ios": "image_view",
       "ident_android": "image_view",
-      "ident_webui": "",
+      "ident_webui": "image_view",
       "en": "Image view",
       "fi": "Näytä kuvat",
       "ru": "",
-      "sv": "",
+      "sv": "Bildvy",
       "fr": "",
       "de": ""
     },
@@ -8787,7 +8787,7 @@
       "en": "Select background image. If you're not signed in, you'll lose the image in case of app reinstall.",
       "fi": "Valitse taustakuva. Taustakuva menetetään uudelleenasennuksen yhteydessä, mikäli et ole sisäänkirjautunut sovellukseen.",
       "ru": "",
-      "sv": "",
+      "sv": "Välj bakgrundsbild. Om du inte är inloggad kommer du att förlora bilden vid appominstallation.",
       "fr": "",
       "de": ""
     },
@@ -8798,7 +8798,7 @@
       "en": "Take a photo",
       "fi": "Ota kuva",
       "ru": "",
-      "sv": "",
+      "sv": "Ta ett foto",
       "fr": "",
       "de": ""
     },
@@ -8809,7 +8809,7 @@
       "en": "Select from phone gallery",
       "fi": "Valitse kuvagalleriasta",
       "ru": "",
-      "sv": "",
+      "sv": "Välj från telefonens galleri",
       "fr": "",
       "de": ""
     },
@@ -8820,7 +8820,7 @@
       "en": "Select from default images",
       "fi": "Valitse oletuskuva",
       "ru": "",
-      "sv": "",
+      "sv": "Välj bland standardbilder",
       "fr": "",
       "de": ""
     },
@@ -8831,7 +8831,7 @@
       "en": "You can export sensor's history from its history graph page. Tap three dots menu icon on top right corner, and then select \\\"Export history (csv)\\\".",
       "fi": "Anturihistoria voidaan viedä tiedostoon anturin historiasivulla. Napauta oikeassa yläkulmassa olevaa kolmipistevalikkoa ja valitse sitten \\\"Lataa historia (csv)\\\".",
       "ru": "",
-      "sv": "",
+      "sv": "Du kan exportera sensorns historik från dess historiagramsida. Tryck på tre punkters menyikon i övre högra hörnet, och välj sedan \\\"Exportera historik (csv)\\\".",
       "fr": "",
       "de": ""
     },
@@ -8842,7 +8842,7 @@
       "en": "Low battery",
       "fi": "Paristo vähissä",
       "ru": "",
-      "sv": "",
+      "sv": "Låg batterinivå",
       "fr": "",
       "de": ""
     },
@@ -8853,7 +8853,7 @@
       "en": "Change background image",
       "fi": "Vaihda taustakuva",
       "ru": "Изменить фоновое изображение",
-      "sv": "",
+      "sv": "Ändra bakgrundsbild",
       "fr": "",
       "de": ""
     },
@@ -8864,7 +8864,7 @@
       "en": "Downloading content from the cloud. Please wait.",
       "fi": "Ladataan tietoja pilvestä. Odota hetki.",
       "ru": "",
-      "sv": "",
+      "sv": "Laddar ner data från molnet. Vänta en stund.",
       "fr": "",
       "de": ""
     },
@@ -8950,7 +8950,7 @@
       "en": "Sign in to Ruuvi Station",
       "fi": "Kirjaudu Ruuvi Stationiin",
       "ru": "",
-      "sv": "",
+      "sv": "Logga in till Ruuvi Station",
       "fr": "",
       "de": ""
     },
@@ -8972,7 +8972,7 @@
       "en": "Add sensor to use Ruuvi Widget",
       "fi": "Lisää Ruuvi widgetissä näytettävä anturi",
       "ru": "",
-      "sv": "",
+      "sv": "Välj sensorn som ska visas i Ruuvi widgeten",
       "fr": "",
       "de": ""
     },
@@ -8983,7 +8983,7 @@
       "en": "Add sensor to use Ruuvi Widget",
       "fi": "Lisää Ruuvi widgetissä näytettävä anturi",
       "ru": "",
-      "sv": "",
+      "sv": "Välj sensorn som ska visas i Ruuvi widgeten",
       "fr": "",
       "de": ""
     },
@@ -8994,7 +8994,7 @@
       "en": "+Add",
       "fi": "+Lisää",
       "ru": "",
-      "sv": "",
+      "sv": "+Lägg till",
       "fr": "",
       "de": ""
     },
@@ -9023,22 +9023,22 @@
     {
       "ident_ios": "",
       "ident_android": "",
-      "ident_webui": "image_view",
-      "en": "Image View",
-      "fi": "Kuvanäkymä",
+      "ident_webui": "graph_view",
+      "en": "Graph View",
+      "fi": "Kaavionäkymä",
       "ru": "",
-      "sv": "Bildvy",
+      "sv": "Grafvy",
       "fr": "",
       "de": ""
     },
     {
       "ident_ios": "",
       "ident_android": "",
-      "ident_webui": "graph_view",
-      "en": "Graph View",
-      "fi": "Kaavionäkymä",
+      "ident_webui": "subscription_activated",
+      "en": "subscription activated",
+      "fi": "tilaus aktivoitu",
       "ru": "",
-      "sv": "Grafvy",
+      "sv": "prenumeration aktiverad",
       "fr": "",
       "de": ""
     },
