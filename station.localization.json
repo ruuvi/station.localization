@@ -9088,9 +9088,9 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "onboarding_swype_to_continue",
+      "ident_android": "onboarding_swipe_to_continue",
       "ident_webui": "",
-      "en": "Swype to continue. →",
+      "en": "Swipe to continue. →",
       "fi": "",
       "ru": "",
       "sv": "",
