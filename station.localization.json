@@ -8903,7 +8903,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "plan_expiry_date",
       "ident_webui": "plan_expiry_date",
       "en": "Ruuvi plan's expiry date",
       "fi": "Ruuvi-tilauksen päättymispäivä",
@@ -8914,7 +8914,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "current_plan",
       "ident_webui": "current_plan",
       "en": "Current Ruuvi plan",
       "fi": "Nykyinen tilaus",
@@ -9319,21 +9319,25 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "signed_in_user",
       "ident_webui": "signed_in_user",
       "en": "Signed in user",
       "fi": "Kirjautunut",
       "ru": "",
-      "sv": "Inloggad"
+      "sv": "Inloggad",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "information",
       "ident_webui": "information",
       "en": "Information",
       "fi": "Tietoja",
       "ru": "",
-      "sv": "Information"
+      "sv": "Information",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "",
@@ -9342,7 +9346,20 @@
       "en": "Enter activation code",
       "fi": "Syötä aktivointikoodi",
       "ru": "",
-      "sv": "Ange aktiveringskod"
+      "sv": "Ange aktiveringskod",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "subscription_disclaimer",
+      "ident_webui": "",
+      "en": "This is a completely free app that does not support monthly subscription purchases or other in-app purchases. If you are a user of the Ruuvi Gateway router and you are looking for more detailed information about your Ruuvi account, go to our website and sign in.",
+      "fi": "Tämä on täysin ilmainen sovellus, joka ei tue kuukausitilausten ostoja tai muita sovelluksen sisäisiä ostoja. Mikäli olet Ruuvi Gateway -reitittimen käyttäjä ja etsit tarkempia Ruuvi-tilisi tietoja, siirry kotisivuillemme ja kirjaudu sisään.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
