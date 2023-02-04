@@ -6643,8 +6643,8 @@
       "fi": "2. Paikanna valkoisella piirilevyllä olevat pienet pyöreät mustat painikkeet; vanhemmissa Ruuvi-antureissa on 2 painiketta “R” ja “B”, kun taas uudemmissa on vain yksi nimeämätön painike.",
       "ru": "",
       "sv": "2. Leta reda på små runda svarta knappar på det vita kretskortet; äldre Ruuvi-sensorer har 2 knappar märkta “R“ och “B“ medan nyare har bara en knapp utan etikett.",
-      "fr": "2. Localisez les petits boutons ronds noirs sur la carte de circuit imprimé blanche ; les anciens capteurs Ruuvi ont 2 boutons étiquetés "R" et "B" tandis que les plus récents n'ont qu'un seul bouton sans étiquette.",
-      "de": "2. Suchen Sie die kleinen runden schwarzen Knöpfe auf der weißen Platine; ältere Ruuvi-Sensoren haben zwei Knöpfe mit den Bezeichnungen "R" und "B", während neuere nur einen Knopf ohne Beschriftung haben."
+      "fr": "2. Localisez les petits boutons ronds noirs sur la carte de circuit imprimé blanche ; les anciens capteurs Ruuvi ont 2 boutons étiquetés \\\"R\\\" et \\\"B\\\" tandis que les plus récents n'ont qu'un seul bouton sans étiquette.",
+      "de": "2. Suchen Sie die kleinen runden schwarzen Knöpfe auf der weißen Platine; ältere Ruuvi-Sensoren haben zwei Knöpfe mit den Bezeichnungen \\\"R\\\" und \\\"B\\\", während neuere nur einen Knopf ohne Beschriftung haben."
     },
     {
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
@@ -6665,8 +6665,8 @@
       "fi": "3.1. Anturissasi on kaksi painiketta: pidä painike “B” alaspainettuna ja napauta samalla painiketta “R”. Vapauta painike “B”.",
       "ru": "",
       "sv": "3.1. Om din sensor har två knappar: håll knappen “B” intryckt medan du trycker en gång på “R”. Släpp knapp “B”.",
-      "fr": "3.1. Si votre capteur est équipé de 2 boutons : maintenez le bouton "B" enfoncé tout en appuyant momentanément sur le bouton "R". Relâchez le bouton "B".",
-      "de": "3.1. Wenn Ihr Sensor 2 Tasten hat: Halten Sie die Taste "B" gedrückt und tippen Sie gleichzeitig kurz auf die Taste "R". Lassen Sie die Taste "B" los."
+      "fr": "3.1. Si votre capteur est équipé de 2 boutons : maintenez le bouton \\\"B\\\" enfoncé tout en appuyant momentanément sur le bouton \\\"R\\\". Relâchez le bouton \\\"B\\\".",
+      "de": "3.1. Wenn Ihr Sensor 2 Tasten hat: Halten Sie die Taste \\\"B\\\" gedrückt und tippen Sie gleichzeitig kurz auf die Taste \\\"R\\\". Lassen Sie die Taste \\\"B\\\" los."
     },
     {
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
@@ -6687,8 +6687,8 @@
       "fi": "4. Päivitystilaan siirtyminen onnistui, mikäli piirilevyllä oleva punainen LED-valo on nyt aktiivinen ja sovelluksen painikkeen nimeksi on vaihtunut “Aloita päivitys”.",
       "ru": "",
       "sv": "4. Uppgraderingsläget lyckades om den röda lysdioden på kretskortet lyser och knappens text i appen har bytts till “Starta uppdatering“.",
-      "fr": "4. Si le réglage est réussi, vous verrez une lumière rouge fixe s'allumer sur la carte de circuit imprimé et le bouton de l'application passera à "Démarrer la mise à jour".",
-      "de": "4. Wenn die Einstellung erfolgreich war, leuchtet ein rotes Licht auf der Platine und die Schaltfläche in der App ändert sich in "Start the update"."
+      "fr": "4. Si le réglage est réussi, vous verrez une lumière rouge fixe s'allumer sur la carte de circuit imprimé et le bouton de l'application passera à \\\"Démarrer la mise à jour\\\".",
+      "de": "4. Wenn die Einstellung erfolgreich war, leuchtet ein rotes Licht auf der Platine und die Schaltfläche in der App ändert sich in \\\"Start the update\\\"."
     },
     {
       "ident_ios": "DFUUIView.updatingTitle",
@@ -7513,7 +7513,7 @@
       "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'.",
       "sv": "För att kunna inkludera platskoordinater när appen körs i bakgrunden, låt appen använda din plats 'hela tiden' när du uppmanas till det i nästa dialogruta.",
       "fr": "Pour partager la position même lorsque l'application est en arrière-plan, veuillez choisir 'toujours'.",
-      "de": "Um den Standort mit einzubeziehen, wenn die App im Hintergrund läuft, erlauben Sie bitte der App, Ihren Standort "immer" zu verwenden, wenn Sie im nächsten Dialog dazu aufgefordert werden."
+      "de": "Um den Standort mit einzubeziehen, wenn die App im Hintergrund läuft, erlauben Sie bitte der App, Ihren Standort \\\"immer\\\" zu verwenden, wenn Sie im nächsten Dialog dazu aufgefordert werden."
     },
     {
       "ident_ios": "",
@@ -8722,8 +8722,8 @@
       "fi": "Omistajuuden pakotettu vaihtaminen tapahtuu Near-Field Communication (NFC) ominaisuutta käyttämällä. Varmista, että NFC on käytössä mobiililaitteessasi.\\n\\n\\t1. Aloita omistajuuden pakotettu vaihto koskettamalla Ruuvi-anturia mobiililaitteellasi.\\n\\n\\t2. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.\\n\\nMikäli pakotettu vaihto epäonnistui tai NFC-ominaisuutta ei ole saatavilla mobiililaitteessasi:\\n\\n\\t1. Avaa Ruuvi-anturin suojakotelo.\\n\\n\\t2. Paikanna valkoisella piirilevyllä oleva pieni musta painike (tai painike \\\"B\\\", mikäli anturissasi on 2 painiketta) ja napauta painiketta lyhyesti pakotetun vaihdon aloittamiseksi.\\n\\n\\t3. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.",
       "ru": "",
       "sv": "Tvingat anspråk görs genom att använda närfältskommunikation (NFC). Se till att NFC är aktiverat på din mobil.\\n\\n\\t1. Rör din Ruuvi-givare med din mobila enhet för att starta kravprocessen.\\n\\n\\t2. När det lyckats förs du tillbaka till sensorinställningar.\\n\\nOm det misslyckades eller om NFC inte är tillgängligt på din enhet:\\n\\n\\t1. Öppna locket på sensorn. Leta upp den runda svarta knappen (eller knapp B om din sensor har två knappar) på det vita kretskortet och tryck kort för att starta processen.\\n\\n\\t3. När det har gått igenom framgångsrikt förs du tillbaka till sensorinställningar.",
-      "fr": "La réclamation forcée est effectuée en utilisant la communication en champ proche (NFC). Assurez-vous que la NFC est activée sur votre appareil mobile. 1. Touchez le capteur de votre Ruuvi avec votre appareil mobile pour lancer le processus de réclamation.\n\n\n\t2. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur. Si la réclamation n'a pas abouti ou si la technologie NFC n'est pas disponible sur votre appareil : 1. Ouvrez le couvercle de votre capteur Ruuvi. 2. Localisez le bouton rond noir (ou le bouton "B" si votre capteur a 2 boutons) sur la carte de circuit imprimé blanche et appuyez dessus brièvement pour lancer le processus de réclamation.\n\n\t3. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur.",
-      "de": "Die Zwangsanforderung erfolgt über die Nahfeldkommunikation (NFC). Vergewissern Sie sich, dass NFC auf Ihrem Mobilgerät aktiviert ist.\\\n\n\n\t1. Berühren Sie Ihren Ruuvi-Sensor mit Ihrem Mobilgerät, um den Beanspruchungsprozess zu starten.\\n\n\n\t2. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt.\\\n\\\nWenn die Beanspruchung nicht erfolgreich war oder NFC auf Ihrem Gerät nicht verfügbar ist:\\n\\n\t1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors.\\\n\n\n\t2. Suchen Sie die runde schwarze Taste (oder die Taste \\\\"B\\\\", falls Ihr Sensor 2 Tasten hat) auf der weißen Platine und drücken Sie sie kurz, um den Beanspruchungsprozess zu starten.\\\n\\n\\t3. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt."
+      "fr": "La réclamation forcée est effectuée en utilisant la communication en champ proche (NFC). Assurez-vous que la NFC est activée sur votre appareil mobile. 1. Touchez le capteur de votre Ruuvi avec votre appareil mobile pour lancer le processus de réclamation.\n\n\n\t2. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur. Si la réclamation n'a pas abouti ou si la technologie NFC n'est pas disponible sur votre appareil : 1. Ouvrez le couvercle de votre capteur Ruuvi. 2. Localisez le bouton rond noir (ou le bouton \\\"B\\\" si votre capteur a 2 boutons) sur la carte de circuit imprimé blanche et appuyez dessus brièvement pour lancer le processus de réclamation.\n\n\t3. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur.",
+      "de": "Die Zwangsanforderung erfolgt über die Nahfeldkommunikation (NFC). Vergewissern Sie sich, dass NFC auf Ihrem Mobilgerät aktiviert ist.\\\n\n\n\t1. Berühren Sie Ihren Ruuvi-Sensor mit Ihrem Mobilgerät, um den Beanspruchungsprozess zu starten.\\n\n\n\t2. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt.\\\n\\\nWenn die Beanspruchung nicht erfolgreich war oder NFC auf Ihrem Gerät nicht verfügbar ist:\\n\\n\t1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors.\\\n\n\n\t2. Suchen Sie die runde schwarze Taste (oder die Taste \\\"B\\\", falls Ihr Sensor 2 Tasten hat) auf der weißen Platine und drücken Sie sie kurz, um den Beanspruchungsprozess zu starten.\\\n\\n\\t3. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt."
     },
     {
       "ident_ios": "force_claim",
@@ -8832,8 +8832,8 @@
       "fi": "Anturihistoria voidaan viedä tiedostoon anturin historiasivulla. Napauta oikeassa yläkulmassa olevaa kolmipistevalikkoa ja valitse sitten \\\"Lataa historia (csv)\\\".",
       "ru": "",
       "sv": "Du kan exportera sensorns historik från dess historiagramsida. Tryck på tre punkters menyikon i övre högra hörnet, och välj sedan \\\"Exportera historik (csv)\\\".",
-      "fr": "Vous pouvez exporter l'historique d'un capteur à partir de sa page graphique d'historique. Appuyez sur l'icône de menu à trois points dans le coin supérieur droit, puis sélectionnez \\"Exporter l'historique (csv)\".",
-      "de": "Sie können den Verlauf eines Sensors von seiner Verlaufsgrafikseite aus exportieren. Tippen Sie auf das Drei-Punkte-Menüsymbol in der oberen rechten Ecke und wählen Sie dann "Verlauf exportieren (csv)"."
+      "fr": "Vous pouvez exporter l'historique d'un capteur à partir de sa page graphique d'historique. Appuyez sur l'icône de menu à trois points dans le coin supérieur droit, puis sélectionnez \\\"Exporter l'historique (csv)\\\".",
+      "de": "Sie können den Verlauf eines Sensors von seiner Verlaufsgrafikseite aus exportieren. Tippen Sie auf das Drei-Punkte-Menüsymbol in der oberen rechten Ecke und wählen Sie dann \\\"Verlauf exportieren (csv)\\\"."
     },
     {
       "ident_ios": "low_battery",
@@ -8920,8 +8920,8 @@
       "fi": "Nykyinen tilaus",
       "ru": "",
       "sv": "Nuvarande plan",
-      "fr": "Plan Ruuvi actuel"",
-      "de": "Aktueller Ruuvi-Plan""
+      "fr": "Plan Ruuvi actuel",
+      "de": "Aktueller Ruuvi-Plan"
     },
     {
       "ident_ios": "",
@@ -9348,7 +9348,6 @@
       "ru": "",
       "sv": "Ange aktiveringskod",
       "fr": "code d'activation",
-      "fr": "",
       "de": "Aktivierungscode eingeben"
     },
     {
