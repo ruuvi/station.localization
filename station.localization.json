@@ -228,7 +228,7 @@
       "fi": "Näyttää siltä, että anturisi laiteohjelmistoversio on vanha. Käyttääksesi uusia ominaisuuksia kuten historiakuvaajia, hälytyksiä ja pilvipalvelua, päivitys on pakollinen.",
       "ru": "",
       "sv": "Det verkar som om din sensor använder en gammal programvaruversion. För att komma åt nya funktioner som historikgrafer, alarm och molntjänster krävs en mjukvaruuppdatering.",
-      "fr": "",
+      "fr": "Il semble que votre capteur utilise une ancienne version du micrologiciel. Une mise à jour est obligatoire pour avoir accès à de nouvelles fonctions telles que les graphiques d'historique, les alertes et les services cloud.",
       "de": "Scheint, dass Ihr Sensor eine alte Firmware-Softwareversion verwendet. Um auf neue Funktionen wie Verlaufsdiagramme, Warnungen und Cloud-Dienste zugreifen zu können, ist eine Aktualisierung obligatorisch."
     },
     {
@@ -239,7 +239,7 @@
       "fi": "Oletko varma? Ilman päivittämistä et voi vahvistaa anturin omistajuutta, ladata sen sisäistä historiaa etkä asettaa hälytyksiä. Päivitys sisältää myös bugikorjauksia. Mikäli peruutat nyt, voit aloittaa päivityksen uudelleen anturin asetussivulta käsin.",
       "ru": "",
       "sv": "Är du säker? Utan uppdatering kommer du inte att kunna göra anspråk på äganderätten till sensorn, ladda ner historikdiagram och ställa in alarm. Uppdateringen innehåller även buggfixar. Om du avbryter nu kan du starta uppdateringsprocessen igen från sensorns inställningssida.",
-      "fr": "",
+      "fr": "Tu es sûr ? Sans mise à jour, vous ne pouvez pas revendiquer la propriété du capteur, télécharger des graphiques d'historique et définir des alertes. La mise à jour contient également des corrections de bugs. Si vous annulez maintenant, vous pouvez relancer le processus de mise à jour à partir de la page de configuration du capteur.",
       "de": "Bist du sicher? Ohne Aktualisierung können Sie den Besitz des Sensors nicht beanspruchen, Verlaufsdiagramme herunterladen und Warnungen einstellen. Das Update enthält auch Fehlerbehebungen. Wenn Sie jetzt abbrechen, können Sie den Update-Vorgang erneut von der Einstellungsseite des Sensors starten."
     },
     {
@@ -250,7 +250,7 @@
       "fi": "Tarkista päivitykset",
       "ru": "",
       "sv": "Visa uppdateringsinstruktioner",
-      "fr": "",
+      "fr": "Vérifie les mises à jour",
       "de": "Überprüfe auf Updates"
     },
     {
@@ -283,8 +283,8 @@
       "fi": "Ei tietoja viimeiseltä 10 päivältä",
       "ru": "",
       "sv": "Ingen data under de senaste 10 dagarna",
-      "fr": "",
-      "de": ""
+      "fr": "Aucune donnée au cours des 10 derniers jours",
+      "de": "Keine Daten in den letzten 10 Tagen"
     },
     {
       "ident_ios": "CoreError.failedToGetPngRepresentation",
@@ -1295,8 +1295,8 @@
       "fi": "Avaa asetukset ja napauta Kieli vaihtaaksesi sovelluksen kieltä.\n\nMikäli et näe Kieli-valintaa asetuksissa, varmista, että sinulla on vähintään yksi ensisijainen kieli on valittuna järjestelmäasetuksissa: Asetukset -> Yleiset -> Kieli ja alue.",
       "ru": "",
       "sv": "Öppna inställningar och tryck på Språk för att ändra språket i appen.\n\nOm du inte kan se språkalternativet i inställningarna, se till att du har lagt till minst ett föredraget språk i systeminställningarna: Inställningar -> Allmänt -> Språk och region.",
-      "fr": "",
-      "de": ""
+      "fr": "Ouvrez les paramètres et appuyez sur Langue pour changer la langue de l'application. Si vous ne voyez pas l'option Langue dans les paramètres, assurez-vous que vous avez ajouté au moins une langue préférée dans les paramètres système : Paramètres -> Général -> Langue et région.",
+      "de": "Öffnen Sie die Einstellungen und tippen Sie auf Sprache, um die Sprache der App zu ändern. Wenn Sie die Option Sprache in den Einstellungen nicht sehen können, stellen Sie sicher, dass Sie mindestens eine bevorzugte Sprache in den Systemeinstellungen hinzugefügt haben: Einstellungen -> Allgemein -> Sprache & Region."
     },
     {
       "ident_ios": "Settings.Label.Foreground",
@@ -1526,8 +1526,8 @@
       "fi": "Historian lataaminen Bluetooth-yhteydellä on käynnissä. Odota hetki.",
       "ru": "",
       "sv": "Nedladdning av historik via Bluetooth pågår. Vänta.",
-      "fr": "",
-      "de": ""
+      "fr": "Le téléchargement de l'historique via la connexion Bluetooth est en cours. Veuillez patienter.",
+      "de": "Der Download des Protokolls über die Bluetooth-Verbindung wird gerade durchgeführt. Bitte warten Sie."
     },
     {
       "ident_ios": "TagCharts.AbortSync.Alert.message",
@@ -1537,8 +1537,8 @@
       "fi": "Historian lataaminen voi kestää pitkään Bluetooth-yhteyden laadusta riippuen. Odota hetki.",
       "ru": "",
       "sv": "Ibland går nedladdningen av historik långsamt på grund av Bluetooth-anslutningen. Var god vänta ett ögonblick.",
-      "fr": "",
-      "de": ""
+      "fr": "Parfois, le téléchargement de l'historique est lent en raison de la connectivité Bluetooth. Veuillez patienter un moment.",
+      "de": "Manchmal ist der Download des Protokolls aufgrund der Bluetooth-Verbindung langsam. Bitte warten Sie einen Moment."
     },
     {
       "ident_ios": "TagCharts.AbortSync.Button.title",
@@ -1548,8 +1548,8 @@
       "fi": "Peruuta lataaminen",
       "ru": "",
       "sv": "Avbryt nedladdning",
-      "fr": "",
-      "de": ""
+      "fr": "Abandonner le téléchargement",
+      "de": "Download abbrechen"
     },
     {
       "ident_ios": "TagSettings.EmptyValue.sign",
@@ -1779,8 +1779,8 @@
       "fi": "Parita ja käytä taustaskannausta",
       "ru": "",
       "sv": "Para ihop och använd bakgrundsskanning",
-      "fr": "",
-      "de": ""
+      "fr": "Jumelage et utilisation de l'analyse d'arrière-plan",
+      "de": "Koppeln und Hintergrundsuche verwenden"
     },
     {
       "ident_ios": "TagSettings.PairAndBackgroundScan.Pairing.title",
@@ -1790,8 +1790,8 @@
       "fi": "Yhdistetään anturiin",
       "ru": "",
       "sv": "Anslutning till sensorn",
-      "fr": "",
-      "de": ""
+      "fr": "Connexion au capteur",
+      "de": "Anschließen an den Sensor"
     },
     {
       "ident_ios": "TagSettings.PairAndBackgroundScan.Paired.title",
@@ -1801,8 +1801,8 @@
       "fi": "Paritettu ja taustaskannaus päällä",
       "ru": "",
       "sv": "Parat och bakgrundsskanning på",
-      "fr": "",
-      "de": ""
+      "fr": "Pairé et le scan de fond est activé",
+      "de": "Gekoppelt und Hintergrundsuche ist eingeschaltet"
     },
     {
       "ident_ios": "TagSettings.PairAndBackgroundScan.description",
@@ -1812,8 +1812,8 @@
       "fi": "Bluetooth-yhteyttä käyttävät hälytykset eivät ole käytettävissä silloin kun taustaskannausta ei ole otettu käyttöön. Ruuvi-anturi voidaan parittaa vain yhteen iOS-laitteeseen kerrallaan.",
       "ru": "",
       "sv": "Alarm är inte tillgängliga via Bluetooth-anslutning om bakgrundsskanning inte är aktiverad. Endast en iOS-enhet kan paras ihop med Ruuvi-sensorn åt gången.",
-      "fr": "",
-      "de": ""
+      "fr": "Les alertes ne sont pas disponibles via la connexion Bluetooth si le balayage en arrière-plan n'est pas activé. Un seul appareil iOS peut être apparié à un capteur Ruuvi à la fois.",
+      "de": "Warnungen sind über die Bluetooth-Verbindung nicht verfügbar, wenn die Hintergrundsuche nicht aktiviert ist. Es kann jeweils nur ein iOS-Gerät mit einem Ruuvi-Sensor gekoppelt werden."
     },
     {
       "ident_ios": "TagSettings.PairError.CloudMode.description",
@@ -1834,8 +1834,8 @@
       "fi": "Yhteys aikakatkaistiin. Laiteparin muodostaminen epäonnistui. Yritä uudelleen.",
       "ru": "",
       "sv": "Anslutningstimeout. Parningen misslyckades. Försök igen.",
-      "fr": "",
-      "de": ""
+      "fr": "La connexion a expiré. Le jumelage n'a pas réussi. Veuillez réessayer.",
+      "de": "Die Verbindung wurde unterbrochen. Das Pairing war nicht erfolgreich. Bitte versuchen Sie es erneut."
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
@@ -1944,8 +1944,8 @@
       "fi": "Aseta hälytysviesti",
       "ru": "Описание уведомления",
       "sv": "Ställ in ett alarm-meddelande",
-      "fr": "",
-      "de": ""
+      "fr": "Description personnalisée de l'alerte",
+      "de": "Benutzerdefinierte Beschreibung des Alarms"
     },
     {
       "ident_ios": "TagSettings.Alerts.Humidity.description",
@@ -2043,7 +2043,7 @@
       "fi": "Hyvin vanha",
       "ru": "Устаревшая",
       "sv": "Väldigt gammal",
-      "fr": "",
+      "fr": "Très vieux",
       "de": "Sehr alt"
     },
     {
@@ -2516,7 +2516,7 @@
       "fi": "sitten",
       "ru": "назад",
       "sv": "sedan",
-      "fr": " ",
+      "fr": "avant",
       "de": "vor"
     },
     {
@@ -3067,8 +3067,8 @@
       "fi": "Välitä mittaustiedot synkronoitaessa (beta)",
       "ru": "",
       "sv": "Vidarebefordra data under synkronisering (beta)",
-      "fr": "",
-      "de": ""
+      "fr": "Transfert de données pendant la synchronisation (bêta)",
+      "de": "Daten während der Synchronisierung weiterleiten (beta)"
     },
     {
       "ident_ios": "h",
@@ -3486,7 +3486,7 @@
       "ru": "Купить Ruuvi Gateway",
       "sv": "Köp Ruuvi Gateway",
       "fr": "Acheter le routeur Ruuvi Gateway",
-      "de": ""
+      "de": "Ruuvi Gateway kaufen"
     },
     {
       "ident_ios": "",
@@ -3562,8 +3562,8 @@
       "fi": "Minun Ruuvi-tilini",
       "ru": "",
       "sv": "Mitt Ruuvi-konto",
-      "fr": "",
-      "de": ""
+      "fr": "Mon compte Ruuvi",
+      "de": "Mein Ruuvi Konto"
     },
     {
       "ident_ios": "min",
@@ -3727,8 +3727,8 @@
       "fi": "Salli lähellä olevien laitteiden näyttäminen asetuksista",
       "ru": "Разрешите доступ к устройствам поблизости, чтобы увидеть датчики.",
       "sv": "Tillåt att enheter i närheten visas i Inställningar.",
-      "fr": "",
-      "de": ""
+      "fr": "Veuillez autoriser l'affichage des appareils à proximité dans les paramètres pour voir les capteurs.",
+      "de": "Bitte erlauben Sie die Anzeige von Geräten in der Nähe in den Einstellungen, um Sensoren zu sehen."
     },
     {
       "ident_ios": "Cards.NoSensors.title",
@@ -4123,8 +4123,8 @@
       "fi": "Tärkeitä huomioita: Historian Bluetooth-taustatallennus ja Bluetooth-hälytykset toimivat ainoastaan sovelluksen taustaskannauksen ollessa käytössä. Mikäli poistat taustaskannauksen käytöstä, kaikkien yhdistettyjen Ruuvi-anturien paritukset poistetaan ja joudut parittamaan ne uudelleen niiden asetussivuilta käsin.",
       "ru": "",
       "sv": "Viktiga anteckningar: Loggning av Bluetooth-bakgrundshistorik och Bluetooth-alarm fungerar endast när bakgrundsskanning är aktiverad. Om du inaktiverar bakgrundsskanning kommer alla parade Ruuvi-sensorer att automatiskt avparas och du måste para dem igen från deras inställningssidor.",
-      "fr": "",
-      "de": ""
+      "fr": "Remarque importante : L'enregistrement de l'historique et les alertes Bluetooth ne fonctionnent que lorsque le balayage en arrière-plan est activé. Si vous désactivez l'analyse en arrière-plan, tous les capteurs Ruuvi appariés seront automatiquement désappariés et vous devrez les appairer à nouveau à partir de leurs pages de paramètres.",
+      "de": "Wichtiger Hinweis: Die Bluetooth-Hintergrundprotokollierung und Bluetooth-Warnungen funktionieren nur, wenn die Hintergrundsuche aktiviert ist. Wenn Sie die Hintergrundabtastung deaktivieren, werden alle gekoppelten Ruuvi-Sensoren automatisch entkoppelt und Sie müssen sie auf ihren Einstellungsseiten erneut koppeln."
     },
     {
       "ident_ios": "",
@@ -4729,8 +4729,8 @@
       "fi": "Kirjaudu sisään käyttääksesi kaikkia sovelluksen ominaisuuksia.",
       "ru": "",
       "sv": "Logga in för att få tillgång till alla appens funktioner.",
-      "fr": "",
-      "de": ""
+      "fr": "Connectez-vous pour utiliser tout le potentiel de l'application.",
+      "de": "Melden Sie sich an, um das volle Potenzial der App zu nutzen."
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.subtitle",
@@ -4740,8 +4740,8 @@
       "fi": "Vahvista anturiesi omistajuudet ilmaisen Ruuvi Cloud -tilin avulla.",
       "ru": "",
       "sv": "Verifiera ditt sensorägande med ett gratis Ruuvi Cloud-konto.",
-      "fr": "",
-      "de": ""
+      "fr": "Réclamez la propriété de vos capteurs avec un compte Ruuvi Cloud gratuit.",
+      "de": "Beanspruchen Sie das Eigentum an Ihren Sensoren mit einem kostenlosen Ruuvi Cloud-Konto."
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.subtitle.signed",
@@ -4751,8 +4751,8 @@
       "fi": "Hienoa, olet jo kirjautunut sisään!",
       "ru": "",
       "sv": "Bra! Du är redan inloggad!",
-      "fr": "",
-      "de": ""
+      "fr": "Super ! Vous vous êtes déjà connecté !",
+      "de": "Super! Sie haben sich bereits angemeldet!"
     },
     {
       "ident_ios": "RuuviOnboard.Start.title",
@@ -5037,8 +5037,8 @@
       "fi": "Tiedot",
       "ru": "Подробнее",
       "sv": "Info",
-      "fr": "",
-      "de": ""
+      "fr": "Details",
+      "de": "Details"
     },
     {
       "ident_ios": "ruuvi_cloud",
@@ -5048,8 +5048,8 @@
       "fi": "Ruuvi Cloud",
       "ru": "",
       "sv": "Ruuvi Cloud",
-      "fr": "",
-      "de": ""
+      "fr": "Ruuvi Cloud",
+      "de": "Ruuvi Cloud"
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.Skip.title",
@@ -5059,8 +5059,8 @@
       "fi": "Haluatko varmasti ohittaa sisäänkirjautumisen?",
       "ru": "Точно хотите пропустить вход?",
       "sv": "Är du säker på att du vill hoppa över inloggningen?",
-      "fr": "",
-      "de": ""
+      "fr": "Êtes-vous sûr de vouloir ignorer l'ouverture de session ?",
+      "de": "Sind Sie sicher, dass Sie die Anmeldung überspringen wollen?"
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.Skip.Yes.title",
@@ -5070,8 +5070,8 @@
       "fi": "Kyllä, ohita",
       "ru": "Пропустить",
       "sv": "Ja, hoppa över",
-      "fr": "",
-      "de": ""
+      "fr": "Oui, passez.",
+      "de": "Ja, überspringen"
     },
     {
       "ident_ios": "RuuviOnboard.Cloud.Skip.GoBack.title",
@@ -5081,8 +5081,8 @@
       "fi": "Takaisin",
       "ru": "Назад",
       "sv": "Gå tillbaka",
-      "fr": "",
-      "de": ""
+      "fr": "Retourner",
+      "de": "Zurückgehen"
     },
     {
       "ident_ios": "SignIn.EmailPlaceholder",
@@ -6621,8 +6621,8 @@
       "fi": "Laitteen asettaminen päivitystilaan",
       "ru": "",
       "sv": "Förbered din sensor",
-      "fr": "",
-      "de": ""
+      "fr": "Préparez votre capteur",
+      "de": "Bereiten Sie Ihren Sensor vor"
     },
     {
       "ident_ios": "DFUUIView.openCoverTitle",
@@ -6632,8 +6632,8 @@
       "fi": "1. Avaa Ruuvi-anturin suojakotelo",
       "ru": "",
       "sv": "1. Öppna locket på din Ruuvi sensor",
-      "fr": "",
-      "de": ""
+      "fr": "1. Ouvrez le couvercle de votre capteur Ruuvi",
+      "de": "1. Öffnen Sie den Deckel Ihres Ruuvi-Sensors"
     },
     {
       "ident_ios": "DFUUIView.locateBootButtonTitle",
@@ -6643,8 +6643,8 @@
       "fi": "2. Paikanna valkoisella piirilevyllä olevat pienet pyöreät mustat painikkeet; vanhemmissa Ruuvi-antureissa on 2 painiketta “R” ja “B”, kun taas uudemmissa on vain yksi nimeämätön painike.",
       "ru": "",
       "sv": "2. Leta reda på små runda svarta knappar på det vita kretskortet; äldre Ruuvi-sensorer har 2 knappar märkta “R“ och “B“ medan nyare har bara en knapp utan etikett.",
-      "fr": "",
-      "de": ""
+      "fr": "2. Localisez les petits boutons ronds noirs sur la carte de circuit imprimé blanche ; les anciens capteurs Ruuvi ont 2 boutons étiquetés "R" et "B" tandis que les plus récents n'ont qu'un seul bouton sans étiquette.",
+      "de": "2. Suchen Sie die kleinen runden schwarzen Knöpfe auf der weißen Platine; ältere Ruuvi-Sensoren haben zwei Knöpfe mit den Bezeichnungen "R" und "B", während neuere nur einen Knopf ohne Beschriftung haben."
     },
     {
       "ident_ios": "DFUUIView.setUpdatingModeTitle",
@@ -6654,8 +6654,8 @@
       "fi": "3. Aseta anturi päivitystilaan:",
       "ru": "",
       "sv": "3. Lägg sensorn i uppdateringsläge",
-      "fr": "",
-      "de": ""
+      "fr": "3. Mettez le capteur en mode de mise à jour :",
+      "de": "3. Stellen Sie den Sensor in den Aktualisierungsmodus:"
     },
     {
       "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
@@ -6665,8 +6665,8 @@
       "fi": "3.1. Anturissasi on kaksi painiketta: pidä painike “B” alaspainettuna ja napauta samalla painiketta “R”. Vapauta painike “B”.",
       "ru": "",
       "sv": "3.1. Om din sensor har två knappar: håll knappen “B” intryckt medan du trycker en gång på “R”. Släpp knapp “B”.",
-      "fr": "",
-      "de": ""
+      "fr": "3.1. Si votre capteur est équipé de 2 boutons : maintenez le bouton "B" enfoncé tout en appuyant momentanément sur le bouton "R". Relâchez le bouton "B".",
+      "de": "3.1. Wenn Ihr Sensor 2 Tasten hat: Halten Sie die Taste "B" gedrückt und tippen Sie gleichzeitig kurz auf die Taste "R". Lassen Sie die Taste "B" los."
     },
     {
       "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
@@ -6676,8 +6676,8 @@
       "fi": "3.2. Anturissasi on yksi painike: pidä painiketta alaspainettuna 10 sekunnin ajan.",
       "ru": "",
       "sv": "3.2. Om din sensor har en knapp, håll knappen intryckt i 10 sekunder.",
-      "fr": "",
-      "de": ""
+      "fr": "3.2. Si votre capteur possède un seul bouton : maintenez le bouton enfoncé pendant 10 secondes.",
+      "de": "3.2. Wenn Ihr Sensor eine einzelne Taste hat: Halten Sie die Taste 10 Sekunden lang gedrückt."
     },
     {
       "ident_ios": "DFUUIView.toBootModeSuccessTitle",
@@ -6687,8 +6687,8 @@
       "fi": "4. Päivitystilaan siirtyminen onnistui, mikäli piirilevyllä oleva punainen LED-valo on nyt aktiivinen ja sovelluksen painikkeen nimeksi on vaihtunut “Aloita päivitys”.",
       "ru": "",
       "sv": "4. Uppgraderingsläget lyckades om den röda lysdioden på kretskortet lyser och knappens text i appen har bytts till “Starta uppdatering“.",
-      "fr": "",
-      "de": ""
+      "fr": "4. Si le réglage est réussi, vous verrez une lumière rouge fixe s'allumer sur la carte de circuit imprimé et le bouton de l'application passera à "Démarrer la mise à jour".",
+      "de": "4. Wenn die Einstellung erfolgreich war, leuchtet ein rotes Licht auf der Platine und die Schaltfläche in der App ändert sich in "Start the update"."
     },
     {
       "ident_ios": "DFUUIView.updatingTitle",
@@ -6709,8 +6709,8 @@
       "fi": "Laitetta etsitään",
       "ru": "",
       "sv": "Söker efter en sensor",
-      "fr": "",
-      "de": ""
+      "fr": "Recherche d'un capteur",
+      "de": "Suche nach einem Sensor"
     },
     {
       "ident_ios": "DFUUIView.startTitle",
@@ -6720,8 +6720,8 @@
       "fi": "Aloita päivitys",
       "ru": "",
       "sv": "Starta uppdatering",
-      "fr": "",
-      "de": ""
+      "fr": "Lancer la mise à jour",
+      "de": "Starten Sie die Aktualisierung"
     },
     {
       "ident_ios": "DFUUIView.doNotCloseTitle",
@@ -6753,8 +6753,8 @@
       "fi": "Päivitys onnistui, mutta sovelluksen tietokannassa tapahtui odottamaton virhe. Jatkaaksesi tämän anturin käyttöä, poista se sovelluksesta ja lisää se sitten uudelleen.",
       "ru": "",
       "sv": "Uppdateringen lyckades, men ett oväntat databasmigreringsfel inträffade. För att fortsätta använda den här sensorn, ta bort den från appen och lägg sedan till den igen.",
-      "fr": "",
-      "de": ""
+      "fr": "La mise à jour a réussi, mais une erreur inattendue de migration de la base de données s'est produite. Pour continuer à utiliser ce capteur, veuillez le supprimer de l'application, puis le rajouter à nouveau.",
+      "de": "Die Aktualisierung war erfolgreich, aber es ist ein unerwarteter Datenbankmigrationsfehler aufgetreten. Um diesen Sensor weiterhin zu verwenden, entfernen Sie ihn bitte aus der App und fügen Sie ihn dann erneut hinzu."
     },
     {
       "ident_ios": "RuuviDfuError.failedToConstructUUID",
@@ -7138,8 +7138,8 @@
       "fi": "vuotta",
       "ru": "год",
       "sv": "år",
-      "fr": "",
-      "de": ""
+      "fr": "Années",
+      "de": "Jahre"
     },
     {
       "ident_ios": "",
@@ -7183,7 +7183,7 @@
       "ru": "Потеряно соединение с датчиком",
       "sv": "Kontakten till sensor förlorades",
       "fr": "Connexion interrompue avec le capteur",
-      "de": ""
+      "de": "Gerät nicht angeschlossen"
     },
     {
       "ident_ios": "",
@@ -7194,7 +7194,7 @@
       "ru": "Сбой обновления прошивки",
       "sv": "Programvaruuppdateringen misslyckades",
       "fr": "Echec de la mise à jour système",
-      "de": ""
+      "de": "Firmware-Update fehlgeschlagen"
     },
     {
       "ident_ios": "",
@@ -7205,7 +7205,7 @@
       "ru": "Неверный файл обновления",
       "sv": "Ogiltig programmvara",
       "fr": "Mise à jour invalide",
-      "de": ""
+      "de": "Firmware ist nicht gültig"
     },
     {
       "ident_ios": "",
@@ -7216,7 +7216,7 @@
       "ru": "Не удалось получить последнюю версию прошивки. Проверьте подключение к интернету.",
       "sv": "Nedladdning av programvara misslyckades. Kontrollera din internetanslutning.",
       "fr": "Echec du téléchargement de la mise à jour. Veuillez vérifier votre connexion Internet.",
-      "de": ""
+      "de": "Die neueste Firmware kann nicht abgerufen werden. Überprüfen Sie Ihre Internetverbindung."
     },
     {
       "ident_ios": "",
@@ -7227,7 +7227,7 @@
       "ru": "Неизвестная ошибка",
       "sv": "Okänt fel",
       "fr": "Erreur inconnue",
-      "de": ""
+      "de": "Unbekannter Fehler"
     },
     {
       "ident_ios": "On",
@@ -7238,7 +7238,7 @@
       "ru": "Вкл",
       "sv": "På",
       "fr": "Activé",
-      "de": ""
+      "de": "An"
     },
     {
       "ident_ios": "Off",
@@ -7249,7 +7249,7 @@
       "ru": "Выкл",
       "sv": "Av",
       "fr": "Désactivé",
-      "de": ""
+      "de": "Aus"
     },
     {
       "ident_ios": "DFUUIView.lowBattery.warning.message",
@@ -7260,7 +7260,7 @@
       "ru": "Уровень заряда батареи датчика слишком низкий и обновление прошивки может завершиться неудачей. Мы рекомендуем заменить батарейку перед обновлением.",
       "sv": "Sensorns batterispänning är låg och uppgraderingsprocessen kan misslyckas. Vi rekommenderar att du byter ut batteriet innan du uppdaterar programvaran.",
       "fr": "La tension de la pile du capteur est faible et risque de faire echouer la mise à jour. Nous vous conseillons de remplacer la batterie avant la mise à jour.",
-      "de": ""
+      "de": "Die Batteriespannung des Sensors scheint zu niedrig zu sein, und der Firmware-Aktualisierungsprozess kann fehlschlagen. Wir empfehlen, die Batterie vor der Aktualisierung zu ersetzen."
     },
     {
       "ident_ios": "",
@@ -7271,7 +7271,7 @@
       "ru": "Влажность выше %1$s",
       "sv": "Luftfuktigheten är över %1$s",
       "fr": "L'humidité de l'air est supérieure à %1$s",
-      "de": ""
+      "de": "Luftfeuchtigkeit liegt über %1$s"
     },
     {
       "ident_ios": "",
@@ -7282,7 +7282,7 @@
       "ru": "Влажность ниже %1$s",
       "sv": "Luftfuktigheten är under %1$s",
       "fr": "L'humidité de l'air est inférieure à %1$s",
-      "de": ""
+      "de": "Luftfeuchtigkeit liegt unter %1$s"
     },
     {
       "ident_ios": "",
@@ -7293,7 +7293,7 @@
       "ru": "Давление выше %1$s",
       "sv": "Lufttrycket är över %1$s",
       "fr": "La pression de l'air est supérieure à %1$s",
-      "de": ""
+      "de": "Luftdruck liegt über %1$s"
     },
     {
       "ident_ios": "",
@@ -7304,7 +7304,7 @@
       "ru": "Давление ниже %1$s",
       "sv": "Lufttrycket är under %1$s",
       "fr": "La pression de l'air est inférieure à %1$s",
-      "de": ""
+      "de": "Luftdruck liegt unter %1$s"
     },
     {
       "ident_ios": "",
@@ -7315,7 +7315,7 @@
       "ru": "Сила сигнала выше %1$s",
       "sv": "Signalstyrkan är över %1$s",
       "fr": "La puissance du signal est supérieure à %1$s",
-      "de": ""
+      "de": "Die Signalstärke liegt über %1$s"
     },
     {
       "ident_ios": "",
@@ -7326,7 +7326,7 @@
       "ru": "Сила сигнала ниже %1$s",
       "sv": "Signalstyrkan är under %1$s",
       "fr": "La puissance du signal est inférieure à %1$s",
-      "de": ""
+      "de": "Die Signalstärke liegt unter %1$s"
     },
     {
       "ident_ios": "",
@@ -7337,7 +7337,7 @@
       "ru": "Температура выше %1$s",
       "sv": "Temperaturen är över %1$s",
       "fr": "La température est supérieure à %1$s",
-      "de": ""
+      "de": "Die Temperatur liegt über %1$s"
     },
     {
       "ident_ios": "",
@@ -7348,7 +7348,7 @@
       "ru": "Температура ниже %1$s",
       "sv": "Temperaturen är under %1$s",
       "fr": "La température est inférieure à %1$s",
-      "de": ""
+      "de": "Die Temperatur liegt unter %1$s"
     },
     {
       "ident_ios": "",
@@ -7359,7 +7359,7 @@
       "ru": "Похоже, что это новый аккаунт без датчиков. Войдите в мобильное приложение под таким же адресом электронной почты и заявите о владении своих Ruuvi датчиков.\\n\\nПримечание: доступ к вашим датчикам через облако требует наличия Ruuvi Gateway. Закажите датчики и Gateway на сайте ruuvi.com",
       "sv": "Det ser ut som att detta är ett nytt användarkonto utan sensorer. Logga in på mobilappen med samma e-postadress och bekräfta äganderätten till dina Ruuvi sensorer.\\n\\nObs: För att se data från sensorer via molnet kräver en Ruuvi Gateway-router. Beställ fler Ruuvi sensorer och Gateway på ruuvi.com",
       "fr": "Il semblerait que ceci est un nouveau compte sans capteurs encore associés. Connectez-vous depuis l'application mobile avec cette adresse mail pour vous approprier les capteurs.\\n\\nRemarque : pour suivre les capteurs à distance vous aurez besoin du routeur Ruuvi Gateway. Commandez d'avantage de capteurs Ruuvi ainsi que le Gateway sur le site ruuvi.com",
-      "de": ""
+      "de": "Sieht aus, als wäre dies ein neues Benutzerkonto ohne Sensoren. Melden Sie sich auf Ihrer mobilen Anwendung mit derselben E-Mail-Adresse an und beanspruchen Sie das Eigentum an Ihren Ruuvi-Sensoren.\\n\nHinweis: Für den Cloud-Zugriff auf Ihre Sensoren ist ein Ruuvi Gateway-Router erforderlich. Bestellen Sie weitere Ruuvi-Sensoren und ein Gateway auf ruuvi.com"
     },
     {
       "ident_ios": "",
@@ -7370,7 +7370,7 @@
       "ru": "каждые %1$s мин",
       "sv": "varje %1$s min",
       "fr": "toutes les %1$s min",
-      "de": ""
+      "de": "alle %1$s min"
     },
     {
       "ident_ios": "",
@@ -7381,7 +7381,7 @@
       "ru": "каждые %1$s сек",
       "sv": "varje %1$s sek",
       "fr": "toutes les %1$s sec",
-      "de": ""
+      "de": "alle %1$s sec"
     },
     {
       "ident_ios": "",
@@ -7392,7 +7392,7 @@
       "ru": "Количество дней: %1$s",
       "sv": "Antal dagar: %1$s",
       "fr": "Nombre de jours : %1$s",
-      "de": ""
+      "de": "Anzahl der Tage: %1$s"
     },
     {
       "ident_ios": "Cards.Alert.AlreadyLoggedIn.message",
@@ -7414,7 +7414,7 @@
       "ru": "Режим облака",
       "sv": "Molnläge",
       "fr": "Statut du cloud",
-      "de": ""
+      "de": "Cloud-Modus"
     },
     {
       "ident_ios": "",
@@ -7425,7 +7425,7 @@
       "ru": "Получайте данные с ближайших датчиков только через облако, игнорируя при этом измерения через Bluetooth. Требуется Ruuvi Gateway.",
       "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden. Kräver en Ruuvi Gateway.",
       "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement en rejetant les messages Bluetooth depuis le could. Nécessite le routeur Ruuvi Gateway.",
-      "de": ""
+      "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur von der Cloud aus, indem Sie deren Bluetooth-Meldungen ignorieren. Dazu ist ein Ruuvi Gateway Router erforderlich."
     },
     {
       "ident_ios": "Settings.Label.CloudMode.description",
@@ -7447,7 +7447,7 @@
       "ru": "Браузер компьютера: выбирайте желаемый временной отрезок курсором мыши.\n\nМобильный браузер: приближайте исплользуя два пальца.\n\nСбросить настройки зума при помощи двойного клика/тапа по графику.",
       "sv": "Desktop webbläsare: Markera önskat område med musen för att zooma in.\n\nMobil webbläsare: Zooma in och ut med två fingrar.\n\nDubbelklicka på grafen för att återställá.",
       "fr": "Application web : zoomez en selectionnant la zone désirée avec votre souris.\n\nApplication mobile : zoomez et dézoomez en utilisant deux doigts.\n\nPour revenir à l'echelle initiale double cliquez sur le graphique",
-      "de": ""
+      "de": "Desktop-Browser: Zoomen Sie hinein, indem Sie mit dem Cursor einen gewünschten Zeitabschnitt auswählen.\n\nMobiler Browser: Vergrößern und Verkleinern mit zwei Fingern.\n\nDurch Doppelklicken/Tippen auf das Diagramm können Sie die Zoomstufe auf die ursprüngliche Stufe zurücksetzen."
     },
     {
       "ident_ios": "",
@@ -7458,7 +7458,7 @@
       "ru": "Успешно сохранено",
       "sv": "Sparat",
       "fr": "Enregistré avec succès",
-      "de": ""
+      "de": "Erfolgreich gespeichert"
     },
     {
       "ident_ios": "",
@@ -7469,7 +7469,7 @@
       "ru": "Проблема с подключением",
       "sv": "Internetanslutningsproblem",
       "fr": "Problème de connexion Internet",
-      "de": ""
+      "de": "Problem mit der Internetverbindung"
     },
     {
       "ident_ios": "",
@@ -7480,7 +7480,7 @@
       "ru": "Фоновое сканирование (Bluetooth)",
       "sv": "Bakgrundsskanning (Bluetooth)",
       "fr": "Balayage en arrière plan (Bluetooth)",
-      "de": ""
+      "de": "Hintergrundsuche (Bluetooth)"
     },
     {
       "ident_ios": "",
@@ -7491,7 +7491,7 @@
       "ru": "Отправлять также координаты местоположения устройство",
       "sv": "Skicka även platskoordinater för denna enhet",
       "fr": "Partager également la géolocalisation de cet appareil",
-      "de": ""
+      "de": "Senden Sie auch die Standortkoordinaten dieses Geräts"
     },
     {
       "ident_ios": "",
@@ -7502,7 +7502,7 @@
       "ru": "Эта функция требует доступа к местоположению устройства. Чтобы добавить данные о местоположении, на следующем системном диалоге укажите хотите вы точное или примерное местоположение и разрешите доступ к местоположению пока приложение активно.",
       "sv": "Den här funktionen kräver platsbehörighet. För att inkludera dina platskoordinater, välj om du vill ha exakt eller ungefärlig plats och tillåt åtkomst medan du använder appen när du uppmanas till det i nästa dialogruta.",
       "fr": "Cette fonctionnalité nécessite l'accès à la position de l'appareil. Veuillez donner les autorisations nécessaires depuis les réglages de l'appareil et choisir la précision de la localisation.",
-      "de": ""
+      "de": "Diese Funktion erfordert eine Standortberechtigung. Um Ihre Standortkoordinaten einzubeziehen, wählen Sie bitte aus, ob Sie einen genauen oder ungefähren Standort wünschen und erlauben Sie den Zugriff während der Verwendung der App, wenn Sie im nächsten Dialog dazu aufgefordert werden."
     },
     {
       "ident_ios": "",
@@ -7513,7 +7513,7 @@
       "ru": "Чтобы добавить данные о местоположении, когда приложение работает в фоне: на следующем системном диалоге выберите 'Разрешить в любом режиме'.",
       "sv": "För att kunna inkludera platskoordinater när appen körs i bakgrunden, låt appen använda din plats 'hela tiden' när du uppmanas till det i nästa dialogruta.",
       "fr": "Pour partager la position même lorsque l'application est en arrière-plan, veuillez choisir 'toujours'.",
-      "de": ""
+      "de": "Um den Standort mit einzubeziehen, wenn die App im Hintergrund läuft, erlauben Sie bitte der App, Ihren Standort "immer" zu verwenden, wenn Sie im nächsten Dialog dazu aufgefordert werden."
     },
     {
       "ident_ios": "",
@@ -7524,7 +7524,7 @@
       "ru": "Включите доступ к местоположению, чтобы добавить координаты",
       "sv": "Aktivera platsbehörighet i Inställningar för att inkludera koordinater",
       "fr": "Veuillez autoriser l'accès aux données de localisation",
-      "de": ""
+      "de": "Bitte aktivieren Sie die Standortberechtigung in den Einstellungen, um die Koordinaten einzuschließen."
     },
     {
       "ident_ios": "",
@@ -7535,7 +7535,7 @@
       "ru": "",
       "sv": "Delningen har tagits bort",
       "fr": "Partage annulé avec succès",
-      "de": ""
+      "de": "Erfolgreich enteilt"
     },
     {
       "ident_ios": "",
@@ -7546,7 +7546,7 @@
       "ru": "",
       "sv": "Zoom",
       "fr": "Agrandir",
-      "de": ""
+      "de": "Zoom"
     },
     {
       "ident_ios": "",
@@ -7557,7 +7557,7 @@
       "ru": "",
       "sv": "E-post- och webbläsaralarm har aktiverats",
       "fr": "Les alarmes du navigateur et par email activées avec succès",
-      "de": ""
+      "de": "E-Mail- und Browser-Benachrichtigungen erfolgreich aktiviert"
     },
     {
       "ident_ios": "",
@@ -7568,7 +7568,7 @@
       "ru": "",
       "sv": "För att använda widgets måste du först logga in.",
       "fr": "Pour utiliser les widgets vous devez d'abord vous connecter.",
-      "de": ""
+      "de": "Um Widgets nutzen zu können, müssen Sie sich zunächst anmelden."
     },
     {
       "ident_ios": "",
@@ -7579,7 +7579,7 @@
       "ru": "",
       "sv": "Du kan använda Ruuvi widgets om dina sensorer är inom räckhåll för en Ruuvi Gateway eller om någon har delat en Ruuvi Sensor med dig.",
       "fr": "Vous pouvez utiliser les widgets Ruuvi si les capteurs sont à la portée d'un Ruuvi Gateway ou si quelqu'un vous a partagé un capteur.",
-      "de": ""
+      "de": "Sie können Ruuvi-Widgets verwenden, wenn sich Ihre Sensoren in Reichweite eines Ruuvi-Gateways befinden oder wenn Ihnen jemand einen Ruuvi-Sensor zur Verfügung gestellt hat."
     },
     {
       "ident_ios": "",
@@ -7590,7 +7590,7 @@
       "ru": "",
       "sv": "Kan du inte se alla dina sensorer i listan? Se till att du har bekräftat ägandet av alla dina sensorer i applikationen och att de är inom räckhåll för Ruuvi Gateway-routern.",
       "fr": "Vous ne voyez pas tous vos capteurs sur la liste ? Assurez-vous de vous être approprié tous les capteurs depuis l'application mobile et que les capteurs sont à la portée d'un routeur Ruuvi Gateway.",
-      "de": ""
+      "de": "Sie können nicht alle Ihre Sensoren in der Liste sehen? Vergewissern Sie sich, dass Sie alle Ihre Sensoren für sich beansprucht haben und dass sich die Sensoren in der Reichweite eines Ruuvi Gateway Routers befinden."
     },
     {
       "ident_ios": "Widgets.Loading.message",
@@ -7601,7 +7601,7 @@
       "ru": "загрузка...",
       "sv": "laddar...",
       "fr": "Chargement...",
-      "de": ""
+      "de": "laden..."
     },
     {
       "ident_ios": "",
@@ -7612,7 +7612,7 @@
       "ru": "Сауна",
       "sv": "Bastu",
       "fr": "Sauna",
-      "de": ""
+      "de": "Sauna"
     },
     {
       "ident_ios": "",
@@ -7645,7 +7645,7 @@
       "ru": "",
       "sv": "Välj vilken typ av sensor som ska visas i widgeten",
       "fr": "Choisissez le type de capteur à afficher dans le widget",
-      "de": ""
+      "de": "Wählen Sie den Sensortyp, der im Widget angezeigt werden soll"
     },
     {
       "ident_ios": "",
@@ -7656,7 +7656,7 @@
       "ru": "Назад",
       "sv": "Tillbaka",
       "fr": "Retour",
-      "de": ""
+      "de": "Zurück"
     },
     {
       "ident_ios": "",
@@ -7678,7 +7678,7 @@
       "ru": "движений",
       "sv": "rörelser",
       "fr": "mouvements",
-      "de": ""
+      "de": "Sensor auswählen"
     },
     {
       "ident_ios": "",
@@ -7689,7 +7689,7 @@
       "ru": "Нет данных",
       "sv": "Ingen data",
       "fr": "Pas d'informations",
-      "de": ""
+      "de": "Keine Daten"
     },
     {
       "ident_ios": "",
@@ -7700,7 +7700,7 @@
       "ru": "",
       "sv": "Historik",
       "fr": "Historique",
-      "de": ""
+      "de": "Verlauf"
     },
     {
       "ident_ios": "",
@@ -7711,7 +7711,7 @@
       "ru": "",
       "sv": "Vald",
       "fr": "Choisi",
-      "de": ""
+      "de": "Ausgewählt"
     },
     {
       "ident_ios": "",
@@ -7722,7 +7722,7 @@
       "ru": "",
       "sv": "Dölj",
       "fr": "Cacher",
-      "de": ""
+      "de": "Ausblenden"
     },
     {
       "ident_ios": "",
@@ -7733,7 +7733,7 @@
       "ru": "",
       "sv": "Visa",
       "fr": "Afficher",
-      "de": ""
+      "de": "Anzeigen"
     },
     {
       "ident_ios": "",
@@ -7743,8 +7743,8 @@
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Celsius (°C), Fahrenheit (°F) ja Kelvin (K).",
       "ru": "",
       "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga enheterna är: Celsius (°C), Fahrenheit (°F) och Kelvin (K).",
-      "fr": "",
-      "de": ""
+      "fr": "Conseil : vous pouvez modifier l'unité dans les paramètres. Les unités disponibles sont : Celsius (°C), Fahrenheit (°F) et Kelvin (K).",
+      "de": "Tipp: Sie können die Einheit in den Einstellungen ändern. Verfügbare Einheiten sind: Celsius (°C), Fahrenheit (°F) und Kelvin (K)."
     },
     {
       "ident_ios": "",
@@ -7754,8 +7754,8 @@
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Suhteellinen (%), absoluuttinen (g/m^3) ja kastepiste (°).",
       "ru": "",
       "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga enheterna är: Relativ (%), Absolut (g/m^3) och Daggpunkt (°).",
-      "fr": "",
-      "de": ""
+      "fr": "Conseil : vous pouvez modifier l'unité dans les paramètres. Les unités disponibles sont : Relative (%), absolue (g/m^3) et point de rosée (°).",
+      "de": "Tipp: Sie können die Einheit in den Einstellungen ändern. Verfügbare Einheiten sind: Relativ (%), absolut (g/m^3) und Taupunkt (°)."
     },
     {
       "ident_ios": "",
@@ -7765,8 +7765,8 @@
       "fi": "Vinkki: Voit vaihtaa mittayksikön asetuksista. Käytettävissä olevat mittayksiköt ovat: Pascal (Pa), hehtopascal (hPa), elohopeamillimetri (mmHg) ja elohopeatuuma (inHg).",
       "ru": "",
       "sv": "Tips: Du kan ändra måttenheten i inställningarna. De tillgängliga måttenheterna är: Pascal (Pa), hektopascal (hPa), millimeter kvicksilver (mmHg) och tum kvicksilver (inHg).",
-      "fr": "",
-      "de": ""
+      "fr": "Conseil : vous pouvez modifier l'unité dans les paramètres. Les unités disponibles sont : Pascal (Pa), hectopascal (hPa), millimètre de mercure (mmHg) et pouce de mercure (inHg).",
+      "de": "Tipp: Sie können die Einheit in den Einstellungen ändern. Verfügbare Einheiten sind: Pascal (Pa), Hektopascal (hPa), Millimeter Quecksilber (mmHg) und Zoll Quecksilber (inHg)."
     },
     {
       "ident_ios": "",
@@ -7776,8 +7776,8 @@
       "fi": "Liikelaskuri ilmoittaa anturin sisäisen liikelaskurin mittaamien liikkeiden lukumäärän.\n\nVinkki: Laskurin suurin mahdollinen lukema on 255, jonka jälkeen laskuri aloittaa jälleen nollasta. Laskuri nollaantuu myös anturin uudelleenkäynnistämisen yhteydessä.",
       "ru": "",
       "sv": "Rörelseräknaren indikerar antalet rörelser som mäts av sensorns interna rörelseräknare.\n\nTips: Maxräkningen för räknaren är 255, varefter räknaren startar om från noll. Räknaren återställs även när sensorn startas om.",
-      "fr": "",
-      "de": ""
+      "fr": "Chaque fois qu'un capteur Ruuvi est déplacé, son compteur de mouvement interne est augmenté.\n\nTip : La valeur maximale du compteur est de 255 et lorsqu'elle est atteinte, il repart de zéro. Lorsque le capteur est redémarré, le compteur est également automatiquement remis à zéro.",
+      "de": "Jedes Mal, wenn ein Ruuvi-Sensor bewegt wird, wird sein interner Bewegungszähler erhöht.\n\nTipp: Der Maximalwert des Zählers beträgt 255, und wenn er erreicht wird, beginnt er wieder bei Null. Wenn der Sensor neu gestartet wird, wird auch der Zähler automatisch auf Null zurückgesetzt."
     },
     {
       "ident_ios": "",
@@ -7787,8 +7787,8 @@
       "fi": "Suosittelemme pariston vaihtoa, kun pariston varaus on alle 2,4 voltin jännitettä huoneenlämmössä.\n\nVinkki: Paristosta mitattu jännite laskee myös ympäröivän lämpötilan laskiessa. Tämä ei kuitenkaan välttämättä tarkoita sitä, että pariston varaus olisi nolla.",
       "ru": "",
       "sv": "Vi rekommenderar att du byter batteriet när batteriet är mindre än 2,4 volt vid rumstemperatur.\n\nTips: Spänningen som mäts på batteriet kommer också att sjunka när omgivningstemperaturen sjunker. Detta behöver dock inte betyda att batteriladdningen är noll.",
-      "fr": "",
-      "de": ""
+      "fr": "Nous recommandons de remplacer la batterie lorsque la tension est inférieure à 2,4 volts à température ambiante.\n\nTip : Lorsque la température de la batterie diminue, les lectures de tension diminuent également. Mais cela ne signifie pas nécessairement que la batterie est vide.",
+      "de": "Wir empfehlen, die Batterie zu ersetzen, wenn die Spannung bei Raumtemperatur unter 2,4 Volt liegt.\n\nTipp: Wenn die Temperatur der Batterie sinkt, nehmen auch die Spannungswerte ab. Dies bedeutet jedoch nicht unbedingt, dass die Batterie leer ist."
     },
     {
       "ident_ios": "",
@@ -7798,8 +7798,8 @@
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
       "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
-      "fr": "",
-      "de": ""
+      "fr": "L'accéléromètre numérique tridimensionnel du capteur Ruuvi mesure en permanence l'accélération propre en g (g ≈ 9,81 m/s^2).\n\nTip : Les valeurs d'accélération peuvent vous indiquer l'orientation d'un capteur stationnaire.",
+      "de": "Der dreidimensionale digitale Beschleunigungsmesser des Ruuvi-Sensors misst kontinuierlich die richtige Beschleunigung in g (g ≈ 9,81 m/s^2).\n\nTipp: Anhand der Beschleunigungswerte können Sie die Ausrichtung eines stationären Sensors bestimmen."
     },
     {
       "ident_ios": "",
@@ -7809,8 +7809,8 @@
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
       "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
-      "fr": "",
-      "de": ""
+      "fr": "L'accéléromètre numérique tridimensionnel du capteur Ruuvi mesure en permanence l'accélération propre en g (g ≈ 9,81 m/s^2).\n\nTip : Les valeurs d'accélération peuvent vous indiquer l'orientation d'un capteur stationnaire.",
+      "de": "Der dreidimensionale digitale Beschleunigungsmesser des Ruuvi-Sensors misst kontinuierlich die richtige Beschleunigung in g (g ≈ 9,81 m/s^2).\n\nTipp: Anhand der Beschleunigungswerte können Sie die Ausrichtung eines stationären Sensors bestimmen."
     },
     {
       "ident_ios": "",
@@ -7820,8 +7820,8 @@
       "fi": "Ruuvin kolmiulotteinen digitaalinen kiihtyvyysmittari mittaa jatkuvaa kiihtyvyyttä mittayksiköllä g (g ≈ 9,81 m/s^2).\n\nVinkki: Kiihtyvyysarvoista voi päätellä paikallaan olevan anturin asennon.",
       "ru": "",
       "sv": "Ruuvis tredimensionella digitala accelerometer mäter den kontinuerliga accelerationen i g (g ≈ 9,81 m/s^2).\n\nTips: Den stationära sensorns position kan härledas från accelerationsvärdena.",
-      "fr": "",
-      "de": ""
+      "fr": "L'accéléromètre numérique tridimensionnel du capteur Ruuvi mesure en permanence l'accélération propre en g (g ≈ 9,81 m/s^2).\n\nTip : Les valeurs d'accélération peuvent vous indiquer l'orientation d'un capteur stationnaire.",
+      "de": "Der dreidimensionale digitale Beschleunigungsmesser des Ruuvi-Sensors misst kontinuierlich die richtige Beschleunigung in g (g ≈ 9,81 m/s^2).\n\nTipp: Anhand der Beschleunigungswerte können Sie die Ausrichtung eines stationären Sensors bestimmen."
     },
     {
       "ident_ios": "",
@@ -7831,8 +7831,8 @@
       "fi": "Vastaanotin mittaa vastaanotettua signaalia desibelimilliwatteina (dBm). Suurempi lukema tarkoittaa vahvempaa signaalia.\n\nVinkki: Vastaanotettu radiotaajuusenergia tuplaantuu jokaisen 3 dB välein. Tämä tarkoittaa sitä, että esimerkiksi -37 dBm signaali on puolet vahvempi kuin -40 dBm.",
       "ru": "",
       "sv": "Mottagaren mäter den mottagna signalen i decibel milliwatt (dBm). En högre avläsning betyder en starkare signal.\n\nTips: Den mottagna RF-energin fördubblas varje 3 dB. Det betyder till exempel att en signal på -37 dBm är hälften så stark som en signal på -40 dBm.",
-      "fr": "",
-      "de": ""
+      "fr": "L'intensité du signal reçu est mesurée par le dispositif récepteur en milliwatts décibels (dBm). Plus le chiffre est grand, plus le signal reçu est fort. Conseil : chaque pas de 3 dB double l'énergie radio reçue, par exemple : -37 dBm est deux fois plus fort que -40 dBm.",
+      "de": "Die Stärke des empfangenen Signals wird vom Empfängergerät in Dezibel Milliwatt (dBm) gemessen. Je größer die Zahl, desto stärker ist das empfangene Signal.\n\nTipp: Jeder 3-dB-Schritt verdoppelt die empfangene Funkenergie, zum Beispiel: -37 dBm ist zweimal stärker als -40 dBm."
     },
     {
       "ident_ios": "",
@@ -7842,8 +7842,8 @@
       "fi": "Mittausjärjestysnumero kasvaa, koska mittauksia päivitetään jatkuvasti (~2,5 sekunnin välein). Suurin mahdollinen luku on 16 bittiä (65536) ja tämän täyttyessä laskuri nollaantuu.\n\nVinkki: Mittausjärjestysnumero alkaa nollasta myös anturin uudelleenkäynnistymisen yhteydessä. Mittaussyklien perusteella vaikuttaa siltä, että anturi on uudelleenkäynnistynyt.",
       "ru": "",
       "sv": "Mätsekvensnumret ökar när mätningarna ständigt uppdateras (var ~2,5 sekund). Maximalt möjliga antal är 16 bitar (65536) och när den är fylld kommer räknaren att återställas.\n\nTips: Mätsekvensnumret börjar från noll även när sensorn startas om. Baserat på mätcyklerna kan man se om sensors har starts om.",
-      "fr": "",
-      "de": ""
+      "fr": "Lorsque le capteur Ruuvi rafraîchit ses mesures (toutes les ~2,5 secondes), le numéro de séquence des mesures augmente. La valeur maximale du compteur est de 16 bits (65536) et lorsqu'elle est atteinte, elle repart de zéro.\n\nTip : Lorsque le capteur redémarre, le compteur est automatiquement remis à zéro. En examinant l'historique des cycles du compteur de mesure, vous pouvez voir si le capteur a redémarré involontairement.",
+      "de": "Wenn der Ruuvi-Sensor seine Messungen auffrischt (alle ~2,5 Sekunden), wird die Nummer der Messreihe erhöht. Der Maximalwert des Zählers beträgt 16 Bit (65536) und beginnt bei Erreichen dieses Wertes wieder bei Null.\n\nTipp: Wenn der Sensor neu gestartet wird, wird der Zähler automatisch auf Null zurückgesetzt. Durch Untersuchung der Verlaufszyklen des Messzählers können Sie feststellen, ob der Sensor unbeabsichtigt neu gebootet hat."
     },
     {
       "ident_ios": "",
@@ -7854,7 +7854,7 @@
       "ru": "Обновление готово к установке.",
       "sv": "En uppdatering har laddats ner.",
       "fr": "La mise à jour a été téléchargée.",
-      "de": ""
+      "de": "Ein Update wurde soeben heruntergeladen."
     },
     {
       "ident_ios": "",
@@ -7865,7 +7865,7 @@
       "ru": "ПЕРЕЗАПУСК",
       "sv": "STARTA OM",
       "fr": "REDÉMARRER",
-      "de": ""
+      "de": "NEUSTART"
     },
     {
       "ident_ios": "",
@@ -7876,7 +7876,7 @@
       "ru": "Открыть настройки",
       "sv": "Öppna inställningar",
       "fr": "Ouvrir les réglages",
-      "de": ""
+      "de": "Einstellungen öffnen"
     },
     {
       "ident_ios": "",
@@ -7887,7 +7887,7 @@
       "ru": "",
       "sv": "För att tillåta widgetsvärden att uppdateras automatiskt, stäng av appens batterioptimering.",
       "fr": "Pour que les widgets puissent se mettre à jour automatiquement, désactivez le mode économie d'énergie de l'application.",
-      "de": ""
+      "de": "Damit die Widgets von Ruuvi automatisch aktualisiert werden können, deaktivieren Sie bitte die Batterieoptimierung der App."
     },
     {
       "ident_ios": "",
@@ -7908,8 +7908,8 @@
       "fi": "Vaihda paristo!",
       "ru": "Замените батарею!",
       "sv": "Byt batteriet!",
-      "fr": "",
-      "de": ""
+      "fr": "Remplacez la batterie !",
+      "de": "Batterie austauschen!"
     },
     {
       "ident_ios": "TagSettings.BatteryStatusLabel.Ok.message",
@@ -7919,8 +7919,8 @@
       "fi": "Paristo OK",
       "ru": "Батарея OK",
       "sv": "Batteri OK",
-      "fr": "",
-      "de": ""
+      "fr": "Batterie OK",
+      "de": "Batterie OK"
     },
     {
       "ident_ios": "",
@@ -7952,8 +7952,8 @@
       "fi": "Luo widgettejä Ruuvi-antureistasi. Widgetit päivittyvät Ruuvin pilvipalvelun kautta ja vaativat toimiakseen Ruuvi Gateway -reitittimen.",
       "ru": "",
       "sv": "Skapa widgets av dina favorit Ruuvi-sensorer. Widgetdatan kommer från Ruuvi Cloud och kräver en Ruuvi Gateway-router.",
-      "fr": "",
-      "de": ""
+      "fr": "Créez des widgets de vos capteurs Ruuvi préférés. Les widgets sont mis à jour depuis le Ruuvi Cloud. Un routeur Ruuvi Gateway est nécessaire.",
+      "de": "Erstellen Sie Widgets mit Ihren bevorzugten Ruuvi-Sensoren. Widgets werden über die Ruuvi Cloud aktualisiert. Ein Ruuvi Gateway-Router ist erforderlich."
     },
     {
       "ident_ios": "",
@@ -7963,8 +7963,8 @@
       "fi": "Paina + lisätäksesi antureita",
       "ru": "Нажмите + чтобы добавить датчики",
       "sv": "Tryck på + för att lägga till sensorer",
-      "fr": "",
-      "de": ""
+      "fr": "Appuyez sur + pour ajouter des capteurs",
+      "de": "Drücken Sie +, um Sensoren hinzuzufügen"
     },
     {
       "ident_ios": "",
@@ -7974,8 +7974,8 @@
       "fi": "Sovelluksen ulkoasuasetukset",
       "ru": "Внешний вид",
       "sv": "Utseende",
-      "fr": "",
-      "de": ""
+      "fr": "Apparition",
+      "de": "Erscheinungsbild"
     },
     {
       "ident_ios": "",
@@ -7985,8 +7985,8 @@
       "fi": "Koontinäyttö käytössä. ",
       "ru": "",
       "sv": "Översiksvyn är aktiverad. ",
-      "fr": "",
-      "de": ""
+      "fr": "La vue du tableau de bord est activée.",
+      "de": "Die Dashboard-Ansicht ist aktiviert."
     },
     {
       "ident_ios": "",
@@ -7996,8 +7996,8 @@
       "fi": "Koontinäyttö ei käytössä. ",
       "ru": "",
       "sv": "Översiksvyn är inaktiverad. ",
-      "fr": "",
-      "de": ""
+      "fr": "La vue du tableau de bord est désactivée. ",
+      "de": "Die Dashboard-Ansicht ist deaktiviert. "
     },
     {
       "ident_ios": "",
@@ -8007,8 +8007,8 @@
       "fi": "Tumma teema käytössä.",
       "ru": "",
       "sv": "Mörkt tema är aktiverat.",
-      "fr": "",
-      "de": ""
+      "fr": "Le thème sombre est activé.",
+      "de": "Das dunkle Thema ist aktiviert."
     },
     {
       "ident_ios": "",
@@ -8018,8 +8018,8 @@
       "fi": "Tumma teema ei käytössä.",
       "ru": "",
       "sv": "Mörkt tema är inaktiverat.",
-      "fr": "",
-      "de": ""
+      "fr": "Le thème sombre est désactivé.",
+      "de": "Das dunkle Thema ist deaktiviert."
     },
     {
       "ident_ios": "",
@@ -8040,8 +8040,8 @@
       "fi": "Sovelluksen teema",
       "ru": "Тема приложения",
       "sv": "App tema",
-      "fr": "",
-      "de": ""
+      "fr": "App Theme",
+      "de": "App Thema"
     },
     {
       "ident_ios": "",
@@ -8051,8 +8051,8 @@
       "fi": "Käytä järjestelmän oletusta",
       "ru": "Как в системе",
       "sv": "Följ systemtema",
-      "fr": "",
-      "de": ""
+      "fr": "Suivre le thème du système",
+      "de": "Dem Systemthema folgen"
     },
     {
       "ident_ios": "",
@@ -8062,8 +8062,8 @@
       "fi": "Tumma teema",
       "ru": "Темная тема",
       "sv": "Mörkt tema",
-      "fr": "",
-      "de": ""
+      "fr": "Thème sombre",
+      "de": "Dunkles Thema"
     },
     {
       "ident_ios": "",
@@ -8073,8 +8073,8 @@
       "fi": "Vaalea teema",
       "ru": "Светлая тема",
       "sv": "Ljust tema",
-      "fr": "",
-      "de": ""
+      "fr": "Thème de la lumière",
+      "de": "Thema Licht"
     },
     {
       "ident_ios": "Settings.Temperature.Resolution.title",
@@ -8084,8 +8084,8 @@
       "fi": "Lämpötilan resoluutio",
       "ru": "",
       "sv": "Temperaturupplösning",
-      "fr": "",
-      "de": ""
+      "fr": "Résolution de la température",
+      "de": "Auflösung der Temperatur"
     },
     {
       "ident_ios": "Settings.Humidity.Resolution.title",
@@ -8095,8 +8095,8 @@
       "fi": "Kosteuden resoluutio",
       "ru": "",
       "sv": "Fuktighetsupplösning",
-      "fr": "",
-      "de": ""
+      "fr": "Résolution de l'humidité",
+      "de": "Auflösung der Luftfeuchtigkeit"
     },
     {
       "ident_ios": "Settings.Pressure.Resolution.title",
@@ -8106,8 +8106,8 @@
       "fi": "Paineen resoluutio",
       "ru": "",
       "sv": "Tryckupplösning",
-      "fr": "",
-      "de": ""
+      "fr": "Résolution de la pression",
+      "de": "Auflösung des Drucks"
     },
     {
       "ident_ios": "",
@@ -8150,8 +8150,8 @@
       "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin tai hälytyksiin.",
       "ru": "",
       "sv": "Välj hur exakt du vill se sensorernas livemätvärden i appen. Den här inställningen påverkar inte histogram eller varningar.",
-      "fr": "",
-      "de": ""
+      "fr": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme.",
+      "de": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme."
     },
     {
       "ident_ios": "Settings.Measurement.Unit.title",
@@ -8161,8 +8161,8 @@
       "fi": "Yksikkö",
       "ru": "",
       "sv": "Enhet",
-      "fr": "",
-      "de": ""
+      "fr": "Unité",
+      "de": "Einheit"
     },
     {
       "ident_ios": "Settings.Measurement.Resolution.title",
@@ -8172,8 +8172,8 @@
       "fi": "Resoluutio",
       "ru": "",
       "sv": "Upplösning",
-      "fr": "",
-      "de": ""
+      "fr": "Résolution",
+      "de": "Auflösung"
     },
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.title",
@@ -8183,8 +8183,8 @@
       "fi": "Poista tili",
       "ru": "",
       "sv": "Radera konto",
-      "fr": "",
-      "de": ""
+      "fr": "Supprimer le compte",
+      "de": "Konto löschen"
     },
     {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.Confirmation.message",
@@ -8194,8 +8194,8 @@
       "fi": "Vahvistussähköposti lähetetty. Poista tili noudattamalla sähköpostissa annettuja ohjeita.",
       "ru": "",
       "sv": "En bekräftelse skickas till din e-post. För att fortsätta med raderingen, kontrollera din inkorg och följ instruktionerna.",
-      "fr": "",
-      "de": ""
+      "fr": "Une confirmation a été envoyée à votre adresse électronique. Pour procéder à la suppression, veuillez vérifier votre boîte de réception et suivre les instructions.",
+      "de": "Es wurde eine Bestätigung an Ihre E-Mail gesendet. Um mit der Löschung fortzufahren, überprüfen Sie bitte Ihren Posteingang und folgen Sie den Anweisungen."
     },
     {
       "ident_ios": "TagSettings.Alert.SetTemperature.title",
@@ -8205,8 +8205,8 @@
       "fi": "Aseta lämpötilahälytys",
       "ru": "",
       "sv": "Ställ in temperaturalarm",
-      "fr": "",
-      "de": ""
+      "fr": "Réglage de l'alerte de température",
+      "de": "Temperaturalarm einstellen"
     },
     {
       "ident_ios": "TagSettings.Alert.SetHumidity.title",
@@ -8216,8 +8216,8 @@
       "fi": "Aseta kosteushälytys",
       "ru": "",
       "sv": "Ställ in fuktighetsalarm",
-      "fr": "",
-      "de": ""
+      "fr": "Réglage de l'alerte d'humidité",
+      "de": "Feuchtigkeitsalarm einstellen"
     },
     {
       "ident_ios": "TagSettings.Alert.SetPressure.title",
@@ -8227,8 +8227,8 @@
       "fi": "Aseta painehälytys",
       "ru": "",
       "sv": "Ställ in lufttryckssalarm",
-      "fr": "",
-      "de": ""
+      "fr": "Régler l'alerte de pression",
+      "de": "Druckalarm einstellen"
     },
     {
       "ident_ios": "TagSettings.Alert.SetRSSI.title",
@@ -8238,8 +8238,8 @@
       "fi": "Aseta signaalinvoimakkuushälytys",
       "ru": "",
       "sv": "Ställ in signalstyrkealarm",
-      "fr": "",
-      "de": ""
+      "fr": "Définir une alerte sur la puissance du signal",
+      "de": "Signalstärkealarm einstellen"
     },
     {
       "ident_ios": "TagSettings.AlertSettings.Dialog.Min",
@@ -8249,8 +8249,8 @@
       "fi": "Min ({%.0f^%1$s})",
       "ru": "",
       "sv": "Min ({%.0f^%1$s})",
-      "fr": "",
-      "de": ""
+      "fr": "Min ({%.0f^%1$s})",
+      "de": "Min ({%.0f^%1$s})"
     },
     {
       "ident_ios": "TagSettings.AlertSettings.Dialog.Max",
@@ -8260,8 +8260,8 @@
       "fi": "Max ({%.0f^%1$s})",
       "ru": "",
       "sv": "Max ({%.0f^%1$s})",
-      "fr": "",
-      "de": ""
+      "fr": "Max ({%.0f^%1$s})",
+      "de": "Max ({%.0f^%1$s})"
     },
     {
       "ident_ios": "",
@@ -8271,8 +8271,8 @@
       "fi": "Hälytys",
       "ru": "",
       "sv": "Alert",
-      "fr": "",
-      "de": ""
+      "fr": "Alerte",
+      "de": "Alarmierung"
     },
     {
       "ident_ios": "",
@@ -8282,8 +8282,8 @@
       "fi": "Vaihda väritilaa",
       "ru": "",
       "sv": "Byt färgeläge",
-      "fr": "",
-      "de": ""
+      "fr": "Basculer le mode couleur",
+      "de": "Farbmodus umschalten"
     },
     {
       "ident_ios": "",
@@ -8293,8 +8293,8 @@
       "fi": "Näytä kuvat",
       "ru": "",
       "sv": "Visa bilder",
-      "fr": "",
-      "de": ""
+      "fr": "Montrer les images",
+      "de": "Bilder anzeigen"
     },
     {
       "ident_ios": "",
@@ -8304,8 +8304,8 @@
       "fi": "Näytä kaaviot",
       "ru": "",
       "sv": "Visa grafer",
-      "fr": "",
-      "de": ""
+      "fr": "Afficher les graphiques",
+      "de": "Diagramme anzeigen"
     },
     {
       "ident_ios": "export_history",
@@ -8315,8 +8315,8 @@
       "fi": "Lataa historia (csv)",
       "ru": "Выгрузить историю (csv)",
       "sv": "Exportera historik (csv)",
-      "fr": "",
-      "de": ""
+      "fr": "Exportation de l'historique (csv)",
+      "de": "Verlauf exportieren (csv)"
     },
     {
       "ident_ios": "clear_view",
@@ -8326,8 +8326,8 @@
       "fi": "Tyhjennä kaaviot",
       "ru": "",
       "sv": "Töm grafer",
-      "fr": "",
-      "de": ""
+      "fr": "Vue dégagée",
+      "de": "Klare Sicht"
     },
     {
       "ident_ios": "day_1",
@@ -8337,8 +8337,8 @@
       "fi": "1 päivä",
       "ru": "",
       "sv": "1 dag",
-      "fr": "",
-      "de": ""
+      "fr": "1 jour",
+      "de": "1 Tag"
     },
     {
       "ident_ios": "day_2",
@@ -8348,8 +8348,8 @@
       "fi": "2 päivää",
       "ru": "",
       "sv": "2 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "2 jours",
+      "de": "2 Tage"
     },
     {
       "ident_ios": "day_3",
@@ -8359,8 +8359,8 @@
       "fi": "3 päivää",
       "ru": "",
       "sv": "3 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "3 jours",
+      "de": "3 Tage"
     },
     {
       "ident_ios": "day_4",
@@ -8370,8 +8370,8 @@
       "fi": "4 päivää",
       "ru": "",
       "sv": "4 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "4 jours",
+      "de": "4 Tage"
     },
     {
       "ident_ios": "day_5",
@@ -8381,8 +8381,8 @@
       "fi": "5 päivää",
       "ru": "",
       "sv": "5 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "5 jours",
+      "de": "5 Tage"
     },
     {
       "ident_ios": "day_6",
@@ -8392,8 +8392,8 @@
       "fi": "6 päivää",
       "ru": "",
       "sv": "6 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "6 jours",
+      "de": "6 Tage"
     },
     {
       "ident_ios": "day_7",
@@ -8403,8 +8403,8 @@
       "fi": "7 päivää",
       "ru": "",
       "sv": "7 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "7 jours",
+      "de": "7 Tage"
     },
     {
       "ident_ios": "day_8",
@@ -8414,8 +8414,8 @@
       "fi": "8 päivää",
       "ru": "",
       "sv": "8 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "8 jours",
+      "de": "Tage"
     },
     {
       "ident_ios": "day_9",
@@ -8436,8 +8436,8 @@
       "fi": "10 päivää",
       "ru": "",
       "sv": "10 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "10 jours",
+      "de": "10 Tage"
     },
     {
       "ident_ios": "day_x",
@@ -8447,8 +8447,8 @@
       "fi": "{%.0f^%1$s} päivää",
       "ru": "",
       "sv": "{%.0f^%1$s} dagar",
-      "fr": "",
-      "de": ""
+      "fr": "{%.0f^%1$s} jours",
+      "de": "{%.0f^%1$s} Tage"
     },
     {
       "ident_ios": "more",
@@ -8458,8 +8458,8 @@
       "fi": "Lisää...",
       "ru": "",
       "sv": "Mer...",
-      "fr": "",
-      "de": ""
+      "fr": "Plus...",
+      "de": "Mehr..."
     },
     {
       "ident_ios": "longer_history_title",
@@ -8469,8 +8469,8 @@
       "fi": "Pidempi historia",
       "ru": "",
       "sv": "Längre historik",
-      "fr": "",
-      "de": ""
+      "fr": "Une histoire plus longue",
+      "de": "Längere Geschichte"
     },
     {
       "ident_ios": "longer_history_message",
@@ -8480,8 +8480,8 @@
       "fi": "Ruuvi Station -mobiilisovellus tukee maksimissaan 10 päivän historiaa. Ruuvi Cloud -tilaajat voivat tarkastella historiatietoja jopa 2 vuoden ajalta web-sovelluksessa osoitteessa ruuvi.com/fi/station (vaatii Ruuvi Gateway -reitittimen).",
       "ru": "",
       "sv": "Ruuvi Station mobilapp stöder högst 10 dagars historik. Ruuvi Cloud-prenumeranter kan se upp till 2 års historisk data med hjälp av webbappen på ruuvi.com/station (kräver Ruuvi Gateway-router).",
-      "fr": "",
-      "de": ""
+      "fr": "L'application mobile Ruuvi Station prend en charge un maximum de 10 jours d'historique. Les abonnés à Ruuvi Cloud peuvent consulter jusqu'à 2 ans d'historique en utilisant l'application web à ruuvi.com/station (nécessite le routeur Ruuvi Gateway).",
+      "de": "Die Ruuvi Station Mobile App unterstützt maximal 10 Tage Historie. Ruuvi-Cloud-Abonnenten können mit der Web-App unter ruuvi.com/station (erfordert Ruuvi-Gateway-Router) bis zu 2 Jahre historische Daten anzeigen."
     },
     {
       "ident_ios": "reading_history_x",
@@ -8502,8 +8502,8 @@
       "fi": "",
       "ru": "",
       "sv": "Avstängd till %1$s",
-      "fr": "",
-      "de": ""
+      "fr": "Muet jusqu'à %1$s",
+      "de": "Stummgeschaltet bis %1$s"
     },
     {
       "ident_ios": "",
@@ -8513,8 +8513,8 @@
       "fi": "Huomaathan, että anturin lähettämät tiedot voidaan vastaanottaa mobiililaitteilla tai Ruuvi Gateway -reitittimillä. Signaalinvoimakkuuden lukemat poikkeavat toisistaan riippuen siitä, mikä laite tiedon vastaanotti ja tämä vaikuttaa RSSI-hälytyksessä käytettävään arvoon. Käytä pilvitilaa, mikäli haluat signaalinvoimakkuustiedon päivittyvän ainoastaan Ruuvi Gatewayn kautta.",
       "ru": "",
       "sv": "Observera att data som skickas från Ruuvi-sensorer kan tas emot med mobila enheter eller Ruuvi Gateway-routrar. Den mottagna signalstyrkan kommer att vara olika beroende på den mottagande enheten och det kommer att påverka värdet som används för att utlösa RSSI-varning. Använd molnläge när du bara vill spela in signalstyrka via Ruuvi Gateway.",
-      "fr": "",
-      "de": ""
+      "fr": "Notez que les données envoyées par les capteurs Ruuvi peuvent être reçues par des appareils mobiles ou des routeurs Ruuvi Gateway. L'intensité du signal reçu sera différente selon l'appareil récepteur et affectera la valeur utilisée pour déclencher l'alerte RSSI. Utilisez le mode nuage lorsque vous souhaitez enregistrer les données de puissance du signal uniquement via la passerelle Ruuvi.",
+      "de": "Beachten Sie, dass die von Ruuvi-Sensoren gesendeten Daten mit mobilen Geräten oder Ruuvi-Gateway-Routern empfangen werden können. Die empfangene Signalstärke ist je nach Empfangsgerät unterschiedlich und beeinflusst den Wert, der zur Auslösung des RSSI-Alarms verwendet wird. Verwenden Sie den Cloud-Modus, wenn Sie Daten zur Signalstärke nur über Ruuvi Gateway aufzeichnen möchten."
     },
     {
       "ident_ios": "rssi_alert_description",
@@ -8524,8 +8524,8 @@
       "fi": "Tämän hälytyksen käyttö vaatii, että olet sisäänkirjautunut sovellukseen, sinut on merkitty anturin omistajaksi ja anturi on Ruuvi Gateway -reitittimen kuuluvuusalueella. iOS-päätelaitteet eivät pysty näyttämään Ruuvin anturien lähettämien viestien signaalinvoimakkuustietoja anturin ollessa paritettuna ja kun mittauksia luetaan taustalla. Reaaliaikainen Bluetooth-signaalinvoimakkuus näytetään sovelluksessa, mutta sitä ei käytetä tässä hälytyksessä.",
       "ru": "",
       "sv": "För att använda denna avisering måste du vara inloggad i appen, att du har tagit ägandeskap av den här sensorn och att den är inom räckhåll för Ruuvi Gateway-routern. IOS-enheter kan inte visa signalstyrka för mottagna data som skickas av Ruuvi-sensorn när sensorn är parat och mätningar mottas i bakgrunden. Realtids Bluetooth-signalstyrka visas i appen men påverkar inte denna avisering.",
-      "fr": "",
-      "de": ""
+      "fr": "L'utilisation de cette alerte nécessite que vous soyez connecté à l'application, que vous ayez revendiqué la propriété de ce capteur et qu'il se trouve dans le rayon d'action du routeur de la passerelle Ruuvi. Les appareils iOS sont incapables d'indiquer l'intensité du signal des données reçues envoyées par le capteur Ruuvi lorsque le capteur est apparié et que des mesures sont reçues en arrière-plan. La puissance du signal Bluetooth en temps réel est affichée dans l'application mais n'affecte pas cette alerte.",
+      "de": "Die Verwendung dieses Alarms setzt voraus, dass Sie in der App angemeldet sind und dass Sie den Sensor für sich beansprucht haben und dass er sich in der Reichweite des Ruuvi Gateway Routers befindet. iOS-Geräte können keine Informationen zur Signalstärke der vom Ruuvi-Sensor gesendeten Daten anzeigen, wenn der Sensor gekoppelt ist und Messungen im Hintergrund empfangen werden. Die Echtzeit-Bluetooth-Signalstärke wird in der App angezeigt, hat aber keinen Einfluss auf diesen Alarm."
     },
     {
       "ident_ios": "bluetooth_download",
@@ -8535,8 +8535,8 @@
       "fi": "Bluetooth-lataus",
       "ru": "",
       "sv": "Bluetooth-nedladdning",
-      "fr": "",
-      "de": ""
+      "fr": "Téléchargement Bluetooth",
+      "de": "Bluetooth-Download"
     },
     {
       "ident_ios": "bluetooth_download_description",
@@ -8557,8 +8557,8 @@
       "fi": "Lataa",
       "ru": "",
       "sv": "Ladda ner",
-      "fr": "",
-      "de": ""
+      "fr": "Téléchargement",
+      "de": "Download"
     },
     {
       "ident_ios": "clear_local_history",
@@ -8568,8 +8568,8 @@
       "fi": "Tyhjennä paikallinen historia",
       "ru": "",
       "sv": "Rensa lokal historik",
-      "fr": "",
-      "de": ""
+      "fr": "Effacer l'histoire locale",
+      "de": "Lokaler Verlauf löschen"
     },
     {
       "ident_ios": "clear_local_history_description",
@@ -8579,8 +8579,8 @@
       "fi": "Haluatko tyhjentää sovelluksen muistiin tallennetun mittaushistorian? Tämä ei tyhjennä anturin sisäistä historiaa eikä Ruuvi Cloud -pilvipalveluun tallennettua historiaa.",
       "ru": "",
       "sv": "Vill du rensa lokalt lagrad historisk data från appen? Detta kommer inte att rensa internt lagrad historik i sensorer eller historisk data lagrad i Ruuvi Cloud-tjänst.",
-      "fr": "",
-      "de": ""
+      "fr": "Voulez-vous effacer les données historiques stockées localement dans l'application ? Cela n'effacera pas l'historique stocké en interne par le capteur ou les données historiques stockées sur le service Ruuvi Cloud.",
+      "de": "Möchten Sie lokal gespeicherte historische Daten aus der App löschen? Dies löscht nicht den intern gespeicherten Verlauf des Sensors oder die im Ruuvi Cloud-Dienst gespeicherten historischen Daten."
     },
     {
       "ident_ios": "TagCharts.FailedToSyncDialog.message",
@@ -8590,8 +8590,8 @@
       "fi": "Bluetooth-historian lataus epäonnistui. Tarkasta, että olet Bluetooth-kantaman sisällä, että anturissa on latausta tukeva laiteohjelmisto ja ettei anturi ole yhteydessä toiseen iOS-laitteeseen samanaikaisesti. Ruuvi Stationin iOS-versio varaa anturin yhteyden käyttöönsä jatkuvaa yhteystilaa käytettäessä.",
       "ru": "",
       "sv": "Nedladdning av Bluetooth-historik misslyckades. Kontrollera att du är inom Bluetooth-räckvidd, att din sensor har firmware som stöder nedladdning och att sensorn inte samtidigt är ansluten till en annan iOS-enhet. Sensoranslutning är reserverad för Ruuvi Station vid användning av anslutet läge i iOS.",
-      "fr": "",
-      "de": ""
+      "fr": "Le téléchargement de l'historique Bluetooth a échoué. Vérifiez que vous êtes à portée Bluetooth, que votre capteur possède un micrologiciel prenant en charge le téléchargement et que le capteur n'est pas simultanément connecté à un autre appareil iOS. La connexion du capteur est réservée à la Ruuvi Station lorsque vous utilisez le mode connecté dans iOS.",
+      "de": "Download der Bluetooth-Historie fehlgeschlagen. Stellen Sie sicher, dass Sie sich in Bluetooth-Reichweite befinden, dass Ihr Sensor über eine Firmware verfügt, die das Herunterladen unterstützt, und dass der Sensor nicht gleichzeitig mit einem anderen iOS-Gerät verbunden ist. Die Sensorverbindung ist für die Ruuvi Station reserviert, wenn der Verbindungsmodus in iOS verwendet wird."
     },
     {
       "ident_ios": "TagCharts.TryAgain.title",
@@ -8601,8 +8601,8 @@
       "fi": "Yritä uudelleen",
       "ru": "",
       "sv": "Försök igen",
-      "fr": "",
-      "de": ""
+      "fr": "Essayez à nouveau",
+      "de": "Erneut versuchen"
     },
     {
       "ident_ios": "support",
@@ -8612,8 +8612,8 @@
       "fi": "Tuki",
       "ru": "",
       "sv": "Support",
-      "fr": "",
-      "de": ""
+      "fr": "Soutien",
+      "de": "Unterstützung"
     },
     {
       "ident_ios": "",
@@ -8623,8 +8623,8 @@
       "fi": "Hälytysten näyttäminen vaatii ilmoitusten sallimisen asetuksista.",
       "ru": "",
       "sv": "För att visa alarm krävs att aviseringar tillåts i inställningar.",
-      "fr": "",
-      "de": ""
+      "fr": "Pour activer les alertes, veuillez autoriser les notifications dans les paramètres.",
+      "de": "Um Benachrichtigungen zu aktivieren, erlauben Sie bitte Benachrichtigungen in den Einstellungen."
     },
     {
       "ident_ios": "full_image_view",
@@ -8634,8 +8634,8 @@
       "fi": "Anturikortti",
       "ru": "",
       "sv": "Bildvy",
-      "fr": "",
-      "de": ""
+      "fr": "Vue d'ensemble de l'image",
+      "de": "Vollbildansicht"
     },
     {
       "ident_ios": "history_view",
@@ -8645,8 +8645,8 @@
       "fi": "Historianäkymä",
       "ru": "",
       "sv": "Historikvy",
-      "fr": "",
-      "de": ""
+      "fr": "Vue de l'histoire",
+      "de": "Ansicht Verlauf"
     },
     {
       "ident_ios": "settings_and_alerts",
@@ -8667,8 +8667,8 @@
       "fi": "Vaihda taustakuva",
       "ru": "",
       "sv": "Byt bakgrund",
-      "fr": "",
-      "de": ""
+      "fr": "Paramètres et alertes",
+      "de": "Einstellungen und Warnungen"
     },
     {
       "ident_ios": "check_claim_state",
@@ -8678,8 +8678,8 @@
       "fi": "Omistajuuden tilaa haetaan",
       "ru": "",
       "sv": "Kontrollerar anspråkstillstånd",
-      "fr": "",
-      "de": ""
+      "fr": "Vérification de l'état de la demande",
+      "de": "Prüfung des Antragsstatus"
     },
     {
       "ident_ios": "claim_in_progress",
@@ -8700,8 +8700,8 @@
       "fi": "Vaihda omistajuus",
       "ru": "",
       "sv": "Tvinga fram anspråk",
-      "fr": "",
-      "de": ""
+      "fr": "Revendication en cours",
+      "de": "Antragstellung in Bearbeitung"
     },
     {
       "ident_ios": "force_claim_sensor_description1",
@@ -8711,8 +8711,8 @@
       "fi": "Tällä anturilla on jo toinen omistaja. Omistajuus voidaan vaihtaa pakotetusti, mikäli anturi on lähettyvilläsi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
       "ru": "",
       "sv": "Den här sensorn ägs av en annan användare. Du kan tvinga ägandeskap till ditt konto om du har fysisk tillgång till den här sensorn. Varje Ruuvi-sensor kan bara ha en ägare.",
-      "fr": "",
-      "de": ""
+      "fr": "Ce capteur a été réclamé par un autre utilisateur. Vous pouvez forcer la propriété à votre compte si vous avez un accès physique à ce capteur. Chaque capteur Ruuvi ne peut avoir qu'un seul propriétaire.",
+      "de": "Dieser Sensor wurde von einem anderen Benutzer beansprucht. Sie können die Eigentümerschaft für Ihr Konto erzwingen, wenn Sie physischen Zugang zu diesem Sensor haben. Jeder Ruuvi-Sensor kann nur einen Besitzer haben."
     },
     {
       "ident_ios": "force_claim_sensor_description2",
@@ -8722,8 +8722,8 @@
       "fi": "Omistajuuden pakotettu vaihtaminen tapahtuu Near-Field Communication (NFC) ominaisuutta käyttämällä. Varmista, että NFC on käytössä mobiililaitteessasi.\\n\\n\\t1. Aloita omistajuuden pakotettu vaihto koskettamalla Ruuvi-anturia mobiililaitteellasi.\\n\\n\\t2. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.\\n\\nMikäli pakotettu vaihto epäonnistui tai NFC-ominaisuutta ei ole saatavilla mobiililaitteessasi:\\n\\n\\t1. Avaa Ruuvi-anturin suojakotelo.\\n\\n\\t2. Paikanna valkoisella piirilevyllä oleva pieni musta painike (tai painike \\\"B\\\", mikäli anturissasi on 2 painiketta) ja napauta painiketta lyhyesti pakotetun vaihdon aloittamiseksi.\\n\\n\\t3. Sinut siirretään takaisin Asetukset-sivulle onnistuneen vaihdon päätteeksi.",
       "ru": "",
       "sv": "Tvingat anspråk görs genom att använda närfältskommunikation (NFC). Se till att NFC är aktiverat på din mobil.\\n\\n\\t1. Rör din Ruuvi-givare med din mobila enhet för att starta kravprocessen.\\n\\n\\t2. När det lyckats förs du tillbaka till sensorinställningar.\\n\\nOm det misslyckades eller om NFC inte är tillgängligt på din enhet:\\n\\n\\t1. Öppna locket på sensorn. Leta upp den runda svarta knappen (eller knapp B om din sensor har två knappar) på det vita kretskortet och tryck kort för att starta processen.\\n\\n\\t3. När det har gått igenom framgångsrikt förs du tillbaka till sensorinställningar.",
-      "fr": "",
-      "de": ""
+      "fr": "La réclamation forcée est effectuée en utilisant la communication en champ proche (NFC). Assurez-vous que la NFC est activée sur votre appareil mobile. 1. Touchez le capteur de votre Ruuvi avec votre appareil mobile pour lancer le processus de réclamation.\n\n\n\t2. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur. Si la réclamation n'a pas abouti ou si la technologie NFC n'est pas disponible sur votre appareil : 1. Ouvrez le couvercle de votre capteur Ruuvi. 2. Localisez le bouton rond noir (ou le bouton "B" si votre capteur a 2 boutons) sur la carte de circuit imprimé blanche et appuyez dessus brièvement pour lancer le processus de réclamation.\n\n\t3. Une fois la réclamation réussie, vous serez renvoyé aux paramètres du capteur.",
+      "de": "Die Zwangsanforderung erfolgt über die Nahfeldkommunikation (NFC). Vergewissern Sie sich, dass NFC auf Ihrem Mobilgerät aktiviert ist.\\\n\n\n\t1. Berühren Sie Ihren Ruuvi-Sensor mit Ihrem Mobilgerät, um den Beanspruchungsprozess zu starten.\\n\n\n\t2. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt.\\\n\\\nWenn die Beanspruchung nicht erfolgreich war oder NFC auf Ihrem Gerät nicht verfügbar ist:\\n\\n\t1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors.\\\n\n\n\t2. Suchen Sie die runde schwarze Taste (oder die Taste \\\\"B\\\\", falls Ihr Sensor 2 Tasten hat) auf der weißen Platine und drücken Sie sie kurz, um den Beanspruchungsprozess zu starten.\\\n\\n\\t3. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt."
     },
     {
       "ident_ios": "force_claim",
@@ -8733,8 +8733,8 @@
       "fi": "Vaadi omistajuutta",
       "ru": "",
       "sv": "Tvinga fram anspråk",
-      "fr": "",
-      "de": ""
+      "fr": "Revendication de force",
+      "de": "Kraft-Anspruch"
     },
     {
       "ident_ios": "claim_wrong_sensor_scanned",
@@ -8744,8 +8744,8 @@
       "fi": "Olet lukemassa väärää RuuviTagia",
       "ru": "",
       "sv": "Du skannar fel RuuviTag",
-      "fr": "",
-      "de": ""
+      "fr": "Vous scannez différents RuuviTag",
+      "de": "Sie scannen gerade verschiedene RuuviTag"
     },
     {
       "ident_ios": "view",
@@ -8755,8 +8755,8 @@
       "fi": "Näkymä",
       "ru": "Вид",
       "sv": "Vy",
-      "fr": "",
-      "de": ""
+      "fr": "Voir",
+      "de": "Siehe"
     },
     {
       "ident_ios": "simple_view",
@@ -8766,8 +8766,8 @@
       "fi": "Piilota kuvat",
       "ru": "",
       "sv": "Enkel vy",
-      "fr": "",
-      "de": ""
+      "fr": "Vue simple",
+      "de": "Einfache Ansicht"
     },
     {
       "ident_ios": "image_view",
@@ -8777,8 +8777,8 @@
       "fi": "Näytä kuvat",
       "ru": "",
       "sv": "Bildvy",
-      "fr": "",
-      "de": ""
+      "fr": "Vue de l'image",
+      "de": "Bildansicht"
     },
     {
       "ident_ios": "change_background_message",
@@ -8788,8 +8788,8 @@
       "fi": "Valitse taustakuva. Taustakuva menetetään uudelleenasennuksen yhteydessä, mikäli et ole sisäänkirjautunut sovellukseen.",
       "ru": "",
       "sv": "Välj bakgrundsbild. Om du inte är inloggad kommer du att förlora bilden vid appominstallation.",
-      "fr": "",
-      "de": ""
+      "fr": "Sélectionnez l'image d'arrière-plan. Si vous n'êtes pas connecté, vous perdrez l'image en cas de réinstallation de l'application.",
+      "de": "Wählen Sie das Hintergrundbild. Wenn Sie nicht angemeldet sind, verlieren Sie das Bild bei einer Neuinstallation der App."
     },
     {
       "ident_ios": "take_photo",
@@ -8799,8 +8799,8 @@
       "fi": "Ota kuva",
       "ru": "",
       "sv": "Ta ett foto",
-      "fr": "",
-      "de": ""
+      "fr": "Prenez une photo",
+      "de": "Ein Foto machen"
     },
     {
       "ident_ios": "select_from_gallery",
@@ -8810,8 +8810,8 @@
       "fi": "Valitse kuvagalleriasta",
       "ru": "",
       "sv": "Välj från telefonens galleri",
-      "fr": "",
-      "de": ""
+      "fr": "Sélectionner dans la galerie du téléphone",
+      "de": "Aus der Handy-Galerie auswählen"
     },
     {
       "ident_ios": "select_default_image",
@@ -8821,8 +8821,8 @@
       "fi": "Valitse oletuskuva",
       "ru": "",
       "sv": "Välj bland standardbilder",
-      "fr": "",
-      "de": ""
+      "fr": "Choisir parmi les images par défaut",
+      "de": "Aus Standardbildern auswählen"
     },
     {
       "ident_ios": "export_csv_feature_location",
@@ -8832,8 +8832,8 @@
       "fi": "Anturihistoria voidaan viedä tiedostoon anturin historiasivulla. Napauta oikeassa yläkulmassa olevaa kolmipistevalikkoa ja valitse sitten \\\"Lataa historia (csv)\\\".",
       "ru": "",
       "sv": "Du kan exportera sensorns historik från dess historiagramsida. Tryck på tre punkters menyikon i övre högra hörnet, och välj sedan \\\"Exportera historik (csv)\\\".",
-      "fr": "",
-      "de": ""
+      "fr": "Vous pouvez exporter l'historique d'un capteur à partir de sa page graphique d'historique. Appuyez sur l'icône de menu à trois points dans le coin supérieur droit, puis sélectionnez \\"Exporter l'historique (csv)\".",
+      "de": "Sie können den Verlauf eines Sensors von seiner Verlaufsgrafikseite aus exportieren. Tippen Sie auf das Drei-Punkte-Menüsymbol in der oberen rechten Ecke und wählen Sie dann "Verlauf exportieren (csv)"."
     },
     {
       "ident_ios": "low_battery",
@@ -8843,8 +8843,8 @@
       "fi": "Paristo vähissä",
       "ru": "",
       "sv": "Låg batterinivå",
-      "fr": "",
-      "de": ""
+      "fr": "Batterie faible",
+      "de": "Schwache Batterie"
     },
     {
       "ident_ios": "change_background_image",
@@ -8854,8 +8854,8 @@
       "fi": "Vaihda taustakuva",
       "ru": "Изменить фоновое изображение",
       "sv": "Ändra bakgrundsbild",
-      "fr": "",
-      "de": ""
+      "fr": "Modifier l'image de fond",
+      "de": "Hintergrundbild ändern"
     },
     {
       "ident_ios": "SignIn.Sync.message",
@@ -8865,8 +8865,8 @@
       "fi": "Ladataan tietoja pilvestä. Odota hetki.",
       "ru": "",
       "sv": "Laddar ner data från molnet. Vänta en stund.",
-      "fr": "",
-      "de": ""
+      "fr": "Téléchargement de contenu depuis le cloud. Veuillez patienter.",
+      "de": "Herunterladen von Inhalten aus der Cloud. Bitte warten Sie."
     },
     {
       "ident_ios": "uploading_progress",
@@ -8887,8 +8887,8 @@
       "fi": "Aktivointikoodi",
       "ru": "",
       "sv": "Aktiveringskod",
-      "fr": "",
-      "de": ""
+      "fr": "Code d'activation",
+      "de": "Aktivierungscode"
     },
     {
       "ident_ios": "",
@@ -8898,8 +8898,8 @@
       "fi": "Aktivoi",
       "ru": "",
       "sv": "Aktivera",
-      "fr": "",
-      "de": ""
+      "fr": "Activez",
+      "de": "Aktivierung"
     },
     {
       "ident_ios": "",
@@ -8909,8 +8909,8 @@
       "fi": "Ruuvi-tilauksen päättymispäivä",
       "ru": "",
       "sv": "Ruuvi-prenumerationens utgångsdatum",
-      "fr": "",
-      "de": ""
+      "fr": "Date d'expiration du plan Ruuvi",
+      "de": "Verfallsdatum des Ruuvi-Plans"
     },
     {
       "ident_ios": "",
@@ -8920,8 +8920,8 @@
       "fi": "Nykyinen tilaus",
       "ru": "",
       "sv": "Nuvarande plan",
-      "fr": "",
-      "de": ""
+      "fr": "Plan Ruuvi actuel"",
+      "de": "Aktueller Ruuvi-Plan""
     },
     {
       "ident_ios": "",
@@ -8940,8 +8940,8 @@
       "fi": "Kirjaudu sisään käyttääksesi widgettiä.",
       "ru": "",
       "sv": "Logga in för att använda widgeten.",
-      "fr": "",
-      "de": ""
+      "fr": "Connectez-vous pour utiliser le widget.Connectez-vous pour utiliser le widget.",
+      "de": "Melden Sie sich an, um das Widget zu verwenden."
     },
     {
       "ident_ios": "Widgets.Unauthorized.Inline.message",
@@ -8951,8 +8951,8 @@
       "fi": "Kirjaudu Ruuvi Stationiin",
       "ru": "",
       "sv": "Logga in till Ruuvi Station",
-      "fr": "",
-      "de": ""
+      "fr": "Connectez-vous à la station Ruuvi",
+      "de": "Anmeldung bei Ruuvi Station"
     },
     {
       "ident_ios": "Widgets.Unconfigured.Simple.message",
@@ -8973,8 +8973,8 @@
       "fi": "Lisää Ruuvi widgetissä näytettävä anturi",
       "ru": "",
       "sv": "Välj sensorn som ska visas i Ruuvi widgeten",
-      "fr": "",
-      "de": ""
+      "fr": "Appuyez sur le bouton pour modifier le widget.",
+      "de": "Tippen Sie auf , um das Widget zu bearbeiten."
     },
     {
       "ident_ios": "Widgets.Unconfigured.Inline.message",
@@ -8984,8 +8984,8 @@
       "fi": "Lisää Ruuvi widgetissä näytettävä anturi",
       "ru": "",
       "sv": "Välj sensorn som ska visas i Ruuvi widgeten",
-      "fr": "",
-      "de": ""
+      "fr": "Ajouter un capteur pour utiliser le widget Ruuvi",
+      "de": "Sensor hinzufügen, um Ruuvi Widget zu verwenden"
     },
     {
       "ident_ios": "Widgets.Unconfigured.Circular.message",
@@ -8995,8 +8995,8 @@
       "fi": "+Lisää",
       "ru": "",
       "sv": "+Lägg till",
-      "fr": "",
-      "de": ""
+      "fr": "+Ajouter",
+      "de": "+Hinzufügen"
     },
     {
       "ident_ios": "Settings.SectionHeader.General.title",
@@ -9028,8 +9028,8 @@
       "fi": "Kaavionäkymä",
       "ru": "",
       "sv": "Grafvy",
-      "fr": "",
-      "de": ""
+      "fr": "Vue graphique",
+      "de": "Graphische Ansicht"
     },
     {
       "ident_ios": "",
@@ -9039,8 +9039,8 @@
       "fi": "tilaus aktivoitu",
       "ru": "",
       "sv": "prenumeration aktiverad",
-      "fr": "",
-      "de": ""
+      "fr": "abonnement activé",
+      "de": "Abonnement aktiviert"
     },
     {
       "ident_ios": "",
@@ -9050,8 +9050,8 @@
       "fi": "Ota hälytykset käyttöön ottamalla ensin ilmoitukset käyttöön asetuksista",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Pour activer les alertes, veuillez autoriser les notifications dans les paramètres.",
+      "de": "Um Benachrichtigungen zu aktivieren, erlauben Sie bitte Benachrichtigungen in den Einstellungen"
     },
     {
       "ident_ios": "",
@@ -9061,8 +9061,8 @@
       "fi": "Ei tallennettuja mittauksia \\nvalitulla aikajaksolla.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Aucune donnée disponible dans la fenêtre d'historique sélectionnée.",
+      "de": "Im gewählten Verlaufsfenster sind keine Daten verfügbar."
     },
     {
       "ident_ios": "",
@@ -9083,8 +9083,8 @@
       "fi": "Kaikki Ruuvi-anturisi tiedot yhdestä sovelluksesta.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Avec les capteurs Ruuvi et l'application Ruuvi.",
+      "de": "Mit Ruuvi-Sensoren und Ruuvi-App."
     },
     {
       "ident_ios": "",
@@ -9094,8 +9094,8 @@
       "fi": "Jatka pyyhkäisemällä. →",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Balayez pour continuer. →",
+      "de": "Wischen Sie zum Fortfahren. →"
     },
     {
       "ident_ios": "",
@@ -9116,8 +9116,8 @@
       "fi": "Bluetooth-yhteydellä tai pilvestä",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Via Bluetooth ou depuis le cloud",
+      "de": "Über Bluetooth oder aus der Cloud"
     },
     {
       "ident_ios": "",
@@ -9127,8 +9127,8 @@
       "fi": "Reaaliaikaiset anturitiedot kätevästi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Suivez les mesures sur un",
+      "de": "Verfolgen Sie die Messungen auf einem praktischen"
     },
     {
       "ident_ios": "",
@@ -9138,8 +9138,8 @@
       "fi": "Koontinäytöltä",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Tableau de bord",
+      "de": "Dashboard"
     },
     {
       "ident_ios": "",
@@ -9149,8 +9149,8 @@
       "fi": "Sinun näköisesi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Personnalisez",
+      "de": "Personalisieren"
     },
     {
       "ident_ios": "",
@@ -9160,8 +9160,8 @@
       "fi": "Sovellus",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Vos capteurs",
+      "de": "Ihre Sensoren"
     },
     {
       "ident_ios": "",
@@ -9171,8 +9171,8 @@
       "fi": "Yksityiskohtainen 10 päivän",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Exploration détaillée 10 jours",
+      "de": "Detaillierte Entdeckungen 10 Tage"
     },
     {
       "ident_ios": "",
@@ -9182,8 +9182,8 @@
       "fi": "Historia",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Historique",
+      "de": "Verlauf"
     },
     {
       "ident_ios": "",
@@ -9193,8 +9193,8 @@
       "fi": "Aseta kustomoituja",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Définir la personnalisation",
+      "de": "Benutzerdefiniert einstellen"
     },
     {
       "ident_ios": "",
@@ -9204,8 +9204,8 @@
       "fi": "Hälytyksiä",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Alertes",
+      "de": "Warnungen"
     },
     {
       "ident_ios": "",
@@ -9215,8 +9215,8 @@
       "fi": "Lisää hauskoja",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Amusez-vous avec la personnalisation",
+      "de": "Viel Spaß mit maßgeschneiderten"
     },
     {
       "ident_ios": "",
@@ -9226,8 +9226,8 @@
       "fi": "Hälytysviestejä",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Messages",
+      "de": "Nachrichten"
     },
     {
       "ident_ios": "",
@@ -9237,8 +9237,8 @@
       "fi": "Jaa antureita",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Partagez vos capteurs",
+      "de": "Teilen Sie Ihre Sensoren"
     },
     {
       "ident_ios": "",
@@ -9248,8 +9248,8 @@
       "fi": "Käytä sinulle jaettuja antureita kuin omiasi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Les actionnaires peuvent utiliser les capteurs comme s'il s'agissait des leurs.",
+      "de": "Die Teilnehmer können die Sensoren wie ihre eigenen verwenden"
     },
     {
       "ident_ios": "",
@@ -9259,8 +9259,8 @@
       "fi": "Kätevät widgetit",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Widgets pratiques",
+      "de": "Praktische Widgets"
     },
     {
       "ident_ios": "",
@@ -9281,8 +9281,8 @@
       "fi": "Ruuvi Station verkossa",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Accédez à vos capteurs favoris directement depuis votre écran d'accueil",
+      "de": "Zugriff auf Ihre Lieblingssensoren direkt von Ihrem Startbildschirm aus"
     },
     {
       "ident_ios": "",
@@ -9292,8 +9292,8 @@
       "fi": "Koontikäyttö, usean vuoden historian tallennus, sähköpostihälytykset ja paljon muuta",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Grand tableau de bord, historique sur plusieurs années, alertes par courriel, etc.",
+      "de": "Großes Dashboard, mehrjähriger Verlauf, E-Mail-Warnungen und mehr"
     },
     {
       "ident_ios": "",
@@ -9303,8 +9303,8 @@
       "fi": "Tarvitset langattoman Ruuvi Gateway -reitittimen.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Nécessite un routeur de capteurs sans fil Ruuvi Gateway.",
+      "de": "Erfordert einen drahtlosen Sensor-Router Ruuvi Gateway."
     },
     {
       "ident_ios": "",
@@ -9314,8 +9314,8 @@
       "fi": "Ohita",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Skip",
+      "de": "Überspringen"
     },
     {
       "ident_ios": "",
@@ -9325,8 +9325,8 @@
       "fi": "Kirjautunut",
       "ru": "",
       "sv": "Inloggad",
-      "fr": "",
-      "de": ""
+      "fr": "Utilisateur connecté",
+      "de": "Angemeldeter Benutzer"
     },
     {
       "ident_ios": "",
@@ -9336,8 +9336,8 @@
       "fi": "Tietoja",
       "ru": "",
       "sv": "Information",
-      "fr": "",
-      "de": ""
+      "fr": "Information",
+      "de": "Information"
     },
     {
       "ident_ios": "",
@@ -9347,8 +9347,9 @@
       "fi": "Syötä aktivointikoodi",
       "ru": "",
       "sv": "Ange aktiveringskod",
+      "fr": "code d'activation",
       "fr": "",
-      "de": ""
+      "de": "Aktivierungscode eingeben"
     },
     {
       "ident_ios": "",
@@ -9358,8 +9359,8 @@
       "fi": "Tämä on täysin ilmainen sovellus, joka ei tue kuukausitilausten ostoja tai muita sovelluksen sisäisiä ostoja. Mikäli olet Ruuvi Gateway -reitittimen käyttäjä ja etsit tarkempia Ruuvi-tilisi tietoja, siirry kotisivuillemme ja kirjaudu sisään.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Il s'agit d'une application entièrement gratuite qui ne prend pas en charge les achats d'abonnements mensuels ou autres achats in-app. Si vous êtes un utilisateur du routeur Ruuvi Gateway et que vous recherchez des informations plus détaillées sur votre compte Ruuvi, rendez-vous sur notre site Web et connectez-vous.",
+      "de": "Dies ist eine völlig kostenlose App, die keine monatlichen Abonnementkäufe oder andere In-App-Käufe unterstützt. Wenn Sie ein Nutzer des Ruuvi Gateway Routers sind und detailliertere Informationen über Ihr Ruuvi Konto suchen, gehen Sie auf unsere Website und melden Sie sich an."
     }
   ]
 }
