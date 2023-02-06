@@ -9360,6 +9360,17 @@
       "sv": "",
       "fr": "Il s'agit d'une application entièrement gratuite qui ne prend pas en charge les achats d'abonnements mensuels ou autres achats in-app. Si vous êtes un utilisateur du routeur Ruuvi Gateway et que vous recherchez des informations plus détaillées sur votre compte Ruuvi, rendez-vous sur notre site Web et connectez-vous.",
       "de": "Dies ist eine völlig kostenlose App, die keine monatlichen Abonnementkäufe oder andere In-App-Käufe unterstützt. Wenn Sie ein Nutzer des Ruuvi Gateway Routers sind und detailliertere Informationen über Ihr Ruuvi Konto suchen, gehen Sie auf unsere Website und melden Sie sich an."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "plan_activation_confirmation",
+      "en": "Important!\n\nMake sure you are activating the correct type of subscription!\n\nEntering a code for a different type of Ruuvi Cloud plan than the one currently active overrides the currently active plan immediately and you will lose remaining period of the currently active plan. If your code is for same subscription type your current plan's expiration date will be extended.",
+      "fi": "Tärkeää!\n\nVarmista, että olet aktivoimassa oikean tyyppisen tilauksen!\n\nEri tyyppisen Ruuvi Cloud -tilauskoodin syöttäminen korvaa ja päättää nykyisen tyyppisen aktiivisen tilauksen välittömästi ja menetät aktiivisena olevan tilauksen jäljellä olevan käyttöajan. Mikäli aktivointikoodisi on nykyisen tilaustyypin mukainen koodin aktivointi siirtää nykyisen tilauksen päättymispäivää koodin mukaisesti.",
+      "ru": "",
+      "sv": "Viktigt!\n\nSe till att du aktiverar rätt typ av prenumeration!\n\nGenom att ange en kod för en annan typ av Ruuvi Cloud-plan än den som för närvarande är aktiv, ersätts den aktuella planen omedelbart och du kommer att förlora den återstående tiden av den aktuella planen. Om din kod är för samma prenumerationstyp, kommer den aktuella planens utgångsdatum att förlängas.",
+      "fr": "",
+      "de": ""
     }
   ]
 }
