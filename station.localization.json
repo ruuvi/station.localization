@@ -8335,7 +8335,7 @@
       "ident_webui": "",
       "en": "1 day",
       "fi": "1 päivä",
-      "ru": "",
+      "ru": "1 день",
       "sv": "1 dag",
       "fr": "1 jour",
       "de": "1 Tag"
@@ -8346,7 +8346,7 @@
       "ident_webui": "",
       "en": "2 days",
       "fi": "2 päivää",
-      "ru": "",
+      "ru": "2 дня",
       "sv": "2 dagar",
       "fr": "2 jours",
       "de": "2 Tage"
@@ -8357,7 +8357,7 @@
       "ident_webui": "",
       "en": "3 days",
       "fi": "3 päivää",
-      "ru": "",
+      "ru": "3 дня",
       "sv": "3 dagar",
       "fr": "3 jours",
       "de": "3 Tage"
@@ -8368,7 +8368,7 @@
       "ident_webui": "",
       "en": "4 days",
       "fi": "4 päivää",
-      "ru": "",
+      "ru": "4 дня",
       "sv": "4 dagar",
       "fr": "4 jours",
       "de": "4 Tage"
@@ -8379,7 +8379,7 @@
       "ident_webui": "",
       "en": "5 days",
       "fi": "5 päivää",
-      "ru": "",
+      "ru": "5 дней",
       "sv": "5 dagar",
       "fr": "5 jours",
       "de": "5 Tage"
@@ -8390,7 +8390,7 @@
       "ident_webui": "",
       "en": "6 days",
       "fi": "6 päivää",
-      "ru": "",
+      "ru": "6 дней",
       "sv": "6 dagar",
       "fr": "6 jours",
       "de": "6 Tage"
@@ -8401,7 +8401,7 @@
       "ident_webui": "",
       "en": "7 days",
       "fi": "7 päivää",
-      "ru": "",
+      "ru": "7 дней",
       "sv": "7 dagar",
       "fr": "7 jours",
       "de": "7 Tage"
@@ -8412,10 +8412,10 @@
       "ident_webui": "",
       "en": "8 days",
       "fi": "8 päivää",
-      "ru": "",
+      "ru": "8 дней",
       "sv": "8 dagar",
       "fr": "8 jours",
-      "de": "Tage"
+      "de": "8 Tage"
     },
     {
       "ident_ios": "day_9",
@@ -8423,10 +8423,10 @@
       "ident_webui": "",
       "en": "9 days",
       "fi": "9 päivää",
-      "ru": "",
+      "ru": "9 дней",
       "sv": "9 dagar",
-      "fr": "",
-      "de": ""
+      "fr": "9 jours",
+      "de": "9 Tage"
     },
     {
       "ident_ios": "day_10",
@@ -8434,7 +8434,7 @@
       "ident_webui": "",
       "en": "10 days",
       "fi": "10 päivää",
-      "ru": "",
+      "ru": "10 дней",
       "sv": "10 dagar",
       "fr": "10 jours",
       "de": "10 Tage"
