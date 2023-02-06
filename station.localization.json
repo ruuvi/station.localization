@@ -1802,7 +1802,7 @@
       "ru": "",
       "sv": "Parat och bakgrundsskanning på",
       "fr": "Pairé et le scan de fond est activé",
-      "de": "Gekoppelt und Hintergrundsuche ist eingeschaltet"
+      "de": "Gekoppelt und aktiviert"
     },
     {
       "ident_ios": "TagSettings.PairAndBackgroundScan.description",
@@ -2726,7 +2726,7 @@
       "ru": "Напряжение Батареи",
       "sv": "Batterispänning",
       "fr": "Tension de la pile",
-      "de": "Battery Voltage"
+      "de": "Batteriespannung"
     },
     {
       "ident_ios": "HumidityCalibration.Button.Calibrate.title",
@@ -2991,7 +2991,7 @@
       "ru": "Отсоединен",
       "sv": "Frånkopplad",
       "fr": "Déconnecté",
-      "de": "Disconnected"
+      "de": "Getrennt"
     },
     {
       "ident_ios": "TagCharts.Export.title",
@@ -3057,7 +3057,7 @@
       "ru": "https://your.gateway/...",
       "sv": "https://din.server/...",
       "fr": "https://mon.routeur/...",
-      "de": "https://your.gateway/..."
+      "de": "https://dein.gateway/..."
     },
     {
       "ident_ios": "",
@@ -3452,8 +3452,8 @@
       "fi": "Osta Ruuvi-antureita",
       "ru": "Купить датчики Ruuvi",
       "sv": "Köp Ruuvi-sensorer",
-      "fr": "Acheter des capteurs Ruuvi",
-      "de": "Ruuvi Sensoren kaufen"
+      "fr": "Acheter des capteurs",
+      "de": "Sensoren kaufen"
     },
     {
       "ident_ios": "",
@@ -5037,8 +5037,8 @@
       "fi": "Tiedot",
       "ru": "Подробнее",
       "sv": "Info",
-      "fr": "Details",
-      "de": "Details"
+      "fr": "Détails",
+      "de": "Einzelheiten"
     },
     {
       "ident_ios": "ruuvi_cloud",
@@ -8150,7 +8150,7 @@
       "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin tai hälytyksiin.",
       "ru": "",
       "sv": "Välj hur exakt du vill se sensorernas livemätvärden i appen. Den här inställningen påverkar inte histogram eller varningar.",
-      "fr": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme.",
+      "fr": "Sélectionnez la précision avec laquelle vous souhaitez voir les valeurs de mesure en direct des capteurs dans l'application. Ce paramètre n'affecte pas les graphiques d'historique ni les alertes.",
       "de": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme."
     },
     {
@@ -8546,8 +8546,8 @@
       "fi": "Voit ladata anturin sisäisen historian ollessasi Bluetooth-kantaman sisällä.",
       "ru": "",
       "sv": "Lokal sensordata kan laddas ner när du är inom Bluetooth-räckvidd.",
-      "fr": "",
-      "de": ""
+      "fr": "Les données du capteur local peuvent être téléchargées lorsque vous êtes dans sa portée Bluetooth.",
+      "de": "Lokale Sensordaten können heruntergeladen werden, wenn Sie sich in Bluetooth-Reichweite befinden."
     },
     {
       "ident_ios": "download",
