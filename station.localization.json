@@ -7667,7 +7667,7 @@
       "ru": "Выберите датчик",
       "sv": "Välj sensor",
       "fr": "Choisissez le capteur",
-      "de": ""
+      "de": "Sensor auswählen"
     },
     {
       "ident_ios": "Cards.Movements.title",
@@ -7678,7 +7678,7 @@
       "ru": "движений",
       "sv": "rörelser",
       "fr": "mouvements",
-      "de": "Sensor auswählen"
+      "de": "bewegungen"
     },
     {
       "ident_ios": "",
