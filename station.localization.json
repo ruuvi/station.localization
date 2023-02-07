@@ -4196,12 +4196,12 @@
       "ident_ios": "ChartSettings.AllPoints.description",
       "ident_android": "settings_chart_all_points_description",
       "ident_webui": "",
-      "en": "Enabling it may cause charts to update slowly",
-      "fi": "Ominaisuuden käyttäminen saattaa hidastaa historiatietojen päivittymistä",
-      "ru": "Это может привести к медленному обновлению графиков",
-      "sv": "Den här funktionen kan göra appen laddar historik långsammare",
-      "fr": "L'utilisation de cette fonction peut ralentir la mise à jour de l'histogramme",
-      "de": "Die Aktivierung kann dazu führen, dass Diagramme langsam aktualisiert werden"
+      "en": "Enabling it may cause charts to update slowly.",
+      "fi": "Ominaisuuden käyttäminen saattaa hidastaa historiatietojen päivittymistä.",
+      "ru": "Это может привести к медленному обновлению графиков.",
+      "sv": "Den här funktionen kan göra appen laddar historik långsammare.",
+      "fr": "L'utilisation de cette fonction peut ralentir la mise à jour de l'histogramme.",
+      "de": "Die Aktivierung kann dazu führen, dass Diagramme langsam aktualisiert werden."
     },
     {
       "ident_ios": "",
@@ -4362,12 +4362,12 @@
       "ident_ios": "Settings.ChooseHumidityUnit.text",
       "ident_android": "settings_humidity_unit_details",
       "ident_webui": "",
-      "en": "Choose the humidity unit you want to be displayed",
-      "fi": "Valitse sovelluksessa käytettävä kosteusyksikkö",
-      "ru": "Выберите единицу измерения влажности для отображения",
-      "sv": "Välj den fuktighetsenhet som du vill ska visas",
-      "fr": "Choisissez l'unité souhaitée pour l'humidité",
-      "de": "Wählen Sie die Luftfeuchtigkeitseinheit aus, die angezeigt werden soll"
+      "en": "Choose the humidity unit you want to be displayed.",
+      "fi": "Valitse sovelluksessa käytettävä kosteusyksikkö.",
+      "ru": "Выберите единицу измерения влажности для отображения.",
+      "sv": "Välj den fuktighetsenhet som du vill ska visas.",
+      "fr": "Choisissez l'unité souhaitée pour l'humidité.",
+      "de": "Wählen Sie die Luftfeuchtigkeitseinheit aus, die angezeigt werden soll."
     },
     {
       "ident_ios": "Settings.Label.PressureUnit.text",
@@ -4465,8 +4465,8 @@
       "fi": "Synkronoi",
       "ru": "Скачать",
       "sv": "Synk",
-      "fr": "Synchronisation",
-      "de": "Synchronisieren"
+      "fr": "Synchroniser",
+      "de": "Sync"
     },
     {
       "ident_ios": "",
