@@ -9371,6 +9371,237 @@
       "sv": "Viktigt!\n\nSe till att du aktiverar rätt typ av prenumeration!\n\nGenom att ange en kod för en annan typ av Ruuvi Cloud-plan än den som för närvarande är aktiv, ersätts den aktuella planen omedelbart och du kommer att förlora den återstående tiden av den aktuella planen. Om din kod är för samma prenumerationstyp, kommer den aktuella planens utgångsdatum att förlängas.",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_or_create_free_account",
+      "ident_webui": "",
+      "en": "Sign in or create a free account",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "to_use_all_app_features",
+      "ident_webui": "",
+      "en": "To use all features and to verify ownership of your sensors",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "type_your_email",
+      "ident_webui": "",
+      "en": "Type your email..",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "request_code",
+      "ident_webui": "",
+      "en": "Request Code",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "no_password_needed",
+      "ident_webui": "",
+      "en": "No password is needed.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "use_without_account",
+      "ident_webui": "",
+      "en": "Use without an account",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "why_should_sign_in",
+      "ident_webui": "",
+      "en": "Why Should I Sign in?",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sensors_ownership_and_settings_stored_in_cloud",
+      "ident_webui": "",
+      "en": "Sensor's ownerships and settings will be safely stored in Ruuvi Cloud.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_ownerships",
+      "ident_webui": "",
+      "en": "Sensor ownerships",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_names",
+      "ident_webui": "",
+      "en": "Sensor names",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_alerts",
+      "ident_webui": "",
+      "en": "Alerts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_backgrounds",
+      "ident_webui": "",
+      "en": "Background images",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_calibration",
+      "ident_webui": "",
+      "en": "Calibration settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "cloud_stored_sharing",
+      "ident_webui": "",
+      "en": "Sharing settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "note",
+      "ident_webui": "",
+      "en": "Note!",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "note",
+      "ident_webui": "",
+      "en": "Note!",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "claim_warning",
+      "ident_webui": "",
+      "en": "If you don't claim ownership of your sensors, they can be claimed by unwanted third parties.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "lets_do_it",
+      "ident_webui": "",
+      "en": "Let's do it!",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "enter_code",
+      "ident_webui": "",
+      "en": "Enter Code",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "dashboard_no_sensors_message",
+      "ident_webui": "",
+      "en": "Seems that you don't have any Ruuvi sensors added yet.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "add_your_first_sensor",
+      "ident_webui": "",
+      "en": "Add Your First Sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
