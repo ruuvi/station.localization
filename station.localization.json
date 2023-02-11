@@ -9065,7 +9065,7 @@
       "de": "Im gewählten Verlaufsfenster sind keine Daten verfügbar."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_measure_your_world",
       "ident_android": "onboarding_measure_your_world",
       "ident_webui": "",
       "en": "Measure Your World",
@@ -9076,7 +9076,7 @@
       "de": "Measure Your World"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_with_ruuvi_sensors",
       "ident_android": "onboarding_with_ruuvi_sensors",
       "ident_webui": "",
       "en": "With Ruuvi sensors and Ruuvi app.",
@@ -9087,7 +9087,7 @@
       "de": "Mit Ruuvi-Sensoren und Ruuvi-App."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_swipe_to_continue",
       "ident_android": "onboarding_swipe_to_continue",
       "ident_webui": "",
       "en": "Swipe to continue. →",
@@ -9098,7 +9098,7 @@
       "de": "Wischen Sie zum Fortfahren. →"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_read_sensors_data",
       "ident_android": "onboarding_read_sensors_data",
       "ident_webui": "",
       "en": "Read Sensor's Data",
@@ -9109,7 +9109,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_via_bluetooth_or_cloud",
       "ident_android": "onboarding_via_bluetooth_or_cloud",
       "ident_webui": "",
       "en": "Via Bluetooth or from the cloud",
@@ -9120,7 +9120,7 @@
       "de": "Über Bluetooth oder aus der Cloud"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_follow_measurement",
       "ident_android": "onboarding_follow_measurement",
       "ident_webui": "",
       "en": "Follow measurements on a convenient",
@@ -9131,7 +9131,7 @@
       "de": "Verfolgen Sie die Messungen auf einem praktischen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_dashboard",
       "ident_android": "onboarding_dashboard",
       "ident_webui": "",
       "en": "Dashboard",
@@ -9142,7 +9142,7 @@
       "de": "Dashboard"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_personalise",
       "ident_android": "onboarding_personalise",
       "ident_webui": "",
       "en": "Personalise",
@@ -9153,7 +9153,7 @@
       "de": "Personalisieren"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_your_sensors",
       "ident_android": "onboarding_your_sensors",
       "ident_webui": "",
       "en": "Your Sensors",
@@ -9164,7 +9164,7 @@
       "de": "Ihre Sensoren"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_explore_detailed",
       "ident_android": "onboarding_explore_detailed",
       "ident_webui": "",
       "en": "Explore detailed 10 days",
@@ -9175,7 +9175,7 @@
       "de": "Detaillierte Entdeckungen 10 Tage"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_history",
       "ident_android": "onboarding_history",
       "ident_webui": "",
       "en": "History",
@@ -9186,7 +9186,7 @@
       "de": "Verlauf"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_set_custom",
       "ident_android": "onboarding_set_custom",
       "ident_webui": "",
       "en": "Set custom",
@@ -9197,7 +9197,7 @@
       "de": "Benutzerdefiniert einstellen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_alerts",
       "ident_android": "onboarding_alerts",
       "ident_webui": "",
       "en": "Alerts",
@@ -9208,7 +9208,7 @@
       "de": "Warnungen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_have_fun",
       "ident_android": "onboarding_have_fun",
       "ident_webui": "",
       "en": "Have fun with customised",
@@ -9219,7 +9219,7 @@
       "de": "Viel Spaß mit maßgeschneiderten"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_messages",
       "ident_android": "onboarding_messages",
       "ident_webui": "",
       "en": "Messages",
@@ -9230,7 +9230,7 @@
       "de": "Nachrichten"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_share_your_sensors",
       "ident_android": "onboarding_share_your_sensors",
       "ident_webui": "",
       "en": "Share your sensors",
@@ -9241,7 +9241,7 @@
       "de": "Teilen Sie Ihre Sensoren"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_sharees_can_use",
       "ident_android": "onboarding_sharees_can_use",
       "ident_webui": "",
       "en": "Sharees can use the sensors as they were their own",
@@ -9252,7 +9252,7 @@
       "de": "Die Teilnehmer können die Sensoren wie ihre eigenen verwenden"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_handy_widgets",
       "ident_android": "onboarding_handy_widgets",
       "ident_webui": "",
       "en": "Handy Widgets",
@@ -9263,7 +9263,7 @@
       "de": "Praktische Widgets"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_access_widgets",
       "ident_android": "onboarding_access_widgets",
       "ident_webui": "",
       "en": "Access your favourite sensors right from your home screen",
@@ -9274,7 +9274,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_station_web",
       "ident_android": "onboarding_station_web",
       "ident_webui": "",
       "en": "Ruuvi Station on The Web",
@@ -9285,7 +9285,7 @@
       "de": "Zugriff auf Ihre Lieblingssensoren direkt von Ihrem Startbildschirm aus"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_web_pros",
       "ident_android": "onboarding_web_pros",
       "ident_webui": "",
       "en": "Large dashboard, multi-year history, email alerts and more",
@@ -9296,7 +9296,7 @@
       "de": "Großes Dashboard, mehrjähriger Verlauf, E-Mail-Warnungen und mehr"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_gateway_required",
       "ident_android": "onboarding_gateway_required",
       "ident_webui": "",
       "en": "Requires a Ruuvi Gateway wireless sensor router.",
@@ -9307,7 +9307,7 @@
       "de": "Erfordert einen drahtlosen Sensor-Router Ruuvi Gateway."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "onboarding_skip",
       "ident_android": "onboarding_skip",
       "ident_webui": "",
       "en": "Skip",
@@ -9373,7 +9373,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sign_in_or_create_free_account",
       "ident_android": "sign_in_or_create_free_account",
       "ident_webui": "",
       "en": "Sign in or create a free account",
@@ -9384,7 +9384,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "to_use_all_app_features",
       "ident_android": "to_use_all_app_features",
       "ident_webui": "",
       "en": "To use all features and to verify ownership of your sensors",
@@ -9395,7 +9395,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "type_your_email",
       "ident_android": "type_your_email",
       "ident_webui": "",
       "en": "Type your email..",
@@ -9406,7 +9406,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "request_code",
       "ident_android": "request_code",
       "ident_webui": "",
       "en": "Request Code",
@@ -9417,7 +9417,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "no_password_needed",
       "ident_android": "no_password_needed",
       "ident_webui": "",
       "en": "No password is needed.",
@@ -9428,7 +9428,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "use_without_account",
       "ident_android": "use_without_account",
       "ident_webui": "",
       "en": "Use without an account",
@@ -9439,7 +9439,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "why_should_sign_in",
       "ident_android": "why_should_sign_in",
       "ident_webui": "",
       "en": "Why Should I Sign in?",
@@ -9450,7 +9450,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sensors_ownership_and_settings_stored_in_cloud",
       "ident_android": "sensors_ownership_and_settings_stored_in_cloud",
       "ident_webui": "",
       "en": "Sensor's ownerships and settings will be safely stored in Ruuvi Cloud.",
@@ -9461,7 +9461,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_ownerships",
       "ident_android": "cloud_stored_ownerships",
       "ident_webui": "",
       "en": "Sensor ownerships",
@@ -9472,7 +9472,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_names",
       "ident_android": "cloud_stored_names",
       "ident_webui": "",
       "en": "Sensor names",
@@ -9483,7 +9483,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_alerts",
       "ident_android": "cloud_stored_alerts",
       "ident_webui": "",
       "en": "Alerts",
@@ -9494,7 +9494,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_backgrounds",
       "ident_android": "cloud_stored_backgrounds",
       "ident_webui": "",
       "en": "Background images",
@@ -9505,7 +9505,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_calibration",
       "ident_android": "cloud_stored_calibration",
       "ident_webui": "",
       "en": "Calibration settings",
@@ -9516,7 +9516,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "cloud_stored_sharing",
       "ident_android": "cloud_stored_sharing",
       "ident_webui": "",
       "en": "Sharing settings",
@@ -9538,18 +9538,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
-      "ident_android": "note",
-      "ident_webui": "",
-      "en": "Note!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
-    },
-    {
-      "ident_ios": "",
+      "ident_ios": "claim_warning",
       "ident_android": "claim_warning",
       "ident_webui": "",
       "en": "If you don't claim ownership of your sensors, they can be claimed by unwanted third parties.",
@@ -9560,7 +9549,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "lets_do_it",
       "ident_android": "lets_do_it",
       "ident_webui": "",
       "en": "Let's do it!",
@@ -9571,7 +9560,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "enter_code",
       "ident_android": "enter_code",
       "ident_webui": "",
       "en": "Enter Code",
@@ -9582,7 +9571,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "dashboard_no_sensors_message",
       "ident_android": "dashboard_no_sensors_message",
       "ident_webui": "",
       "en": "Seems that you don't have any Ruuvi sensors added yet.",
@@ -9593,7 +9582,7 @@
       "de": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "add_your_first_sensor",
       "ident_android": "add_your_first_sensor",
       "ident_webui": "",
       "en": "Add Your First Sensor",
