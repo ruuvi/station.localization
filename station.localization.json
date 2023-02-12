@@ -8999,6 +8999,28 @@
       "de": "+Hinzufügen"
     },
     {
+      "ident_ios": "Widgets.Select.Sensor.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Selected Ruuvi sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Widgets.Sensor.Type.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Selected sensor type",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Settings.SectionHeader.General.title",
       "ident_android": "",
       "ident_webui": "",
@@ -9316,6 +9338,39 @@
       "sv": "",
       "fr": "Skip",
       "de": "Überspringen"
+    },
+    {
+      "ident_ios": "onboarding_thats_it",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "That's it.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "onboarding_go_to_sign_in",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Let's go sign in.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "onboarding_continue",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Continue",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "",
