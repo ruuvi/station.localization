@@ -9519,67 +9519,67 @@
       "ident_ios": "cloud_stored_ownerships",
       "ident_android": "cloud_stored_ownerships",
       "ident_webui": "",
-      "en": "Sensor ownerships",
-      "fi": "Antureiden omistajuudet",
+      "en": "● Sensor ownerships",
+      "fi": "● Antureiden omistajuudet",
       "ru": "",
       "sv": "",
-      "fr": "Propriété des capteurs",
-      "de": "Sensorbesitz"
+      "fr": "● Propriété des capteurs",
+      "de": "● Sensorbesitz"
     },
     {
       "ident_ios": "cloud_stored_names",
       "ident_android": "cloud_stored_names",
       "ident_webui": "",
-      "en": "Sensor names",
-      "fi": "Anturinimet",
+      "en": "● Sensor names",
+      "fi": "● Anturinimet",
       "ru": "",
       "sv": "",
-      "fr": "Noms des capteurs",
-      "de": "Sensornamen"
+      "fr": "● Noms des capteurs",
+      "de": "● Sensornamen"
     },
     {
       "ident_ios": "cloud_stored_alerts",
       "ident_android": "cloud_stored_alerts",
       "ident_webui": "",
-      "en": "Alerts",
-      "fi": "Hälytykset",
+      "en": "● Alerts",
+      "fi": "● Hälytykset",
       "ru": "",
       "sv": "",
-      "fr": "Alertes",
-      "de": "Warnungen"
+      "fr": "● Alertes",
+      "de": "● Warnungen"
     },
     {
       "ident_ios": "cloud_stored_backgrounds",
       "ident_android": "cloud_stored_backgrounds",
       "ident_webui": "",
-      "en": "Background images",
-      "fi": "Taustakuvat",
+      "en": "● Background images",
+      "fi": "● Taustakuvat",
       "ru": "",
       "sv": "",
-      "fr": "Images d'arrière-plan",
-      "de": "Hintergrundbilder"
+      "fr": "● Images d'arrière-plan",
+      "de": "● Hintergrundbilder"
     },
     {
       "ident_ios": "cloud_stored_calibration",
       "ident_android": "cloud_stored_calibration",
       "ident_webui": "",
-      "en": "Calibration settings",
-      "fi": "Kalibrointiasetukset",
+      "en": "● Calibration settings",
+      "fi": "● Kalibrointiasetukset",
       "ru": "",
       "sv": "",
-      "fr": "Paramètres d'étalonnage",
-      "de": "Kalibrierungseinstellungen"
+      "fr": "● Paramètres d'étalonnage",
+      "de": "● Kalibrierungseinstellungen"
     },
     {
       "ident_ios": "cloud_stored_sharing",
       "ident_android": "cloud_stored_sharing",
       "ident_webui": "",
-      "en": "Sharing settings",
-      "fi": "Jako-asetukset",
+      "en": "● Sharing settings",
+      "fi": "● Jako-asetukset",
       "ru": "",
       "sv": "",
-      "fr": "Paramètres de partage",
-      "de": "Einstellungen teilen"
+      "fr": "● Paramètres de partage",
+      "de": "● Einstellungen teilen"
     },
     {
       "ident_ios": "",
