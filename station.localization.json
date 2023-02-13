@@ -9003,22 +9003,22 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Selected Ruuvi sensor",
-      "fi": "",
+      "fi": "Valittu anturi",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Vald Ruuvi sensor",
+      "fr": "Capteur Ruuvi sélectionné",
+      "de": "Ausgewählter Ruuvi-Sensor"
     },
     {
       "ident_ios": "Widgets.Sensor.Type.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Selected sensor type",
-      "fi": "",
+      "fi": "Valitse anturin tyyppi",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Vald sensortyp",
+      "fr": "Type de capteur sélectionné",
+      "de": "Ausgewählter Sensortyp"
     },
     {
       "ident_ios": "Settings.SectionHeader.General.title",
