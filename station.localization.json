@@ -9292,8 +9292,8 @@
       "fi": "Lisää suosikkianturisi kotinäytölle",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Accédez à vos capteurs préférés directement depuis votre écran d'accueil",
+      "de": "Greifen Sie direkt von Ihrem Startbildschirm aus auf Ihre bevorzugten Sensoren zu"
     },
     {
       "ident_ios": "onboarding_station_web",
@@ -9344,33 +9344,33 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "That's it.",
-      "fi": "",
+      "fi": "Valmista.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Prêt!",
+      "de": "Bereit!"
     },
     {
       "ident_ios": "onboarding_go_to_sign_in",
       "ident_android": "",
       "ident_webui": "",
       "en": "Let's go sign in.",
-      "fi": "",
+      "fi": "Siirry kirjautumaan.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Allez à la connexion.",
+      "de": "Gehen Sie zum Anmelden."
     },
     {
       "ident_ios": "onboarding_continue",
       "ident_android": "",
       "ident_webui": "",
       "en": "Continue",
-      "fi": "",
+      "fi": "Jatka",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Continuer",
+      "de": "Weitermachen"
     },
     {
       "ident_ios": "",
@@ -9402,7 +9402,7 @@
       "fi": "Syötä aktivointikoodi",
       "ru": "",
       "sv": "Ange aktiveringskod",
-      "fr": "code d'activation",
+      "fr": "Code d'activation",
       "de": "Aktivierungscode eingeben"
     },
     {
@@ -9424,228 +9424,228 @@
       "fi": "Tärkeää!\n\nVarmista, että olet aktivoimassa oikean tyyppisen tilauksen!\n\nEri tyyppisen Ruuvi Cloud -tilauskoodin syöttäminen korvaa ja päättää nykyisen tyyppisen aktiivisen tilauksen välittömästi ja menetät aktiivisena olevan tilauksen jäljellä olevan käyttöajan. Mikäli aktivointikoodisi on nykyisen tilaustyypin mukainen koodin aktivointi siirtää nykyisen tilauksen päättymispäivää koodin mukaisesti.",
       "ru": "",
       "sv": "Viktigt!\n\nSe till att du aktiverar rätt typ av prenumeration!\n\nGenom att ange en kod för en annan typ av Ruuvi Cloud-plan än den som för närvarande är aktiv, ersätts den aktuella planen omedelbart och du kommer att förlora den återstående tiden av den aktuella planen. Om din kod är för samma prenumerationstyp, kommer den aktuella planens utgångsdatum att förlängas.",
-      "fr": "",
-      "de": ""
+      "fr": "Important!\n\nAssurez-vous d'activer le bon type d'abonnement !\n\nLa saisie d'un code pour un type de plan Ruuvi Cloud différent de celui actuellement actif remplace immédiatement le plan actuellement actif et vous perdrez la période restante du plan actuellement actif. Si votre code est pour le même type d'abonnement, la date d'expiration de votre plan actuel sera prolongée.",
+      "de": "Wichtig!\n\nStellen Sie sicher, dass Sie die richtige Art von Abonnement aktivieren!\n\nDie Eingabe eines Codes für eine andere Art von Ruuvi Cloud-Abonnement als das derzeit aktive überschreibt das derzeit aktive Abonnement sofort und Sie verlieren die verbleibende Laufzeit des derzeit aktiven Abonnements. Wenn Ihr Code für denselben Abonnementtyp gilt, wird das Ablaufdatum Ihres aktuellen Abonnements verlängert."
     },
     {
       "ident_ios": "sign_in_or_create_free_account",
       "ident_android": "sign_in_or_create_free_account",
       "ident_webui": "",
       "en": "Sign in or create a free account",
-      "fi": "",
+      "fi": "Kirjaudu tai luo ilmainen tili",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Connectez-vous ou créez un compte gratuit",
+      "de": "Melden Sie sich an oder erstellen Sie ein kostenloses Konto"
     },
     {
       "ident_ios": "to_use_all_app_features",
       "ident_android": "to_use_all_app_features",
       "ident_webui": "",
       "en": "To use all features and to verify ownership of your sensors",
-      "fi": "",
+      "fi": "Ota kaikki ominaisuudet käyttöön ja vahvista antureiden omistajuus",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Pour utiliser toutes les fonctionnalités et vérifier la propriété de vos capteurs",
+      "de": "Um alle Funktionen zu nutzen und den Besitz Ihrer Sensoren zu verifizieren"
     },
     {
       "ident_ios": "type_your_email",
       "ident_android": "type_your_email",
       "ident_webui": "",
       "en": "Type your email..",
-      "fi": "",
+      "fi": "Anna sähköpostiosoite...",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Tapez votre e-mail...",
+      "de": "Geben Sie Ihre E-Mail ein.."
     },
     {
       "ident_ios": "request_code",
       "ident_android": "request_code",
       "ident_webui": "",
       "en": "Request Code",
-      "fi": "",
+      "fi": "Pyydä kirjautumiskoodi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Demander un code",
+      "de": "Anfrage Code"
     },
     {
       "ident_ios": "no_password_needed",
       "ident_android": "no_password_needed",
       "ident_webui": "",
       "en": "No password is needed.",
-      "fi": "",
+      "fi": "Et tarvitse salasanaa.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Aucun mot de passe n'est nécessaire.",
+      "de": "Es wird kein Passwort benötigt."
     },
     {
       "ident_ios": "use_without_account",
       "ident_android": "use_without_account",
       "ident_webui": "",
       "en": "Use without an account",
-      "fi": "",
+      "fi": "Käytä ilman tiliä",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Utiliser sans compte",
+      "de": "Nutzung ohne Konto"
     },
     {
       "ident_ios": "why_should_sign_in",
       "ident_android": "why_should_sign_in",
       "ident_webui": "",
       "en": "Why Should I Sign in?",
-      "fi": "",
+      "fi": "Miksi kirjautua?",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Pourquoi devrais-je me connecter ?",
+      "de": "Warum sollte ich mich anmelden?"
     },
     {
       "ident_ios": "sensors_ownership_and_settings_stored_in_cloud",
       "ident_android": "sensors_ownership_and_settings_stored_in_cloud",
       "ident_webui": "",
       "en": "Sensor's ownerships and settings will be safely stored in Ruuvi Cloud.",
-      "fi": "",
+      "fi": "Antureiden omistajuudet ja asetukset tallennetaan turvallisesti Ruuvi Cloud -pilvipalveluun.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Les propriétés et les paramètres du capteur seront stockés en toute sécurité dans Ruuvi Cloud.",
+      "de": "Die Eigentumsrechte und Einstellungen des Sensors werden sicher in der Ruuvi Cloud gespeichert."
     },
     {
       "ident_ios": "cloud_stored_ownerships",
       "ident_android": "cloud_stored_ownerships",
       "ident_webui": "",
       "en": "Sensor ownerships",
-      "fi": "",
+      "fi": "Antureiden omistajuudet",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Propriété des capteurs",
+      "de": "Sensorbesitz"
     },
     {
       "ident_ios": "cloud_stored_names",
       "ident_android": "cloud_stored_names",
       "ident_webui": "",
       "en": "Sensor names",
-      "fi": "",
+      "fi": "Anturinimet",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Noms des capteurs",
+      "de": "Sensornamen"
     },
     {
       "ident_ios": "cloud_stored_alerts",
       "ident_android": "cloud_stored_alerts",
       "ident_webui": "",
       "en": "Alerts",
-      "fi": "",
+      "fi": "Hälytykset",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Alertes",
+      "de": "Warnungen"
     },
     {
       "ident_ios": "cloud_stored_backgrounds",
       "ident_android": "cloud_stored_backgrounds",
       "ident_webui": "",
       "en": "Background images",
-      "fi": "",
+      "fi": "Taustakuvat",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Images d'arrière-plan",
+      "de": "Hintergrundbilder"
     },
     {
       "ident_ios": "cloud_stored_calibration",
       "ident_android": "cloud_stored_calibration",
       "ident_webui": "",
       "en": "Calibration settings",
-      "fi": "",
+      "fi": "Kalibrointiasetukset",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Paramètres d'étalonnage",
+      "de": "Kalibrierungseinstellungen"
     },
     {
       "ident_ios": "cloud_stored_sharing",
       "ident_android": "cloud_stored_sharing",
       "ident_webui": "",
       "en": "Sharing settings",
-      "fi": "",
+      "fi": "Jako-asetukset",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Paramètres de partage",
+      "de": "Einstellungen teilen"
     },
     {
       "ident_ios": "",
       "ident_android": "note",
       "ident_webui": "",
       "en": "Note!",
-      "fi": "",
+      "fi": "Huomaa!",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Note!",
+      "de": "Notiz!"
     },
     {
       "ident_ios": "claim_warning",
       "ident_android": "claim_warning",
       "ident_webui": "",
       "en": "If you don't claim ownership of your sensors, they can be claimed by unwanted third parties.",
-      "fi": "",
+      "fi": "Kolmas osapuoli voi vaatia antureittesi omistajuutta, jos et merkitse omistajuutta itsellesi.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Si vous ne revendiquez pas la propriété de vos capteurs, ils peuvent être revendiqués par des tiers indésirables.",
+      "de": "Wenn Sie das Eigentum an Ihren Sensoren nicht beanspruchen, können diese von unerwünschten Dritten beansprucht werden."
     },
     {
       "ident_ios": "lets_do_it",
       "ident_android": "lets_do_it",
       "ident_webui": "",
       "en": "Let's do it!",
-      "fi": "",
+      "fi": "Lisää tilille!",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Faisons-le!",
+      "de": "Lass es uns tun!"
     },
     {
       "ident_ios": "enter_code",
       "ident_android": "enter_code",
       "ident_webui": "",
       "en": "Enter Code",
-      "fi": "",
+      "fi": "Syötä koodi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Entrez le code",
+      "de": "Code eingeben"
     },
     {
       "ident_ios": "dashboard_no_sensors_message",
       "ident_android": "dashboard_no_sensors_message",
       "ident_webui": "",
       "en": "Seems that you don't have any Ruuvi sensors added yet.",
-      "fi": "",
+      "fi": "Sinulla ei ole vielä Ruuvi-antureita sovelluksessa.",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Il semble que vous n'ayez pas encore ajouté de capteurs Ruuvi.",
+      "de": "Scheint, als hätten Sie noch keine Ruuvi-Sensoren hinzugefügt."
     },
     {
       "ident_ios": "add_your_first_sensor",
       "ident_android": "add_your_first_sensor",
       "ident_webui": "",
       "en": "Add Your First Sensor",
-      "fi": "",
+      "fi": "Lisää ensimmäinen anturi",
       "ru": "",
       "sv": "",
-      "fr": "",
-      "de": ""
+      "fr": "Ajoutez votre premier capteur",
+      "de": "Fügen Sie Ihren ersten Sensor hinzu"
     }
   ]
 }
