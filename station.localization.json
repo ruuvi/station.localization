@@ -9071,7 +9071,7 @@
       "en": "To enable alerts please allow Notifications in Settings",
       "fi": "Ota hälytykset käyttöön ottamalla ensin ilmoitukset käyttöön asetuksista",
       "ru": "",
-      "sv": "",
+      "sv": "För att aktivera alarm, vänligen tillåt Notifikationer i Inställningar.",
       "fr": "Pour activer les alertes, veuillez autoriser les notifications dans les paramètres.",
       "de": "Um Benachrichtigungen zu aktivieren, erlauben Sie bitte Benachrichtigungen in den Einstellungen"
     },
@@ -9082,7 +9082,7 @@
       "en": "No data available \\nin the selected history window.",
       "fi": "Ei tallennettuja mittauksia \\nvalitulla aikajaksolla.",
       "ru": "",
-      "sv": "",
+      "sv": "Ingen data tillgänglig \\ni det valda historikfönstret.",
       "fr": "Aucune donnée disponible dans la fenêtre d'historique sélectionnée.",
       "de": "Im gewählten Verlaufsfenster sind keine Daten verfügbar."
     },
@@ -9104,7 +9104,7 @@
       "en": "With Ruuvi sensors and Ruuvi app.",
       "fi": "Kaikki Ruuvi-anturisi tiedot yhdestä sovelluksesta.",
       "ru": "",
-      "sv": "",
+      "sv": "Med Ruuvi-sensorer och Ruuvi-appen.",
       "fr": "Avec les capteurs Ruuvi et l'application Ruuvi.",
       "de": "Mit Ruuvi-Sensoren und Ruuvi-App."
     },
@@ -9115,7 +9115,7 @@
       "en": "Swipe to continue. →",
       "fi": "Jatka pyyhkäisemällä. →",
       "ru": "",
-      "sv": "",
+      "sv": "Dra för att fortsätta. →",
       "fr": "Balayez pour continuer. →",
       "de": "Wischen Sie zum Fortfahren. →"
     },
@@ -9126,7 +9126,7 @@
       "en": "Read Sensor's Data",
       "fi": "Anturitiedot",
       "ru": "",
-      "sv": "",
+      "sv": "Läs Sensordata",
       "fr": "",
       "de": ""
     },
@@ -9137,7 +9137,7 @@
       "en": "Via Bluetooth or from the cloud",
       "fi": "Bluetooth-yhteydellä tai pilvestä",
       "ru": "",
-      "sv": "",
+      "sv": "Via Bluetooth eller från molnet.",
       "fr": "Via Bluetooth ou depuis le cloud",
       "de": "Über Bluetooth oder aus der Cloud"
     },
@@ -9148,7 +9148,7 @@
       "en": "Follow measurements on a convenient",
       "fi": "Reaaliaikaiset anturitiedot kätevästi",
       "ru": "",
-      "sv": "",
+      "sv": "Följ mätningar på ett bekvämt sätt.",
       "fr": "Suivez les mesures sur un",
       "de": "Verfolgen Sie die Messungen auf einem praktischen"
     },
@@ -9159,7 +9159,7 @@
       "en": "Dashboard",
       "fi": "Koontinäytöltä",
       "ru": "",
-      "sv": "",
+      "sv": "Panel",
       "fr": "Tableau de bord",
       "de": "Dashboard"
     },
@@ -9170,7 +9170,7 @@
       "en": "Personalise",
       "fi": "Sinun näköisesi",
       "ru": "",
-      "sv": "",
+      "sv": "Anpassa",
       "fr": "Personnalisez",
       "de": "Personalisieren"
     },
@@ -9181,7 +9181,7 @@
       "en": "Your Sensors",
       "fi": "Sovellus",
       "ru": "",
-      "sv": "",
+      "sv": "Dina sensorer",
       "fr": "Vos capteurs",
       "de": "Ihre Sensoren"
     },
@@ -9192,7 +9192,7 @@
       "en": "Explore detailed 10 days",
       "fi": "Yksityiskohtainen 10 päivän",
       "ru": "",
-      "sv": "",
+      "sv": "Utforska detaljerade 10 dagar.",
       "fr": "Exploration détaillée 10 jours",
       "de": "Detaillierte Entdeckungen 10 Tage"
     },
@@ -9203,7 +9203,7 @@
       "en": "History",
       "fi": "Historia",
       "ru": "",
-      "sv": "",
+      "sv": "Historik",
       "fr": "Historique",
       "de": "Verlauf"
     },
@@ -9214,7 +9214,7 @@
       "en": "Set custom",
       "fi": "Aseta kustomoituja",
       "ru": "",
-      "sv": "",
+      "sv": "Ställ in anpassat",
       "fr": "Définir la personnalisation",
       "de": "Benutzerdefiniert einstellen"
     },
@@ -9225,7 +9225,7 @@
       "en": "Alerts",
       "fi": "Hälytyksiä",
       "ru": "",
-      "sv": "",
+      "sv": "Alarm",
       "fr": "Alertes",
       "de": "Warnungen"
     },
@@ -9236,7 +9236,7 @@
       "en": "Have fun with customised",
       "fi": "Lisää hauskoja",
       "ru": "",
-      "sv": "",
+      "sv": "Ha kul med anpassning",
       "fr": "Amusez-vous avec la personnalisation",
       "de": "Viel Spaß mit maßgeschneiderten"
     },
@@ -9247,7 +9247,7 @@
       "en": "Messages",
       "fi": "Hälytysviestejä",
       "ru": "",
-      "sv": "",
+      "sv": "Meddelanden",
       "fr": "Messages",
       "de": "Nachrichten"
     },
@@ -9258,7 +9258,7 @@
       "en": "Share your sensors",
       "fi": "Jaa antureita",
       "ru": "",
-      "sv": "",
+      "sv": "Dela dina sensorer",
       "fr": "Partagez vos capteurs",
       "de": "Teilen Sie Ihre Sensoren"
     },
@@ -9269,7 +9269,7 @@
       "en": "Sharees can use the sensors as they were their own",
       "fi": "Käytä sinulle jaettuja antureita kuin omiasi",
       "ru": "",
-      "sv": "",
+      "sv": "Använd sensorerna som delas med dig som dina egna",
       "fr": "Les actionnaires peuvent utiliser les capteurs comme s'il s'agissait des leurs.",
       "de": "Die Teilnehmer können die Sensoren wie ihre eigenen verwenden"
     },
@@ -9280,7 +9280,7 @@
       "en": "Handy Widgets",
       "fi": "Kätevät widgetit",
       "ru": "",
-      "sv": "",
+      "sv": "Praktiska widgets",
       "fr": "Widgets pratiques",
       "de": "Praktische Widgets"
     },
@@ -9291,7 +9291,7 @@
       "en": "Access your favourite sensors right from your home screen",
       "fi": "Lisää suosikkianturisi kotinäytölle",
       "ru": "",
-      "sv": "",
+      "sv": "Få tillgång till dina favoritsensorer direkt från startskärmen",
       "fr": "Accédez à vos capteurs préférés directement depuis votre écran d'accueil",
       "de": "Greifen Sie direkt von Ihrem Startbildschirm aus auf Ihre bevorzugten Sensoren zu"
     },
@@ -9302,7 +9302,7 @@
       "en": "Ruuvi Station on The Web",
       "fi": "Ruuvi Station verkossa",
       "ru": "",
-      "sv": "",
+      "sv": "Ruuvi Station på webben",
       "fr": "Accédez à vos capteurs favoris directement depuis votre écran d'accueil",
       "de": "Zugriff auf Ihre Lieblingssensoren direkt von Ihrem Startbildschirm aus"
     },
@@ -9313,7 +9313,7 @@
       "en": "Large dashboard, multi-year history, email alerts and more",
       "fi": "Koontikäyttö, usean vuoden historian tallennus, sähköpostihälytykset ja paljon muuta",
       "ru": "",
-      "sv": "",
+      "sv": "Stort data-vy, flera års historik, e-postalarm och mer",
       "fr": "Grand tableau de bord, historique sur plusieurs années, alertes par courriel, etc.",
       "de": "Großes Dashboard, mehrjähriger Verlauf, E-Mail-Warnungen und mehr"
     },
@@ -9324,7 +9324,7 @@
       "en": "Requires a Ruuvi Gateway wireless sensor router.",
       "fi": "Tarvitset langattoman Ruuvi Gateway -reitittimen.",
       "ru": "",
-      "sv": "",
+      "sv": "Kräver en Ruuvi Gateway trådlös sensornätverksrouter.",
       "fr": "Nécessite un routeur de capteurs sans fil Ruuvi Gateway.",
       "de": "Erfordert einen drahtlosen Sensor-Router Ruuvi Gateway."
     },
@@ -9335,7 +9335,7 @@
       "en": "Skip",
       "fi": "Ohita",
       "ru": "",
-      "sv": "",
+      "sv": "Hoppa över.",
       "fr": "Skip",
       "de": "Überspringen"
     },
@@ -9346,7 +9346,7 @@
       "en": "That's it.",
       "fi": "Valmista.",
       "ru": "",
-      "sv": "",
+      "sv": "Det är allt.",
       "fr": "Prêt!",
       "de": "Bereit!"
     },
@@ -9357,7 +9357,7 @@
       "en": "Let's go sign in.",
       "fi": "Siirry kirjautumaan.",
       "ru": "",
-      "sv": "",
+      "sv": "Gå till inloggning.",
       "fr": "Allez à la connexion.",
       "de": "Gehen Sie zum Anmelden."
     },
@@ -9368,7 +9368,7 @@
       "en": "Continue",
       "fi": "Jatka",
       "ru": "",
-      "sv": "",
+      "sv": "Fortsätt",
       "fr": "Continuer",
       "de": "Weitermachen"
     },
@@ -9412,7 +9412,7 @@
       "en": "This is a completely free app that does not support monthly subscription purchases or other in-app purchases. If you are a user of the Ruuvi Gateway router and you are looking for more detailed information about your Ruuvi account, go to our website and sign in.",
       "fi": "Tämä on täysin ilmainen sovellus, joka ei tue kuukausitilausten ostoja tai muita sovelluksen sisäisiä ostoja. Mikäli olet Ruuvi Gateway -reitittimen käyttäjä ja etsit tarkempia Ruuvi-tilisi tietoja, siirry kotisivuillemme ja kirjaudu sisään.",
       "ru": "",
-      "sv": "",
+      "sv": "Detta är en helt gratis app som inte stöder månadsvisa prenumerationsköp eller andra in-app-köp. Om du är användare av Ruuvi Gateway-routern och du söker mer detaljerad information om ditt Ruuvi-konto, gå till vår hemsida och logga in.",
       "fr": "Il s'agit d'une application entièrement gratuite qui ne prend pas en charge les achats d'abonnements mensuels ou autres achats in-app. Si vous êtes un utilisateur du routeur Ruuvi Gateway et que vous recherchez des informations plus détaillées sur votre compte Ruuvi, rendez-vous sur notre site Web et connectez-vous.",
       "de": "Dies ist eine völlig kostenlose App, die keine monatlichen Abonnementkäufe oder andere In-App-Käufe unterstützt. Wenn Sie ein Nutzer des Ruuvi Gateway Routers sind und detailliertere Informationen über Ihr Ruuvi Konto suchen, gehen Sie auf unsere Website und melden Sie sich an."
     },
@@ -9434,7 +9434,7 @@
       "en": "Sign in or create a free account",
       "fi": "Kirjaudu tai luo ilmainen tili",
       "ru": "",
-      "sv": "",
+      "sv": "Logga in eller skapa ett gratis konto.",
       "fr": "Connectez-vous ou créez un compte gratuit",
       "de": "Melden Sie sich an oder erstellen Sie ein kostenloses Konto"
     },
@@ -9445,7 +9445,7 @@
       "en": "To use all features and to verify ownership of your sensors",
       "fi": "Ota kaikki ominaisuudet käyttöön ja vahvista antureiden omistajuus",
       "ru": "",
-      "sv": "",
+      "sv": "För att använda alla funktioner och verifiera ägarskapet av dina sensorer.",
       "fr": "Pour utiliser toutes les fonctionnalités et vérifier la propriété de vos capteurs",
       "de": "Um alle Funktionen zu nutzen und den Besitz Ihrer Sensoren zu verifizieren"
     },
@@ -9456,7 +9456,7 @@
       "en": "Type your email..",
       "fi": "Anna sähköpostiosoite...",
       "ru": "",
-      "sv": "",
+      "sv": "Skriv in din e-postadress...",
       "fr": "Tapez votre e-mail...",
       "de": "Geben Sie Ihre E-Mail ein.."
     },
@@ -9467,7 +9467,7 @@
       "en": "Request Code",
       "fi": "Pyydä kirjautumiskoodi",
       "ru": "",
-      "sv": "",
+      "sv": "Begär en inloggningskod",
       "fr": "Demander un code",
       "de": "Anfrage Code"
     },
@@ -9478,7 +9478,7 @@
       "en": "No password is needed.",
       "fi": "Et tarvitse salasanaa.",
       "ru": "",
-      "sv": "",
+      "sv": "Inget lösenord krävs.",
       "fr": "Aucun mot de passe n'est nécessaire.",
       "de": "Es wird kein Passwort benötigt."
     },
@@ -9489,7 +9489,7 @@
       "en": "Use without an account",
       "fi": "Käytä ilman tiliä",
       "ru": "",
-      "sv": "",
+      "sv": "Använd utan konto.",
       "fr": "Utiliser sans compte",
       "de": "Nutzung ohne Konto"
     },
@@ -9500,7 +9500,7 @@
       "en": "Why Should I Sign in?",
       "fi": "Miksi kirjautua?",
       "ru": "",
-      "sv": "",
+      "sv": "Varför ska jag logga in?",
       "fr": "Pourquoi devrais-je me connecter ?",
       "de": "Warum sollte ich mich anmelden?"
     },
@@ -9511,7 +9511,7 @@
       "en": "Sensor's ownerships and settings will be safely stored in Ruuvi Cloud.",
       "fi": "Antureiden omistajuudet ja asetukset tallennetaan turvallisesti Ruuvi Cloud -pilvipalveluun.",
       "ru": "",
-      "sv": "",
+      "sv": "Sensorns ägarskap och inställningar kommer att lagras säkert i Ruuvi Cloud.",
       "fr": "Les propriétés et les paramètres du capteur seront stockés en toute sécurité dans Ruuvi Cloud.",
       "de": "Die Eigentumsrechte und Einstellungen des Sensors werden sicher in der Ruuvi Cloud gespeichert."
     },
@@ -9522,7 +9522,7 @@
       "en": "● Sensor ownerships",
       "fi": "● Antureiden omistajuudet",
       "ru": "",
-      "sv": "",
+      "sv": "● Sensorns ägarskap",
       "fr": "● Propriété des capteurs",
       "de": "● Sensorbesitz"
     },
@@ -9533,7 +9533,7 @@
       "en": "● Sensor names",
       "fi": "● Anturinimet",
       "ru": "",
-      "sv": "",
+      "sv": "● Sensornamn",
       "fr": "● Noms des capteurs",
       "de": "● Sensornamen"
     },
@@ -9544,7 +9544,7 @@
       "en": "● Alerts",
       "fi": "● Hälytykset",
       "ru": "",
-      "sv": "",
+      "sv": "● Alarm",
       "fr": "● Alertes",
       "de": "● Warnungen"
     },
@@ -9555,7 +9555,7 @@
       "en": "● Background images",
       "fi": "● Taustakuvat",
       "ru": "",
-      "sv": "",
+      "sv": "● Bakgrundsbilder",
       "fr": "● Images d'arrière-plan",
       "de": "● Hintergrundbilder"
     },
@@ -9566,7 +9566,7 @@
       "en": "● Calibration settings",
       "fi": "● Kalibrointiasetukset",
       "ru": "",
-      "sv": "",
+      "sv": "● Kalibreringsinställningar",
       "fr": "● Paramètres d'étalonnage",
       "de": "● Kalibrierungseinstellungen"
     },
@@ -9577,7 +9577,7 @@
       "en": "● Sharing settings",
       "fi": "● Jako-asetukset",
       "ru": "",
-      "sv": "",
+      "sv": "● Delningsinställningar",
       "fr": "● Paramètres de partage",
       "de": "● Einstellungen teilen"
     },
@@ -9588,7 +9588,7 @@
       "en": "Note!",
       "fi": "Huomaa!",
       "ru": "",
-      "sv": "",
+      "sv": "Obs!",
       "fr": "Note!",
       "de": "Notiz!"
     },
@@ -9599,7 +9599,7 @@
       "en": "If you don't claim ownership of your sensors, they can be claimed by unwanted third parties.",
       "fi": "Kolmas osapuoli voi vaatia antureittesi omistajuutta, jos et merkitse omistajuutta itsellesi.",
       "ru": "",
-      "sv": "",
+      "sv": "Om du inte gör anspråk på ägarskap av dina sensorer kan annan oönskad göra det.",
       "fr": "Si vous ne revendiquez pas la propriété de vos capteurs, ils peuvent être revendiqués par des tiers indésirables.",
       "de": "Wenn Sie das Eigentum an Ihren Sensoren nicht beanspruchen, können diese von unerwünschten Dritten beansprucht werden."
     },
@@ -9610,7 +9610,7 @@
       "en": "Let's do it!",
       "fi": "Lisää tilille!",
       "ru": "",
-      "sv": "",
+      "sv": "Vi gör det!",
       "fr": "Faisons-le!",
       "de": "Lass es uns tun!"
     },
@@ -9621,7 +9621,7 @@
       "en": "Enter Code",
       "fi": "Syötä koodi",
       "ru": "",
-      "sv": "",
+      "sv": "Ange kod",
       "fr": "Entrez le code",
       "de": "Code eingeben"
     },
@@ -9632,7 +9632,7 @@
       "en": "Seems that you don't have any Ruuvi sensors added yet.",
       "fi": "Sinulla ei ole vielä Ruuvi-antureita sovelluksessa.",
       "ru": "",
-      "sv": "",
+      "sv": "Det verkar som om du inte har några Ruuvi-sensorer tillagda ännu.",
       "fr": "Il semble que vous n'ayez pas encore ajouté de capteurs Ruuvi.",
       "de": "Scheint, als hätten Sie noch keine Ruuvi-Sensoren hinzugefügt."
     },
@@ -9643,7 +9643,7 @@
       "en": "Add Your First Sensor",
       "fi": "Lisää ensimmäinen anturi",
       "ru": "",
-      "sv": "",
+      "sv": "Lägg till din första sensor.",
       "fr": "Ajoutez votre premier capteur",
       "de": "Fügen Sie Ihren ersten Sensor hinzu"
     }
