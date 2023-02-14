@@ -9646,6 +9646,17 @@
       "sv": "Lägg till din första sensor.",
       "fr": "Ajoutez votre premier capteur",
       "de": "Fügen Sie Ihren ersten Sensor hinzu"
+    },
+    {
+      "ident_ios": "changelog",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "(changelog)",
+      "fi": "(muutosloki))",
+      "ru": "",
+      "sv": "(ändringslogg)",
+      "fr": "(journal des modifications)",
+      "de": "(änderungsprotokoll)"
     }
   ]
 }
