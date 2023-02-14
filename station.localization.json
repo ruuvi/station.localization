@@ -9657,6 +9657,17 @@
       "sv": "(ändringslogg)",
       "fr": "(journal des modifications)",
       "de": "(änderungsprotokoll)"
+    },
+    {
+      "ident_ios": "changelog_ios_url",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://f.ruuvi.com/t/3192",
+      "fi": "https://f.ruuvi.com/t/3192",
+      "ru": "https://f.ruuvi.com/t/3192",
+      "sv": "https://f.ruuvi.com/t/3192",
+      "fr": "https://f.ruuvi.com/t/3192",
+      "de": "https://f.ruuvi.com/t/3192"
     }
   ]
 }
