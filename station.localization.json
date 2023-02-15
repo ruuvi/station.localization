@@ -9661,7 +9661,7 @@
     {
       "ident_ios": "changelog",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "changelog",
       "en": "(changelog)",
       "fi": "(muutosloki))",
       "ru": "",
