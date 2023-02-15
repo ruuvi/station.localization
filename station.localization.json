@@ -9330,7 +9330,7 @@
     },
     {
       "ident_ios": "onboarding_thats_it",
-      "ident_android": "",
+      "ident_android": "onboarding_almost_there",
       "ident_webui": "",
       "en": "Almost there!",
       "fi": "Melkein valmista!",
@@ -9341,7 +9341,7 @@
     },
     {
       "ident_ios": "onboarding_thats_it_already_signed_in",
-      "ident_android": "",
+      "ident_android": "onboarding_lets_get_started",
       "ident_webui": "",
       "en": "Let's get started!",
       "fi": "Aloitetaan!",
@@ -9352,7 +9352,7 @@
     },
     {
       "ident_ios": "onboarding_go_to_sign_in",
-      "ident_android": "",
+      "ident_android": "onboarding_go_to_sign_in",
       "ident_webui": "",
       "en": "Next, you'll be asked to sign in. You can also skip and use the app without cloud features.",
       "fi": "Seuraavaksi sinua pyydetään kirjautumaan sisään. Voit myös ohittaa tämän ja käyttää sovellusta ilman pilviominaisuuksia.",
@@ -9363,7 +9363,7 @@
     },
     {
       "ident_ios": "onboarding_go_to_sign_in_already_signed_in",
-      "ident_android": "",
+      "ident_android": "onboarding_lets_get_started_description",
       "ident_webui": "",
       "en": "Start measuring your environment by pressing continue.",
       "fi": "Aloita mittaamaan painamalla jatka.",
@@ -9374,7 +9374,7 @@
     },
     {
       "ident_ios": "onboarding_continue",
-      "ident_android": "",
+      "ident_android": "onboarding_continue",
       "ident_webui": "",
       "en": "Continue",
       "fi": "Jatka",
