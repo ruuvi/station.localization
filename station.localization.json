@@ -2876,12 +2876,12 @@
       "ident_ios": "",
       "ident_android": "charts_background_dialog_title_question",
       "ident_webui": "",
-      "en": "Would you like to enable background scanning?",
-      "fi": "Haluatko ottaa käyttöön taustaskannauksen?",
-      "ru": "Включить фоновое сканирование?",
-      "sv": "Vill du aktivera bakgrundsskanning?",
-      "fr": "Souhaitez-vous activer le balayage en arrière plan ?",
-      "de": "Möchten Sie das Scannen im Hintergrund aktivieren?"
+      "en": "Would you like to enable Bluetooth background scanning?",
+      "fi": "Haluatko ottaa käyttöön Bluetooth-taustaskannauksen?",
+      "ru": "Включить фоновое сканирование Bluetooth?",
+      "sv": "Vill du aktivera Bluetooth-bakgrundsskanning?",
+      "fr": "Souhaitez-vous activer le balayage en arrière plan Bluetooth?",
+      "de": "Möchten Sie die Bluetooth-Hintergrundsuche aktivieren?"
     },
     {
       "ident_ios": "HumidityCalibration.Button.Clear.title",
