@@ -9660,7 +9660,7 @@
     },
     {
       "ident_ios": "changelog",
-      "ident_android": "",
+      "ident_android": "changelog",
       "ident_webui": "changelog",
       "en": "(changelog)",
       "fi": "(muutosloki)",
@@ -9679,6 +9679,17 @@
       "sv": "https://f.ruuvi.com/t/3192",
       "fr": "https://f.ruuvi.com/t/3192",
       "de": "https://f.ruuvi.com/t/3192"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "changelog_android_url",
+      "ident_webui": "",
+      "en": "https://f.ruuvi.com/t/4262",
+      "fi": "https://f.ruuvi.com/t/4262",
+      "ru": "https://f.ruuvi.com/t/4262",
+      "sv": "https://f.ruuvi.com/t/4262",
+      "fr": "https://f.ruuvi.com/t/4262",
+      "de": "https://f.ruuvi.com/t/4262"
     }
   ]
 }
