@@ -9101,12 +9101,12 @@
       "ident_ios": "onboarding_with_ruuvi_sensors",
       "ident_android": "onboarding_with_ruuvi_sensors",
       "ident_webui": "",
-      "en": "Visualising your sensor data has never been easier.",
-      "fi": "Anturitietojen visualisointi ei ole koskaan ollut näin helppoa.",
+      "en": "Measuring has never been easier.",
+      "fi": "Mittaaminen ei ole koskaan ollut näin helppoa.",
       "ru": "",
-      "sv": "Att visualisera din sensordata har aldrig varit enklare.",
-      "fr": "Visualiser les données de vos capteurs n'a jamais été aussi facile.",
-      "de": "Die Visualisierung Ihrer Sensordaten war noch nie so einfach."
+      "sv": "Att mäta har aldrig varit enklare.",
+      "fr": "Mesurer n'a jamais été aussi simple.",
+      "de": "Messen war noch nie so einfach."
     },
     {
       "ident_ios": "onboarding_swipe_to_continue",
@@ -9123,34 +9123,34 @@
       "ident_ios": "onboarding_read_sensors_data",
       "ident_android": "onboarding_read_sensors_data",
       "ident_webui": "",
-      "en": "Access Your Ruuvi Sensors",
-      "fi": "Seuraa Ruuvi-antureitasi",
+      "en": "Read Your Ruuvi Sensors",
+      "fi": "Lue Ruuvi-antureitasi",
       "ru": "",
-      "sv": "Få tillgång till dina Ruuvi-sensorer",
-      "fr": "Accédez à vos Ruuvi-capteurs",
-      "de": "Greifen Sie auf Ihre Ruuvi-Sensoren zu"
+      "sv": "Läs dina Ruuvi-sensorer",
+      "fr": "Lisez vos capteurs Ruuvi",
+      "de": "Lesen Sie Ihre Ruuvi-Sensoren"
     },
     {
       "ident_ios": "onboarding_via_bluetooth_or_cloud",
       "ident_android": "onboarding_via_bluetooth_or_cloud",
       "ident_webui": "",
-      "en": "Using Bluetooth or Ruuvi Cloud.",
-      "fi": "Bluetoothilla tai Ruuvi Cloudilla.",
+      "en": "using Bluetooth or Ruuvi Cloud",
+      "fi": "Bluetoothilla tai Ruuvi Cloudilla",
       "ru": "",
-      "sv": "Använder Bluetooth eller Ruuvi Cloud.",
-      "fr": "Utilisation de Bluetooth ou de Ruuvi Cloud.",
-      "de": "Mit Bluetooth oder Ruuvi Cloud."
+      "sv": "med Bluetooth eller Ruuvi Cloud",
+      "fr": "en utilisant Bluetooth ou Ruuvi Cloud",
+      "de": "mit Bluetooth oder Ruuvi Cloud"
     },
     {
       "ident_ios": "onboarding_follow_measurement",
       "ident_android": "onboarding_follow_measurement",
       "ident_webui": "",
-      "en": "View all sensors at a glance on a handy",
-      "fi": "Seuraa antureitasi kätevästi",
+      "en": "View all sensors at a glance on your",
+      "fi": "Seuraa kaikkia antureitasi",
       "ru": "",
-      "sv": "Se alla sensorer i en blick på en händig",
-      "fr": "Visualisez tous les capteurs en un coup d'œil sur un",
-      "de": "Alle Sensoren auf einen Blick auf einem praktisk anzeigenh"
+      "sv": "Se alla sensorer med en blick på din",
+      "fr": "Visualisez tous les capteurs en un coup d'œil sur votre",
+      "de": "Sehen Sie alle Sensoren auf einen Blick auf Ihrem"
     },
     {
       "ident_ios": "onboarding_dashboard",
@@ -9160,96 +9160,96 @@
       "fi": "koontinäytöltä",
       "ru": "",
       "sv": "instrumentpanel",
-      "fr": "Tableau de bord",
+      "fr": "tableau de bord",
       "de": "Dashboard"
     },
     {
       "ident_ios": "onboarding_personalise",
       "ident_android": "onboarding_personalise",
       "ident_webui": "",
-      "en": "Use custom names and backgrounds to make the app",
-      "fi": "Muokkaa nimiä ja taustakuvia, tee sovelluksesta",
+      "en": "Personalise",
+      "fi": "Personoi",
       "ru": "",
-      "sv": "Använd anpassade namn och bakgrunder för att skapa appen",
-      "fr": "Utilisez des noms et des arrière-plans personnalisés pour créer l'application",
-      "de": "Verwenden Sie benutzerdefinierte Namen und Hintergründe, um die App zu erstellen"
+      "sv": "Anpassa",
+      "fr": "Personnalisez",
+      "de": "Personalisieren"
     },
     {
       "ident_ios": "onboarding_your_sensors",
       "ident_android": "onboarding_your_sensors",
       "ident_webui": "",
-      "en": "Your Own",
-      "fi": "omannäköisesi",
+      "en": "your app using custom names and backgrounds.",
+      "fi": "sovelluksesi omilla nimillä ja taustakuvilla.",
       "ru": "",
-      "sv": "till din egen",
-      "fr": "personnalisez",
-      "de": "zu Ihrer eigenen"
+      "sv": "din app med hjälp av anpassade namn och bakgrunder.",
+      "fr": "votre application en utilisant des noms et des arrière-plans personnalisés.",
+      "de": "Sie Ihre App mit benutzerdefinierten Namen und Hintergründen."
     },
     {
       "ident_ios": "onboarding_explore_detailed",
       "ident_android": "onboarding_explore_detailed",
       "ident_webui": "",
-      "en": "Explore up to 10 days detailed",
-      "fi": "Jopa 10 päivän yksityiskohtainen",
+      "en": "Explore your measurement",
+      "fi": "Tarkastele anturiesi",
       "ru": "",
-      "sv": "Utforska upp till 10 dagar detaljerat",
-      "fr": "Explorez jusqu'à 10 jours détaillés",
-      "de": "Erkunden Sie bis zu 10 Tage detailliert"
+      "sv": "Utforska din",
+      "fr": "Explorez votre",
+      "de": "Erkunden Sie Ihren"
     },
     {
       "ident_ios": "onboarding_history",
       "ident_android": "onboarding_history",
       "ident_webui": "",
       "en": "History",
-      "fi": "historia",
+      "fi": "mittaushistoriaa",
       "ru": "",
-      "sv": "historik",
-      "fr": "historique",
-      "de": "Verlauf"
+      "sv": "mäthistorik",
+      "fr": "historique de mesure",
+      "de": "Messverlauf"
     },
     {
       "ident_ios": "onboarding_set_custom",
       "ident_android": "onboarding_set_custom",
       "ident_webui": "",
-      "en": "Set comprehensive and customisable",
-      "fi": "Aseta kattavia ja kustomoitavia",
+      "en": "Set and customise your",
+      "fi": "Aseta ja säädä omat",
       "ru": "",
-      "sv": "Omfattande och anpassningsbar",
-      "fr": "Complètes et personnalisables",
-      "de": "Umfassende und anpassbare"
+      "sv": "Ställ in och anpassa dina",
+      "fr": "Définissez et personnalisez vos",
+      "de": "Einstellen und anpassen"
     },
     {
       "ident_ios": "onboarding_alerts",
       "ident_android": "onboarding_alerts",
       "ident_webui": "",
       "en": "Alerts",
-      "fi": "hälytyksiä",
+      "fi": "hälytyksesi",
       "ru": "",
       "sv": "varningar",
-      "fr": "Alertes",
-      "de": "Warnungen"
+      "fr": "alertes",
+      "de": "Alarme"
     },
     {
       "ident_ios": "onboarding_share_your_sensors",
       "ident_android": "onboarding_share_your_sensors",
       "ident_webui": "",
-      "en": "Share Your Sensors",
-      "fi": "jaa anturisi ystävillesi",
+      "en": "Measure together with your friends and family by",
+      "fi": "Mittaa yhdessä ystävien ja perheen kesken",
       "ru": "",
-      "sv": "dela dina sensorer",
-      "fr": "Partagez vos capteurs",
-      "de": "Teilen Sie Ihre Sensoren"
+      "sv": "Mät tillsammans med dina vänner och familj genom att",
+      "fr": "Mesurez avec vos amis et votre famille en",
+      "de": "Messen Sie mit Freunden und Familie, indem Sie"
     },
     {
       "ident_ios": "onboarding_sharees_can_use",
       "ident_android": "onboarding_sharees_can_use",
       "ident_webui": "",
-      "en": "Sign in to Ruuvi Cloud and",
-      "fi": "Kirjaudu Ruuvi Cloudiin ja",
+      "en": "Sharing Sensors",
+      "fi": "jakamalla anturisi",
       "ru": "",
-      "sv": "Logga in på Ruuvi Cloud och",
-      "fr": "Connectez-vous à Ruuvi Cloud et",
-      "de": "Melden Sie sich bei Ruuvi Cloud an und"
+      "sv": "dela sensorer",
+      "fr": "partageant des capteurs",
+      "de": "Sensoren teilen"
     },
     {
       "ident_ios": "onboarding_handy_widgets",
@@ -9259,37 +9259,37 @@
       "fi": "widgeteillä",
       "ru": "",
       "sv": "widgets",
-      "fr": "Widgets",
-      "de": "Widgets"
+      "fr": "de widgets",
+      "de": "Widgets hinzu"
     },
     {
       "ident_ios": "onboarding_access_widgets",
       "ident_android": "",
       "ident_webui": "",
-      "en": "View your favorite Ruuvi Cloud sensors using handy Home Screen and Lock Screen",
-      "fi": "Näe suosituimmat Ruuvi Cloud -anturisi kätevästi kotivalikon ja lukitusnäytön",
+      "en": "Add your favorite sensors to your Home Screen and Lock Screen as",
+      "fi": "Lisää suosikkianturisi kotinäytölle ja lukitusnäytölle",
       "ru": "",
-      "sv": "Se dina favoritsensorer från Ruuvi Cloud med den praktiska hemskärmen och låsskärmen",
-      "fr": "Affichez vos capteurs Ruuvi Cloud préférés à l'aide de l'écran d'accueil et de l'écran de verrouillage pratiques",
-      "de": "Zeigen Sie Ihre bevorzugten Ruuvi Cloud-Sensoren auf dem praktischen Startbildschirm und Sperrbildschirm an"
+      "sv": "Lägg till dina favoritsensorer på din startskärm och låsskärm som",
+      "fr": "Ajoutez vos capteurs préférés à votre écran d'accueil et à votre écran de verrouillage sous forme",
+      "de": "Fügen Sie Ihre bevorzugten Sensoren als"
     },
     {
       "ident_ios": "",
       "ident_android": "onboarding_access_widgets",
       "ident_webui": "",
-      "en": "View your favorite Ruuvi Cloud sensors using handy",
-      "fi": "Näe suosituimmat Ruuvi Cloud -anturisi kätevästi",
+      "en": "Add your favorite sensors to your home screen as",
+      "fi": "Lisää suosikkianturisi kotinäytölle",
       "ru": "",
-      "sv": "Se dina favoritsensorer från Ruuvi Cloud med hjälp av praktiska",
-      "fr": "Affichez vos capteurs Ruuvi Cloud préférés à l'aide",
-      "de": "Zeigen Sie Ihre bevorzugten Ruuvi Cloud-Sensoren mit handy an"
+      "sv": "Lägg till dina favoritsensorer på din startskärm som",
+      "fr": "Ajoutez vos capteurs préférés à votre écran d'accueil sous forme",
+      "de": "Fügen Sie Ihre bevorzugten Sensoren als"
     },
     {
       "ident_ios": "onboarding_station_web",
       "ident_android": "onboarding_station_web",
       "ident_webui": "",
       "en": "Ruuvi Web App",
-      "fi": "Ruuvin selainkäyttöliittymässä",
+      "fi": "Ruuvin selainsovelluksessa",
       "ru": "",
       "sv": "Ruuvi Web App",
       "fr": "Ruuvi Web App",
@@ -9299,12 +9299,12 @@
       "ident_ios": "onboarding_web_pros",
       "ident_android": "onboarding_web_pros",
       "ident_webui": "",
-      "en": "Get more from your data. A large dashboard, multi-year history, email alerts and more available on",
-      "fi": "Enemmän irti datastasi. Koontinäyttö, usean vuoden historian, sähköpostihälytykset ja paljon muuta",
+      "en": "Large dashboard, multi-year history, email alerts and more available on",
+      "fi": "Koontinäyttö, usean vuoden historian, sähköpostihälytykset ja paljon muuta",
       "ru": "",
-      "sv": "Få ut mer av din data. Stort data-vy, flera års historik, e-postalarm och mer",
-      "fr": "Tirez le meilleur parti de vos données. Grand tableau de bord, historique sur plusieurs années, alertes par courriel, etc.",
-      "de": "Machen Sie mehr aus Ihren Daten. Großes Dashboard, mehrjähriger Verlauf, E-Mail-Warnungen und mehr"
+      "sv": "Stort data-vy, flera års historik, e-postalarm och mer",
+      "fr": "Grand tableau de bord, historique sur plusieurs années, alertes par courriel, etc.",
+      "de": "Großes Dashboard, mehrjähriger Verlauf, E-Mail-Warnungen und mehr"
     },
     {
       "ident_ios": "onboarding_gateway_required",
@@ -9354,34 +9354,34 @@
       "ident_ios": "onboarding_go_to_sign_in",
       "ident_android": "onboarding_go_to_sign_in",
       "ident_webui": "",
-      "en": "Next, you'll be asked to sign in. You can also skip and use the app without cloud features.",
-      "fi": "Seuraavaksi sinua pyydetään kirjautumaan sisään. Voit myös ohittaa tämän ja käyttää sovellusta ilman pilviominaisuuksia.",
+      "en": "Ruuvi experience is better when you're signed in. Do it now or continue without cloud features.",
+      "fi": "Ruuvin käyttökokemus on parempi, jos kirjaudut sisään. Tee se nyt tai jatka ilman pilviominaisuuksia.",
       "ru": "",
-      "sv": "Därefter kommer du att bli ombedd att logga in. Du kan också hoppa över och använda appen utan molnfunktioner.",
-      "fr": "Ensuite, il vous sera demandé de vous connecter. Vous pouvez également ignorer et utiliser l'application sans les fonctionnalités cloud.",
-      "de": "Als Nächstes werden Sie aufgefordert, sich anzumelden. Sie können die App auch überspringen und ohne Cloud-Funktionen verwenden."
+      "sv": "Ruuvi-upplevelsen är bättre när du är inloggad. Gör det nu eller fortsätt utan molnfunktioner.",
+      "fr": "L'expérience Ruuvi est meilleure lorsque vous êtes connecté. Faites-le maintenant ou continuez sans les fonctionnalités cloud.",
+      "de": "Ruuvi ist besser, wenn Sie angemeldet sind. Machen Sie es jetzt oder fahren Sie ohne Cloud-Funktionen fort."
     },
     {
       "ident_ios": "onboarding_go_to_sign_in_already_signed_in",
       "ident_android": "onboarding_lets_get_started_description",
       "ident_webui": "",
-      "en": "Start measuring your environment by pressing continue.",
-      "fi": "Aloita mittaamaan painamalla jatka.",
+      "en": "Let's start measuring!",
+      "fi": "Lähdetään mittaamaan!",
       "ru": "",
-      "sv": "Börja mäta din miljö genom att trycka på fortsätt.",
-      "fr": "Commencez à mesurer votre environnement en appuyant sur continuer.",
-      "de": "Beginnen Sie mit der Messung Ihrer Umgebung, indem Sie auf Weiter drücken."
+      "sv": "Låt oss börja mäta!",
+      "fr": "Commençons à mesurer !",
+      "de": "Fangen wir an zu messen!"
     },
     {
       "ident_ios": "onboarding_continue",
       "ident_android": "onboarding_continue",
       "ident_webui": "",
-      "en": "Continue",
-      "fi": "Jatka",
+      "en": "Next",
+      "fi": "Seuraava",
       "ru": "",
-      "sv": "Fortsätt",
-      "fr": "Continuer",
-      "de": "Weitermachen"
+      "sv": "Nästa",
+      "fr": "Suivant",
+      "de": "Nächste"
     },
     {
       "ident_ios": "",
