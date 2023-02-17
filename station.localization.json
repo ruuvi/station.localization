@@ -7904,12 +7904,12 @@
       "ident_ios": "TagSettings.BatteryStatusLabel.Replace.message",
       "ident_android": "replace_battery",
       "ident_webui": "replace_battery",
-      "en": "Replace battery!",
-      "fi": "Vaihda paristo!",
-      "ru": "Замените батарею!",
-      "sv": "Byt batteriet!",
-      "fr": "Remplacez la batterie !",
-      "de": "Batterie austauschen!"
+      "en": "Low battery",
+      "fi": "Paristo vähissä",
+      "ru": "",
+      "sv": "Låg batterinivå",
+      "fr": "Batterie faible",
+      "de": "Schwache Batterie"
     },
     {
       "ident_ios": "TagSettings.BatteryStatusLabel.Ok.message",
@@ -8322,7 +8322,7 @@
       "ident_ios": "clear_view",
       "ident_android": "clear_view",
       "ident_webui": "",
-      "en": "Clear View",
+      "en": "Clear view",
       "fi": "Tyhjennä kaaviot",
       "ru": "",
       "sv": "Töm grafer",
@@ -8652,12 +8652,12 @@
       "ident_ios": "settings_and_alerts",
       "ident_android": "settings_and_alerts",
       "ident_webui": "",
-      "en": "Settings and Alerts",
-      "fi": "Asetukset ja hälytykset",
+      "en": "Settings & alerts",
+      "fi": "Asetukset & hälytykset",
       "ru": "",
       "sv": "Inställningar & alarm",
-      "fr": "",
-      "de": ""
+      "fr": "Paramètres & alertes",
+      "de": "Einstellungen & Benachrichtigungen"
     },
     {
       "ident_ios": "change_background",
