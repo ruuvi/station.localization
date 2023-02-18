@@ -9487,7 +9487,7 @@
       "ident_android": "no_password_needed",
       "ident_webui": "",
       "en": "A free account will be created for this email if you don't already have one. Only email address is required. We keep your information safe.",
-      "fi": "",
+      "fi": "Tälle osoitteelle luodaan ilmainen tili, jos sinulla ei vielä ole tiliä. Tarvitset kirjautumiseen ainoastaan sähköpostiosoitteen. Pidämme tietosi turvassa.",
       "ru": "",
       "sv": "Ett gratiskonto kommer att skapas för denna e-post om du inte redan har ett. Endast e-postadress krävs. Vi håller din information säker.",
       "fr": "Un compte gratuit sera créé pour cet e-mail si vous n'en avez pas déjà un. Seule l'adresse e-mail est requise. Nous gardons vos informations en toute sécurité.",
@@ -9533,9 +9533,9 @@
       "en": "Signing in to the app has many advantages. Settings will be safely stored to your account:",
       "fi": "Sisäänkirjautumalla saat useita etuja. Asetukset tallennetaan turvallisesti tilillesi:",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Att logga in på appen har många fördelar. Inställningarna kommer att lagras säkert på ditt konto:",
+      "fr": "La connexion à l'application présente de nombreux avantages. Les paramètres seront stockés en toute sécurité sur votre compte:",
+      "de": "Die Anmeldung bei der App hat viele Vorteile. Einstellungen werden sicher in deinem Konto gespeichert:"
     },
     {
       "ident_ios": "cloud_stored_ownerships",
