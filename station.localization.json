@@ -9310,12 +9310,12 @@
       "ident_ios": "onboarding_gateway_required",
       "ident_android": "onboarding_gateway_required",
       "ident_webui": "",
-      "en": "Requires a Ruuvi Gateway wireless sensor router.",
-      "fi": "Tarvitset langattoman Ruuvi Gateway -reitittimen.",
+      "en": "A Ruuvi Gateway router is required.",
+      "fi": "Vaatii Ruuvi Gateway -reitittimen.",
       "ru": "",
-      "sv": "Kräver en Ruuvi Gateway trådlös sensornätverksrouter.",
-      "fr": "Nécessite un routeur de capteurs sans fil Ruuvi Gateway.",
-      "de": "Erfordert einen drahtlosen Sensor-Router Ruuvi Gateway."
+      "sv": "En Ruuvi Gateway -router krävs.",
+      "fr": "Un routeur Ruuvi Gateway est requis.",
+      "de": "Ein Ruuvi Gateway -Router ist erforderlich."
     },
     {
       "ident_ios": "onboarding_skip",
@@ -9324,8 +9324,8 @@
       "en": "Skip",
       "fi": "Ohita",
       "ru": "",
-      "sv": "Hoppa över.",
-      "fr": "Skip",
+      "sv": "Hoppa över",
+      "fr": "Ignorer",
       "de": "Überspringen"
     },
     {
