@@ -6133,12 +6133,12 @@
       "ident_ios": "",
       "ident_android": "network_sharing_disabled",
       "ident_webui": "",
-      "en": "Only sensors within range of your Ruuvi Gateway can be shared. If you don't have one yet, get it on ruuvi.com/gateway",
-      "fi": "Voit jakaa vain Ruuvi Gateway -reitittimen läheisyydessä olevia antureita. Lisätietoja reitittimestä osoitteesta ruuvi.com/fi/gateway",
-      "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway. Если у вас нет Gateway, вы можете приобрести его на ruuvi.com/gateway",
-      "sv": "Endast sensorer inom räckhåll av din Ruuvi Gateway kan delas. Mer information finns på ruuvi.com/gateway",
-      "fr": "Vous pouvez partager seulement des capteurs à proximité du Ruuvi Gateway. Plus d'infos sur ruuvi.com/gateway",
-      "de": "Nur Sensoren in Reichweite Ihres Ruuvi Gateways können geteilt werden. Wenn Sie noch keinen haben, holen Sie ihn sich auf ruuvi.com/gateway"
+      "en": "Only sensors within range of your Ruuvi Gateway can be shared.",
+      "fi": "Voit jakaa vain Ruuvi Gateway -reitittimen läheisyydessä olevia antureita.",
+      "ru": "Вы можете поделиться сенсорами только из зоны покрытия Ruuvi Gateway.",
+      "sv": "Endast sensorer inom räckhåll av din Ruuvi Gateway kan delas.",
+      "fr": "Vous pouvez partager seulement des capteurs à proximité du Ruuvi Gateway.",
+      "de": "Nur Sensoren in Reichweite Ihres Ruuvi Gateways können geteilt werden."
     },
     {
       "ident_ios": "RuuviServiceError.bothLuidAndMacAreNil",
