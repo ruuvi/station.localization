@@ -707,7 +707,7 @@
     {
       "ident_ios": "ExportService.Date",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "date",
       "en": "Date",
       "fi": "Päivämäärä",
       "ru": "Дата",
