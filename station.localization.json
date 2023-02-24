@@ -2608,7 +2608,7 @@
       "de": "Luftdruck ist zu niedrig!"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "LocalNotificationsManager.HighSignal.title",
       "ident_android": "alert_notification_rssi_high",
       "ident_webui": "",
       "en": "Signal strength is too high!",
@@ -2619,7 +2619,7 @@
       "de": "Signalstärke ist zu hoch!"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "LocalNotificationsManager.LowSignal.title",
       "ident_android": "alert_notification_rssi_low",
       "ident_webui": "",
       "en": "Signal strength is too low!",
