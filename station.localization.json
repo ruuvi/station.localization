@@ -5154,12 +5154,12 @@
       "ident_ios": "SignIn.CheckMailbox",
       "ident_android": "sign_in_check_email",
       "ident_webui": "sign_in_check_email",
-      "en": "Check your email for an activation code.",
-      "fi": "Tarkasta aktivointikoodi saamastasi sähköpostista.",
-      "ru": "Пожалуйста, проверьте email для дальнейших инструкций",
-      "sv": "Kontrollera din e-post efter en aktiveringskod.",
-      "fr": "Le code d'activation vous a été envoyé par mail.",
-      "de": "Überprüfen Sie Ihre E-Mail auf einen Aktivierungscode."
+      "en": "We've sent a one-time password to your email. Sign in by entering it here:",
+      "fi": "Olemme lähettäneet sähköpostiisi kertakäyttöisen salasanan. Kirjaudu syöttämällä se tähän:",
+      "ru": "Мы отправили одноразовый пароль на вашу электронную почту. Войдите, введя его здесь:",
+      "sv": "Vi har skickat ett engångslösenord till din e-post. Logga in genom att ange den här:",
+      "fr": "Nous avons envoyé un mot de passe à usage unique à votre adresse e-mail. Connectez-vous en le saisissant ici:",
+      "de": "Wir haben ein Einmalpasswort an Ihre E-Mail gesendet. Melden Sie sich an, indem Sie es hier eingeben:"
     },
     {
       "ident_ios": "SignIn.CodeHint",
