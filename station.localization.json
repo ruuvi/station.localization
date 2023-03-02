@@ -9701,6 +9701,50 @@
       "sv": "https://f.ruuvi.com/t/4262",
       "fr": "https://f.ruuvi.com/t/4262",
       "de": "https://f.ruuvi.com/t/4262"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "graph_stat_min",
+      "en": "Min",
+      "fi": "Min",
+      "ru": "",
+      "sv": "Min",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "graph_stat_max",
+      "en": "Max",
+      "fi": "Max",
+      "ru": "",
+      "sv": "Max",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "graph_stat_avg",
+      "en": "Avg",
+      "fi": "Keskia.",
+      "ru": "",
+      "sv": "Medelv.",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "no_expiry_date",
+      "en": "No expiry date",
+      "fi": "Ei päättymispäivää",
+      "ru": "",
+      "sv": "Ingen utgångsdatum",
+      "fr": "",
+      "de": ""
     }
   ]
 }
