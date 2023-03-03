@@ -8278,12 +8278,12 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "color_mode_tooltip",
-      "en": "Toggle color mode",
-      "fi": "Vaihda väritilaa",
+      "en": "Toggle light/dark theme",
+      "fi": "Vaihda tumma/vaalea teema",
       "ru": "",
-      "sv": "Byt färgeläge",
-      "fr": "Basculer le mode couleur",
-      "de": "Farbmodus umschalten"
+      "sv": "Byt mörkt/ljus tema",
+      "fr": "Basculer le thème sombre/clair",
+      "de": "Ändern Sie das dunkle/helle Thema"
     },
     {
       "ident_ios": "",
@@ -9046,12 +9046,12 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "graph_view",
-      "en": "Graph View",
-      "fi": "Kaavionäkymä",
+      "en": "History View",
+      "fi": "Historianäkymä",
       "ru": "",
-      "sv": "Grafvy",
-      "fr": "Vue graphique",
-      "de": "Graphische Ansicht"
+      "sv": "Historikvy",
+      "fr": "Vue de l'histoire",
+      "de": "Ansicht Verlauf"
     },
     {
       "ident_ios": "",
