@@ -8322,12 +8322,12 @@
       "ident_ios": "clear_view",
       "ident_android": "clear_view",
       "ident_webui": "",
-      "en": "Clear view",
-      "fi": "Tyhjennä kaaviot",
+      "en": "Clear history view",
+      "fi": "Tyhjennä kaavionäkymä",
       "ru": "",
-      "sv": "Töm grafer",
-      "fr": "Vue dégagée",
-      "de": "Klare Sicht"
+      "sv": "Töm historikvy",
+      "fr": "Vue historique vide",
+      "de": "Klare verlaufsansicht"
     },
     {
       "ident_ios": "day_1",
@@ -8575,7 +8575,7 @@
       "ident_ios": "clear_local_history_description",
       "ident_android": "clear_local_history_description",
       "ident_webui": "",
-      "en": "Do you want to clear locally stored historical data from the app? This won't clear internally stored history from the sensor or historical data stored on the Ruuvi Cloud service.",
+      "en": "Do you want to clear locally stored history data from the app? This won't clear internally stored history from the sensor or history data stored on the Ruuvi Cloud service.",
       "fi": "Haluatko tyhjentää sovelluksen muistiin tallennetun mittaushistorian? Tämä ei tyhjennä anturin sisäistä historiaa eikä Ruuvi Cloud -pilvipalveluun tallennettua historiaa.",
       "ru": "",
       "sv": "Vill du rensa lokalt lagrad historisk data från appen? Detta kommer inte att rensa internt lagrad historik i sensorer eller historisk data lagrad i Ruuvi Cloud-tjänst.",
