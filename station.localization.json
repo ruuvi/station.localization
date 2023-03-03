@@ -6130,7 +6130,7 @@
       "de": "vor {%@^%1$s}"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "network_sharing_disabled",
       "ident_android": "network_sharing_disabled",
       "ident_webui": "",
       "en": "Only sensors within range of your Ruuvi Gateway can be shared.",
