@@ -7461,7 +7461,7 @@
       "de": "Erfolgreich gespeichert"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "internet_connection_problem",
       "ident_android": "",
       "ident_webui": "internet_connection_problem",
       "en": "Internet connection problem",
