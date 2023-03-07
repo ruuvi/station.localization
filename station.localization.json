@@ -8487,12 +8487,12 @@
       "ident_ios": "reading_history_x",
       "ident_android": "reading_history_x",
       "ident_webui": "",
-      "en": "Reading history.. {%.0f^%1$s}",
-      "fi": "Historiatietoja luetaan.. {%.0f^%1$s}",
-      "ru": "Чтение истории.. {%.0f^%1$s}",
-      "sv": "Läser historik.. {%.0f^%1$s}",
-      "fr": "Analyse de l'historique.. {%.0f^%1$s}",
-      "de": "History wird gelesen.. {%.0f^%1$s}"
+      "en": "Reading Bluetooth: {%.0f^%1$s}",
+      "fi": "Bluetooth-lataus: {%.0f^%1$s}",
+      "ru": "Bluetooth sync: {%.0f^%1$s}",
+      "sv": "Läser Bluetooth: {%.0f^%1$s}",
+      "fr": "Bluetooth sync: {%.0f^%1$s}",
+      "de": "Bluetooth-Sync: {%.0f^%1$s}"
     },
     {
       "ident_ios": "",
