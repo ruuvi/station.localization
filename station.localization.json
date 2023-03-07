@@ -5363,12 +5363,12 @@
       "ident_ios": "ShareViewController.sharedEmails.Title",
       "ident_android": "share_sensor_already_shared",
       "ident_webui": "",
-      "en": "Already shared {%d^%1$,d}/{%d^%2$,d}",
-      "fi": "Anturi on jo jaettu {%d^%1$,d}/{%d^%2$,d}",
-      "ru": "Предоставлен доступ {%d^%1$,d}/{%d^%2$,d}",
-      "sv": "Sensorn är redan delad {%d^%1$,d}/{%d^%2$,d}",
-      "fr": "Le capteur est déjà partagé {%d^%1$,d}/{%d^%2$,d}",
-      "de": "Bereits geteilt {%d^%1$,d}/{%d^%2$,d}"
+      "en": "You have used {%d^%1$,d}/{%d^%2$,d} of maximum shares of this sensor. The sensor has been shared to following users:",
+      "fi": "Olet käyttänyt {%d^%1$,d}/{%d^%2$,d} tämän anturin enimmäisjakomäärästä. Anturi on jaettu seuraaville käyttäjille:",
+      "ru": "Вы использовали {%d^%1$,d}/{%d^%2$,d} от максимального количества делений для этого датчика. Датчик используется совместно со следующими пользователями:",
+      "sv": "Du har använt {%d^%1$,d}/{%d^%2$,d} av det maximala antalet delningar för denna sensor. Sensorn delas med följande användare:",
+      "fr": "Vous avez utilisé {%d^%1$,d}/{%d^%2$,d} du nombre maximum de divisions pour ce capteur. Le capteur est partagé avec les utilisateurs suivants :",
+      "de": "Sie haben {%d^%1$,d}/{%d^%2$,d} der maximalen Teilungszahl für diesen Sensor verwendet. Der Sensor wird mit den folgenden Benutzern geteilt:"
     },
     {
       "ident_ios": "Share.Send.button",
