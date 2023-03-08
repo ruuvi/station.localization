@@ -5362,7 +5362,7 @@
     {
       "ident_ios": "ShareViewController.sharedEmails.Title",
       "ident_android": "share_sensor_already_shared",
-      "ident_webui": "",
+      "ident_webui": "share_sensor_already_shared",
       "en": "You have used {%d^%1$,d}/{%d^%2$,d} of maximum shares of this sensor. The sensor has been shared to following users:",
       "fi": "Olet käyttänyt {%d^%1$,d}/{%d^%2$,d} tämän anturin enimmäisjakomäärästä. Anturi on jaettu seuraaville käyttäjille:",
       "ru": "Вы использовали {%d^%1$,d}/{%d^%2$,d} от максимального количества делений для этого датчика. Датчик используется совместно со следующими пользователями:",
@@ -5380,17 +5380,6 @@
       "sv": "Skicka",
       "fr": "Envoyer",
       "de": "Senden"
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "",
-      "ident_webui": "share_sensor_already_shared",
-      "en": "Already shared",
-      "fi": "Anturi on jo jaettu",
-      "ru": "Поделились",
-      "sv": "Sensorn är redan delad",
-      "fr": "Le capteur est déjà partagé",
-      "de": "Bereits geteilt"
     },
     {
       "ident_ios": "SharePresenter.UnshareSensor.Message",
