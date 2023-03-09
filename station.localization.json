@@ -7956,7 +7956,7 @@
       "de": "Drücken Sie +, um Sensoren hinzuzufügen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "settings_appearance",
       "ident_android": "settings_appearance",
       "ident_webui": "",
       "en": "Appearance",
@@ -8022,7 +8022,7 @@
       "de": "%1$s %2$s"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "app_theme",
       "ident_android": "app_theme",
       "ident_webui": "",
       "en": "App Theme",
@@ -8033,7 +8033,7 @@
       "de": "App Thema"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "follow_system_theme",
       "ident_android": "follow_system_theme",
       "ident_webui": "",
       "en": "Follow system theme",
@@ -8044,7 +8044,7 @@
       "de": "Dem Systemthema folgen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "dark_theme",
       "ident_android": "dark_theme",
       "ident_webui": "",
       "en": "Dark theme",
@@ -8055,7 +8055,7 @@
       "de": "Dunkles Thema"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "light_theme",
       "ident_android": "light_theme",
       "ident_webui": "",
       "en": "Light theme",
