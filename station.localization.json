@@ -9745,6 +9745,17 @@
       "sv": "Ingen utgångsdatum",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "shared_to_x",
+      "ident_webui": "",
+      "en": "Shared to {%d^%1$,d}/{%d^%2$,d}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
