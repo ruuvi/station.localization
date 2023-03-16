@@ -9699,8 +9699,8 @@
       "fi": "Min",
       "ru": "",
       "sv": "Min",
-      "fr": "",
-      "de": ""
+      "fr": "Min",
+      "de": "Min"
     },
     {
       "ident_ios": "",
@@ -9710,30 +9710,30 @@
       "fi": "Max",
       "ru": "",
       "sv": "Max",
-      "fr": "",
-      "de": ""
+      "fr": "Max",
+      "de": "Max"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "graph_stat_avg",
-      "en": "Avg",
-      "fi": "Keskia.",
+      "en": "Average",
+      "fi": "Keskiarvo",
       "ru": "",
-      "sv": "Medelv.",
-      "fr": "",
-      "de": ""
+      "sv": "Medelvärde",
+      "fr": "Moyenne",
+      "de": "Durchschnitt"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "graph_stats_info",
-      "en": "",
-      "fi": "",
+      "en": "A minimum, maximum and average values in the visible timeframe are shown. You can change the visible timeframe from the dropdown menu or by using the zoom tool.",
+      "fi": "Minimi-, maksimi- ja keskiarvot näytettävälle aikajaksolle. Voit vaihtaa näytettävän aikajakson pudotusvalikosta tai zoom-työkalua käyttämällä.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Ett minimi-, maximi- och medelvärde i den synliga tidsramen visas. Du kan ändra den synliga tidsramen från rullgardinsmenyn eller genom att använda zoomverktyget.",
+      "fr": "Des valeurs minimale, maximale et moyenne dans la période visible sont affichées. Vous pouvez modifier la période visible à partir du menu déroulant ou en utilisant l'outil de zoom.",
+      "de": "Es werden ein Minimum, ein Maximum und ein Durchschnittswert im sichtbaren Zeitrahmen angezeigt. Sie können den sichtbaren Zeitrahmen über das Dropdown-Menü oder mit dem Zoom-Tool ändern."
     },
     {
       "ident_ios": "",
@@ -9743,8 +9743,8 @@
       "fi": "Ei päättymispäivää",
       "ru": "",
       "sv": "Ingen utgångsdatum",
-      "fr": "",
-      "de": ""
+      "fr": "Pas de date d'expiration",
+      "de": "Kein Ablaufdatum"
     }
   ]
 }
