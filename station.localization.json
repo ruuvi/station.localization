@@ -9751,11 +9751,11 @@
       "ident_android": "shared_to_x",
       "ident_webui": "",
       "en": "Shared to {%d^%1$,d}/{%d^%2$,d}",
-      "fi": "",
+      "fi": "Jaettu {%d^%1$,d}/{%d^%2$,d}",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Delad {%d^%1$,d}/{%d^%2$,d}",
+      "fr": "Partagé {%d^%1$,d}/{%d^%2$,d}",
+      "de": "Freigegebene {%d^%1$,d}/{%d^%2$,d}"
     }
   ]
 }
