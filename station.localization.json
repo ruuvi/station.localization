@@ -9749,7 +9749,7 @@
     {
       "ident_ios": "",
       "ident_android": "shared_to_x",
-      "ident_webui": "",
+      "ident_webui": "shared_to_x",
       "en": "Shared to {%d^%1$,d}/{%d^%2$,d}",
       "fi": "Jaettu {%d^%1$,d}/{%d^%2$,d}",
       "ru": "",
