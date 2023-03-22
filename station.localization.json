@@ -3634,7 +3634,7 @@
     {
       "ident_ios": "No",
       "ident_android": "no",
-      "ident_webui": "",
+      "ident_webui": "no",
       "en": "No",
       "fi": "Ei",
       "ru": "Нет",
@@ -4217,7 +4217,7 @@
     {
       "ident_ios": "ChartSettings.DrawDots.title",
       "ident_android": "settings_chart_draw_dots",
-      "ident_webui": "",
+      "ident_webui": "settings_chart_draw_dots",
       "en": "Draw dots in chart",
       "fi": "Näytä tietopisteet",
       "ru": "Показывать точки на графике",
@@ -4768,7 +4768,7 @@
     {
       "ident_ios": "Yes",
       "ident_android": "yes",
-      "ident_webui": "",
+      "ident_webui": "yes",
       "en": "Yes",
       "fi": "Kyllä",
       "ru": "Да",
@@ -9745,6 +9745,17 @@
       "sv": "Ingen utgångsdatum",
       "fr": "Pas de date d'expiration",
       "de": "Kein Ablaufdatum"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "shared_to_x",
+      "ident_webui": "",
+      "en": "Shared to {%d^%1$,d}/{%d^%2$,d}",
+      "fi": "Jaettu {%d^%1$,d}/{%d^%2$,d}",
+      "ru": "",
+      "sv": "Delad {%d^%1$,d}/{%d^%2$,d}",
+      "fr": "Partagé {%d^%1$,d}/{%d^%2$,d}",
+      "de": "Freigegebene {%d^%1$,d}/{%d^%2$,d}"
     }
   ]
 }
