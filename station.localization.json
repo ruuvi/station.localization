@@ -8750,7 +8750,7 @@
     {
       "ident_ios": "simple_view",
       "ident_android": "simple_view",
-      "ident_webui": "",
+      "ident_webui": "simple_view",
       "en": "Simple view",
       "fi": "Piilota kuvat",
       "ru": "",
