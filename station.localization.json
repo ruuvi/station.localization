@@ -9756,6 +9756,39 @@
       "sv": "Delad {%d^%1$,d}/{%d^%2$,d}",
       "fr": "Partagé {%d^%1$,d}/{%d^%2$,d}",
       "de": "Freigegebene {%d^%1$,d}/{%d^%2$,d}"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "settings_alert_notifications",
+      "ident_webui": "",
+      "en": "Alert Notifications",
+      "fi": "",
+      "ru": "Уведомления о тревогах",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "settings_sound",
+      "ident_webui": "",
+      "en": "Sound Settings",
+      "fi": "",
+      "ru": "Настройки звука",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "settings_sound_description",
+      "ident_webui": "",
+      "en": "Configure app related sound and vibration settings.",
+      "fi": "",
+      "ru": "Настройте звуки и вибрацию для уведомлений от приложения.",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
