@@ -8827,7 +8827,7 @@
     {
       "ident_ios": "low_battery",
       "ident_android": "low_battery",
-      "ident_webui": "",
+      "ident_webui": "low_battery",
       "en": "Low battery",
       "fi": "Paristo vähissä",
       "ru": "",
