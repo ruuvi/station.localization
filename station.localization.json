@@ -9762,33 +9762,33 @@
       "ident_android": "settings_alert_notifications",
       "ident_webui": "",
       "en": "Alert Notifications",
-      "fi": "",
+      "fi": "Hälytysilmoitukset",
       "ru": "Уведомления о тревогах",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Varningsmeddelanden",
+      "fr": "Notifications d'alerte",
+      "de": "Alarmbenachrichtigungen"
     },
     {
       "ident_ios": "",
       "ident_android": "settings_sound",
       "ident_webui": "",
       "en": "Sound Settings",
-      "fi": "",
+      "fi": "Ääniasetukset",
       "ru": "Настройки звука",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Ljudinställningar",
+      "fr": "Paramètres du son",
+      "de": "Toneinstellungen"
     },
     {
       "ident_ios": "",
       "ident_android": "settings_sound_description",
       "ident_webui": "",
       "en": "Configure app related sound and vibration settings.",
-      "fi": "",
+      "fi": "Määritä sovelluksen ääni- ja värinäasetukset.",
       "ru": "Настройте звуки и вибрацию для уведомлений от приложения.",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Konfigurera appens ljud- och vibrationsinställningar.",
+      "fr": "Configurer les paramètres de son et de vibration de l'application.",
+      "de": "Konfigurieren Sie die Ton- und Vibrationseinstellungen der App."
     }
   ]
 }
