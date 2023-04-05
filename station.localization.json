@@ -9789,6 +9789,39 @@
       "sv": "Konfigurera appens ljud- och vibrationsinställningar.",
       "fr": "Configurer les paramètres de son et de vibration de l'application.",
       "de": "Konfigurieren Sie die Ton- und Vibrationseinstellungen der App."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "synchronisation",
+      "ident_webui": "",
+      "en": "Synchronisation",
+      "fi": "",
+      "ru": "Синхронизация",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "gatt_sync_description",
+      "ident_webui": "",
+      "en": "Ruuvi Station downloads the internal history of the sensor for the last 10 days if the measurement history is available.\\n\\nThe history is downloaded using a Bluetooth connection. Make sure you are near the sensor.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "do_not_show_again",
+      "ident_webui": "",
+      "en": "Don't show this again",
+      "fi": "",
+      "ru": "Больше не показывать",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
