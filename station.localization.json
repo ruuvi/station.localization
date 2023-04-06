@@ -9747,7 +9747,7 @@
       "de": "Kein Ablaufdatum"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "shared_to_x",
       "ident_android": "shared_to_x",
       "ident_webui": "shared_to_x",
       "en": "Shared to {%d^%1$,d}/{%d^%2$,d}",
