@@ -9822,6 +9822,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sign_in_continue",
+      "ident_webui": "",
+      "en": "Continue",
+      "fi": "",
+      "ru": "Продолжить",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "signing_in_is_optional",
+      "ident_webui": "",
+      "en": "(Signing in is optional)",
+      "fi": "",
+      "ru": "(Авторизация не обязательна)",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
