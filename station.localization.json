@@ -7541,12 +7541,12 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_enabled",
-      "en": "Email and browser alerts successfully enabled",
-      "fi": "Sähköposti- ja selainhälytykset käynnistetty onnistuneesti",
+      "en": "Alert successfully enabled",
+      "fi": "Hälytys käynnistetty onnistuneesti",
       "ru": "",
-      "sv": "E-post- och webbläsaralarm har aktiverats",
-      "fr": "Les alarmes du navigateur et par email activées avec succès",
-      "de": "E-Mail- und Browser-Benachrichtigungen erfolgreich aktiviert"
+      "sv": "Alarm har aktiverats",
+      "fr": "Alerte activée avec succès",
+      "de": "Benachrichtigung erfolgreich aktiviert"
     },
     {
       "ident_ios": "",
