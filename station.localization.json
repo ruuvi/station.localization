@@ -9795,55 +9795,55 @@
       "ident_android": "synchronisation",
       "ident_webui": "",
       "en": "Synchronisation",
-      "fi": "",
+      "fi": "Synkronointi",
       "ru": "Синхронизация",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Synkronisering",
+      "fr": "Synchronisation",
+      "de": "Synchronisation"
     },
     {
       "ident_ios": "",
       "ident_android": "gatt_sync_description",
       "ident_webui": "",
       "en": "Ruuvi Station downloads the internal history of the sensor for the last 10 days if the measurement history is available.\\n\\nThe history is downloaded using a Bluetooth connection. Make sure you are near the sensor.",
-      "fi": "",
+      "fi": "Ruuvi Station lataa anturin sisäisen historian viimeiseltä 10 päivältä, jos historia on saatavilla.\\n\\nMittaushistoria ladataan Bluetooth-yhteydellä. Varmista, että olet anturin läheisyydessä.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Ruuvi Station laddar ner sensorns interna historik för de senaste 10 dagarna om mäthistoriken är tillgänglig.\\n\\nHistorien laddas ner med en Bluetooth-anslutning. Se till att du är nära sensorn.",
+      "fr": "Ruuvi Station télécharge l'historique interne du capteur pour les 10 derniers jours si l'historique des mesures est disponible.\\n\\nL'historique est téléchargé à l'aide d'une connexion Bluetooth. Assurez-vous d'être à proximité du capteur.",
+      "de": "Ruuvi Station lädt den internen Verlauf des Sensors für die letzten 10 Tage herunter, wenn der Messverlauf verfügbar ist.\\n\\nDer Verlauf wird über eine Bluetooth-Verbindung heruntergeladen. Stellen Sie sicher, dass Sie sich in der Nähe des Sensors befinden."
     },
     {
       "ident_ios": "",
       "ident_android": "do_not_show_again",
       "ident_webui": "",
       "en": "Don't show this again",
-      "fi": "",
+      "fi": "Älä näytä tätä uudestaan",
       "ru": "Больше не показывать",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Visa inte detta igen",
+      "fr": "Ne plus afficher ça",
+      "de": "Zeige das nicht noch einmal"
     },
     {
       "ident_ios": "",
       "ident_android": "sign_in_continue",
       "ident_webui": "",
       "en": "Continue",
-      "fi": "",
+      "fi": "Jatka",
       "ru": "Продолжить",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Fortsätta",
+      "fr": "Continuer",
+      "de": "Weitermachen"
     },
     {
       "ident_ios": "",
       "ident_android": "signing_in_is_optional",
       "ident_webui": "",
       "en": "(Signing in is optional)",
-      "fi": "",
+      "fi": "(Kirjautuminen ei ole pakollista)",
       "ru": "(Авторизация не обязательна)",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "(Inloggning är inte obligatoriskt)",
+      "fr": "(La connexion est facultative)",
+      "de": "(Die Anmeldung ist optional)"
     }
   ]
 }
