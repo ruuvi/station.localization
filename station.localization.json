@@ -8748,7 +8748,73 @@
       "de": "Siehe"
     },
     {
-      "ident_ios": "simple_view",
+      "ident_ios": "card_type",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Card type",
+      "fi": "Korttityyppi",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "image_cards",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Image cards",
+      "fi": "Kuvakortit",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "simple_cards",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Simple cards",
+      "fi": "Yksinkertaiset kortit",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "card_action",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Card action",
+      "fi": "Siirry kortista",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "open_sensor_view",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Open sensor view",
+      "fi": "Anturinäkymään",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "open_history_view",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Open history view",
+      "fi": "Historianäkymään",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "simple_view",
       "ident_webui": "simple_view",
       "en": "Simple view",
@@ -8759,7 +8825,7 @@
       "de": "Einfache Ansicht"
     },
     {
-      "ident_ios": "image_view",
+      "ident_ios": "",
       "ident_android": "image_view",
       "ident_webui": "image_view",
       "en": "Image view",
