@@ -9857,7 +9857,7 @@
       "de": "Konfigurieren Sie die Ton- und Vibrationseinstellungen der App."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "synchronisation",
       "ident_android": "synchronisation",
       "ident_webui": "",
       "en": "Synchronisation",
@@ -9868,7 +9868,7 @@
       "de": "Synchronisation"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "gatt_sync_description",
       "ident_android": "gatt_sync_description",
       "ident_webui": "",
       "en": "Ruuvi Station downloads the internal history of the sensor for the last 10 days if the measurement history is available.\\n\\nThe history is downloaded using a Bluetooth connection. Make sure you are near the sensor.",
@@ -9879,7 +9879,7 @@
       "de": "Ruuvi Station lädt den internen Verlauf des Sensors für die letzten 10 Tage herunter, wenn der Messverlauf verfügbar ist.\\n\\nDer Verlauf wird über eine Bluetooth-Verbindung heruntergeladen. Stellen Sie sicher, dass Sie sich in der Nähe des Sensors befinden."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "do_not_show_again",
       "ident_android": "do_not_show_again",
       "ident_webui": "",
       "en": "Don't show this again",
@@ -9890,7 +9890,7 @@
       "de": "Zeige das nicht noch einmal"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sign_in_continue",
       "ident_android": "sign_in_continue",
       "ident_webui": "",
       "en": "Continue",
@@ -9901,7 +9901,7 @@
       "de": "Weitermachen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "signing_in_is_optional",
       "ident_android": "signing_in_is_optional",
       "ident_webui": "",
       "en": "(Signing in is optional)",
