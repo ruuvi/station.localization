@@ -9563,12 +9563,12 @@
       "ident_ios": "use_without_account",
       "ident_android": "use_without_account",
       "ident_webui": "",
-      "en": "No thanks, I'll continue without an account",
-      "fi": "Ei kiitos, jatkan ilman tiliä",
+      "en": "No thanks, skip",
+      "fi": "Ei kiitos, ohita",
       "ru": "",
-      "sv": "Nej tack, jag fortsätter utan konto",
-      "fr": "Non merci, je continue sans compte",
-      "de": "Nein danke, ich fahre ohne Konto fort"
+      "sv": "Nej tack, hoppa över",
+      "fr": "Non merci, ignorer",
+      "de": "Nein danke, überspringen"
     },
     {
       "ident_ios": "why_should_sign_in",
