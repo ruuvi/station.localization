@@ -8754,9 +8754,9 @@
       "en": "Card type",
       "fi": "Korttityyppi",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Kort typ",
+      "fr": "Type de carte",
+      "de": "Speicherkarten-Typ"
     },
     {
       "ident_ios": "image_cards",
@@ -8765,9 +8765,9 @@
       "en": "Image cards",
       "fi": "Kuvakortit",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Bildkort",
+      "fr": "Cartes-images",
+      "de": "Bildkarten"
     },
     {
       "ident_ios": "simple_cards",
@@ -8776,9 +8776,9 @@
       "en": "Simple cards",
       "fi": "Yksinkertaiset kortit",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Enkla kort",
+      "fr": "Cartes simples",
+      "de": "Einfache Karten"
     },
     {
       "ident_ios": "card_action",
@@ -8787,9 +8787,9 @@
       "en": "Card action",
       "fi": "Siirry kortista",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Kortåtgärd",
+      "fr": "Action de la carte",
+      "de": "Kartenaktion"
     },
     {
       "ident_ios": "open_sensor_view",
@@ -8798,9 +8798,9 @@
       "en": "Open sensor view",
       "fi": "Anturinäkymään",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Öppna sensorvy",
+      "fr": "Ouvrir la vue du capteur",
+      "de": "Sensoransicht öffnen"
     },
     {
       "ident_ios": "open_history_view",
@@ -8809,9 +8809,9 @@
       "en": "Open history view",
       "fi": "Historianäkymään",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Öppna historikvy",
+      "fr": "Ouvrir la vue de l'historique",
+      "de": "Verlaufsansicht öffnen"
     },
     {
       "ident_ios": "",
@@ -9919,8 +9919,8 @@
       "fi": "Tämä anturi on Free tilassa. Voit vastaanottaa paikallisia hälytyksiä Bluetoothin kautta käyttäessäsi Ruuvi Station -mobiilisovellusta ja anturi on Bluetooth-signaalin kantaman sisällä. Sähköposti- ja push-ilmoitukset ovat saatavilla maksullisissa tilauksissa. Katso tilauspaketteja osoitteessa cloud.ruuvi.com/fi.",
       "ru": "",
       "sv": "Den här sensorn är i Free läge. Du kommer kunna ta emot lokala varningar via Bluetooth när du använder Ruuvi Station appen och din sensor är inom Bluetooth signalräckvidd. E-post och push-meddelanden är tillgängliga i betalda prenumerationer. Visa prenumerationspaket på cloud.ruuvi.com.",
-      "fr": "",
-      "de": ""
+      "fr": "Ce capteur est en mode gratuit. Vous pourrez recevoir des alertes locales via Bluetooth lorsque vous utilisez Ruuvi Station mobile et que votre capteur se trouve à portée du signal Bluetooth. Les notifications par e-mail et push sont disponibles dans les abonnements payants. Consultez les forfaits d'abonnement sur cloud.ruuvi.com.",
+      "de": "Dieser Sensor befindet sich im Free-Modus. Sie können lokale Benachrichtigungen über Bluetooth erhalten, wenn Sie Ruuvi Station Mobile verwenden und sich Ihr Sensor in Bluetooth-Signalreichweite befindet. E-Mail- und Push-Benachrichtigungen sind in kostenpflichtigen Abonnements verfügbar. Sehen Sie sich Abonnementpakete unter cloud.ruuvi.com an."
     },
     {
       "ident_ios": "",
@@ -9930,8 +9930,8 @@
       "fi": "cloud.ruuvi.com/fi",
       "ru": "",
       "sv": "cloud.ruuvi.com",
-      "fr": "",
-      "de": ""
+      "fr": "cloud.ruuvi.com",
+      "de": "cloud.ruuvi.com"
     },
     {
       "ident_ios": "",
@@ -9941,8 +9941,8 @@
       "fi": "https://cloud.ruuvi.com/fi",
       "ru": "",
       "sv": "https://cloud.ruuvi.com",
-      "fr": "",
-      "de": ""
+      "fr": "https://cloud.ruuvi.com",
+      "de": "https://cloud.ruuvi.com"
     }
   ]
 }
