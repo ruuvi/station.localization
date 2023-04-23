@@ -4359,6 +4359,39 @@
       "de": "Feuchtigkeitseinheit"
     },
     {
+      "ident_ios": "Settings.Label.Temperature",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Temperature",
+      "fi": "Lämpötila",
+      "ru": "Температура",
+      "sv": "Temperatur",
+      "fr": "Température",
+      "de": "Temperatur"
+    },
+    {
+      "ident_ios": "Settings.Label.Humidity",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Humidity",
+      "fi": "Kosteus",
+      "ru": "Влажность",
+      "sv": "Fuktighet",
+      "fr": "Humidité",
+      "de": "Feuchtigkeit"
+    },
+    {
+      "ident_ios": "Settings.Label.Pressure",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Pressure",
+      "fi": "Paine",
+      "ru": "Давление",
+      "sv": "Lufttryck",
+      "fr": "Pression",
+      "de": "Druck"
+    },
+    {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
       "ident_android": "settings_humidity_unit_details",
       "ident_webui": "",
