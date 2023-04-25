@@ -3896,7 +3896,7 @@
       "de": "Signalstärke (RSSI)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "signal_strength_dbm",
       "ident_android": "signal_strength_dbm",
       "ident_webui": "",
       "en": "Signal Strength (dBm)",
