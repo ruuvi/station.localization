@@ -8782,7 +8782,7 @@
     },
     {
       "ident_ios": "card_type",
-      "ident_android": "",
+      "ident_android": "card_type",
       "ident_webui": "",
       "en": "Card type",
       "fi": "Korttityyppi",
@@ -8793,7 +8793,7 @@
     },
     {
       "ident_ios": "image_cards",
-      "ident_android": "",
+      "ident_android": "image_cards",
       "ident_webui": "",
       "en": "Image cards",
       "fi": "Kuvakortit",
@@ -8804,7 +8804,7 @@
     },
     {
       "ident_ios": "simple_cards",
-      "ident_android": "",
+      "ident_android": "simple_cards",
       "ident_webui": "",
       "en": "Simple cards",
       "fi": "Yksinkertaiset kortit",
@@ -8815,7 +8815,7 @@
     },
     {
       "ident_ios": "card_action",
-      "ident_android": "",
+      "ident_android": "card_action",
       "ident_webui": "",
       "en": "Card action",
       "fi": "Siirry kortista",
@@ -8826,7 +8826,7 @@
     },
     {
       "ident_ios": "open_sensor_view",
-      "ident_android": "",
+      "ident_android": "open_sensor_view",
       "ident_webui": "",
       "en": "Open sensor view",
       "fi": "Anturinäkymään",
@@ -8837,7 +8837,7 @@
     },
     {
       "ident_ios": "open_history_view",
-      "ident_android": "",
+      "ident_android": "open_history_view",
       "ident_webui": "",
       "en": "Open history view",
       "fi": "Historianäkymään",
