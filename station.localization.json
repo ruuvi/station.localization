@@ -3886,7 +3886,7 @@
     },
     {
       "ident_ios": "TagSettings.rssiTitleLabel.text",
-      "ident_android": "rssi",
+      "ident_android": "signal_strength_rssi",
       "ident_webui": "signal_strength",
       "en": "Signal Strength (RSSI)",
       "fi": "Signaalin voimakkuus (RSSI)",
@@ -3894,6 +3894,17 @@
       "sv": "Signalstyrka (RSSI)",
       "fr": "Puissance du signal (RSSI)",
       "de": "Signalstärke (RSSI)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "signal_strength_dbm",
+      "ident_webui": "",
+      "en": "Signal Strength (dBm)",
+      "fi": "Signaalin voimakkuus (dBm)",
+      "ru": "Сила сигнала (dBm)",
+      "sv": "Signalstyrka (dBm)",
+      "fr": "Puissance du signal (dBm)",
+      "de": "Signalstärke (dBm)"
     },
     {
       "ident_ios": "s",
