@@ -9987,6 +9987,17 @@
       "sv": "https://cloud.ruuvi.com",
       "fr": "https://cloud.ruuvi.com",
       "de": "https://cloud.ruuvi.com"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_search_placeholder",
+      "en": "Search...",
+      "fi": "Etsi...",
+      "ru": "",
+      "sv": "Sök...",
+      "fr": "Rechercher...",
+      "de": "Suchen..."
     }
   ]
 }
