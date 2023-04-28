@@ -9998,6 +9998,50 @@
       "sv": "Sök...",
       "fr": "Rechercher...",
       "de": "Suchen..."
+    },
+    {
+      "ident_ios": "Defaults.UserAuthorized.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "User Authorized",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Defaults.DashboardTapActionChart.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show Chart on Dashboard Card Tap",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Defaults.DevServer.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Use Dev Server",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Defaults.DevServer.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Changing Ruuvi Cloud endpoint requires signing out from current session and restart the app. Are you sure?",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
