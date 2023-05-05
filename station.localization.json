@@ -9868,7 +9868,7 @@
       "de": "Freigegebene {%d^%1$,d}/{%d^%2$,d}"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "settings_alert_notifications",
       "ident_android": "settings_alert_notifications",
       "ident_webui": "",
       "en": "Alert Notifications",
@@ -9879,7 +9879,7 @@
       "de": "Alarmbenachrichtigungen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "settings_sound",
       "ident_android": "settings_sound",
       "ident_webui": "",
       "en": "Sound Settings",
@@ -9890,7 +9890,7 @@
       "de": "Toneinstellungen"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "settings_sound_description",
       "ident_android": "settings_sound_description",
       "ident_webui": "",
       "en": "Configure app related sound and vibration settings.",
