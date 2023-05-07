@@ -9879,7 +9879,7 @@
       "de": "Alarmbenachrichtigungen"
     },
     {
-      "ident_ios": "settings_sound",
+      "ident_ios": "",
       "ident_android": "settings_sound",
       "ident_webui": "",
       "en": "Sound Settings",
@@ -9890,7 +9890,7 @@
       "de": "Toneinstellungen"
     },
     {
-      "ident_ios": "settings_sound_description",
+      "ident_ios": "",
       "ident_android": "settings_sound_description",
       "ident_webui": "",
       "en": "Configure app related sound and vibration settings.",
@@ -9899,6 +9899,72 @@
       "sv": "Konfigurera appens ljud- och vibrationsinställningar.",
       "fr": "Configurer les paramètres de son et de vibration de l'application.",
       "de": "Konfigurieren Sie die Ton- und Vibrationseinstellungen der App."
+    },
+    {
+      "ident_ios": "settings_alert_sound",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Alert Sound",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_alert_sound_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Select push notification alert sound.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_email_alerts",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Email Alerts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_email_alerts_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive email alerts by enabling this.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_push_alerts",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Push Alerts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_push_alerts_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive push alerts by enabling this.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     },
     {
       "ident_ios": "synchronisation",
@@ -10037,6 +10103,28 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Changing Ruuvi Cloud endpoint requires signing out from current session and restart the app. Are you sure?",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Defaults.ShowEmailAlertsSettings.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show email alerts settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "Defaults.ShowPushAlertsSettings.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show push alerts settings",
       "fi": "",
       "ru": "",
       "sv": "",
