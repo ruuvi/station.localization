@@ -9923,6 +9923,28 @@
       "de": ""
     },
     {
+      "ident_ios": "settings_alerts_footer_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "You can also adjust Notification settings under iOS Settings -> Notifications",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_alerts_footer_description_link_mask",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "iOS Settings -> Notifications",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "settings_email_alerts",
       "ident_android": "",
       "ident_webui": "",
