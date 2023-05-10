@@ -3425,7 +3425,7 @@
     {
       "ident_ios": "Menu.Label.AddAnNewSensor.text",
       "ident_android": "menu_add_new_sensor",
-      "ident_webui": "",
+      "ident_webui": "add_new_sensor",
       "en": "Add a New Sensor",
       "fi": "Lisää uusi anturi",
       "ru": "Добавить Сенсор",
@@ -10150,6 +10150,39 @@
       "fi": "",
       "ru": "",
       "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "add_sensor_dialog_text",
+      "en": "Fill the sensor MAC address to the fields.\n\nFor more information about adding your sensors to Ruuvi Station visit ruuvi.com/support",
+      "fi": "Täytä anturin MAC-osoite kenttiin.\n\nLisätietoja antureiden lisäämisestä Ruuvi Stationiin löydät osoitteesta ruuvi.com/fi/tuki",
+      "ru": "",
+      "sv": "Fyll i sensorns MAC-adress i fälten.\n\nFör mer information om hur du lägger till dina sensorer i Ruuvi Station, besök ruuvi.com/support",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "add",
+      "en": "Add",
+      "fi": "Lisää",
+      "ru": "",
+      "sv": "Lägg till",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_added_successfully",
+      "en": "Sensor added successfully!",
+      "fi": "Anturi lisättiin onnistuneesti!",
+      "ru": "",
+      "sv": "Sensorn har lagts till!",
       "fr": "",
       "de": ""
     }
