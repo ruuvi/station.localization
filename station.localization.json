@@ -3085,12 +3085,12 @@
       "ident_ios": "About.AboutHelp.contents",
       "ident_android": "help_about_text",
       "ident_webui": "",
-      "en": "Ruuvi Station is an easy-to-use but powerful tool to supercharge your Ruuvi sensors. Simply add some sensors and you're ready to go.",
-      "fi": "Ruuvi Station on helppokäyttöinen sovellus Ruuvin tuotteiden hallinnointiin. Aloita lisäämällä antureita.",
-      "ru": "Ruuvi Station - простой в использовании, но мощный инструмент для работы с вашими Ruuvi сенсорами.",
-      "sv": "Ruuvi Station är en lättanvänt och kraftfullt program för Ruuvi sensorer. Sätt igång genom att lägga till sensorer.",
-      "fr": "Ruuvi Station est une application intuitive pour contôler vos capteurs Ruuvi. Commencez en jumelant des capteurs.",
-      "de": "Ruuvi Station ist ein benutzerfreundliches, aber leistungsstarkes Werkzeug, um Ihre Ruuvi-Sensoren aufzuladen. Fügen Sie einfach einige Sensoren hinzu und schon können Sie loslegen."
+      "en": "Ruuvi Station is an easy-to-use application that allows you to monitor the measurement data of Ruuvi sensors.",
+      "fi": "Ruuvi Station on kätevä ja helppokäyttöinen sovellus, jonka avulla voit seurata Ruuvin anturien mittaustietoja.",
+      "ru": "Ruuvi Station — это простое в использовании приложение, позволяющее отслеживать данные измерений датчиков Ruuvi.",
+      "sv": "Ruuvi Station är en lättanvänd applikation som låter dig övervaka mätdata från Ruuvi-sensorer.",
+      "fr": "Ruuvi Station est une application facile à utiliser qui vous permet de surveiller les données de mesure des capteurs Ruuvi.",
+      "de": "Ruuvi Station ist eine benutzerfreundliche Anwendung, mit der Sie die Messdaten von Ruuvi-Sensoren überwachen können."
     },
     {
       "ident_ios": "About.AboutHelp.header",
@@ -3184,12 +3184,12 @@
       "ident_ios": "About.OpenSource.contents",
       "ident_android": "help_opensource_text",
       "ident_webui": "",
-      "en": "Just like Ruuvi sensors, Ruuvi Station is also open-source: github.com/ruuvi",
-      "fi": "Kuten muutkin Ruuvin tuotteet, myös Ruuvi Station perustuu avoimeen lähdekoodiin: github.com/ruuvi",
-      "ru": "Как и сенсоры Ruuvi, Ruuvi Station также доступна в исходных кодах: github.com/ruuvi",
-      "sv": "Likt Ruuvi sensor är också Ruuvi Station gjord med öppen källkod: github.com/ruuvi",
-      "fr": "Comme tous les produits Ruuvi, Ruuvi Station est également open-source : github.com/ruuvi",
-      "de": "Genau wie Ruuvi-Sensoren ist auch Ruuvi Station Open Source: github.com/ruuvi"
+      "en": "Just like Ruuvi sensors, Ruuvi Station apps are open source. Follow the development and contribute at: github.com/ruuvi",
+      "fi": "Kuten Ruuvi-anturit, Ruuvi Station -sovellukset perustuvat avoimeen lähdekoodiin. Seuraa kehitystä ja osallistu osoitteessa: github.com/ruuvi",
+      "ru": "Как и датчики Ruuvi, приложения Ruuvi Station имеют открытый исходный код. Следите за развитием и вносите свой вклад на: github.com/ruuvi",
+      "sv": "Precis som Ruuvi-sensorer är Ruuvi Station-appar öppen källkod. Följ utvecklingen och bidra på: github.com/ruuvi",
+      "fr": "Tout comme les capteurs Ruuvi, les applications Ruuvi Station sont open source. Suivez le développement et contribuez sur : github.com/ruuvi",
+      "de": "Genau wie Ruuvi-Sensoren sind auch die Ruuvi Station-Apps Open Source. Verfolgen Sie die Entwicklung und leisten Sie einen Beitrag unter: github.com/ruuvi"
     },
     {
       "ident_ios": "About.OpenSource.header",
@@ -3206,12 +3206,12 @@
       "ident_ios": "About.OperationsManual.contents",
       "ident_android": "help_operations_text",
       "ident_webui": "",
-      "en": "We've designed the app to be self-explanatory but comprehensive manuals are also available for both Ruuvi sensors and Ruuvi Station: ruuvi.com/support",
-      "fi": "Olemme suunnitelleet ohjelman ja laitteemme mahdollisimman helppokäyttöisiksi, mutta myös ohjeet ovat saatavilla osoitteessa ruuvi.com/fi/tuki",
-      "ru": "Мы разработали приложение так, чтобы оно было интуитивно понятным. В то же время, руководства доступны здесь: ruuvi.com/support",
-      "sv": "Vi har designat appen så att den ska vara självförklarande men det finns också heltäckande manualer för både Ruuvi sensorer och Ruuvi Station: ruuvi.com/support",
-      "fr": "Nous avons conçu nos produits et leur application pour qu'ils soient faciles à utiliser. Une notice est cependant disponible : ruuvi.com/support",
-      "de": "Wir haben die App so gestaltet, dass sie selbsterklärend ist, aber sowohl für Ruuvi-Sensoren als auch für die Ruuvi-Station sind umfassende Handbücher verfügbar: ruuvi.com/support"
+      "en": "Get started using the Ruuvi Station mobile application with our online guides: ruuvi.com/support/station-mobile",
+      "fi": "Aloita Ruuvi Station -mobiilisovelluksen käyttö ohjeidemme avulla: ruuvi.com/fi/tuki/station-mobile-fi",
+      "ru": "Начните использовать мобильное приложение Ruuvi Station с помощью наших онлайн-руководств: ruuvi.com/support/station-mobile",
+      "sv": "Kom igång med Ruuvi Stations mobilapplikation med våra onlineguider: ruuvi.com/support/station-mobile",
+      "fr": "Commencez à utiliser l'application mobile Ruuvi Station avec nos guides en ligne : ruuvi.com/support/station-mobile",
+      "de": "Beginnen Sie mit der Nutzung der mobilen Anwendung Ruuvi Station mit unseren Online-Anleitungen: ruuvi.com/support/station-mobile"
     },
     {
       "ident_ios": "About.OperationsManual.header",
@@ -3261,12 +3261,12 @@
       "ident_ios": "About.Troubleshooting.contents",
       "ident_android": "help_troubleshooting_text",
       "ident_webui": "",
-      "en": "If you’re experiencing problems and our manuals didn’t provide the help you need, check out our many troubleshooting topics, here: ruuvi.com/support",
-      "fi": "Jos törmäät ongelmiin ja ohjeet eivät auttaneet, tarkista vianetsintäkysymykset: ruuvi.com/fi/tuki",
-      "ru": "Если вы испытываете какие либо проблемы или наши руководства не помогли вам, посмотрите наши многочисленные темы с решением проблем здесь: ruuvi.com/support",
-      "sv": "Om du stöter på problem och våra manualer inte hjälper så kan det hjälpa att ta en titt på våra många felsökningsämnen: ruuvi.com/support",
-      "fr": "Si vous rencontrez des problèmes et que vous ne trouvez pas la réponse dans la notice, veuillez consulter la page d'assistance technique : ruuvi.com/support",
-      "de": "Wenn Sie Probleme haben und unsere Handbücher nicht die gewünschte Hilfe bieten, finden Sie weitere Hilfe zur Fehlerbehebung hier: ruuvi.com/support"
+      "en": "Find help using the Ruuvi Station apps, Ruuvi products and Ruuvi Cloud service from our support center: ruuvi.com/support",
+      "fi": "Löydä apua Ruuvi Station -sovellusten, Ruuvi-tuotteiden ja Ruuvi Cloud -palvelun käyttöön tukikeskuksestamme: ruuvi.com/fi/tuki",
+      "ru": "Получите помощь по использованию приложений Ruuvi Station, продуктов Ruuvi и облачной службы Ruuvi в нашем центре поддержки: ruuvi.com/support",
+      "sv": "Hitta hjälp med att använda Ruuvi Station-appar, Ruuvi-produkter och Ruuvi Cloud-tjänst från vårt supportcenter: ruuvi.com/support",
+      "fr": "Trouvez de l'aide en utilisant les applications Ruuvi Station, les produits Ruuvi et le service Ruuvi Cloud depuis notre centre d'assistance : ruuvi.com/support",
+      "de": "Hilfe bei der Verwendung der Ruuvi Station-Apps, Ruuvi-Produkte und des Ruuvi Cloud-Dienstes finden Sie in unserem Support-Center: ruuvi.com/support"
     },
     {
       "ident_ios": "About.Troubleshooting.header",
