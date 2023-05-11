@@ -7160,8 +7160,8 @@
       "fi": "vuosi",
       "ru": "год",
       "sv": "år",
-      "fr": "",
-      "de": ""
+      "fr": "Année",
+      "de": "Jahr"
     },
     {
       "ident_ios": "",
@@ -9028,7 +9028,7 @@
       "ident_webui": "user",
       "en": "User",
       "fi": "Käyttäjä",
-      "ru": "",
+      "ru": "L'utilisateur",
       "sv": "Användare"
     },
     {
@@ -10161,8 +10161,8 @@
       "fi": "Täytä anturin MAC-osoite kenttiin.\n\nLisätietoja antureiden lisäämisestä Ruuvi Stationiin löydät osoitteesta ruuvi.com/fi/tuki",
       "ru": "",
       "sv": "Fyll i sensorns MAC-adress i fälten.\n\nFör mer information om hur du lägger till dina sensorer i Ruuvi Station, besök ruuvi.com/support",
-      "fr": "",
-      "de": ""
+      "fr": "Remplissez l'adresse MAC du capteur aux champs.\n\nPour plus d'informations sur l'ajout de vos capteurs à la station Ruuvi, visitez ruivi.com/Support",
+      "de": "Füllen Sie die Sensor -MAC -Adresse in die Felder.\n\nWeitere Informationen zum Hinzufügen Ihrer Sensoren zur Ruuvi Station finden Sie unter ruuvi.com/support"
     },
     {
       "ident_ios": "",
@@ -10172,8 +10172,8 @@
       "fi": "Lisää",
       "ru": "",
       "sv": "Lägg till",
-      "fr": "",
-      "de": ""
+      "fr": "Ajouter",
+      "de": "Hinzufügen"
     },
     {
       "ident_ios": "",
@@ -10183,8 +10183,8 @@
       "fi": "Anturi lisättiin onnistuneesti!",
       "ru": "",
       "sv": "Sensorn har lagts till!",
-      "fr": "",
-      "de": ""
+      "fr": "Le capteur a ajouté avec succès!",
+      "de": "Sensor erfolgreich hinzugefügt!"
     }
   ]
 }
