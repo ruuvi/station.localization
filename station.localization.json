@@ -7596,12 +7596,12 @@
       "ident_ios": "",
       "ident_android": "widgets_sign_in_first",
       "ident_webui": "",
-      "en": "To use widgets, you need to sign in first.",
-      "fi": "Käyttääksesi widgettejä, sinun on ensin kirjauduttava sisään.",
+      "en": "Please sign in first. To make use of widgets, you need a Ruuvi Gateway router.",
+      "fi": "Kirjaudu ensin sisään. Widgettien käyttäminen vaatii Ruuvi Gateway -reitittimen.",
       "ru": "",
-      "sv": "För att använda widgets måste du först logga in.",
-      "fr": "Pour utiliser les widgets vous devez d'abord vous connecter.",
-      "de": "Um Widgets nutzen zu können, müssen Sie sich zunächst anmelden."
+      "sv": "Logga in först. Att använda widgetarna kräver en Ruuvi Gateway-router.",
+      "fr": "Veuillez d'abord vous connecter. Pour utiliser les widgets, vous avez besoin d'un routeur Ruuvi Gateway.",
+      "de": "Bitte melden Sie sich zuerst an. Um Widgets nutzen zu können, benötigen Sie einen Ruuvi Gateway-Router."
     },
     {
       "ident_ios": "",
