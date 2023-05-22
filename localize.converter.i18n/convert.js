@@ -2,7 +2,7 @@ var fs = require('fs');
 var obj = JSON.parse(fs.readFileSync('../station.localization.json', 'utf8'));
 
 // languages we want
-var getLangs = ["en","fi","sv"];
+var getLangs = ["en","fi","sv","fr","de"];
 
 var output = {};
 for (var i = 0; i < getLangs.length; i++) {

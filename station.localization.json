@@ -1070,7 +1070,7 @@
     {
       "ident_ios": "Language.French",
       "ident_android": "language_french",
-      "ident_webui": "",
+      "ident_webui": "language_french",
       "en": "Français",
       "fi": "Français",
       "ru": "Français",
@@ -1081,7 +1081,7 @@
     {
       "ident_ios": "Language.German",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "language_german",
       "en": "Deutsch",
       "fi": "Deutsch",
       "ru": "Deutsch",
