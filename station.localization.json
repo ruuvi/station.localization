@@ -4371,7 +4371,7 @@
     },
     {
       "ident_ios": "Settings.Label.Temperature",
-      "ident_android": "",
+      "ident_android": "settings_temperature",
       "ident_webui": "",
       "en": "Temperature",
       "fi": "Lämpötila",
@@ -4382,7 +4382,7 @@
     },
     {
       "ident_ios": "Settings.Label.Humidity",
-      "ident_android": "",
+      "ident_android": "settings_humidity",
       "ident_webui": "",
       "en": "Humidity",
       "fi": "Kosteus",
@@ -4393,7 +4393,7 @@
     },
     {
       "ident_ios": "Settings.Label.Pressure",
-      "ident_android": "",
+      "ident_android": "settings_pressure",
       "ident_webui": "",
       "en": "Pressure",
       "fi": "Paine",
