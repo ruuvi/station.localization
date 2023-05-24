@@ -8673,7 +8673,7 @@
     {
       "ident_ios": "history_view",
       "ident_android": "history_view",
-      "ident_webui": "",
+      "ident_webui": "history_view",
       "en": "History view",
       "fi": "Historianäkymä",
       "ru": "",
@@ -8684,7 +8684,7 @@
     {
       "ident_ios": "settings_and_alerts",
       "ident_android": "settings_and_alerts",
-      "ident_webui": "",
+      "ident_webui": "settings_and_alerts",
       "en": "Settings & alerts",
       "fi": "Asetukset & hälytykset",
       "ru": "",
@@ -8695,7 +8695,7 @@
     {
       "ident_ios": "change_background",
       "ident_android": "change_background",
-      "ident_webui": "",
+      "ident_webui": "change_background",
       "en": "Change background",
       "fi": "Vaihda taustakuva",
       "ru": "",
