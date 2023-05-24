@@ -2731,7 +2731,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Calibrate.title",
       "ident_android": "calibrate",
-      "ident_webui": "",
+      "ident_webui": "calibrate",
       "en": "Calibrate",
       "fi": "Kalibroi",
       "ru": "Калибровать",
@@ -2886,7 +2886,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Clear.title",
       "ident_android": "clear",
-      "ident_webui": "",
+      "ident_webui": "clear",
       "en": "Clear",
       "fi": "Pyyhi",
       "ru": "Очистить",
