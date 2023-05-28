@@ -10198,6 +10198,17 @@
       "sv": "Ingen data. Denna sensor är i Free läge.",
       "fr": "Aucune donnée. Ce capteur est en mode Free.",
       "de": "Keine Daten. Dieser Sensor befindet sich im Free-Modus."
+    },
+    {
+      "ident_ios": "scan_with_nfc",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Scan with NFC",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
