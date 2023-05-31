@@ -2731,7 +2731,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Calibrate.title",
       "ident_android": "calibrate",
-      "ident_webui": "",
+      "ident_webui": "calibrate",
       "en": "Calibrate",
       "fi": "Kalibroi",
       "ru": "Калибровать",
@@ -2886,7 +2886,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Clear.title",
       "ident_android": "clear",
-      "ident_webui": "",
+      "ident_webui": "clear",
       "en": "Clear",
       "fi": "Pyyhi",
       "ru": "Очистить",
@@ -6908,7 +6908,7 @@
       "ru": "Обновить",
       "sv": "Uppdatera",
       "fr": "Mettre à jour",
-      "de": "Update"
+      "de": "Aktualisieren"
     },
     {
       "ident_ios": "",
@@ -8673,7 +8673,7 @@
     {
       "ident_ios": "history_view",
       "ident_android": "history_view",
-      "ident_webui": "",
+      "ident_webui": "history_view",
       "en": "History view",
       "fi": "Historianäkymä",
       "ru": "",
@@ -8684,7 +8684,7 @@
     {
       "ident_ios": "settings_and_alerts",
       "ident_android": "settings_and_alerts",
-      "ident_webui": "",
+      "ident_webui": "settings_and_alerts",
       "en": "Settings & alerts",
       "fi": "Asetukset & hälytykset",
       "ru": "",
@@ -8695,7 +8695,7 @@
     {
       "ident_ios": "change_background",
       "ident_android": "change_background",
-      "ident_webui": "",
+      "ident_webui": "change_background",
       "en": "Change background",
       "fi": "Vaihda taustakuva",
       "ru": "",
@@ -10187,6 +10187,28 @@
       "sv": "Sensorn har lagts till!",
       "fr": "Le capteur a ajouté avec succès!",
       "de": "Sensor erfolgreich hinzugefügt!"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "no_data_free_mode",
+      "en": "No data. This sensor is in Free mode.",
+      "fi": "Ei tietoja. Tämä anturi on Free tilassa.",
+      "ru": "",
+      "sv": "Ingen data. Denna sensor är i Free läge.",
+      "fr": "Aucune donnée. Ce capteur est en mode Free.",
+      "de": "Keine Daten. Dieser Sensor befindet sich im Free-Modus."
+    },
+    {
+      "ident_ios": "scan_with_nfc",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Scan with NFC",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
