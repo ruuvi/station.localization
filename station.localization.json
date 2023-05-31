@@ -277,7 +277,7 @@
     },
     {
       "ident_ios": "Cards.UpdatedLabel.NoData.message",
-      "ident_android": "",
+      "ident_android": "no_data_10_days",
       "ident_webui": "",
       "en": "No data during the last 10 days",
       "fi": "Ei tietoja viimeiseltä 10 päivältä",
