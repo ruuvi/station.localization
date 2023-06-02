@@ -9907,88 +9907,88 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Alert Sound",
-      "fi": "",
+      "fi": "Hälytysääni",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Varningsljud",
+      "fr": "Son d'alerte",
+      "de": "Alarmton"
     },
     {
       "ident_ios": "settings_alert_sound_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "Select push notification alert sound.",
-      "fi": "",
+      "fi": "Valitse push-viestin hälytysääni.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Välj varningsljudet för push-meddelandet.",
+      "fr": "Sélectionnez le son de notification push.",
+      "de": "Wählen Sie den Push-Benachrichtigungston aus."
     },
     {
       "ident_ios": "settings_alerts_footer_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "You can also adjust Notification settings under iOS Settings -> Notifications",
-      "fi": "",
+      "fi": "Voit myös muokata ilmoitusasetuksia kohdassa iOS-asetukset -> Ilmoitukset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Du kan även justera Aviseringsinställningar under iOS-inställningar -> Aviseringar",
+      "fr": "Vous pouvez également ajuster les paramètres de notification sous Paramètres iOS -> Notifications",
+      "de": "Sie können die Benachrichtigungseinstellungen auch unter iOS-Einstellungen -> Benachrichtigungen anpassen"
     },
     {
       "ident_ios": "settings_alerts_footer_description_link_mask",
       "ident_android": "",
       "ident_webui": "",
       "en": "iOS Settings -> Notifications",
-      "fi": "",
+      "fi": "iOS-asetukset -> Ilmoitukset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "iOS-inställningar -> Aviseringar",
+      "fr": "Paramètres iOS -> Notifications",
+      "de": "iOS-Einstellungen -> Benachrichtigungen"
     },
     {
       "ident_ios": "settings_email_alerts",
       "ident_android": "",
       "ident_webui": "",
       "en": "Email Alerts",
-      "fi": "",
+      "fi": "Sähköpostihälytykset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "E-postvarningar",
+      "fr": "Alertes courrier électronique",
+      "de": "E-Mail-Benachrichtigungen"
     },
     {
       "ident_ios": "settings_email_alerts_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive email alerts by enabling this.",
-      "fi": "",
+      "fi": "Jos olet Ruuvi Cloud ja Ruuvi Gateway -käyttäjä, voit vastaanottaa sähköpostihälytyksiä ottamalla tämän käyttöön.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Om du använder Ruuvi Cloud och Ruuvi Gateway kommer du att kunna ta emot e-postvarningar genom att aktivera detta.",
+      "fr": "Si vous utilisez Ruuvi Cloud et Ruuvi Gateway, vous pourrez recevoir des alertes par e-mail en activant ceci.",
+      "de": "Wenn Sie Ruuvi Cloud und Ruuvi Gateway verwenden, können Sie durch Aktivieren dieser Funktion E-Mail-Benachrichtigungen erhalten."
     },
     {
       "ident_ios": "settings_push_alerts",
       "ident_android": "",
       "ident_webui": "",
       "en": "Push Alerts",
-      "fi": "",
+      "fi": "Push-hälytykset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Push-varningar",
+      "fr": "Alertes push",
+      "de": "Push-Benachrichtigungen"
     },
     {
       "ident_ios": "settings_push_alerts_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive push alerts by enabling this.",
-      "fi": "",
+      "fi": "Jos olet Ruuvi Cloud ja Ruuvi Gateway -käyttäjä, voit vastaanottaa push-hälytyksiä ottamalla tämän käyttöön.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Om du använder Ruuvi Cloud och Ruuvi Gateway kommer du att kunna ta emot push-varningar genom att aktivera detta.",
+      "fr": "Si vous utilisez Ruuvi Cloud et Ruuvi Gateway, vous pourrez recevoir des alertes push en activant ceci.",
+      "de": "Wenn Sie Ruuvi Cloud und Ruuvi Gateway verwenden, können Sie Push-Benachrichtigungen erhalten, indem Sie diese aktivieren."
     },
     {
       "ident_ios": "synchronisation",
@@ -10094,66 +10094,66 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "User Authorized",
-      "fi": "",
+      "fi": "Käyttäjä autorisoitu",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Användare auktoriserad",
+      "fr": "Utilisateur autorisé",
+      "de": "Benutzerautorisiert"
     },
     {
       "ident_ios": "Defaults.DashboardTapActionChart.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Show Chart on Dashboard Card Tap",
-      "fi": "",
+      "fi": "Näytä kuvaaja napauttamalla koontinäytön korttia",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Tryck på instrumentpanelskortet för att visa diagrammet",
+      "fr": "Appuyez sur la carte du tableau de bord pour afficher le graphique",
+      "de": "Tippen Sie auf die Dashboard-Karte, um das Diagramm anzuzeigen"
     },
     {
       "ident_ios": "Defaults.DevServer.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Use Dev Server",
-      "fi": "",
+      "fi": "Käytä dev-palvelinta",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Använd dev-server",
+      "fr": "Utiliser le serveur de développement",
+      "de": "Verwenden Sie einen Entwicklungsserver"
     },
     {
       "ident_ios": "Defaults.DevServer.message",
       "ident_android": "",
       "ident_webui": "",
       "en": "Changing Ruuvi Cloud endpoint requires signing out from current session and restart the app. Are you sure?",
-      "fi": "",
+      "fi": "Ruuvi Cloud -päätepisteen muuttaminen vaatii kirjautumisen ulos nykyisestä istunnosta ja käynnistämään sovelluksen uudelleen. Oletko varma?",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "För att ändra Ruuvi Cloud -slutpunkt måste du logga ut från den aktuella sessionen och starta om appen. Är du säker?",
+      "fr": "La modification du point de terminaison Ruuvi Cloud nécessite de se déconnecter de la session en cours et de redémarrer l'application. Es-tu sûr?",
+      "de": "Um den Ruuvi Cloud-Endpunkt zu ändern, müssen Sie sich von der aktuellen Sitzung abmelden und die App neu starten. Bist du dir sicher?"
     },
     {
       "ident_ios": "Defaults.ShowEmailAlertsSettings.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Show email alerts settings",
-      "fi": "",
+      "fi": "Näytä sähköpostihälytysasetukset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Visa inställningar för e-postvarningar",
+      "fr": "Afficher les paramètres d'alertes par e-mail",
+      "de": "Einstellungen für E-Mail-Benachrichtigungen anzeigen"
     },
     {
       "ident_ios": "Defaults.ShowPushAlertsSettings.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Show push alerts settings",
-      "fi": "",
+      "fi": "Näytä push-hälytysasetukset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Visa push-varningsinställningar",
+      "fr": "Afficher les paramètres des alertes push",
+      "de": "Einstellungen für Push-Benachrichtigungen anzeigen"
     },
     {
       "ident_ios": "",
@@ -10204,11 +10204,11 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Scan with NFC",
-      "fi": "",
+      "fi": "Skannaa NFC:llä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Skanna med NFC",
+      "fr": "Numériser avec NFC",
+      "de": "Scannen Sie mit NFC"
     }
   ]
 }
