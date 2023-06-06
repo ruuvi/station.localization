@@ -10200,15 +10200,37 @@
       "de": "Keine Daten. Dieser Sensor befindet sich im Free-Modus."
     },
     {
-      "ident_ios": "scan_with_nfc",
+      "ident_ios": "use_nfc",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Scan with NFC",
-      "fi": "Skannaa NFC:llä",
+      "en": "Use NFC",
+      "fi": "Käytä NFC:tä",
       "ru": "",
-      "sv": "Skanna med NFC",
-      "fr": "Numériser avec NFC",
-      "de": "Scannen Sie mit NFC"
+      "sv": "Använd NFC",
+      "fr": "Utiliser NFC",
+      "de": "Verwenden Sie NFC"
+    },
+    {
+      "ident_ios": "use_bluetooth",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Use BT",
+      "fi": "Käytä BT:tä",
+      "ru": "",
+      "sv": "Använd BT",
+      "fr": "Utiliser BT",
+      "de": "Verwenden Sie BT"
+    },
+    {
+      "ident_ios": "use_nfc",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sensor not found. Try again.",
+      "fi": "Anturia ei löytynyt. Yritä uudelleen.",
+      "ru": "",
+      "sv": "Sensorn hittades inte. Försök igen.",
+      "fr": "Capteur introuvable. Essayer à nouveau.",
+      "de": "Sensor nicht gefunden. Versuchen Sie es erneut."
     }
   ]
 }
