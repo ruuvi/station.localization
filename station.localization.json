@@ -10231,6 +10231,17 @@
       "sv": "Sensorn hittades inte. Försök igen.",
       "fr": "Capteur introuvable. Essayer à nouveau.",
       "de": "Sensor nicht gefunden. Versuchen Sie es erneut."
+    },
+    {
+      "ident_ios": "Defaults.HideNFC.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Hide NFC Ooption for sensor contest",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
