@@ -10222,7 +10222,7 @@
       "de": "Verwenden Sie BT"
     },
     {
-      "ident_ios": "use_nfc",
+      "ident_ios": "sensor_not_found_error",
       "ident_android": "",
       "ident_webui": "",
       "en": "Sensor not found. Try again.",
