@@ -10242,6 +10242,28 @@
       "sv": "",
       "fr": "",
       "de": ""
+    },
+    {
+      "ident_ios": "settings_alert_sound_default",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "System Default",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "settings_alert_sound_ruuvi_speak",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Ruuvi Speak",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
