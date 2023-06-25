@@ -10275,6 +10275,105 @@
       "sv": "Ruuvi larm",
       "fr": "Ruuvi alarme",
       "de": "Ruuvi Alarm"
+    },
+    {
+      "ident_ios": "add_with_nfc",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Add with NFC",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "sensor_details",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sensor Details",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "add_sensor",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Add Sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "copy_details",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Copy Details",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "name",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Name:",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "mac_address",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Mac Address:",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unique_id",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Unique ID:",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "close",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Close",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "add_sensor_nfc_df3_error",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This tag cannot be added with NFC due to old firmware. Please add the tag with Bluetooth and update firmware.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
     }
   ]
 }
