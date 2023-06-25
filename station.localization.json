@@ -10354,6 +10354,17 @@
       "de": ""
     },
     {
+      "ident_ios": "firmware_version",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Firmware Version:",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "close",
       "ident_android": "",
       "ident_webui": "",
