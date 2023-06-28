@@ -3478,6 +3478,17 @@
       "de": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios"
     },
     {
+      "ident_ios": "Ruuvi.BuySensors.Menu.URL.IOS",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "fi": "https://ruuvi.com/fi/tuotteet?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "ru": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "sv": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "fr": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "de": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios"
+    },
+    {
       "ident_ios": "Menu.Label.BuyRuuviGateway.text",
       "ident_android": "menu_buy_gateway",
       "ident_webui": "",
