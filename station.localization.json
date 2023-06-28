@@ -10289,7 +10289,7 @@
     },
     {
       "ident_ios": "sensor_details",
-      "ident_android": "",
+      "ident_android": "sensor_details",
       "ident_webui": "",
       "en": "Sensor Details",
       "fi": "",
@@ -10300,7 +10300,7 @@
     },
     {
       "ident_ios": "add_sensor",
-      "ident_android": "",
+      "ident_android": "nfc_dialog_add_sensor",
       "ident_webui": "",
       "en": "Add Sensor",
       "fi": "",
@@ -10322,7 +10322,7 @@
     },
     {
       "ident_ios": "name",
-      "ident_android": "",
+      "ident_android": "nfc_dialog_name",
       "ident_webui": "",
       "en": "Name:",
       "fi": "",
@@ -10333,7 +10333,7 @@
     },
     {
       "ident_ios": "mac_address",
-      "ident_android": "",
+      "ident_android": "nfc_dialog_mac_address",
       "ident_webui": "",
       "en": "Mac Address:",
       "fi": "",
@@ -10344,7 +10344,7 @@
     },
     {
       "ident_ios": "unique_id",
-      "ident_android": "",
+      "ident_android": "nfc_dialog_unique_id",
       "ident_webui": "",
       "en": "Unique ID:",
       "fi": "",
@@ -10355,7 +10355,7 @@
     },
     {
       "ident_ios": "firmware_version",
-      "ident_android": "",
+      "ident_android": "nfc_dialog_firmware_version",
       "ident_webui": "",
       "en": "Firmware Version:",
       "fi": "",
