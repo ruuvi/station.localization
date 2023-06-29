@@ -5250,17 +5250,6 @@
       "de": "Inhaberschaft beanspruchen"
     },
     {
-      "ident_ios": "TagSettings.ClaimTagButton.Unclaim",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Unclaim ownership",
-      "fi": "Vapauta omistajuus",
-      "ru": "Отказаться от владения",
-      "sv": "Hävda ägande",
-      "fr": "Réinitialiser l'appropriation",
-      "de": "Eigentumsanspruch aufheben"
-    },
-    {
       "ident_ios": "TagSettings.ShareButton",
       "ident_android": "share",
       "ident_webui": "share",
@@ -10391,6 +10380,39 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "This tag cannot be added with NFC due to old firmware. Please add the tag with Bluetooth and update firmware.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim_sensor",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Unclaim sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Unclaim",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim_sensor_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor, it's settings and related data from Ruuvi account.",
       "fi": "",
       "ru": "",
       "sv": "",
