@@ -3489,6 +3489,17 @@
       "de": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=ios"
     },
     {
+      "ident_ios": "Ruuvi.BuySensors.Menu.URL.IOS",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "fi": "https://ruuvi.com/fi/tuotteet?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "ru": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "sv": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "fr": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios",
+      "de": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=ios"
+    },
+    {
       "ident_ios": "Menu.Label.BuyRuuviGateway.text",
       "ident_android": "menu_buy_gateway",
       "ident_webui": "",
@@ -5248,17 +5259,6 @@
       "sv": "Bekräfta ägandet",
       "fr": "Confirmer l'appropriation",
       "de": "Inhaberschaft beanspruchen"
-    },
-    {
-      "ident_ios": "TagSettings.ClaimTagButton.Unclaim",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Unclaim ownership",
-      "fi": "Vapauta omistajuus",
-      "ru": "Отказаться от владения",
-      "sv": "Hävda ägande",
-      "fr": "Réinitialiser l'appropriation",
-      "de": "Eigentumsanspruch aufheben"
     },
     {
       "ident_ios": "TagSettings.ShareButton",
@@ -10402,6 +10402,39 @@
       "ident_android": "add_sensor_via_nfc",
       "ident_webui": "",
       "en": "You can also use NFC to add new sensors to Ruuvi Station",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim_sensor",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Unclaim sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Unclaim",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "unclaim_sensor_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor, it's settings and related data from Ruuvi account.",
       "fi": "",
       "ru": "",
       "sv": "",
