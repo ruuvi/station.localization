@@ -3467,6 +3467,17 @@
       "de": "https://ruuvi.com/products?utm_campaign=app_ua&utm_medium=referral&utm_source=android"
     },
     {
+      "ident_ios": "",
+      "ident_android": "buy_sensors_menu_link",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android",
+      "fi": "https://ruuvi.com/fi/tuotteet?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android",
+      "ru": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android",
+      "sv": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android",
+      "fr": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android",
+      "de": "https://ruuvi.com/products?utm_campaign=app_ua_nav&utm_medium=referral&utm_source=android"
+    },
+    {
       "ident_ios": "Ruuvi.BuySensors.URL.IOS",
       "ident_android": "",
       "ident_webui": "",
@@ -10380,6 +10391,17 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "This tag cannot be added with NFC due to old firmware. Please add the tag with Bluetooth and update firmware.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "add_sensor_via_nfc",
+      "ident_webui": "",
+      "en": "You can also use NFC to add new sensors to Ruuvi Station",
       "fi": "",
       "ru": "",
       "sv": "",
