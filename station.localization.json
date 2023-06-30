@@ -10434,7 +10434,7 @@
       "ident_ios": "unclaim_sensor_description",
       "ident_android": "",
       "ident_webui": "",
-      "en": "This sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor, it's settings and related data from Ruuvi account.",
+      "en": "Ownership of this sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor's settings and related data from your Ruuvi account.",
       "fi": "",
       "ru": "",
       "sv": "",
