@@ -10354,6 +10354,17 @@
       "de": ""
     },
     {
+      "ident_ios": "",
+      "ident_android": "nfc_dialog_go_to_sensor",
+      "ident_webui": "",
+      "en": "Go to sensor card",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "unique_id",
       "ident_android": "nfc_dialog_unique_id",
       "ident_webui": "",
