@@ -10292,165 +10292,165 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Add with NFC",
-      "fi": "",
+      "fi": "Lisää NFC:llä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Lägg till med NFC",
+      "fr": "Ajouter avec NFC",
+      "de": "Mit NFC hinzufügen"
     },
     {
       "ident_ios": "sensor_details",
       "ident_android": "sensor_details",
       "ident_webui": "",
       "en": "Sensor Details",
-      "fi": "",
+      "fi": "Anturin tiedot",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Sensordetaljer",
+      "fr": "Détails du capteur",
+      "de": "Sensordetails"
     },
     {
       "ident_ios": "add_sensor",
       "ident_android": "nfc_dialog_add_sensor",
       "ident_webui": "",
       "en": "Add Sensor",
-      "fi": "",
+      "fi": "Lisää anturi",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Lägg till sensor",
+      "fr": "Ajouter un capteur",
+      "de": "Sensor hinzufügen"
     },
     {
       "ident_ios": "copy_details",
       "ident_android": "",
       "ident_webui": "",
       "en": "Copy Details",
-      "fi": "",
+      "fi": "Kopioi tiedot",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Kopiera detaljer",
+      "fr": "Copier les détails",
+      "de": "Details kopieren"
     },
     {
       "ident_ios": "name",
       "ident_android": "nfc_dialog_name",
       "ident_webui": "",
       "en": "Name:",
-      "fi": "",
+      "fi": "Nimi:",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Namn:",
+      "fr": "Nom:",
+      "de": "Name:"
     },
     {
       "ident_ios": "mac_address",
       "ident_android": "nfc_dialog_mac_address",
       "ident_webui": "",
       "en": "Mac Address:",
-      "fi": "",
+      "fi": "MAC-osoite:",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "MAC-adress:",
+      "fr": "Adresse Mac:",
+      "de": "MAC-Adresse:"
     },
     {
       "ident_ios": "",
       "ident_android": "nfc_dialog_go_to_sensor",
       "ident_webui": "",
       "en": "Go to sensor card",
-      "fi": "",
+      "fi": "Siirry anturikortille",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Gå till sensorkortet",
+      "fr": "Aller à la carte du capteur",
+      "de": "Gehen Sie zur Sensorkarte"
     },
     {
       "ident_ios": "unique_id",
       "ident_android": "nfc_dialog_unique_id",
       "ident_webui": "",
       "en": "Unique ID:",
-      "fi": "",
+      "fi": "Yksilöivä tunniste:",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Unikt ID:",
+      "fr": "Identifiant unique:",
+      "de": "Eindeutige ID:"
     },
     {
       "ident_ios": "firmware_version",
       "ident_android": "nfc_dialog_firmware_version",
       "ident_webui": "",
       "en": "Firmware Version:",
-      "fi": "",
+      "fi": "Laiteohjelmistoversio:",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Firmwareversion:",
+      "fr": "Version du firmware:",
+      "de": "Firmware Version:"
     },
     {
       "ident_ios": "close",
       "ident_android": "",
       "ident_webui": "",
       "en": "Close",
-      "fi": "",
+      "fi": "Sulje",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Stänga",
+      "fr": "Fermer",
+      "de": "Schließen"
     },
     {
       "ident_ios": "add_sensor_nfc_df3_error",
       "ident_android": "",
       "ident_webui": "",
       "en": "This tag cannot be added with NFC due to old firmware. Please add the tag with Bluetooth and update firmware.",
-      "fi": "",
+      "fi": "Vanha laiteohjelmisto ei salli anturin lisäämistä NFC:llä. Lisää anturi Bluetooth-yhteydellä ja päivitä laiteohjelmisto.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Den här taggen kan inte läggas till med NFC på grund av gammal firmware. Lägg till taggen med Bluetooth och uppdatera firmware.",
+      "fr": "Ce capteur ne peut pas être ajouté avec NFC en raison d'un ancien firmware. Veuillez ajouter le capteur avec Bluetooth et mettre à jour le firmware.",
+      "de": "Dieser Sensor kann aufgrund der alten Firmware nicht mit NFC hinzugefügt werden. Bitte fügen Sie den Sensor mit Bluetooth hinzu und aktualisieren Sie die Firmware."
     },
     {
       "ident_ios": "",
       "ident_android": "add_sensor_via_nfc",
       "ident_webui": "",
       "en": "You can also use NFC to add new sensors to Ruuvi Station",
-      "fi": "",
+      "fi": "Voit myös lisätä antureita Ruuvi Stationiin NFC-yhteydellä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Du kan också använda NFC för att lägga till nya sensorer till Ruuvi Station",
+      "fr": "Vous pouvez également utiliser NFC pour ajouter de nouveaux capteurs à la station Ruuvi",
+      "de": "Sie können NFC auch verwenden, um der Ruuvi Station neue Sensoren hinzuzufügen"
     },
     {
       "ident_ios": "unclaim_sensor",
       "ident_android": "",
       "ident_webui": "",
       "en": "Unclaim sensor",
-      "fi": "",
+      "fi": "Poista omistajuus",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Ta bort äganderätten",
+      "fr": "Annuler la revendication du capteur",
+      "de": "Anspruch auf Eigentum zurückziehen"
     },
     {
       "ident_ios": "unclaim",
       "ident_android": "",
       "ident_webui": "",
       "en": "Unclaim",
-      "fi": "",
+      "fi": "Poista omistajuus",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Ta bort anspråk",
+      "fr": "Annuler la réclamation",
+      "de": "Anspruch aufheben"
     },
     {
       "ident_ios": "unclaim_sensor_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "Ownership of this sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor's settings and related data from your Ruuvi account.",
-      "fi": "",
+      "fi": "Tämän anturin omistajuus on merkitty Ruuvi-tilillesi. Poista anturin asetukset ja anturin tiedot Ruuvi-tililtä valitsemalla Poista omistajuus",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": ""
+      "sv": "Äganderätten till denna sensor har gjorts anspråk på ditt Ruuvi-konto. Tryck på Unclaim för att ta bort sensorns inställningar och relaterade data från ditt Ruuvi-konto.",
+      "fr": "La propriété de ce capteur a été revendiquée sur votre compte Ruuvi. Appuyez sur Annuler la revendication pour supprimer les paramètres de ce capteur et les données associées de votre compte Ruuvi.",
+      "de": "Das Eigentum an diesem Sensor wurde Ihrem Ruuvi-Konto zugeordnet. Klicken Sie auf „Anspruch aufheben“, um die Einstellungen dieses Sensors und die zugehörigen Daten aus Ihrem Ruuvi-Konto zu entfernen."
     }
   ]
 }
