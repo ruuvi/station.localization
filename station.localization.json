@@ -5800,6 +5800,17 @@
       "de": "Experimentelle Funktionen"
     },
     {
+      "ident_ios": "",
+      "ident_android": "settings_developer",
+      "ident_webui": "",
+      "en": "Developer settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "OffsetCorrection.CalibrationDescription.text",
       "ident_android": "calibration_description",
       "ident_webui": "calibration_description",
@@ -10135,7 +10146,7 @@
     },
     {
       "ident_ios": "Defaults.DevServer.title",
-      "ident_android": "",
+      "ident_android": "use_dev_server",
       "ident_webui": "",
       "en": "Use Dev Server",
       "fi": "Käytä dev-palvelinta",
