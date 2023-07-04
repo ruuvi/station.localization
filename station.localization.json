@@ -10167,6 +10167,17 @@
       "de": "Um den Ruuvi Cloud-Endpunkt zu ändern, müssen Sie sich von der aktuellen Sitzung abmelden und die App neu starten. Bist du dir sicher?"
     },
     {
+      "ident_ios": "",
+      "ident_android": "use_dev_server_description",
+      "ident_webui": "",
+      "en": "To apply changes simply sync data from dashboard or wait till next sync.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": ""
+    },
+    {
       "ident_ios": "Defaults.ShowEmailAlertsSettings.title",
       "ident_android": "",
       "ident_webui": "",
