@@ -10468,7 +10468,7 @@
       "ident_android": "unclaim_sensor_description",
       "ident_webui": "",
       "en": "Ownership of this sensor has been claimed to your Ruuvi account. Press Unclaim to remove this sensor's settings and related data from your Ruuvi account.",
-      "fi": "Tämän anturin omistajuus on merkitty Ruuvi-tilillesi. Poista anturin asetukset ja anturin tiedot Ruuvi-tililtä valitsemalla Poista omistajuus",
+      "fi": "Tämän anturin omistajuus on merkitty Ruuvi-tilillesi. Poista anturin asetukset ja anturin tiedot Ruuvi-tililtä valitsemalla Poista omistajuus.",
       "ru": "",
       "sv": "Äganderätten till denna sensor har gjorts anspråk på ditt Ruuvi-konto. Tryck på Unclaim för att ta bort sensorns inställningar och relaterade data från ditt Ruuvi-konto.",
       "fr": "La propriété de ce capteur a été revendiquée sur votre compte Ruuvi. Appuyez sur Annuler la revendication pour supprimer les paramètres de ce capteur et les données associées de votre compte Ruuvi.",
