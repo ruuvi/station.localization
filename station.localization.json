@@ -10163,7 +10163,8 @@
       "ru": "",
       "sv": "din app med anpassade namn och bakgrunder.",
       "fr": "votre application avec des noms et des arrière-plans personnalisés.",
-      "de": "Sie Ihre App mit benutzerdefinierten Namen und Hintergründen." 
+      "de": "Sie Ihre App mit benutzerdefinierten Namen und Hintergründen.",
+      "pl": ""
     },
     {
       "ident_ios": "onboarding_explore_detailed",
