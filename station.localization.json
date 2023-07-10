@@ -2728,13 +2728,13 @@
       "ident_ios": "DiscoverTable.SectionTitle.Devices",
       "ident_android": "add_tag_title",
       "ident_webui": "",
-      "en": "Nearby Ruuvi sensors",
-      "fi": "Lähellä olevat Ruuvi-laitteet",
-      "ru": "Ближайшие Сенсоры",
-      "sv": "Ruuvi sensorer i närheten",
-      "fr": "Capteurs Ruuvi à proximité",
-      "de": "Ruuvi-Sensoren in der Nähe",
-	  "pl": "Czujniki Ruuvi w pobliżu"
+      "en": "This page shows nearby Ruuvi sensors not yet added to the app. Tap a sensor to add it.",
+      "fi": "Tällä sivulla näet lähelläsi olevat Ruuvi-anturit, joita ei ole vielä lisätty sovellukseen. Lisää listattu anturi napauttamalla.",
+      "ru": "",
+      "sv": "Den här sidan visar närliggande Ruuvi-sensorer som ännu inte har lagts till i appen. Tryck på en sensor för att lägga till den.",
+      "fr": "Cette page montre les capteurs Ruuvi à proximité qui n'ont pas encore été ajoutés à l'application. Appuyez sur un capteur pour l'ajouter.",
+      "de": "Auf dieser Seite werden Ruuvi-Sensoren in der Nähe angezeigt, die der App noch nicht hinzugefügt wurden. Tippen Sie auf einen Sensor, um ihn hinzuzufügen.",
+	  "pl": "Ta strona pokazuje pobliskie czujniki Ruuvi, które nie zostały jeszcze dodane do aplikacji. Stuknij czujnik, aby go dodać."
     },
     {
       "ident_ios": "ago",
@@ -11382,13 +11382,13 @@
       "ident_ios": "",
       "ident_android": "add_sensor_via_nfc",
       "ident_webui": "",
-      "en": "You can also use NFC to add new sensors to Ruuvi Station",
-      "fi": "Voit myös lisätä antureita Ruuvi Stationiin NFC-yhteydellä",
+      "en": "Alternatively, if your NFC is enabled, you can add a sensor using NFC by touching it with your phone.",
+      "fi": "Voit vaihtoehtoisesti lisätä anturin sovellukseen NFC:llä koskettamalla sitä, mikäli NFC on otettu käyttöön laitteessasi.",
       "ru": "",
-      "sv": "Du kan också använda NFC för att lägga till nya sensorer till Ruuvi Station",
-      "fr": "Vous pouvez également utiliser NFC pour ajouter de nouveaux capteurs à la station Ruuvi",
-      "de": "Sie können NFC auch verwenden, um der Ruuvi Station neue Sensoren hinzuzufügen",
-	  "pl": ""
+      "sv": "Alternativt, om din NFC är aktiverad, kan du lägga till en sensor med NFC genom att röra vid den med telefonen.",
+      "fr": "Alternativement, si votre NFC est activé, vous pouvez ajouter un capteur à l'aide de NFC en le touchant avec votre téléphone.",
+      "de": "Wenn Ihr NFC aktiviert ist, können Sie alternativ einen NFC-Sensor hinzufügen, indem Sie ihn mit Ihrem Telefon berühren.",
+	  "pl": "Alternatywnie, jeśli Twoja funkcja NFC jest włączona, możesz dodać czujnik za pomocą NFC, dotykając go telefonem."
     },
     {
       "ident_ios": "unclaim_sensor",
