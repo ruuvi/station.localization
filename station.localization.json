@@ -11437,6 +11437,30 @@
       "fr": "La propriété de ce capteur a été revendiquée sur votre compte Ruuvi. Appuyez sur Annuler la revendication pour supprimer les paramètres de ce capteur et les données associées de votre compte Ruuvi.",
       "de": "Das Eigentum an diesem Sensor wurde Ihrem Ruuvi-Konto zugeordnet. Klicken Sie auf „Anspruch aufheben“, um die Einstellungen dieses Sensors und die zugehörigen Daten aus Ihrem Ruuvi-Konto zu entfernen.",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "claim_sensor_ownership",
+      "ident_webui": "",
+      "en": "Claim sensor ownership",
+      "fi": "",
+      "ru": "Заявить о собственности на датчик",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "do_you_own_sensor",
+      "ident_webui": "",
+      "en": "Do you own this sensor?",
+      "fi": "",
+      "ru": "Это ваш датчик?",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
