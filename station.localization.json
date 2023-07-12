@@ -11461,6 +11461,18 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "owners_plan",
+      "en": "Owner's Ruuvi Plan",
+      "fi": "Omistajan Ruuvi-tilas",
+      "ru": "",
+      "sv": "Ägarens Ruuvi-plan",
+      "fr": "Plan Ruuvi du propriétaire",
+      "de": "Ruuvi-Plan des Eigentümers",
+      "pl": ""
     }
   ]
 }
