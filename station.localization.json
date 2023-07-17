@@ -7866,12 +7866,12 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "no_data_in_range",
-      "en": "No data for this time range",
-      "fi": "Tältä ajalta ei ole tietoja",
-      "ru": "Нет данных для выбранного временного промежутка",
-      "sv": "Ingen data för detta tidsintervall",
-      "fr": "Pas de données pour cet intervalle",
-      "de": "Keine Daten für diesen Zeitraum",
+      "en": "No history data.",
+      "fi": "Ei historiatietoja.",
+      "ru": "",
+      "sv": "Inga historikdata.",
+      "fr": "Aucune donnée d'historique.",
+      "de": "Keine Verlaufsdaten.",
 	  "pl": ""
     },
     {
