@@ -11473,6 +11473,42 @@
       "fr": "Plan Ruuvi du propriétaire",
       "de": "Ruuvi-Plan des Eigentümers",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_offline_title",
+      "en": "Offline alert",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_offline_description",
+      "en": "Alert if sensor has been offline longer than {%d^%1$,d} minutes.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_offline_dialog_description",
+      "en": "Enter the desired delay to be used in minutes before alert is triggered. Minimum value is 2 minutes.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
