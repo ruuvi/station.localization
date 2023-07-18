@@ -11443,72 +11443,72 @@
       "ident_android": "claim_sensor_ownership",
       "ident_webui": "",
       "en": "Claim sensor ownership",
-      "fi": "",
+      "fi": "Vaadi anturin omistajuutta",
       "ru": "Заявить о собственности на датчик",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Gör anspråk på sensorägande",
+      "fr": "Revendiquer la propriété du capteur",
+      "de": "Beanspruchen Sie den Besitz des Sensors",
+      "pl": "Zgłoś własność czujnika"
     },
     {
       "ident_ios": "",
       "ident_android": "do_you_own_sensor",
       "ident_webui": "",
       "en": "Do you own this sensor?",
-      "fi": "",
+      "fi": "Omistatko tämän anturin?",
       "ru": "Это ваш датчик?",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Äger du denna sensor?",
+      "fr": "Possédez-vous ce capteur ?",
+      "de": "Besitzen Sie diesen Sensor?",
+      "pl": "Czy posiadasz ten czujnik?"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "owners_plan",
       "en": "Owner's Ruuvi Plan",
-      "fi": "Omistajan Ruuvi-tilas",
+      "fi": "Omistajan Ruuvi-tilaus",
       "ru": "",
       "sv": "Ägarens Ruuvi-plan",
       "fr": "Plan Ruuvi du propriétaire",
       "de": "Ruuvi-Plan des Eigentümers",
-      "pl": ""
+      "pl": "Plan Ruuvi właściciela"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_offline_title",
-      "en": "Offline alert",
-      "fi": "",
+      "en": "Cloud Connection",
+      "fi": "Yhteys pilveen",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Molnuppkoppling",
+      "fr": "Connexion infonuagique",
+      "de": "Cloud-Verbindung",
+      "pl": "Połączenie z chmurą"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_offline_description",
-      "en": "Alert if sensor has been offline longer than {%d^%1$,d} minutes.",
-      "fi": "",
+      "en": "Alert if sensor data hasn't been updated to the cloud for longer than {%d^%1$,d} minutes.",
+      "fi": "Hälytä, jos anturitietoja ei ole päivitetty pilveen yli {%d^%1$,d} minuuttiin.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Varning om sensordata inte har uppdaterats till molnet på mer än {%d^%1$,d} minuter.",
+      "fr": "Alerte si les données du capteur n'ont pas été mises à jour dans le cloud depuis plus de {%d^%1$,d} minutes.",
+      "de": "Warnung, wenn Sensordaten länger als {%d^%1$,d} Minuten nicht in der Cloud aktualisiert wurden.",
+      "pl": "Ostrzegaj, jeśli dane z czujników nie były aktualizowane w chmurze przez dłużej niż {%d^%1$,d} minut."
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_offline_dialog_description",
       "en": "Enter the desired delay to be used in minutes before alert is triggered. Minimum value is 2 minutes.",
-      "fi": "",
+      "fi": "Syötä haluttu viive minuutteina, jonka jälkeen hälytys laukaistaan. Lyhyin valittava arvo on 2 minuuttia.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Ange önskad fördröjning som ska användas i minuter innan larmet utlöses. Minsta värde är 2 minuter.",
+      "fr": "Entrez le délai souhaité à utiliser en minutes avant le déclenchement de l'alerte. La valeur minimale est de 2 minutes.",
+      "de": "Geben Sie die gewünschte Verzögerung in Minuten ein, bevor die Warnung ausgelöst wird. Der Mindestwert beträgt 2 Minuten.",
+      "pl": "Wprowadź żądane opóźnienie w minutach przed uruchomieniem alertu. Minimalna wartość to 2 minuty."
     }
   ]
 }
