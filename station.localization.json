@@ -11509,6 +11509,18 @@
       "fr": "Entrez le délai souhaité à utiliser en minutes avant le déclenchement de l'alerte. La valeur minimale est de 2 minutes.",
       "de": "Geben Sie die gewünschte Verzögerung in Minuten ein, bevor die Warnung ausgelöst wird. Der Mindestwert beträgt 2 Minuten.",
       "pl": "Wprowadź żądane opóźnienie w minutach przed uruchomieniem alertu. Minimalna wartość to 2 minuty."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_offline_dialog_title",
+      "en": "Set cloud connection alert",
+      "fi": "Aseta pilviyhteyden hälytys",
+      "ru": "",
+      "sv": "Ställ in molnanslutningsvarning",
+      "fr": "Définir une alerte de connexion au cloud",
+      "de": "Cloud-Verbindungsalarm einstellen",
+      "pl": "Ustaw alarm połączenia z chmurą"
     }
   ]
 }
