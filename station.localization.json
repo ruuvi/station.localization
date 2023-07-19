@@ -11319,7 +11319,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "go_to_sensor",
       "ident_android": "nfc_dialog_go_to_sensor",
       "ident_webui": "",
       "en": "Go to sensor card",
@@ -11379,7 +11379,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "add_sensor_description",
       "ident_android": "add_sensor_description",
       "ident_webui": "",
       "en": "This page shows nearby Ruuvi sensors not yet added to the app. Tap a sensor to add it.",
@@ -11391,7 +11391,7 @@
       "pl": "Ta strona pokazuje pobliskie czujniki Ruuvi, które nie zostały jeszcze dodane do aplikacji. Stuknij czujnik, aby go dodać."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "add_sensor_via_nfc",
       "ident_android": "add_sensor_via_nfc",
       "ident_webui": "",
       "en": "Alternatively, if your NFC is enabled, you can add a sensor using NFC by touching it with your phone.",
