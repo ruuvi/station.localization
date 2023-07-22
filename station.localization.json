@@ -11451,7 +11451,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "claim_sensor_ownership",
       "ident_android": "claim_sensor_ownership",
       "ident_webui": "",
       "en": "Claim sensor ownership",
@@ -11463,7 +11463,7 @@
       "pl": "Zgłoś własność czujnika"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "do_you_own_sensor",
       "ident_android": "do_you_own_sensor",
       "ident_webui": "",
       "en": "Do you own this sensor?",
