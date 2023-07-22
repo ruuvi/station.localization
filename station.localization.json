@@ -11533,6 +11533,18 @@
       "fr": "Définir une alerte de connexion au cloud",
       "de": "Cloud-Verbindungsalarm einstellen",
       "pl": "Ustaw alarm połączenia z chmurą"
+    },
+    {
+      "ident_ios": "rename",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Rename",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
