@@ -11355,16 +11355,16 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "close",
+      "ident_ios": "Close",
       "ident_android": "",
       "ident_webui": "",
       "en": "Close",
       "fi": "Sulje",
-      "ru": "",
-      "sv": "Stänga",
+      "ru": "Закрыть",
+      "sv": "Stäng",
       "fr": "Fermer",
       "de": "Schließen",
-	  "pl": ""
+	    "pl": "Zamknij"
     },
     {
       "ident_ios": "add_sensor_nfc_df3_error",
