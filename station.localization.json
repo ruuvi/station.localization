@@ -11475,7 +11475,7 @@
       "pl": "Czy posiadasz ten czujnik?"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "owners_plan",
       "ident_android": "",
       "ident_webui": "owners_plan",
       "en": "Owner's Ruuvi Plan",
