@@ -11283,16 +11283,28 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "copy_details",
+      "ident_ios": "copy_mac_address",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Copy Details",
-      "fi": "Kopioi tiedot",
+      "en": "Copy MAC Address",
+      "fi": "",
       "ru": "",
-      "sv": "Kopiera detaljer",
-      "fr": "Copier les détails",
-      "de": "Details kopieren",
-	  "pl": ""
+      "sv": "",
+      "fr": "",
+      "de": "",
+	    "pl": ""
+    },
+    {
+      "ident_ios": "copy_unique_id",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Copy Unique ID",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+	    "pl": ""
     },
     {
       "ident_ios": "name",
