@@ -11551,12 +11551,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Rename",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Nimeä uudelleen",
+      "ru": "Переименовать",
+      "sv": "Döp om",
+      "fr": "Renommer",
+      "de": "Umbenennen",
+      "pl": "Przemianować"
     }
   ]
 }
