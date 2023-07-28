@@ -11282,29 +11282,29 @@
       "de": "Sensor hinzufügen",
 	  "pl": ""
     },
-    {
+    { 
       "ident_ios": "copy_mac_address",
       "ident_android": "",
       "ident_webui": "",
       "en": "Copy MAC Address",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-	    "pl": ""
+      "fi": "Kopioi MAC-osoite",
+      "ru": "Копировать MAC-адрес",
+      "sv": "Kopiera MAC-adress",
+      "fr": "Copier l'adresse MAC",
+      "de": "MAC-Adresse kopieren",
+      "pl": "Skopiuj adres MAC"
     },
     {
       "ident_ios": "copy_unique_id",
       "ident_android": "",
       "ident_webui": "",
       "en": "Copy Unique ID",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-	    "pl": ""
+      "fi": "Kopioi yksilöivä tunniste",
+      "ru": "Скопировать уникальный идентификатор",
+      "sv": "Kopiera unikt ID",
+      "fr": "Copier l'identifiant unique",
+      "de": "Eindeutige ID kopieren",
+      "pl": "Skopiuj unikalny identyfikator"
     },
     {
       "ident_ios": "name",
