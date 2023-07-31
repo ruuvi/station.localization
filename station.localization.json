@@ -11557,6 +11557,42 @@
       "fr": "Renommer",
       "de": "Umbenennen",
       "pl": "Przemianować"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_delay",
+      "en": "Alert delay",
+      "fi": "Hälytyksen viive",
+      "ru": "",
+      "sv": "Fördröjning av alarm",
+      "fr": "Délai d'alerte",
+      "de": "Alarmverzögerung",
+      "pl": "Opóźnienie alarmu"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_delay_description",
+      "en": "Alert delay {%d^%1$,d} minutes.",
+      "fi": "Hälytyksen viive {%d^%1$,d} minuuttia.",
+      "ru": "",
+      "sv": "Väntetid för alarm {%d^%1$,d} minuter.",
+      "fr": "Délai d'alerte {%d^%1$,d} minutes.",
+      "de": "Alarmverzögerung {%d^%1$,d} Minuten.",
+      "pl": "Opóźnienie alarmu {%d^%1$,d} minut."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "alert_delay_dialog_description",
+      "en": "Enter the desired delay to be used in minutes before alert is triggered. To disable the delay use value 0.",
+      "fi": "Anna haluttu viive käytettäväksi minuutteina ennen hälytyksen laukeamista. Poistaaksesi viiveen käytöstä, käytä arvoa 0.",
+      "ru": "",
+      "sv": "Ange önskad fördröjning i minuter innan alarm utlöses. För att inaktivera fördröjningen, använd värdet 0.",
+      "fr": "Entrez le délai souhaité en minutes avant que l'alerte ne soit déclenchée. Pour désactiver le délai, utilisez la valeur 0.",
+      "de": "Geben Sie die gewünschte Verzögerung in Minuten ein, bevor der Alarm ausgelöst wird. Um die Verzögerung zu deaktivieren, verwenden Sie den Wert 0.",
+      "pl": "Podaj pożądane opóźnienie w minutach przed wyzwoleniem alarmu. Aby wyłączyć opóźnienie, użyj wartości 0."
     }
   ]
 }
