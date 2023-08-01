@@ -9005,7 +9005,7 @@
     {
       "ident_ios": "TagSettings.Alert.SetTemperature.title",
       "ident_android": "alert_dialog_title_temperature",
-      "ident_webui": "",
+      "ident_webui": "alert_dialog_title_temperature",
       "en": "Set temperature alert",
       "fi": "Aseta lämpötilahälytys",
       "ru": "",
@@ -9017,7 +9017,7 @@
     {
       "ident_ios": "TagSettings.Alert.SetHumidity.title",
       "ident_android": "alert_dialog_title_humidity",
-      "ident_webui": "",
+      "ident_webui": "alert_dialog_title_humidity",
       "en": "Set humidity alert",
       "fi": "Aseta kosteushälytys",
       "ru": "",
@@ -9029,7 +9029,7 @@
     {
       "ident_ios": "TagSettings.Alert.SetPressure.title",
       "ident_android": "alert_dialog_title_pressure",
-      "ident_webui": "",
+      "ident_webui": "alert_dialog_title_pressure",
       "en": "Set pressure alert",
       "fi": "Aseta painehälytys",
       "ru": "",
@@ -9041,7 +9041,7 @@
     {
       "ident_ios": "TagSettings.Alert.SetRSSI.title",
       "ident_android": "alert_dialog_title_rssi",
-      "ident_webui": "",
+      "ident_webui": "alert_dialog_title_signal",
       "en": "Set signal strength alert",
       "fi": "Aseta signaalinvoimakkuushälytys",
       "ru": "",
