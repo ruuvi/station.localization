@@ -11499,7 +11499,7 @@
       "pl": "Plan Ruuvi właściciela"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_cloud_connection_title",
       "ident_android": "",
       "ident_webui": "alert_offline_title",
       "en": "Cloud Connection",
@@ -11511,7 +11511,7 @@
       "pl": "Połączenie z chmurą"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_cloud_connection_description",
       "ident_android": "",
       "ident_webui": "alert_offline_description",
       "en": "Alert if sensor data hasn't been updated to the cloud for longer than {%d^%1$,d} minutes.",
@@ -11523,7 +11523,7 @@
       "pl": "Ostrzegaj, jeśli dane z czujników nie były aktualizowane w chmurze przez dłużej niż {%d^%1$,d} minut."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_cloud_connection_dialog_description",
       "ident_android": "",
       "ident_webui": "alert_offline_dialog_description",
       "en": "Enter the desired delay to be used in minutes before alert is triggered. Minimum value is 2 minutes.",
@@ -11535,7 +11535,7 @@
       "pl": "Wprowadź żądane opóźnienie w minutach przed uruchomieniem alertu. Minimalna wartość to 2 minuty."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_cloud_connection_dialog_title",
       "ident_android": "",
       "ident_webui": "alert_offline_dialog_title",
       "en": "Set cloud connection alert",
@@ -11559,7 +11559,7 @@
       "pl": "Przemianować"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_delay",
       "ident_android": "",
       "ident_webui": "alert_delay",
       "en": "Alert delay",
@@ -11571,7 +11571,7 @@
       "pl": "Opóźnienie alarmu"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_delay_description",
       "ident_android": "",
       "ident_webui": "alert_delay_description",
       "en": "Alert delay {%d^%1$,d} minutes.",
@@ -11583,7 +11583,7 @@
       "pl": "Opóźnienie alarmu {%d^%1$,d} minut."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_delay_dialog_description",
       "ident_android": "",
       "ident_webui": "alert_delay_dialog_description",
       "en": "Enter the desired delay to be used in minutes before alert is triggered. To disable the delay use value 0.",
