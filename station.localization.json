@@ -3926,7 +3926,7 @@
 	  "pl": "min"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "minutes",
       "ident_android": "minutes",
       "ident_webui": "",
       "en": "Minutes",
@@ -11559,7 +11559,7 @@
       "pl": "Przemianować"
     },
     {
-      "ident_ios": "alert_delay",
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_delay",
       "en": "Alert delay",
@@ -11571,7 +11571,7 @@
       "pl": "Opóźnienie alarmu"
     },
     {
-      "ident_ios": "alert_delay_description",
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_delay_description",
       "en": "Alert delay {%d^%1$,d} minutes.",
@@ -11583,7 +11583,7 @@
       "pl": "Opóźnienie alarmu {%d^%1$,d} minut."
     },
     {
-      "ident_ios": "alert_delay_dialog_description",
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "alert_delay_dialog_description",
       "en": "Enter the desired delay to be used in minutes before alert is triggered. To disable the delay use value 0.",
