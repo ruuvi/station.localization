@@ -10731,7 +10731,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "chart_stat_min",
       "ident_android": "",
       "ident_webui": "graph_stat_min",
       "en": "Min",
@@ -10743,7 +10743,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "chart_stat_max",
       "ident_android": "",
       "ident_webui": "graph_stat_max",
       "en": "Max",
@@ -10755,7 +10755,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "chart_stat_avg",
       "ident_android": "",
       "ident_webui": "graph_stat_avg",
       "en": "Average",
@@ -11593,6 +11593,30 @@
       "fr": "Entrez le délai souhaité en minutes avant que l'alerte ne soit déclenchée. Pour désactiver le délai, utilisez la valeur 0.",
       "de": "Geben Sie die gewünschte Verzögerung in Minuten ein, bevor der Alarm ausgelöst wird. Um die Verzögerung zu deaktivieren, verwenden Sie den Wert 0.",
       "pl": "Podaj pożądane opóźnienie w minutach przed wyzwoleniem alarmu. Aby wyłączyć opóźnienie, użyj wartości 0."
+    },
+    {
+      "ident_ios": "chart_stat_show",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show min/max/avg",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "chart_stat_hide",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Hide min/max/avg",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
