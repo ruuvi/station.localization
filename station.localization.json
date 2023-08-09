@@ -11617,6 +11617,30 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "settings_alert_limit_notification",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Limit alert notifications",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "settings_alert_limit_notification_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Trigger Bluetooth alert notification only once per hour even if alert was retriggered.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
