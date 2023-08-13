@@ -3578,7 +3578,7 @@
 	  "pl": "ROZWIĄZYWANIE PROBLEMÓW"
     },
     {
-      "ident_ios": "Interval.Hour.string",
+      "ident_ios": "hours",
       "ident_android": "hours",
       "ident_webui": "hours",
       "en": "Hours",
@@ -7815,7 +7815,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "hour",
       "ident_android": "",
       "ident_webui": "hour",
       "en": "Hour",
