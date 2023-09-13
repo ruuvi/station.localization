@@ -11421,10 +11421,10 @@
       "en": "Alternatively, you can add a sensor using NFC by selecting Add with NFC and touching it with your phone.",
       "fi": "Voit vaihtoehtoisesti lisätä anturin sovellukseen NFC:llä napauttamalla Lisää NFC:llä painiketta ja koskettamalla sitä.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Alternativt kan du lägga till en sensor med NFC genom att välja Lägg till med NFC och trycka på den med din telefon.",
+      "fr": "Vous pouvez également ajouter un capteur via NFC en sélectionnant Ajouter avec NFC et en le touchant avec votre téléphone.",
+      "de": "Alternativ können Sie einen Sensor über NFC hinzufügen, indem Sie Mit NFC hinzufügen auswählen und ihn mit Ihrem Telefon berühren.",
+      "pl": "Możesz także dodać czujnik za pomocą NFC, wybierając opcję Dodaj za pomocą NFC i dotykając go telefonem."
     },
     {
       "ident_ios": "unclaim_sensor",
@@ -11599,48 +11599,48 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Show min/max/avg",
-      "fi": "",
+      "fi": "Näytä min/maks/ka",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Visa min/max/genomsnitt",
+      "fr": "Afficher min/max/moy",
+      "de": "Min./Max./Durchschnitt anzeigen",
+      "pl": "Pokaż min./maks./śr"
     },
     {
       "ident_ios": "chart_stat_hide",
       "ident_android": "",
       "ident_webui": "",
       "en": "Hide min/max/avg",
-      "fi": "",
+      "fi": "Piilota min/maks/ka",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Dölj min/max/genomsnitt",
+      "fr": "Masquer min/max/moy",
+      "de": "Min./Max./Durchschnitt ausblenden",
+      "pl": "Ukryj min./maks./śr"
     },
     {
       "ident_ios": "settings_alert_limit_notification",
       "ident_android": "",
       "ident_webui": "",
       "en": "Limit alert notifications",
-      "fi": "",
+      "fi": "Rajoita hälytysilmoituksia",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Begränsa varningsmeddelanden",
+      "fr": "Limiter les notifications d'alerte",
+      "de": "Beschränken Sie Warnmeldungen",
+      "pl": "Ogranicz powiadomienia o alertach"
     },
     {
       "ident_ios": "settings_alert_limit_notification_description",
       "ident_android": "",
       "ident_webui": "",
       "en": "Trigger Bluetooth alert notification only once per hour even if alert was retriggered.",
-      "fi": "",
+      "fi": "Näytä Bluetooth-hälytysilmoitus vain kerran tunnissa, vaikka hälytys laukeaisi useammin.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Utlös Bluetooth-varningsavisering endast en gång i timmen även om varningen återutlöstes.",
+      "fr": "Déclenchez la notification d'alerte Bluetooth une seule fois par heure, même si l'alerte a été redéclenchée.",
+      "de": "Lösen Sie die Bluetooth-Benachrichtigung nur einmal pro Stunde aus, auch wenn die Warnung erneut ausgelöst wurde.",
+      "pl": "Włącz powiadomienie o alercie Bluetooth tylko raz na godzinę, nawet jeśli alert został uruchomiony ponownie."
     }
   ]
 }
