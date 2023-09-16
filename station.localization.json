@@ -6315,6 +6315,18 @@
 	  "pl": "Brak użytkownika"
     },
     {
+      "ident_ios": "UserApiError.ER_THROTTLED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Too many requests",
+      "fi": "Liian monta pyyntöä",
+      "ru": "Слишком много запросов",
+      "sv": "För många förfrågningar",
+      "fr": "Trop de demandes simultanées",
+      "de": "Zu viele Anfragen",
+	    "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "settings_experimental",
       "ident_webui": "",
