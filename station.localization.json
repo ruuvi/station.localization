@@ -8850,13 +8850,13 @@
       "ident_ios": "follow_system_theme",
       "ident_android": "follow_system_theme",
       "ident_webui": "",
-      "en": "Follow system theme",
-      "fi": "Käytä järjestelmän oletusta",
-      "ru": "Как в системе",
-      "sv": "Följ systemtema",
-      "fr": "Suivre le thème du système",
-      "de": "Dem Systemthema folgen",
-	  "pl": ""
+      "en": "System theme",
+      "fi": "Järjestelmä",
+      "ru": "Системная тема",
+      "sv": "Systemtema",
+      "fr": "Thème système",
+      "de": "Systemthema",
+	  "pl": "Temat systemu"
     },
     {
       "ident_ios": "dark_theme",
@@ -8868,7 +8868,7 @@
       "sv": "Mörkt tema",
       "fr": "Thème sombre",
       "de": "Dunkles Thema",
-	  "pl": ""
+	  "pl": "Ciemny temat"
     },
     {
       "ident_ios": "light_theme",
@@ -8880,7 +8880,7 @@
       "sv": "Ljust tema",
       "fr": "Thème de la lumière",
       "de": "Thema Licht",
-	  "pl": ""
+	  "pl": "Lekki temat"
     },
     {
       "ident_ios": "Settings.Temperature.Resolution.title",
