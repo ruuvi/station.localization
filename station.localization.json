@@ -11713,6 +11713,30 @@
       "fr": "Déclenchez la notification d'alerte Bluetooth une seule fois par heure, même si l'alerte a été redéclenchée.",
       "de": "Lösen Sie die Bluetooth-Benachrichtigung nur einmal pro Stunde aus, auch wenn die Warnung erneut ausgelöst wurde.",
       "pl": "Włącz powiadomienie o alercie Bluetooth tylko raz na godzinę, nawet jeśli alert został uruchomiony ponownie."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "move_up",
+      "en": "Move up",
+      "fi": "Siirrä ylös",
+      "ru": "",
+      "sv": "Flytta upp",
+      "fr": "Monter",
+      "de": "Nach oben bewegen",
+      "pl": "Przesuń w górę"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "move_down",
+      "en": "Move down",
+      "fi": "Siirrä alas",
+      "ru": "",
+      "sv": "Flytta ner",
+      "fr": "Descendre",
+      "de": "Nach unten bewegen",
+      "pl": "Przesuń w dół"
     }
   ]
 }
