@@ -11512,7 +11512,7 @@
     },
     {
       "ident_ios": "alert_cloud_connection_title",
-      "ident_android": "",
+      "ident_android": "alert_cloud_connection_title",
       "ident_webui": "alert_offline_title",
       "en": "Cloud Connection",
       "fi": "Yhteys pilveen",
@@ -11524,7 +11524,7 @@
     },
     {
       "ident_ios": "alert_cloud_connection_description",
-      "ident_android": "",
+      "ident_android": "alert_cloud_connection_description",
       "ident_webui": "alert_offline_description",
       "en": "Alert if sensor data hasn't been updated to the cloud for longer than {%d^%1$,d} minutes.",
       "fi": "Hälytä, jos anturitietoja ei ole päivitetty pilveen yli {%d^%1$,d} minuuttiin.",
@@ -11536,7 +11536,7 @@
     },
     {
       "ident_ios": "alert_cloud_connection_dialog_description",
-      "ident_android": "",
+      "ident_android": "alert_cloud_connection_dialog_description",
       "ident_webui": "alert_offline_dialog_description",
       "en": "Enter the desired delay to be used in minutes before alert is triggered. Minimum value is 2 minutes.",
       "fi": "Syötä haluttu viive minuutteina, jonka jälkeen hälytys laukaistaan. Lyhyin valittava arvo on 2 minuuttia.",
@@ -11548,7 +11548,7 @@
     },
     {
       "ident_ios": "alert_cloud_connection_dialog_title",
-      "ident_android": "",
+      "ident_android": "alert_cloud_connection_dialog_title",
       "ident_webui": "alert_offline_dialog_title",
       "en": "Set cloud connection alert",
       "fi": "Aseta pilviyhteyden hälytys",
@@ -11560,7 +11560,7 @@
     },
     {
       "ident_ios": "rename",
-      "ident_android": "",
+      "ident_android": "rename",
       "ident_webui": "",
       "en": "Rename",
       "fi": "Nimeä uudelleen",
