@@ -11633,7 +11633,7 @@
     {
       "ident_ios": "rename",
       "ident_android": "rename",
-      "ident_webui": "",
+      "ident_webui": "rename",
       "en": "Rename",
       "fi": "Nimeä uudelleen",
       "ru": "Переименовать",
