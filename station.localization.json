@@ -8092,6 +8092,18 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "alert_notification_offline_message",
+      "ident_webui": "",
+      "en": "Sensor was offline over threshold of {%@^%1$s} minutes",
+      "fi": "",
+      "ru": "Датчик был оффлайн более предельного порога в {%@^%1$s} минут",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "dashboard_no_sensors",
       "en": "Looks like this is a new user account with no sensors. Sign in on your mobile application with the same email address and claim ownership of your Ruuvi sensors.\\n\\nNote: Cloud access to your sensors requires a Ruuvi Gateway router. Order more Ruuvi sensors and a Gateway on ruuvi.com",
