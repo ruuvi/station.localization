@@ -8094,13 +8094,13 @@
       "ident_ios": "",
       "ident_android": "alert_notification_offline_message",
       "ident_webui": "",
-      "en": "Sensor was offline over threshold of {%@^%1$s} minutes",
-      "fi": "",
+      "en": "Cloud service has not received measurements from the sensor for more than {%@^%1$s} minutes",
+      "fi": "Pilvipalvelu ei ole saanut mittauksia anturilta yli {%@^%1$s} minuuttiin",
       "ru": "Датчик был оффлайн более предельного порога в {%@^%1$s} минут",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Molntjänsten har inte tagit emot mätningar från sensorn på mer än {%@^%1$s} minuter",
+      "fr": "Le service cloud n'a pas reçu de mesures du capteur depuis plus de {%@^%1$s} minutes",
+      "de": "Der Cloud-Dienst hat seit mehr als {%@^%1$s} Minuten keine Messungen vom Sensor empfangen",
+      "pl": "Usługa w chmurze nie otrzymała pomiarów z czujnika przez ponad {%@^%1$s} minut"
     },
     {
       "ident_ios": "",
