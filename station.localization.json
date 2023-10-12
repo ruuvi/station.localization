@@ -9375,6 +9375,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "all",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "All",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "longer_history_title",
       "ident_android": "longer_history_title",
       "ident_webui": "",
