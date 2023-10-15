@@ -10782,7 +10782,7 @@
       "ident_ios": "dashboard_no_sensors_message_signed_out",
       "ident_android": "",
       "ident_webui": "",
-      "en": "You are not signed in.\n\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
+      "en": "You are not signed in.\\n\\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
       "fi": "",
       "ru": "",
       "sv": "",
