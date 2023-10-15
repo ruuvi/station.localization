@@ -10776,10 +10776,34 @@
       "sv": "Det verkar som om du inte har några Ruuvi-sensorer tillagda ännu.",
       "fr": "Il semble que vous n'ayez pas encore ajouté de capteurs Ruuvi.",
       "de": "Scheint, als hätten Sie noch keine Ruuvi-Sensoren hinzugefügt.",
-	  "pl": ""
+      "pl": ""
     },
     {
-      "ident_ios": "add_your_first_sensor",
+      "ident_ios": "dashboard_no_sensors_message_signed_out",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "You are not signed in.\n\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "add_a_sensor",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Add a Sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "add_your_first_sensor",
       "ident_webui": "",
       "en": "Add Your First Sensor",
