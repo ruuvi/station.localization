@@ -10783,24 +10783,24 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "You are not signed in.\\n\\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
-      "fi": "",
+      "fi": "Et ole kirjautunut sisään.\\n\\nJos sinulla on tili ja olet jo lisännyt tilille Ruuvi-antureita, ne synkronoituvat automaattisesti Ruuvi Station -mobiilisovellukseen kirjautuessasi sisään.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Du är inte inloggad.\\n\\nOm du har ett konto och redan har lagt till Ruuvi-sensorer till det, synkroniseras de automatiskt med Ruuvi Stations mobilapp när du loggar in.",
+      "fr": "Vous n'êtes pas connecté.\\n\\nSi vous avez un compte et que vous y avez déjà ajouté des capteurs Ruuvi, ils se synchroniseront automatiquement avec l'application mobile Ruuvi Station lorsque vous vous connecterez.",
+      "de": "Sie sind nicht angemeldet.\\n\\nWenn Sie ein Konto haben und diesem bereits Ruuvi-Sensoren hinzugefügt haben, werden diese automatisch mit der mobilen Ruuvi Station-App synchronisiert, wenn Sie sich anmelden.",
+      "pl": "Nie jesteś zalogowany.\\n\\nJeśli masz konto i dodałeś już do niego czujniki Ruuvi, po zalogowaniu zostaną one automatycznie zsynchronizowane z aplikacją mobilną Ruuvi Station."
     },
     {
       "ident_ios": "add_a_sensor",
       "ident_android": "",
       "ident_webui": "",
       "en": "Add a Sensor",
-      "fi": "",
+      "fi": "Lisää anturi",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Lägg till en sensor",
+      "fr": "Ajouter un capteur",
+      "de": "Fügen Sie einen Sensor hinzu",
+      "pl": "Dodaj czujnik"
     },
     {
       "ident_ios": "",
@@ -11215,12 +11215,12 @@
       "ident_android": "use_dev_server_description",
       "ident_webui": "",
       "en": "To apply changes simply sync data from dashboard or wait till next sync.",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-	  "pl": ""
+      "fi": "Ota muutokset käyttöön yksinkertaisesti synkronoimalla koontinäytöllä tai odota seuraavaa synkronointia.",
+      "ru": "Чтобы применить изменения, просто синхронизируйте данные с панели управления или дождитесь следующей синхронизации.",
+      "sv": "För att tillämpa ändringar synkronisera helt enkelt data från instrumentpanelen eller vänta till nästa synkronisering.",
+      "fr": "Pour appliquer les modifications, synchronisez simplement les données du tableau de bord ou attendez la prochaine synchronisation.",
+      "de": "Um Änderungen zu übernehmen, synchronisieren Sie einfach die Daten vom Dashboard oder warten Sie bis zur nächsten Synchronisierung.",
+	  "pl": "Aby zastosować zmiany, po prostu zsynchronizuj dane z pulpitu nawigacyjnego lub poczekaj do następnej synchronizacji."
     },
     {
       "ident_ios": "Defaults.ShowEmailAlertsSettings.title",
