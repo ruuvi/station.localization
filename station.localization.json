@@ -4012,7 +4012,7 @@
     {
       "ident_ios": "OK",
       "ident_android": "ok",
-      "ident_webui": "",
+      "ident_webui": "ok",
       "en": "OK",
       "fi": "OK",
       "ru": "OK",
@@ -11785,6 +11785,30 @@
       "fr": "Descendre",
       "de": "Nach unten bewegen",
       "pl": "Przesuń w dół"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "share_pending",
+      "en": "Share pending",
+      "fi": "Jakamista odotetaan",
+      "ru": "",
+      "sv": "Delning pågår",
+      "fr": "Partage en attente",
+      "de": "Freigabe ausstehend",
+      "pl": "Oczekiwanie na udostępnienie"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "share_pending_message",
+      "en": "Shared successfully! This email address isn't linked to a Ruuvi account yet. An invite to create a free account has been sent. Once created, you'll see it in the sharee listing.",
+      "fi": "Jako onnistui! Tämä sähköpostiosoite ei ole vielä liitetty Ruuvi-tiliin. Kutsu ilmaisen tilin luomiseen on lähetetty. Kun tili on luotu, näet sen jakolistanäkymässä.",
+      "ru": "",
+      "sv": "Delat framgångsrikt! Den här e-postadressen är ännu inte kopplad till ett Ruuvi-konto. En inbjudan att skapa ett gratis konto har skickats. När kontot har skapats kommer du att se det i delningslistan.",
+      "fr": "Partagé avec succès ! Cette adresse e-mail n'est pas encore liée à un compte Ruuvi. Une invitation pour créer un compte gratuit a été envoyée. Une fois créé, vous le verrez dans la liste des partages.",
+      "de": "Erfolgreich geteilt! Diese E-Mail-Adresse ist noch nicht mit einem Ruuvi-Konto verknüpft. Eine Einladung zur Erstellung eines kostenlosen Kontos wurde gesendet. Nach der Erstellung werden Sie es in der Freigabeliste sehen.",
+      "pl": "Udostępnienie zakończone sukcesem! Ten adres e-mail nie jest jeszcze powiązany z kontem Ruuvi. Wysłano zaproszenie do utworzenia bezpłatnego konta. Po utworzeniu konta zobaczysz je na liście udostępniania."
     }
   ]
 }
