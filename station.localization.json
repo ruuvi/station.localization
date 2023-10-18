@@ -10143,7 +10143,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "empty_chart_message",
       "ident_android": "empty_chart_message",
       "ident_webui": "",
       "en": "No data available \\nin the selected history window.",
