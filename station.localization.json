@@ -11787,7 +11787,7 @@
       "pl": "Przesuń w dół"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "share_pending",
       "ident_android": "",
       "ident_webui": "share_pending",
       "en": "Share pending",
@@ -11799,7 +11799,7 @@
       "pl": "Oczekiwanie na udostępnienie"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "share_pending_message",
       "ident_android": "",
       "ident_webui": "share_pending_message",
       "en": "Shared successfully! This email address isn't linked to a Ruuvi account yet. An invite to create a free account has been sent. Once created, you'll see it in the sharee listing.",
