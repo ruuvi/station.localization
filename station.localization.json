@@ -11809,6 +11809,54 @@
       "fr": "Partagé avec succès ! Cette adresse e-mail n'est pas encore liée à un compte Ruuvi. Une invitation pour créer un compte gratuit a été envoyée. Une fois créé, vous le verrez dans la liste des partages.",
       "de": "Erfolgreich geteilt! Diese E-Mail-Adresse ist noch nicht mit einem Ruuvi-Konto verknüpft. Eine Einladung zur Erstellung eines kostenlosen Kontos wurde gesendet. Nach der Erstellung werden Sie es in der Freigabeliste sehen.",
       "pl": "Udostępnienie zakończone sukcesem! Ten adres e-mail nie jest jeszcze powiązany z kontem Ruuvi. Wysłano zaproszenie do utworzenia bezpłatnego konta. Po utworzeniu konta zobaczysz je na liście udostępniania."
+    },
+    {
+      "ident_ios": "dialog_are_you_sure",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Are you sure?",
+      "fi": "Oletko varma?",
+      "ru": "Вы уверены?",
+      "sv": "Är du säker?",
+      "fr": "Êtes-vous sûr ?",
+      "de": "Sind Sie sicher?",
+      "pl": ""
+    },
+    {
+      "ident_ios": "dialog_operation_undone",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This operation cannot be undone.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "remove_cloud_history_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Remove cloud history",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "remove_cloud_history_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "I also want to remove sensor history data from Ruuvi Cloud.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
