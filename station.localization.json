@@ -4997,7 +4997,7 @@
     {
       "ident_ios": "TagSettings.confirmTagRemovalDialog.title",
       "ident_android": "tagsettings_sensor_remove",
-      "ident_webui": "",
+      "ident_webui": "remove_sensor",
       "en": "Remove sensor",
       "fi": "Poista",
       "ru": "Удалить сенсор",
@@ -11825,38 +11825,50 @@
     {
       "ident_ios": "dialog_operation_undone",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "remove_sensor_confirmation_dialog",
       "en": "This operation cannot be undone.",
-      "fi": "",
+      "fi": "Tätä toimenpidettä ei voi perua.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Denna åtgärd kan inte ångras.",
+      "fr": "Cette opération ne peut pas être annulée.",
+      "de": "Dieser Vorgang kann nicht rückgängig gemacht werden.",
+      "pl": "Ta operacja nie może zostać cofnięta."
     },
     {
       "ident_ios": "remove_cloud_history_title",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "remove_cloud_history_switch",
       "en": "Remove cloud history",
-      "fi": "",
+      "fi": "Poista pilvihistoria",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Ta bort molnhistorik",
+      "fr": "Supprimer l'historique cloud",
+      "de": "Cloud-Historie entfernen",
+      "pl": "Usuń historię chmury"
     },
     {
       "ident_ios": "remove_cloud_history_description",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "remove_cloud_history_description",
       "en": "I also want to remove sensor history data from Ruuvi Cloud.",
-      "fi": "",
+      "fi": "Haluan myös poistaa anturihistoriatiedot Ruuvi Cloudista.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Jag vill också ta bort sensorhistorikdata från Ruuvi Cloud.",
+      "fr": "Je veux également supprimer les données d'historique du capteur de Ruuvi Cloud.",
+      "de": "Ich möchte auch die Sensorverlaufsdaten aus Ruuvi Cloud entfernen.",
+      "pl": "Chcę również usunąć dane historii czujnika z Ruuvi Cloud."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "remove_sensor_description",
+      "en": "By removing the sensor, your sensor ownership status will be revoked and sensor settings, such as name, background image, calibration settings and alert settings will be removed. After removal, someone else can claim ownership of the sensor. Each Ruuvi sensor can have only one owner.",
+      "fi": "Poistamalla anturin omistusoikeutesi peruutetaan, ja anturin asetukset, kuten nimi, taustakuva, kalibrointiasetukset ja hälytysasetukset poistetaan. Poiston jälkeen joku toinen voi ottaa anturin omistukseensa. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
+      "ru": "",
+      "sv": "Genom att ta bort sensorn kommer den inte längre synas i ditt konto och sensorinställningar som namn, bakgrundsbild, kalibreringsinställningar och larminställningar kommer att tas bort. Efter borttagning kan någon annan ta ägande om sensorn. Varje Ruuvi-sensor kan bara ha en ägare.",
+      "fr": "En supprimant le capteur, votre statut de propriétaire du capteur sera révoqué, et les paramètres du capteur, tels que le nom, l'image d'arrière-plan, les paramètres de calibration et les paramètres d'alerte, seront supprimés. Après la suppression, quelqu'un d'autre peut revendiquer la propriété du capteur. Chaque capteur Ruuvi ne peut avoir qu'un seul propriétaire.",
+      "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus aufgehoben, und Sensor-Einstellungen wie Name, Hintergrundbild, Kalibrierungseinstellungen und Alarmeinstellungen werden entfernt. Nach der Entfernung kann jemand anderes das Eigentum am Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.",
+      "pl": "Usunięcie czujnika spowoduje cofnięcie statusu posiadania czujnika, a ustawienia czujnika, takie jak nazwa, obraz tła, ustawienia kalibracji i ustawienia alertu, zostaną usunięte. Po usunięciu ktoś inny może przejąć własność nad czujnikiem. Każdy czujnik Ruuvi może mieć tylko jednego właściciela."
     }
   ]
 }
