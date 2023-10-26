@@ -9376,7 +9376,7 @@
     },
     {
       "ident_ios": "all",
-      "ident_android": "",
+      "ident_android": "all",
       "ident_webui": "",
       "en": "All",
       "fi": "",
@@ -11860,7 +11860,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "remove_claimed_sensor_description",
       "ident_webui": "remove_sensor_description",
       "en": "By removing the sensor, your sensor ownership status will be revoked and sensor settings, such as name, background image, calibration settings and alert settings will be removed. After removal, someone else can claim ownership of the sensor. Each Ruuvi sensor can have only one owner.",
       "fi": "Poistamalla anturin omistusoikeutesi peruutetaan, ja anturin asetukset, kuten nimi, taustakuva, kalibrointiasetukset ja hälytysasetukset poistetaan. Poiston jälkeen joku toinen voi ottaa anturin omistukseensa. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja.",
@@ -11869,6 +11869,30 @@
       "fr": "En supprimant le capteur, votre statut de propriétaire du capteur sera révoqué, et les paramètres du capteur, tels que le nom, l'image d'arrière-plan, les paramètres de calibration et les paramètres d'alerte, seront supprimés. Après la suppression, quelqu'un d'autre peut revendiquer la propriété du capteur. Chaque capteur Ruuvi ne peut avoir qu'un seul propriétaire.",
       "de": "Durch das Entfernen des Sensors wird Ihr Sensor-Eigentumsstatus aufgehoben, und Sensor-Einstellungen wie Name, Hintergrundbild, Kalibrierungseinstellungen und Alarmeinstellungen werden entfernt. Nach der Entfernung kann jemand anderes das Eigentum am Sensor beanspruchen. Jeder Ruuvi-Sensor kann nur einen Besitzer haben.",
       "pl": "Usunięcie czujnika spowoduje cofnięcie statusu posiadania czujnika, a ustawienia czujnika, takie jak nazwa, obraz tła, ustawienia kalibracji i ustawienia alertu, zostaną usunięte. Po usunięciu ktoś inny może przejąć własność nad czujnikiem. Każdy czujnik Ruuvi może mieć tylko jednego właściciela."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "remove_shared_sensor_description",
+      "ident_webui": "",
+      "en": "If you choose to remove this shared sensor, the owner of the sensor will be notified and you will not be able to access the sensor anymore.\\n\\nYou will also lose any related sensor settings like name, background image and alert configurations.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "remove_local_sensor_description",
+      "ident_webui": "",
+      "en": "If you choose to remove this sensor, it will result in the deletion of your locally stored measurement history, along with the removal of any related sensor settings like name, background image, calibration, and alert configurations.\\n\\nYou can add this sensor later again, if needed.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
