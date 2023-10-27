@@ -6343,12 +6343,12 @@
       "ident_android": "settings_developer",
       "ident_webui": "",
       "en": "Developer settings",
-      "fi": "",
+      "fi": "Kehittäjäasetukset",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-	  "pl": ""
+      "sv": "Utvecklarinställningar",
+      "fr": "Paramètres du développeur",
+      "de": "Entwicklereinstellungen",
+	  "pl": "Ustawienia programisty"
     },
     {
       "ident_ios": "OffsetCorrection.CalibrationDescription.text",
@@ -8094,13 +8094,13 @@
       "ident_ios": "",
       "ident_android": "alert_notification_offline_message",
       "ident_webui": "",
-      "en": "Sensor was offline over threshold of {%@^%1$s} minutes",
-      "fi": "",
+      "en": "Sensor has been offline over {%@^%1$s} minutes",
+      "fi": "Anturi on ollut offline-tilassa yli {%@^%1$s} minuuttia",
       "ru": "Датчик был оффлайн более предельного порога в {%@^%1$s} минут",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Sensorn har varit offline över {%@^%1$s} minuter",
+      "fr": "Le capteur est hors ligne depuis {%@^%1$s} minutes",
+      "de": "Der Sensor war über {%@^%1$s} Minuten offline",
+      "pl": "Czujnik był offline przez {%@^%1$s} minut"
     },
     {
       "ident_ios": "",
@@ -9379,12 +9379,12 @@
       "ident_android": "all",
       "ident_webui": "",
       "en": "All",
-      "fi": "",
+      "fi": "Kaikki",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Allt",
+      "fr": "Tout",
+      "de": "Alle",
+      "pl": "Wszystko"
     },
     {
       "ident_ios": "longer_history_title",
@@ -10018,9 +10018,9 @@
       "fi": "Paina pitkään muokataksesi widgettiä.",
       "ru": "",
       "sv": "Tryck och håll ned för att redigera widgeten.",
-      "fr": "",
-      "de": "",
-	  "pl": ""
+      "fr": "Forcer l'appui pour modifier le widget.",
+      "de": "Erzwingen Sie das Tippen, um das Widget zu bearbeiten.",
+	  "pl": "Wymuś dotknięcie, aby edytować widżet."
     },
     {
       "ident_ios": "Widgets.Unconfigured.Rectangular.message",
@@ -11875,12 +11875,12 @@
       "ident_android": "remove_shared_sensor_description",
       "ident_webui": "",
       "en": "If you choose to remove this shared sensor, the owner of the sensor will be notified and you will not be able to access the sensor anymore.\\n\\nYou will also lose any related sensor settings like name, background image and alert configurations.",
-      "fi": "",
+      "fi": "Jos poistat tämän jaetun anturin, anturin omistajalle lähetetään ilmoitus poistosta, etkä voi enää käyttää anturia.\\n\\nMenetät myös kaikki tähän anturiin liittyvät anturin asetukset, kuten nimen, taustakuvan ja asetetut hälytykset.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Om du tar bort den här delade sensorn kommer sensorns ägare att meddelas om borttagningen och du kommer inte längre att kunna använda sensorn.\\n\\nDu kommer också att förlora alla sensorinställningar som är kopplade till denna sensor, t.ex. namn, bakgrundsbild och ställ in alarm.",
+      "fr": "Si vous choisissez de supprimer ce capteur partagé, le propriétaire du capteur sera averti et vous ne pourrez plus accéder au capteur.\\n\\nVous perdrez également tous les paramètres du capteur associés, tels que le nom, l'image d'arrière-plan et les configurations d'alerte. .",
+      "de": "Wenn Sie diesen freigegebenen Sensor entfernen, wird der Eigentümer des Sensors benachrichtigt und Sie können nicht mehr auf den Sensor zugreifen.\\n\\nSie verlieren außerdem alle zugehörigen Sensoreinstellungen wie Name, Hintergrundbild und Alarmkonfigurationen .",
+      "pl": "Jeśli zdecydujesz się usunąć ten udostępniony czujnik, właściciel czujnika zostanie powiadomiony i nie będziesz już mieć dostępu do czujnika.\\n\\nUtracisz także wszelkie powiązane ustawienia czujnika, takie jak nazwa, obraz tła i konfiguracje alertów ."
     },
     {
       "ident_ios": "remove_local_sensor_description",
@@ -11889,10 +11889,10 @@
       "en": "If you choose to remove this sensor, it will result in the deletion of your locally stored measurement history, along with the removal of any related sensor settings like name, background image, calibration, and alert configurations.\\n\\nYou can add this sensor later again, if needed.",
       "fi": "",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Om du väljer att ta bort den här sensorn kommer det att resultera i radering av din lokalt lagrade mäthistorik, tillsammans med att eventuella relaterade sensorinställningar som namn, bakgrundsbild, kalibrering och varningskonfigurationer tas bort.\\n\\nDu kan lägga till denna sensor senare igen, om det behövs.",
+      "fr": "Si vous choisissez de supprimer ce capteur, cela entraînera la suppression de votre historique de mesures stocké localement, ainsi que la suppression de tous les paramètres du capteur associés tels que le nom, l'image d'arrière-plan, l'étalonnage et les configurations d'alerte.\\n\\nVous pouvez ajouter ce capteur plus tard, si nécessaire.",
+      "de": "Wenn Sie diesen Sensor entfernen, führt dies zur Löschung Ihres lokal gespeicherten Messverlaufs sowie zur Entfernung aller zugehörigen Sensoreinstellungen wie Name, Hintergrundbild, Kalibrierung und Alarmkonfigurationen.\\n\\nSie können hinzufügen diesen Sensor später bei Bedarf erneut.",
+      "pl": "Jeśli zdecydujesz się usunąć ten czujnik, spowoduje to usunięcie lokalnie przechowywanej historii pomiarów wraz z usunięciem wszelkich powiązanych ustawień czujnika, takich jak nazwa, obraz tła, kalibracja i konfiguracje alertów.\\n\\nMożesz dodać ten czujnik później ponownie, jeśli zajdzie taka potrzeba."
     }
   ]
 }
