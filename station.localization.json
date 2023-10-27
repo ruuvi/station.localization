@@ -11812,7 +11812,7 @@
     },
     {
       "ident_ios": "dialog_are_you_sure",
-      "ident_android": "",
+      "ident_android": "dialog_are_you_sure",
       "ident_webui": "",
       "en": "Are you sure?",
       "fi": "Oletko varma?",
@@ -11824,7 +11824,7 @@
     },
     {
       "ident_ios": "dialog_operation_undone",
-      "ident_android": "",
+      "ident_android": "dialog_operation_undone",
       "ident_webui": "remove_sensor_confirmation_dialog",
       "en": "This operation cannot be undone.",
       "fi": "Tätä toimenpidettä ei voi perua.",
@@ -11836,7 +11836,7 @@
     },
     {
       "ident_ios": "remove_cloud_history_title",
-      "ident_android": "",
+      "ident_android": "remove_cloud_history_title",
       "ident_webui": "remove_cloud_history_switch",
       "en": "Remove cloud history",
       "fi": "Poista pilvihistoria",
@@ -11848,7 +11848,7 @@
     },
     {
       "ident_ios": "remove_cloud_history_description",
-      "ident_android": "",
+      "ident_android": "remove_cloud_history_description",
       "ident_webui": "remove_cloud_history_description",
       "en": "I also want to remove sensor history data from Ruuvi Cloud.",
       "fi": "Haluan myös poistaa anturihistoriatiedot Ruuvi Cloudista.",
