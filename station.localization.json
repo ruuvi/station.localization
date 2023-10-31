@@ -11873,7 +11873,7 @@
     {
       "ident_ios": "remove_shared_sensor_description",
       "ident_android": "remove_shared_sensor_description",
-      "ident_webui": "",
+      "ident_webui": "remove_shared_sensor_description",
       "en": "If you choose to remove this shared sensor, the owner of the sensor will be notified and you will not be able to access the sensor anymore.\\n\\nYou will also lose any related sensor settings like name, background image and alert configurations.",
       "fi": "Jos poistat tämän jaetun anturin, anturin omistajalle lähetetään ilmoitus poistosta, etkä voi enää käyttää anturia.\\n\\nMenetät myös kaikki tähän anturiin liittyvät anturin asetukset, kuten nimen, taustakuvan ja asetetut hälytykset.",
       "ru": "",
