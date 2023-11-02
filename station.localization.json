@@ -9519,6 +9519,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "TagCharts.FailedToSyncDialog.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Download failed",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "TagCharts.FailedToSyncDialog.message",
       "ident_android": "gatt_not_in_range_description",
       "ident_webui": "",
