@@ -27,7 +27,7 @@
     {
       "ident_ios": "Confirm",
       "ident_android": "confirm",
-      "ident_webui": "",
+      "ident_webui": "confirm",
       "en": "Confirm",
       "fi": "Vahvista",
       "ru": "Подтвердить",
@@ -9725,7 +9725,7 @@
     {
       "ident_ios": "view",
       "ident_android": "view",
-      "ident_webui": "",
+      "ident_webui": "view",
       "en": "View",
       "fi": "Näkymä",
       "ru": "Вид",
@@ -9737,7 +9737,7 @@
     {
       "ident_ios": "card_type",
       "ident_android": "card_type",
-      "ident_webui": "",
+      "ident_webui": "card_type",
       "en": "Card type",
       "fi": "Korttityyppi",
       "ru": "",
@@ -9749,7 +9749,7 @@
     {
       "ident_ios": "image_cards",
       "ident_android": "image_cards",
-      "ident_webui": "",
+      "ident_webui": "image_cards",
       "en": "Image cards",
       "fi": "Kuvakortit",
       "ru": "",
@@ -9761,7 +9761,7 @@
     {
       "ident_ios": "simple_cards",
       "ident_android": "simple_cards",
-      "ident_webui": "",
+      "ident_webui": "simple_cards",
       "en": "Simple cards",
       "fi": "Yksinkertaiset kortit",
       "ru": "",
@@ -9769,6 +9769,18 @@
       "fr": "Cartes simples",
       "de": "Einfache Karten",
 	  "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "history_cards",
+      "en": "History cards",
+      "fi": "Historiakortit",
+      "ru": "",
+      "sv": "Historikkort",
+      "fr": "Cartes d'histoire",
+      "de": "Historiekarten",
+      "pl": "Karty historii"
     },
     {
       "ident_ios": "card_action",
@@ -11825,7 +11837,7 @@
     {
       "ident_ios": "dialog_are_you_sure",
       "ident_android": "dialog_are_you_sure",
-      "ident_webui": "",
+      "ident_webui": "dialog_are_you_sure",
       "en": "Are you sure?",
       "fi": "Oletko varma?",
       "ru": "Вы уверены?",
@@ -11905,6 +11917,42 @@
       "fr": "Si vous choisissez de supprimer ce capteur, cela entraînera la suppression de votre historique de mesures stocké localement, ainsi que la suppression de tous les paramètres du capteur associés tels que le nom, l'image d'arrière-plan, l'étalonnage et les configurations d'alerte.\\n\\nVous pouvez ajouter ce capteur plus tard, si nécessaire.",
       "de": "Wenn Sie diesen Sensor entfernen, führt dies zur Löschung Ihres lokal gespeicherten Messverlaufs sowie zur Entfernung aller zugehörigen Sensoreinstellungen wie Name, Hintergrundbild, Kalibrierung und Alarmkonfigurationen.\\n\\nSie können hinzufügen diesen Sensor später bei Bedarf erneut.",
       "pl": "Jeśli zdecydujesz się usunąć ten czujnik, spowoduje to usunięcie lokalnie przechowywanej historii pomiarów wraz z usunięciem wszelkich powiązanych ustawień czujnika, takich jak nazwa, obraz tła, kalibracja i konfiguracje alertów.\\n\\nMożesz dodać ten czujnik później ponownie, jeśli zajdzie taka potrzeba."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "ordering",
+      "en": "Ordering",
+      "fi": "Järjestäminen",
+      "ru": "",
+      "sv": "Sortering",
+      "fr": "Tri",
+      "de": "Sortierung",
+      "pl": "Sortowanie"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "reset_order",
+      "en": "Reset to alphabetical sorting",
+      "fi": "Palauta aakkosjärjestys",
+      "ru": "",
+      "sv": "Återställ till alfabetisk sortering",
+      "fr": "Réinitialiser au tri alphabétique",
+      "de": "Zur alphabetischen Sortierung zurücksetzen",
+      "pl": "Zresetuj do sortowania alfabetycznego"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "reset_order_confirmation",
+      "en": "Are you certain you wish to revert the sensor card ordering to alphabetical sorting?",
+      "fi": "Oletko varma, että haluat palauttaa anturikortin järjestyksen aakkosjärjestykseen?",
+      "ru": "",
+      "sv": "Är du säker på att du vill återställa sensorkortsordningen till alfabetisk sortering?",
+      "fr": "Êtes-vous certain de vouloir revenir à la classification alphabétique de la carte du capteur ?",
+      "de": "Sind Sie sicher, dass Sie die Reihenfolge der Sensorkarten auf die alphabetische Sortierung zurücksetzen möchten?",
+      "pl": "Czy jesteś pewien, że chcesz przywrócić porządek kart czujników do sortowania alfabetycznego?"
     }
   ]
 }
