@@ -9523,12 +9523,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Download failed",
-      "fi": "",
+      "fi": "Lataus epäonnistui",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Nedladdning misslyckad",
+      "fr": "Échec du téléchargement",
+      "de": "Herunterladen fehlgeschlagen",
+      "pl": "Pobieranie nie udane"
     },
     {
       "ident_ios": "TagCharts.FailedToSyncDialog.message",
@@ -11899,7 +11899,7 @@
       "ident_android": "remove_local_sensor_description",
       "ident_webui": "",
       "en": "If you choose to remove this sensor, it will result in the deletion of your locally stored measurement history, along with the removal of any related sensor settings like name, background image, calibration, and alert configurations.\\n\\nYou can add this sensor later again, if needed.",
-      "fi": "",
+      "fi": "Jos poistat tämän anturin, paikallisesti tallennettu mittaushistoria ja kaikki tähän anturiin liittyvät asetukset, kuten nimi, taustakuva, kalibrointiasetukset ja hälytysasetukset poistetaan.\\n\\nVoit lisätä tämän anturin myöhemmin uudelleen tarvittaessa.",
       "ru": "",
       "sv": "Om du väljer att ta bort den här sensorn kommer det att resultera i radering av din lokalt lagrade mäthistorik, tillsammans med att eventuella relaterade sensorinställningar som namn, bakgrundsbild, kalibrering och varningskonfigurationer tas bort.\\n\\nDu kan lägga till denna sensor senare igen, om det behövs.",
       "fr": "Si vous choisissez de supprimer ce capteur, cela entraînera la suppression de votre historique de mesures stocké localement, ainsi que la suppression de tous les paramètres du capteur associés tels que le nom, l'image d'arrière-plan, l'étalonnage et les configurations d'alerte.\\n\\nVous pouvez ajouter ce capteur plus tard, si nécessaire.",
