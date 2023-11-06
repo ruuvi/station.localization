@@ -5694,13 +5694,13 @@
       "ident_ios": "SignIn.CheckMailbox",
       "ident_android": "sign_in_check_email",
       "ident_webui": "sign_in_check_email",
-      "en": "We've sent a one-time password to your email. Sign in by entering it here:",
-      "fi": "Olemme lähettäneet sähköpostiisi kertakäyttöisen salasanan. Kirjaudu syöttämällä se tähän:",
-      "ru": "Мы отправили одноразовый пароль на вашу электронную почту. Войдите, введя его здесь:",
-      "sv": "Vi har skickat ett engångslösenord till din e-post. Logga in genom att ange den här:",
-      "fr": "Nous avons envoyé un mot de passe à usage unique à votre adresse e-mail. Connectez-vous en le saisissant ici:",
-      "de": "Wir haben ein Einmalpasswort an Ihre E-Mail gesendet. Melden Sie sich an, indem Sie es hier eingeben:",
-	  "pl": "Sprawdź swoją skrzynkę mailową, aby uzyskać kod aktywacyjny."
+      "en": "We've sent a one-time password to your email {%@^%1$s}. Sign in by entering it here:",
+      "fi": "Olemme lähettäneet sähköpostiisi kertakäyttöisen salasanan {%@^%1$s}. Kirjaudu syöttämällä se tähän:",
+      "ru": "Мы отправили одноразовый пароль на вашу электронную почту {%@^%1$s}. Войдите, введя его здесь:",
+      "sv": "Vi har skickat ett engångslösenord till din e-post {%@^%1$s}. Logga in genom att ange den här:",
+      "fr": "Nous avons envoyé un mot de passe à usage unique à votre adresse e-mail {%@^%1$s}. Connectez-vous en le saisissant ici:",
+      "de": "Wir haben ein Einmalpasswort an Ihre E-Mail gesendet {%@^%1$s}. Melden Sie sich an, indem Sie es hier eingeben:",
+	  "pl": "Sprawdź swoją skrzynkę mailową {%@^%1$s}, aby uzyskać kod aktywacyjny."
     },
     {
       "ident_ios": "SignIn.CodeHint",
@@ -11812,7 +11812,7 @@
     },
     {
       "ident_ios": "share_pending_message",
-      "ident_android": "",
+      "ident_android": "share_pending_message",
       "ident_webui": "share_pending_message",
       "en": "Shared successfully! This email address isn't linked to a Ruuvi account yet. An invite to create a free account has been sent. Once created, you'll see it in the sharee listing.",
       "fi": "Jako onnistui! Tämä sähköpostiosoite ei ole vielä liitetty Ruuvi-tiliin. Kutsu ilmaisen tilin luomiseen on lähetetty. Kun tili on luotu, näet sen jakolistanäkymässä.",
