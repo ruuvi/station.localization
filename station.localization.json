@@ -3112,7 +3112,7 @@
     {
       "ident_ios": "Cancel",
       "ident_android": "cancel",
-      "ident_webui": "",
+      "ident_webui": "cancel",
       "en": "Cancel",
       "fi": "Peruuta",
       "ru": "Отмена",
