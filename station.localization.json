@@ -11752,7 +11752,7 @@
     },
     {
       "ident_ios": "chart_stat_show",
-      "ident_android": "",
+      "ident_android": "chart_stat_show",
       "ident_webui": "",
       "en": "Show min/max/avg",
       "fi": "Näytä min/maks/ka",
@@ -11764,7 +11764,7 @@
     },
     {
       "ident_ios": "chart_stat_hide",
-      "ident_android": "",
+      "ident_android": "chart_stat_hide",
       "ident_webui": "",
       "en": "Hide min/max/avg",
       "fi": "Piilota min/maks/ka",
