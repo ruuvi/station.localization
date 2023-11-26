@@ -11965,6 +11965,42 @@
       "fr": "Êtes-vous certain de vouloir revenir à la classification alphabétique de la carte du capteur ?",
       "de": "Sind Sie sicher, dass Sie die Reihenfolge der Sensorkarten auf die alphabetische Sortierung zurücksetzen möchten?",
       "pl": "Czy jesteś pewien, że chcesz przywrócić porządek kart czujników do sortowania alfabetycznego?"
+    },
+    {
+      "ident_ios": "activity_saving_to_cloud",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Saving to cloud...please wait.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "activity_saving_success",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Saved successfully.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "activity_saving_fail",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Couldn't save changes to cloud.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
