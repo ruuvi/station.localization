@@ -10,22 +10,19 @@ data class TranslationString (
     var ru: String,
     var sv: String,
     var fr: String,
-    var de: String
+    var de: String,
+    var pl: String
 ) {
     fun export(
-        writer: PrintWriter,
-        writerFi: PrintWriter,
-        writerSv: PrintWriter,
-        writerRu: PrintWriter,
-        writerFr: PrintWriter,
-        writerDe: PrintWriter
+        writers: Map<String, PrintWriter>
     ) {
-        if (en.isNotEmpty()) writer.println(prepareString(en))
-        if (fi.isNotEmpty()) writerFi.println(prepareString(fi))
-        if (sv.isNotEmpty()) writerSv.println(prepareString(sv))
-        if (ru.isNotEmpty()) writerRu.println(prepareString(ru))
-        if (fr.isNotEmpty()) writerFr.println(prepareString(fr))
-        if (de.isNotEmpty()) writerDe.println(prepareString(de))
+        if (en.isNotEmpty()) writers["en"]?.println(prepareString(en))
+        if (fi.isNotEmpty()) writers["fi"]?.println(prepareString(fi))
+        if (sv.isNotEmpty()) writers["sv"]?.println(prepareString(sv))
+        if (ru.isNotEmpty()) writers["ru"]?.println(prepareString(ru))
+        if (fr.isNotEmpty()) writers["fr"]?.println(prepareString(fr))
+        if (de.isNotEmpty()) writers["de"]?.println(prepareString(de))
+        if (pl.isNotEmpty()) writers["pl"]?.println(prepareString(pl))
     }
 
     private fun prepareString(sourceString: String): String {
