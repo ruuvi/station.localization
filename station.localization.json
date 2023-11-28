@@ -12001,6 +12001,18 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "nfc_enable_bt_to_add_sensor",
+      "ident_webui": "",
+      "en": "Enable Bluetooth and scan sensor again to add it",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
