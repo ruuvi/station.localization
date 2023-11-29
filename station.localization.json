@@ -11971,48 +11971,48 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Saving to cloud...please wait.",
-      "fi": "",
+      "fi": "Tallennetaan pilveen...odota hetki.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Sparar till molnet... vänligen vänta.",
+      "fr": "Enregistrement dans le cloud... veuillez patienter.",
+      "de": "Speichern in der Cloud...bitte warten.",
+      "pl": "Zapisuję w chmurze... proszę czekać."
     },
     {
       "ident_ios": "activity_saving_success",
       "ident_android": "",
       "ident_webui": "",
       "en": "Saved successfully.",
-      "fi": "",
+      "fi": "Tallennus onnistui.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Sparad.",
+      "fr": "Enregistré avec succès.",
+      "de": "Erfolgreich gespeichert.",
+      "pl": "Zapisano pomyślnie."
     },
     {
       "ident_ios": "activity_saving_fail",
       "ident_android": "",
       "ident_webui": "",
       "en": "Couldn't save changes to cloud.",
-      "fi": "",
+      "fi": "Muutoksia ei voitu tallentaa pilveen.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Det gick inte att spara ändringar i molnet.",
+      "fr": "Impossible d'enregistrer les modifications dans le cloud.",
+      "de": "Die Änderungen konnten nicht in der Cloud gespeichert werden.",
+      "pl": "Nie udało się zapisać zmian w chmurze."
     },
     {
       "ident_ios": "",
       "ident_android": "nfc_enable_bt_to_add_sensor",
       "ident_webui": "",
-      "en": "Enable Bluetooth and scan sensor again to add it",
-      "fi": "",
+      "en": "Enable Bluetooth and scan sensor to add it",
+      "fi": "Ota Bluetooth käyttöön ja lisää anturi skannaamalla",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Aktivera Bluetooth och skanningssensor för att lägga till den",
+      "fr": "Activez Bluetooth et scannez le capteur pour l'ajouter",
+      "de": "Aktivieren Sie Bluetooth und scannen Sie den Sensor, um ihn hinzuzufügen",
+      "pl": "Włącz Bluetooth i zeskanuj czujnik, aby go dodać"
     }
   ]
 }
