@@ -12003,6 +12003,42 @@
       "pl": "Nie udało się zapisać zmian w chmurze."
     },
     {
+      "ident_ios": "activity_ongoing_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Please wait...",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "activity_success_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Operation successful.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "activity_failed_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Operation failed.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "nfc_enable_bt_to_add_sensor",
       "ident_webui": "",
