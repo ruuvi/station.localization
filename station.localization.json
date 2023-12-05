@@ -12007,36 +12007,36 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Please wait...",
-      "fi": "",
+      "fi": "Odota...",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Vänta...",
+      "fr": "S'il vous plaît, attendez...",
+      "de": "Bitte warten...",
+      "pl": "Proszę czekać..."
     },
     {
       "ident_ios": "activity_success_generic",
       "ident_android": "",
       "ident_webui": "",
       "en": "Operation successful.",
-      "fi": "",
+      "fi": "Toiminto onnistui.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Operationen lyckades.",
+      "fr": "Opération réussie.",
+      "de": "Operation erfolgreich.",
+      "pl": "Operacja Udana."
     },
     {
       "ident_ios": "activity_failed_generic",
       "ident_android": "",
       "ident_webui": "",
       "en": "Operation failed.",
-      "fi": "",
+      "fi": "Toiminto epäonnistui.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Operationen misslyckades.",
+      "fr": "L'opération a échoué.",
+      "de": "Operation fehlgeschlagen.",
+      "pl": "Operacja nie powiodła się."
     },
     {
       "ident_ios": "",
