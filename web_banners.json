@@ -1,0 +1,16 @@
+[
+{
+        "plan": "",
+        "key": "20231205",
+        "en": "Version 0.10.1 is released! This version brings an ability to organise sensor cards among other smaller improvements. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
+        "fi": "Versio 0.10.1 on julkaistu! Voit nyt järjestellä anturikortteja koontinäytöllä muiden pienempien parannusten lisäksi. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.10.1 har släppts! Denna version ger möjlighet att organisera sensorerna på översiksvyn bland andra mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+    },
+        {
+        "plan": "Free",
+        "key": "20231205",
+        "en": "Your Ruuvi Cloud Free plan doesn't support history and email/push alerts. View plan comparison table on <a href=\"https://cloud.ruuvi.com\" style=\"text-decoration: underline;\" target=\"_blank\">cloud.ruuvi.com &#8663;</a>. See also frequently asked questions: <a href=\"https://cloud.ruuvi.com/#faq\" style=\"text-decoration: underline;\" target=\"_blank\">FAQ &#8663;</a>.",
+        "fi": "Ilmainen Ruuvi Cloud Free -palvelupakettisi ei tue pilvihistoriaa eikä email/push-hälytyksiä. Tutustu eri pilvipakettiivaihtoehtoihin osoitteessa <a href=\"https://cloud.ruuvi.com/fi\" style=\"text-decoration: underline;\" target=\"_blank\">cloud.ruuvi.com/fi &#8663;</a>. Katso myös useimmin kysytyt kysymykset: <a href=\"https://cloud.ruuvi.com/fi/#faq\" style=\"text-decoration: underline;\" target=\"_blank\">UKK &#8663;</a>.",
+        "sv": "Din Ruuvi Cloud Free-plan stödjer inte historik och e-post-/push-varningar. Se planjämförelsetabellen på <a href=\"https://cloud.ruuvi.com\" style=\"text-decoration: underline;\" target=\"_blank\">cloud.ruuvi.com &#8663;</a>. Se också vanliga frågor: <a href=\"https://cloud.ruuvi.com/#faq\" style=\"text-decoration: underline;\" target=\"_blank\">FAQ &#8663;</a>."
+    }
+]
