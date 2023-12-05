@@ -10808,7 +10808,7 @@
       "ident_webui": "",
       "en": "You are not signed in.\\n\\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
       "fi": "Et ole kirjautunut sisään.\\n\\nJos sinulla on tili ja olet jo lisännyt tilille Ruuvi-antureita, ne synkronoituvat automaattisesti Ruuvi Station -mobiilisovellukseen kirjautuessasi sisään.",
-      "ru": "",
+      "ru": "Вы не вошли в аккаунт.\\n\\nЕсли у вас уже есть аккаунт Ruuvi и добавлены датчики в него, то они будут автоматичеки синхронизированы с мобильным приложением после того как вы войдете в свой аккаунт.",
       "sv": "Du är inte inloggad.\\n\\nOm du har ett konto och redan har lagt till Ruuvi-sensorer till det, synkroniseras de automatiskt med Ruuvi Stations mobilapp när du loggar in.",
       "fr": "Vous n'êtes pas connecté.\\n\\nSi vous avez un compte et que vous y avez déjà ajouté des capteurs Ruuvi, ils se synchroniseront automatiquement avec l'application mobile Ruuvi Station lorsque vous vous connecterez.",
       "de": "Sie sind nicht angemeldet.\\n\\nWenn Sie ein Konto haben und diesem bereits Ruuvi-Sensoren hinzugefügt haben, werden diese automatisch mit der mobilen Ruuvi Station-App synchronisiert, wenn Sie sich anmelden.",
