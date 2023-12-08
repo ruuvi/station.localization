@@ -3686,7 +3686,7 @@
 	  "pl": "Względna (%)"
     },
     {
-      "ident_ios": "%",
+      "ident_ios": "humidity_relative_unit",
       "ident_android": "humidity_relative_unit",
       "ident_webui": "",
       "en": "%",
