@@ -12049,6 +12049,18 @@
       "fr": "Activez Bluetooth et scannez le capteur pour l'ajouter",
       "de": "Aktivieren Sie Bluetooth und scannen Sie den Sensor, um ihn hinzuzufügen",
       "pl": "Włącz Bluetooth i zeskanuj czujnik, aby go dodać"
+    },
+    {
+      "ident_ios": "Devices.tokenId",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Token Id",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
