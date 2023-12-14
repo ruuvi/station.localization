@@ -11931,7 +11931,7 @@
       "pl": "Jeśli zdecydujesz się usunąć ten czujnik, spowoduje to usunięcie lokalnie przechowywanej historii pomiarów wraz z usunięciem wszelkich powiązanych ustawień czujnika, takich jak nazwa, obraz tła, kalibracja i konfiguracje alertów.\\n\\nMożesz dodać ten czujnik później ponownie, jeśli zajdzie taka potrzeba."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ordering",
       "ident_android": "",
       "ident_webui": "ordering",
       "en": "Ordering",
@@ -11943,7 +11943,7 @@
       "pl": "Sortowanie"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "reset_order",
       "ident_android": "",
       "ident_webui": "reset_order",
       "en": "Reset to alphabetical sorting",
@@ -11955,7 +11955,7 @@
       "pl": "Zresetuj do sortowania alfabetycznego"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "reset_order_confirmation",
       "ident_android": "",
       "ident_webui": "reset_order_confirmation",
       "en": "Are you certain you wish to revert the sensor card ordering to alphabetical sorting?",
