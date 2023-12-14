@@ -11991,78 +11991,6 @@
       "pl": "Zapisano pomyślnie."
     },
     {
-      "ident_ios": "activity_saving_fail",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Couldn't save changes to cloud.",
-      "fi": "Muutoksia ei voitu tallentaa pilveen.",
-      "ru": "",
-      "sv": "Det gick inte att spara ändringar i molnet.",
-      "fr": "Impossible d'enregistrer les modifications dans le cloud.",
-      "de": "Die Änderungen konnten nicht in der Cloud gespeichert werden.",
-      "pl": "Nie udało się zapisać zmian w chmurze."
-    },
-    {
-      "ident_ios": "activity_ongoing_generic",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Please wait...",
-      "fi": "Odota...",
-      "ru": "",
-      "sv": "Vänta...",
-      "fr": "S'il vous plaît, attendez...",
-      "de": "Bitte warten...",
-      "pl": "Proszę czekać..."
-    },
-    {
-      "ident_ios": "activity_success_generic",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Operation successful.",
-      "fi": "Toiminto onnistui.",
-      "ru": "",
-      "sv": "Operationen lyckades.",
-      "fr": "Opération réussie.",
-      "de": "Operation erfolgreich.",
-      "pl": "Operacja Udana."
-    },
-    {
-      "ident_ios": "activity_failed_generic",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Operation failed.",
-      "fi": "Toiminto epäonnistui.",
-      "ru": "",
-      "sv": "Operationen misslyckades.",
-      "fr": "L'opération a échoué.",
-      "de": "Operation fehlgeschlagen.",
-      "pl": "Operacja nie powiodła się."
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "nfc_enable_bt_to_add_sensor",
-      "ident_webui": "",
-      "en": "Enable Bluetooth and scan sensor to add it",
-      "fi": "Ota Bluetooth käyttöön ja lisää anturi skannaamalla",
-      "ru": "Включите Bluetooth и отсканируйте датчик чтобы добавить его",
-      "sv": "Aktivera Bluetooth och skanningssensor för att lägga till den",
-      "fr": "Activez Bluetooth et scannez le capteur pour l'ajouter",
-      "de": "Aktivieren Sie Bluetooth und scannen Sie den Sensor, um ihn hinzuzufügen",
-      "pl": "Włącz Bluetooth i zeskanuj czujnik, aby go dodać"
-    },
-    {
-      "ident_ios": "Devices.tokenId",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Token Id",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
       "ident_ios": "UserApiError.ER_GATEWAY_NOT_FOUND",
       "ident_android": "",
       "ident_webui": "",
@@ -12213,10 +12141,58 @@
       "en": "Operation was successful",
       "fi": "",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Det gick inte att spara ändringar i molnet.",
+      "fr": "Impossible d'enregistrer les modifications dans le cloud.",
+      "de": "Die Änderungen konnten nicht in der Cloud gespeichert werden.",
+      "pl": "Nie udało się zapisać zmian w chmurze."
+    },
+    {
+      "ident_ios": "activity_ongoing_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Please wait...",
+      "fi": "Odota...",
+      "ru": "",
+      "sv": "Vänta...",
+      "fr": "S'il vous plaît, attendez...",
+      "de": "Bitte warten...",
+      "pl": "Proszę czekać..."
+    },
+    {
+      "ident_ios": "activity_success_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Operation successful.",
+      "fi": "Toiminto onnistui.",
+      "ru": "",
+      "sv": "Operationen lyckades.",
+      "fr": "Opération réussie.",
+      "de": "Operation erfolgreich.",
+      "pl": "Operacja Udana."
+    },
+    {
+      "ident_ios": "activity_failed_generic",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Operation failed.",
+      "fi": "Toiminto epäonnistui.",
+      "ru": "",
+      "sv": "Operationen misslyckades.",
+      "fr": "L'opération a échoué.",
+      "de": "Operation fehlgeschlagen.",
+      "pl": "Operacja nie powiodła się."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "nfc_enable_bt_to_add_sensor",
+      "ident_webui": "",
+      "en": "Enable Bluetooth and scan sensor to add it",
+      "fi": "Ota Bluetooth käyttöön ja lisää anturi skannaamalla",
+      "ru": "",
+      "sv": "Aktivera Bluetooth och skanningssensor för att lägga till den",
+      "fr": "Activez Bluetooth et scannez le capteur pour l'ajouter",
+      "de": "Aktivieren Sie Bluetooth und scannen Sie den Sensor, um ihn hinzuzufügen",
+      "pl": "Włącz Bluetooth i zeskanuj czujnik, aby go dodać"
     }
   ]
 }
