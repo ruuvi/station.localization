@@ -3686,7 +3686,7 @@
 	  "pl": "Względna (%)"
     },
     {
-      "ident_ios": "%",
+      "ident_ios": "",
       "ident_android": "humidity_relative_unit",
       "ident_webui": "",
       "en": "%",
@@ -10804,11 +10804,11 @@
     },
     {
       "ident_ios": "dashboard_no_sensors_message_signed_out",
-      "ident_android": "",
+      "ident_android": "dashboard_no_sensors_message_signed_out",
       "ident_webui": "",
       "en": "You are not signed in.\\n\\nIf you have an account and have already added Ruuvi sensors to it, they will automatically synchronise with Ruuvi Station mobile app when you sign in.",
       "fi": "Et ole kirjautunut sisään.\\n\\nJos sinulla on tili ja olet jo lisännyt tilille Ruuvi-antureita, ne synkronoituvat automaattisesti Ruuvi Station -mobiilisovellukseen kirjautuessasi sisään.",
-      "ru": "",
+      "ru": "Вы не вошли в аккаунт.\\n\\nЕсли у вас уже есть аккаунт Ruuvi и добавлены датчики в него, то они будут автоматичеки синхронизированы с мобильным приложением после того как вы войдете в свой аккаунт.",
       "sv": "Du är inte inloggad.\\n\\nOm du har ett konto och redan har lagt till Ruuvi-sensorer till det, synkroniseras de automatiskt med Ruuvi Stations mobilapp när du loggar in.",
       "fr": "Vous n'êtes pas connecté.\\n\\nSi vous avez un compte et que vous y avez déjà ajouté des capteurs Ruuvi, ils se synchroniseront automatiquement avec l'application mobile Ruuvi Station lorsque vous vous connecterez.",
       "de": "Sie sind nicht angemeldet.\\n\\nWenn Sie ein Konto haben und diesem bereits Ruuvi-Sensoren hinzugefügt haben, werden diese automatisch mit der mobilen Ruuvi Station-App synchronisiert, wenn Sie sich anmelden.",
@@ -11931,7 +11931,7 @@
       "pl": "Jeśli zdecydujesz się usunąć ten czujnik, spowoduje to usunięcie lokalnie przechowywanej historii pomiarów wraz z usunięciem wszelkich powiązanych ustawień czujnika, takich jak nazwa, obraz tła, kalibracja i konfiguracje alertów.\\n\\nMożesz dodać ten czujnik później ponownie, jeśli zajdzie taka potrzeba."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "ordering",
       "ident_android": "",
       "ident_webui": "ordering",
       "en": "Ordering",
@@ -11943,7 +11943,7 @@
       "pl": "Sortowanie"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "reset_order",
       "ident_android": "",
       "ident_webui": "reset_order",
       "en": "Reset to alphabetical sorting",
@@ -11955,7 +11955,7 @@
       "pl": "Zresetuj do sortowania alfabetycznego"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "reset_order_confirmation",
       "ident_android": "",
       "ident_webui": "reset_order_confirmation",
       "en": "Are you certain you wish to revert the sensor card ordering to alphabetical sorting?",
@@ -11996,6 +11996,162 @@
       "ident_webui": "",
       "en": "Couldn't save changes to cloud.",
       "fi": "Muutoksia ei voitu tallentaa pilveen.",
+      "ru": "",
+      "sv": "Det gick inte att spara ändringar i molnet.",
+      "fr": "Impossible d'enregistrer les modifications dans le cloud.",
+      "de": "Die Änderungen konnten nicht in der Cloud gespeichert werden.",
+      "pl": "Nie udało się zapisać zmian w chmurze."
+    },
+    {
+      "ident_ios": "UserApiError.ER_GATEWAY_NOT_FOUND",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Gateway not found",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_GATEWAY_ALREADY_WHITELISTED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Gateway already whitelisted",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_GATEWAY_STATUS_REPORT_FAILED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Gateway status report failed",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_CONFLICT",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Data already exists, cannot update",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_CLAIM_COUNT_REACHED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Maximum claim count for the user reached",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Maximum share count for the sensor reached",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "In order to share a sensor, it must have data",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SENSOR_ALREADY_REGISTERED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "The sensor has already been registered",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUBSCRIPTION_CODE_EXISTS",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Tried to add duplicate subscription to a code",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUBSCRIPTION_CODE_USED",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Tried to claim already used code",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_OLD_ENTRY",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Newer data already exists, cannot update",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.ER_INVALID_ENUM_VALUE",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Invalid ENUM value given",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "UserApiError.OK",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Operation was successful",
+      "fi": "",
       "ru": "",
       "sv": "Det gick inte att spara ändringar i molnet.",
       "fr": "Impossible d'enregistrer les modifications dans le cloud.",
@@ -12049,6 +12205,18 @@
       "fr": "Activez Bluetooth et scannez le capteur pour l'ajouter",
       "de": "Aktivieren Sie Bluetooth und scannen Sie den Sensor, um ihn hinzuzufügen",
       "pl": "Włącz Bluetooth i zeskanuj czujnik, aby go dodać"
+    },
+    {
+      "ident_ios": "Devices.tokenId",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Token Id",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
