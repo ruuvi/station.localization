@@ -12217,6 +12217,30 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "DiscoverTable.UpdateFirmware.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Update firmware",
+      "fi": "Päivitä laiteohjelmisto",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "DiscoverTable.UpdateFirmware.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "This firmware version is no longer supported. Update your Ruuvi sensor firmware now to be able to add this sensor to Ruuvi Station.",
+      "fi": "Tämä laiteohjelmistoversio ei ole enää tuettu. Päivitä Ruuvi-anturin laiteohjelmisto ensin, jotta voit lisätä anturin Ruuvi Station -sovellukseen.",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
