@@ -12007,156 +12007,156 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Gateway not found",
-      "fi": "",
+      "fi": "Gatewayta ei löytynyt",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Gateway hittades inte",
+      "fr": "Gateway introuvable",
+      "de": "Gateway nicht gefunden",
+      "pl": "Nie znaleziono Gateway"
     },
     {
       "ident_ios": "UserApiError.ER_GATEWAY_ALREADY_WHITELISTED",
       "ident_android": "",
       "ident_webui": "",
       "en": "Gateway already whitelisted",
-      "fi": "",
+      "fi": "Gateway on jo sallittujen luettelossa",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Gateway redan vitlistad",
+      "fr": "Gateway déjà sur liste blanche",
+      "de": "Gateway bereits auf der Whitelist",
+      "pl": "Gateway jest już na białej liście"
     },
     {
       "ident_ios": "UserApiError.ER_GATEWAY_STATUS_REPORT_FAILED",
       "ident_android": "",
       "ident_webui": "",
       "en": "Gateway status report failed",
-      "fi": "",
+      "fi": "Gatewayn tilan raportointi epäonnistui",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Gatewaystatusrapport misslyckades",
+      "fr": "Échec du rapport d'état de la Gateway",
+      "de": "Der Gateway-Statusbericht ist fehlgeschlagen",
+      "pl": "Raport o stanie Gateway nie powiódł się"
     },
     {
       "ident_ios": "UserApiError.ER_CONFLICT",
       "ident_android": "",
       "ident_webui": "",
       "en": "Data already exists, cannot update",
-      "fi": "",
+      "fi": "Tiedot on jo olemassa, päivitystä ei voida tehdä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Data finns redan, kan inte uppdateras",
+      "fr": "Les données existent déjà, impossible de les mettre à jour",
+      "de": "Die Daten sind bereits vorhanden und können nicht aktualisiert werden",
+      "pl": "Dane już istnieją, nie można ich zaktualizować"
     },
     {
       "ident_ios": "UserApiError.ER_CLAIM_COUNT_REACHED",
       "ident_android": "",
       "ident_webui": "",
       "en": "Maximum claim count for the user reached",
-      "fi": "",
+      "fi": "Käyttäjätilille merkittyjen omistajuuksien maksimimäärä ylittynyt",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Det maximala antalet äganderätter som registrerats på användarkontot har överskridits",
+      "fr": "Le nombre maximum de propriétés enregistrées sur le compte utilisateur a été dépassé",
+      "de": "Die maximale Anzahl der für das Benutzerkonto registrierten Besitztümer wurde überschritten",
+      "pl": "Przekroczono maksymalną liczbę właścicieli zarejestrowanych na koncie użytkownika"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_SHARE_COUNT_REACHED",
       "ident_android": "",
       "ident_webui": "",
       "en": "Maximum share count for the sensor reached",
-      "fi": "",
+      "fi": "Anturin jaon maksimimäärä ylitetty",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Den maximala mängden sensordelning har överskridits",
+      "fr": "La quantité maximale de partage de capteur dépassée",
+      "de": "Die maximale Anzahl der Sensorfreigaben wurde überschritten",
+      "pl": "Przekroczono maksymalną ilość udostępniania czujnika"
     },
     {
       "ident_ios": "UserApiError.ER_NO_DATA_TO_SHARE",
       "ident_android": "",
       "ident_webui": "",
       "en": "In order to share a sensor, it must have data",
-      "fi": "",
+      "fi": "Anturilla on oltava kerättyjä mittauksia ennen kuin se voidaan jakaa",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "En sensor måste ha samlat in mätningar innan den kan distribueras",
+      "fr": "Un capteur doit avoir collecté des mesures avant de pouvoir être diffusé",
+      "de": "Ein Sensor muss Messwerte erfasst haben, bevor er verteilt werden kann",
+      "pl": "Czujnik musi zebrać pomiary, zanim będzie mógł je rozprowadzić"
     },
     {
       "ident_ios": "UserApiError.ER_SENSOR_ALREADY_REGISTERED",
       "ident_android": "",
       "ident_webui": "",
       "en": "The sensor has already been registered",
-      "fi": "",
+      "fi": "Anturin omistajuus on jo merkitty toiselle tilille",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Äganderätten till sensorn är redan registrerad på ett annat konto",
+      "fr": "La propriété du capteur est déjà enregistrée sur un autre compte",
+      "de": "Der Besitz des Sensors ist bereits für ein anderes Konto registriert",
+      "pl": "Własność czujnika jest już zarejestrowana na innym koncie"
     },
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_CODE_EXISTS",
       "ident_android": "",
       "ident_webui": "",
       "en": "Tried to add duplicate subscription to a code",
-      "fi": "",
+      "fi": "Tämä koodi on jo aktivoitu",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Denna kod har redan aktiverats",
+      "fr": "Ce code a déjà été activé",
+      "de": "Dieser Code wurde bereits aktiviert",
+      "pl": "Ten kod został już aktywowany"
     },
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_CODE_USED",
       "ident_android": "",
       "ident_webui": "",
       "en": "Tried to claim already used code",
-      "fi": "",
+      "fi": "Tämä koodi on jo käytetty",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Denna kod har redan aktiverats",
+      "fr": "Ce code a déjà été activé",
+      "de": "Dieser Code wurde bereits aktiviert",
+      "pl": "Ten kod został już aktywowany"
     },
     {
       "ident_ios": "UserApiError.ER_OLD_ENTRY",
       "ident_android": "",
       "ident_webui": "",
       "en": "Newer data already exists, cannot update",
-      "fi": "",
+      "fi": "Uudempia tietoja on jo olemassa, päivitystä ei voida tehdä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Nyare data finns redan, kan inte uppdateras",
+      "fr": "Des données plus récentes existent déjà, ne peuvent pas être mises à jour",
+      "de": "Neuere Daten sind bereits vorhanden, können nicht aktualisiert werden",
+      "pl": "Nowsze dane już istnieją i nie można ich zaktualizować"
     },
     {
       "ident_ios": "UserApiError.ER_INVALID_ENUM_VALUE",
       "ident_android": "",
       "ident_webui": "",
       "en": "Invalid ENUM value given",
-      "fi": "",
+      "fi": "Annettu ENUM on väärin",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Det angivna ENUM är felaktigt",
+      "fr": "La valeur ENUM donnée est incorrecte",
+      "de": "Der angegebene ENUM-Wert ist falsch",
+      "pl": "Podana wartość ENUM jest niepoprawna"
     },
     {
       "ident_ios": "UserApiError.OK",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Operation was successful",
-      "fi": "",
+      "en": "Saved",
+      "fi": "Tallennettu",
       "ru": "",
-      "sv": "Det gick inte att spara ändringar i molnet.",
-      "fr": "Impossible d'enregistrer les modifications dans le cloud.",
-      "de": "Die Änderungen konnten nicht in der Cloud gespeichert werden.",
-      "pl": "Nie udało się zapisać zmian w chmurze."
+      "sv": "Sparad",
+      "fr": "Enregistré",
+      "de": "Gerettet",
+      "pl": "Zapisano"
     },
     {
       "ident_ios": "activity_ongoing_generic",
@@ -12211,12 +12211,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Token Id",
-      "fi": "",
+      "fi": "Token Id",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Token Id",
+      "fr": "Token Id",
+      "de": "Token Id",
+      "pl": "Token Id"
     },
     {
       "ident_ios": "DiscoverTable.UpdateFirmware.title",
@@ -12225,10 +12225,10 @@
       "en": "Update firmware",
       "fi": "Päivitä laiteohjelmisto",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Uppdatera firmware",
+      "fr": "Mise à jour du firmware",
+      "de": "Firmware aktualisieren",
+      "pl": "Aktualizacja oprogramowania"
     },
     {
       "ident_ios": "DiscoverTable.UpdateFirmware.message",
@@ -12237,22 +12237,22 @@
       "en": "This firmware version is no longer supported. Update your Ruuvi sensor firmware now to be able to add this sensor to Ruuvi Station.",
       "fi": "Tämä laiteohjelmistoversio ei ole enää tuettu. Päivitä Ruuvi-anturin laiteohjelmisto ensin, jotta voit lisätä anturin Ruuvi Station -sovellukseen.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Denna firmwareversion stöds inte längre. Uppdatera din Ruuvi sensor firmware nu för att kunna lägga till denna sensor till Ruuvi Station.",
+      "fr": "Cette version du firmware n'est plus prise en charge. Mettez à jour le micrologiciel de votre capteur Ruuvi maintenant pour pouvoir ajouter ce capteur à la station Ruuvi.",
+      "de": "Diese Firmware-Version wird nicht mehr unterstützt. Aktualisieren Sie jetzt die Firmware Ihres Ruuvi-Sensors, um diesen Sensor zur Ruuvi Station hinzufügen zu können.",
+      "pl": "Ta wersja oprogramowania sprzętowego nie jest już obsługiwana. Zaktualizuj teraz oprogramowanie czujnika Ruuvi, aby móc dodać ten czujnik do Ruuvi Station."
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "account_delete_description",
-      "en": "",
-      "fi": "",
+      "en": "All account settings, sensor-related data, sensor shares, and sensor ownerships associated with this account will be permanently deleted. A confirmation email will be sent to your registered email address.",
+      "fi": "Kaikki tähän tiliin liittyvät asetukset, antureihin liittyvät tiedot, anturien jaot ja anturin omistajuudet poistetaan pysyvästi. Vahvistusviesti lähetetään sähköpostitse.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Alla kontoinställningar, sensorrelaterade data, sensorandelar och sensorägande som är kopplade till detta konto kommer att raderas permanent. Ett bekräftelsemail kommer att skickas till din registrerade e-postadress.",
+      "fr": "Tous les paramètres de compte, données liées aux capteurs, partages de capteurs et propriétés de capteurs associés à ce compte seront définitivement supprimés. Un e-mail de confirmation sera envoyé à votre adresse e-mail enregistrée.",
+      "de": "Alle mit diesem Konto verknüpften Kontoeinstellungen, sensorbezogenen Daten, Sensorfreigaben und Sensorbesitzverhältnisse werden dauerhaft gelöscht. Eine Bestätigungs-E-Mail wird an Ihre registrierte E-Mail-Adresse gesendet.",
+      "pl": "Wszystkie ustawienia konta, dane związane z czujnikiem, udziały w czujnikach i własność czujników powiązane z tym kontem zostaną trwale usunięte. Na zarejestrowany adres e-mail zostanie wysłana wiadomość e-mail z potwierdzeniem."
     }
   ]
 }
