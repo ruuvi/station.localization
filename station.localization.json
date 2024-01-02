@@ -8091,7 +8091,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_offline_message",
       "ident_android": "alert_notification_offline_message",
       "ident_webui": "",
       "en": "Sensor has been offline over {%@^%1$s} minutes",
