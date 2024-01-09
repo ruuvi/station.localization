@@ -11323,7 +11323,7 @@
       "ident_android": "",
       "ident_webui": "no_data_free_mode",
       "en": "No history data. This sensor is in Free mode.",
-      "fi": "Ei historiatietoja. Tämä anturi on Free tilassa.",
+      "fi": "Ei historiatietoja. Tämä anturi on Free-tilassa.",
       "ru": "",
       "sv": "Ingen data. Denna sensor är i Free läge.",
       "fr": "Aucune donnée. Ce capteur est en mode Free.",
