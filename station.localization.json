@@ -10816,11 +10816,11 @@
     },
     {
       "ident_ios": "add_a_sensor",
-      "ident_android": "",
+      "ident_android": "add_a_sensor",
       "ident_webui": "",
       "en": "Add a Sensor",
       "fi": "Lisää anturi",
-      "ru": "",
+      "ru": "Добавить датчик",
       "sv": "Lägg till en sensor",
       "fr": "Ajouter un capteur",
       "de": "Fügen Sie einen Sensor hinzu",
