@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240110",
-        "en": "Version 0.10.2 is released! This version includes bug fixes and minor improvements. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
-        "fi": "Versio 0.10.2 on julkaistu! Tämä versio sisältää bugikorjauksia ja pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.10.2 har släppts! Den här versionen innehåller buggfixar och mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240117",
+        "en": "Version 0.10.3 is released! This version includes a reworked data caching and minor bugfixes. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
+        "fi": "Versio 0.10.3 on julkaistu! Tämä versio sisältää parannetun välimuistin ja pienempiä bugikorjauksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.10.3 har släppts! Denna version innehåller en omarbetad datacachning och mindre buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
