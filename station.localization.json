@@ -9459,18 +9459,6 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "movement_alert_description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Movement alert can be triggered for example when a door is opened or when sensor senses vibration from its surroundings.",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
       "ident_ios": "bluetooth_download",
       "ident_android": "bluetooth_download",
       "ident_webui": "",
