@@ -2776,13 +2776,13 @@
       "ident_ios": "TagSettings.Alerts.Movement.description",
       "ident_android": "alert_movement_description",
       "ident_webui": "alert_movement_description",
-      "en": "Movement alert can be triggered for example when a door is opened or when sensor detects vibration in its vicinity.",
-      "fi": "Liikehälytyksen voi laukaista esimerkiksi oven avauksesta tai kun anturi havaitsee tärinää sen läheisyydessä.",
-      "ru": "Оповещение о движении может срабатывать, например, при открытии двери или когда датчик обнаруживает вибрацию поблизости.",
-      "sv": "Rörelselarmet kan utlösas till exempel genom att en dörr öppnas eller när sensorn känner av vibrationer i sin närhet.",
-      "fr": "L'alerte de mouvement peut être déclenchée par exemple lorsqu'une porte est ouverte ou lorsque le capteur détecte une vibration à proximité.",
-      "de": "Ein Bewegungsalarm kann beispielsweise ausgelöst werden, wenn eine Tür geöffnet wird oder wenn ein Sensor Vibrationen in der Nähe erkennt.",
-	  "pl": "Alarm ruchu może zostać wywołany na przykład w przypadku otwarcia drzwi lub gdy czujnik wykryje wibracje w swoim pobliżu."
+      "en": "Movement alert is triggered if the value of the sensor's internal motion counter changes. This alert can be used, for example, to detect door movement or vibration in the vicinity of the sensor.",
+      "fi": "Liikehälytys laukeaa, jos anturin sisäisen liikelaskurin arvo muuttuu. Tätä hälytystä voi käyttää esimerkiksi havaitsemaan oven liikkeen tai tärinän anturin läheisyydessä.",
+      "ru": "Тревога движения срабатывает, если изменяется значение внутреннего счетчика движения датчика. Эту сигнализацию можно использовать, например, для обнаружения движения двери или вибрации вблизи датчика.",
+      "sv": "Ett rörelselarm utlöses om värdet på sensorns interna rörelseräknare ändras. Detta larm kan till exempel användas för att detektera dörrrörelser eller vibrationer i närheten av sensorn.",
+      "fr": "Une alarme de mouvement se déclenche si la valeur du compteur de mouvement interne du capteur change. Cette alarme peut être utilisée, par exemple, pour détecter un mouvement ou une vibration de porte à proximité du capteur.",
+      "de": "Ändert sich der Wert des sensorinternen Bewegungszählers, wird ein Bewegungsalarm ausgelöst. Mit diesem Alarm können beispielsweise Türbewegungen oder Vibrationen in der Nähe des Sensors erkannt werden.",
+	  "pl": "Alarm ruchu jest wyzwalany w przypadku zmiany wartości wewnętrznego licznika ruchu czujnika. Alarm ten można wykorzystać na przykład do wykrycia ruchu drzwi lub wibracji w pobliżu czujnika."
     },
     {
       "ident_ios": "LocalNotificationsManager.HighHumidity.title",
