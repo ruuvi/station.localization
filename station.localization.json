@@ -2776,13 +2776,13 @@
       "ident_ios": "TagSettings.Alerts.Movement.description",
       "ident_android": "alert_movement_description",
       "ident_webui": "alert_movement_description",
-      "en": "Alert when sensor is moved",
-      "fi": "Hälytä, mikäli liike havaittu",
-      "ru": "Уведомить при движении",
-      "sv": "Alarmera om rörelse upptäcks",
-      "fr": "Notifier quand le capteur est déplacé",
-      "de": "Warnung, wenn der Sensor bewegt wird",
-	  "pl": "Ostrzeżenie, gdy czujnik jest przesuwany"
+      "en": "Movement alert can be triggered for example when a door is opened or when sensor detects vibration in its vicinity.",
+      "fi": "Liikehälytyksen voi laukaista esimerkiksi oven avauksesta tai kun anturi havaitsee tärinää sen läheisyydessä.",
+      "ru": "Оповещение о движении может срабатывать, например, при открытии двери или когда датчик обнаруживает вибрацию поблизости.",
+      "sv": "Rörelselarmet kan utlösas till exempel genom att en dörr öppnas eller när sensorn känner av vibrationer i sin närhet.",
+      "fr": "L'alerte de mouvement peut être déclenchée par exemple lorsqu'une porte est ouverte ou lorsque le capteur détecte une vibration à proximité.",
+      "de": "Ein Bewegungsalarm kann beispielsweise ausgelöst werden, wenn eine Tür geöffnet wird oder wenn ein Sensor Vibrationen in der Nähe erkennt.",
+	  "pl": "Alarm ruchu może zostać wywołany na przykład w przypadku otwarcia drzwi lub gdy czujnik wykryje wibracje w swoim pobliżu."
     },
     {
       "ident_ios": "LocalNotificationsManager.HighHumidity.title",
