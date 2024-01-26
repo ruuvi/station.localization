@@ -2776,13 +2776,13 @@
       "ident_ios": "TagSettings.Alerts.Movement.description",
       "ident_android": "alert_movement_description",
       "ident_webui": "alert_movement_description",
-      "en": "Alert when sensor is moved",
-      "fi": "Hälytä, mikäli liike havaittu",
-      "ru": "Уведомить при движении",
-      "sv": "Alarmera om rörelse upptäcks",
-      "fr": "Notifier quand le capteur est déplacé",
-      "de": "Warnung, wenn der Sensor bewegt wird",
-	  "pl": "Ostrzeżenie, gdy czujnik jest przesuwany"
+      "en": "Movement alert is triggered if the value of the sensor's internal motion counter changes. This alert can be used, for example, to detect door movement or vibration in the vicinity of the sensor.",
+      "fi": "Liikehälytys laukeaa, jos anturin sisäisen liikelaskurin arvo muuttuu. Tätä hälytystä voi käyttää esimerkiksi havaitsemaan oven liikkeen tai tärinän anturin läheisyydessä.",
+      "ru": "Тревога движения срабатывает, если изменяется значение внутреннего счетчика движения датчика. Эту сигнализацию можно использовать, например, для обнаружения движения двери или вибрации вблизи датчика.",
+      "sv": "Ett rörelselarm utlöses om värdet på sensorns interna rörelseräknare ändras. Detta larm kan till exempel användas för att detektera dörrrörelser eller vibrationer i närheten av sensorn.",
+      "fr": "Une alarme de mouvement se déclenche si la valeur du compteur de mouvement interne du capteur change. Cette alarme peut être utilisée, par exemple, pour détecter un mouvement ou une vibration de porte à proximité du capteur.",
+      "de": "Ändert sich der Wert des sensorinternen Bewegungszählers, wird ein Bewegungsalarm ausgelöst. Mit diesem Alarm können beispielsweise Türbewegungen oder Vibrationen in der Nähe des Sensors erkannt werden.",
+	  "pl": "Alarm ruchu jest wyzwalany w przypadku zmiany wartości wewnętrznego licznika ruchu czujnika. Alarm ten można wykorzystać na przykład do wykrycia ruchu drzwi lub wibracji w pobliżu czujnika."
     },
     {
       "ident_ios": "LocalNotificationsManager.HighHumidity.title",
