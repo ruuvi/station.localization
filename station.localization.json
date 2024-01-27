@@ -11944,7 +11944,7 @@
     },
     {
       "ident_ios": "reset_order",
-      "ident_android": "",
+      "ident_android": "reset_order",
       "ident_webui": "reset_order",
       "en": "Reset to alphabetical sorting",
       "fi": "Palauta aakkosjärjestys",
@@ -11956,7 +11956,7 @@
     },
     {
       "ident_ios": "reset_order_confirmation",
-      "ident_android": "",
+      "ident_android": "reset_order_confirmation",
       "ident_webui": "reset_order_confirmation",
       "en": "Are you certain you wish to revert the sensor card ordering to alphabetical sorting?",
       "fi": "Oletko varma, että haluat palauttaa anturikortin järjestyksen aakkosjärjestykseen?",
