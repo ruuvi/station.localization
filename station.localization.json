@@ -11932,7 +11932,7 @@
     },
     {
       "ident_ios": "ordering",
-      "ident_android": "",
+      "ident_android": "ordering",
       "ident_webui": "ordering",
       "en": "Ordering",
       "fi": "Järjestäminen",
