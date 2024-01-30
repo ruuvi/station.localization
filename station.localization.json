@@ -1720,12 +1720,12 @@
       "ident_ios": "TagSettings.HumidityIsClipped.Alert.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Humidity value is greater than 100% after calibration. This value doesn't make sense, so the value has been adjusted to 100%.",
-      "fi": "Kalibroinnin jälkeinen kosteusarvo on suurempi kuin 100%. Tämä ei käy järkeen, joten maksimiarvona näytetään 100%.",
-      "ru": "Значение относительной влажности больше 100% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%.",
-      "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%. Detta är inte rimligt, så det maximala värdet visas som 100%.",
-      "fr": "L'humidité est supérieure à 100 % après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100 %.",
-      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100 %. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100 % angepasst.",
+      "en": "Humidity value is greater than 100%% after calibration. This value doesn't make sense, so the value has been adjusted to 100%%.",
+      "fi": "Kalibroinnin jälkeinen kosteusarvo on suurempi kuin 100%%. Tämä ei käy järkeen, joten maksimiarvona näytetään 100%%.",
+      "ru": "Значение относительной влажности больше 100%% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%%.",
+      "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%%. Detta är inte rimligt, så det maximala värdet visas som 100%%.",
+      "fr": "L'humidité est supérieure à 100 %% après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100 %%.",
+      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100 %%. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100 %% angepasst.",
 	  "pl": ""
     },
     {
@@ -3674,7 +3674,7 @@
 	  "pl": "%1$,.2f %2$s"
     },
     {
-      "ident_ios": "HumidityUnit.Percent.title",
+      "ident_ios": "",
       "ident_android": "humidity_relative_name",
       "ident_webui": "humidity_relative_name",
       "en": "Relative (%)",
@@ -12253,6 +12253,18 @@
       "fr": "Tous les paramètres de compte, données liées aux capteurs, partages de capteurs et propriétés de capteurs associés à ce compte seront définitivement supprimés. Un e-mail de confirmation sera envoyé à votre adresse e-mail enregistrée.",
       "de": "Alle mit diesem Konto verknüpften Kontoeinstellungen, sensorbezogenen Daten, Sensorfreigaben und Sensorbesitzverhältnisse werden dauerhaft gelöscht. Eine Bestätigungs-E-Mail wird an Ihre registrierte E-Mail-Adresse gesendet.",
       "pl": "Wszystkie ustawienia konta, dane związane z czujnikiem, udziały w czujnikach i własność czujników powiązane z tym kontem zostaną trwale usunięte. Na zarejestrowany adres e-mail zostanie wysłana wiadomość e-mail z potwierdzeniem."
+    },
+    {
+      "ident_ios": "HumidityUnit.Percent.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Relative (%%)",
+      "fi": "Suhteellinen (%%)",
+      "ru": "Относительная влажность (%%)",
+      "sv": "Relativ (%%)",
+      "fr": "Relative (%%)",
+      "de": "Relative (%%)",
+      "pl": "Względna (%%)"
     }
   ]
 }
