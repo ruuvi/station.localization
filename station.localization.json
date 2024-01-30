@@ -1924,12 +1924,12 @@
       "ident_ios": "TagSettings.SectionHeader.BTConnection.title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Bluetooth connection",
+      "en": "Bluetooth Connection",
       "fi": "Bluetooth-yhteys",
       "ru": "Bluetooth cоедине́ние",
       "sv": "Bluetooth anslutning",
-      "fr": "Bluetooth connexion",
-      "de": "Bluetooth verbindung",
+      "fr": "Bluetooth Connexion",
+      "de": "Bluetooth Verbindung",
 	  "pl": ""
     },
     {
