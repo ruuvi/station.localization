@@ -5523,6 +5523,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "Defaults.BackgroundScanning.foreground.interval",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Data logging foreground interval",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "SignIn.Title.text",
       "ident_android": "sign_in",
       "ident_webui": "",
