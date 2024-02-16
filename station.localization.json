@@ -11982,13 +11982,13 @@
       "ident_ios": "activity_saving_to_cloud",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Saving to cloud...please wait.",
-      "fi": "Tallennetaan pilveen...odota hetki.",
+      "en": "Saving to cloud... Please wait.",
+      "fi": "Tallennetaan pilveen... Odota.",
       "ru": "",
-      "sv": "Sparar till molnet... vänligen vänta.",
-      "fr": "Enregistrement dans le cloud... veuillez patienter.",
-      "de": "Speichern in der Cloud...bitte warten.",
-      "pl": "Zapisuję w chmurze... proszę czekać."
+      "sv": "Sparar till molnet... Vänligen vänta.",
+      "fr": "Enregistrement dans le cloud... Veuillez patienter.",
+      "de": "Speichern in der Cloud... Bitte warten.",
+      "pl": "Zapisuję w chmurze... Proszę czekać."
     },
     {
       "ident_ios": "activity_saving_success",
