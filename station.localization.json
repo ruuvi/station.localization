@@ -10888,7 +10888,7 @@
     },
     {
       "ident_ios": "chart_stat_min",
-      "ident_android": "",
+      "ident_android": "chart_stat_min",
       "ident_webui": "graph_stat_min",
       "en": "Min",
       "fi": "Min",
@@ -10900,7 +10900,7 @@
     },
     {
       "ident_ios": "chart_stat_max",
-      "ident_android": "",
+      "ident_android": "chart_stat_max",
       "ident_webui": "graph_stat_max",
       "en": "Max",
       "fi": "Max",
@@ -10912,7 +10912,7 @@
     },
     {
       "ident_ios": "chart_stat_avg",
-      "ident_android": "",
+      "ident_android": "chart_stat_avg",
       "ident_webui": "graph_stat_avg",
       "en": "Average",
       "fi": "Keskiarvo",
@@ -12277,6 +12277,54 @@
       "fr": "Relative (%%)",
       "de": "Relative (%%)",
       "pl": "Względna (%%)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "ruuvi_measurements_report",
+      "en": "Ruuvi Measurements Report",
+      "fi": "Ruuvi Mittausraportti",
+      "ru": "",
+      "sv": "Ruuvi Mätning Rapport",
+      "fr": "Rapport de mesures Ruuvi",
+      "de": "Ruuvi Messbericht",
+      "pl": "Raport pomiarów Ruuvi"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "dates",
+      "en": "Dates",
+      "fi": "Päivämäärät",
+      "ru": "",
+      "sv": "Datum",
+      "fr": "Dates",
+      "de": "Termine",
+      "pl": "Daty"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "limits_hit",
+      "en": "Limits hit",
+      "fi": "Rajat saavutettu",
+      "ru": "",
+      "sv": "Gränser nådda",
+      "fr": "Limites atteintes",
+      "de": "Grenzen erreicht",
+      "pl": "Osiągnięto limity"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "no_limits_hit",
+      "en": "No limits hit",
+      "fi": "Ei rajoja saavutettu",
+      "ru": "",
+      "sv": "Inga gränser nådda",
+      "fr": "Aucune limite atteinte",
+      "de": "Keine Grenzen erreicht",
+      "pl": "Brak osiągniętych limitów"
     }
   ]
 }
