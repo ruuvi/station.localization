@@ -10888,7 +10888,7 @@
     },
     {
       "ident_ios": "chart_stat_min",
-      "ident_android": "",
+      "ident_android": "chart_stat_min",
       "ident_webui": "graph_stat_min",
       "en": "Min",
       "fi": "Min",
@@ -10900,7 +10900,7 @@
     },
     {
       "ident_ios": "chart_stat_max",
-      "ident_android": "",
+      "ident_android": "chart_stat_max",
       "ident_webui": "graph_stat_max",
       "en": "Max",
       "fi": "Max",
@@ -10912,7 +10912,7 @@
     },
     {
       "ident_ios": "chart_stat_avg",
-      "ident_android": "",
+      "ident_android": "chart_stat_avg",
       "ident_webui": "graph_stat_avg",
       "en": "Average",
       "fi": "Keskiarvo",
