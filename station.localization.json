@@ -8187,7 +8187,7 @@
 	  "pl": "Wyłącz Bluetooth"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.Label.CloudMode.description",
       "ident_android": "cloud_only_mode_description",
       "ident_webui": "",
       "en": "When the Disable Bluetooth option is activated, the app will disregard any measurements sent by Ruuvi sensors via Bluetooth when sensors are nearby a Ruuvi Gateway router. Instead, the app will exclusively receive the sensor measurement data from Ruuvi Cloud. For measurement data to be transmitted to Ruuvi Cloud, your sensor needs to be in the vicinity of a Ruuvi Gateway router.",
@@ -8197,18 +8197,6 @@
       "fr": "Lorsque l'option Désactiver Bluetooth est activée, l'application ne tiendra pas compte des mesures envoyées par les capteurs Ruuvi via Bluetooth lorsque les capteurs se trouvent à proximité d'un routeur Ruuvi Gateway. Au lieu de cela, l'application recevra exclusivement les données de mesure des capteurs de Ruuvi Cloud. Pour que les données de mesure soient transmises à Ruuvi Cloud, votre capteur doit se trouver à proximité d'un routeur Ruuvi Gateway.",
       "de": "Wenn die Option Bluetooth deaktivieren aktiviert ist, ignoriert die App alle Messungen, die von Ruuvi-Sensoren über Bluetooth gesendet werden, wenn sich Sensoren in der Nähe eines Ruuvi Gateway-Routers befinden. Stattdessen empfängt die App die Sensormessdaten ausschließlich aus der Ruuvi Cloud. Damit Messdaten an die Ruuvi Cloud übertragen werden können, muss sich Ihr Sensor in der Nähe eines Ruuvi Gateway-Routers befinden.",
 	  "pl": "Gdy opcja Wyłącz Bluetooth jest aktywna, aplikacja zignoruje wszelkie pomiary wysyłane przez czujniki Ruuvi przez Bluetooth, gdy czujniki znajdują się w pobliżu routera Ruuvi Gateway. Zamiast tego aplikacja będzie odbierać dane pomiarowe czujników wyłącznie z Ruuvi Cloud. Aby dane pomiarowe mogły być przesyłane do Ruuvi Cloud, czujnik musi znajdować się w pobliżu routera Ruuvi Gateway."
-    },
-    {
-      "ident_ios": "Settings.Label.CloudMode.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Refresh nearby cloud sensors only from the cloud by ignoring their Bluetooth messages and receiving alerts only by email. Requires a Ruuvi Gateway router.",
-      "fi": "Päivitä lähellä olevat pilveen rekisteröidyt anturit ainoastaan pilvestä ja vastaanota ainoastaan sähköpostihälytyksiä hylkäämällä niiden Bluetooth-viestit. Vaatii Ruuvi Gateway -reitittimen.",
-      "ru": "",
-      "sv": "Uppdatera närliggande molnregistrerade sensorer endast från molnet genom att inte lyssna på deras Bluetooth-meddelanden och endast ta emot varningar via e-post. Kräver en Ruuvi Gateway.",
-      "fr": "Mettre à jour les capteurs à proximité associés au cloud seulement pour recevoir seulement des alertes par mail en rejetant les messages Bluetooth. Nécessite le routeur Ruuvi Gateway.",
-      "de": "Aktualisieren Sie Cloud-Sensoren in der Nähe nur aus der Cloud, indem Sie ihre Bluetooth-Nachrichten ignorieren und Warnungen nur per E-Mail erhalten. Erfordert einen Ruuvi Gateway-Router.",
-	  "pl": ""
     },
     {
       "ident_ios": "",
