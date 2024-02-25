@@ -11283,6 +11283,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "Defaults.ShowStatusLabelSettings.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show on/off label with switch",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
