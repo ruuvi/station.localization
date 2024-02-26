@@ -8235,7 +8235,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "Settings.BackgroundScanning.Bluetooth.title",
       "ident_android": "background_scanning",
       "ident_webui": "",
       "en": "Background scanning (Bluetooth)",
