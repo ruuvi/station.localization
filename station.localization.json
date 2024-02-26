@@ -11283,6 +11283,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "Defaults.ShowStatusLabelSettings.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show on/off label with switch",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
@@ -12319,12 +12331,12 @@
       "ident_android": "latest_measured_value",
       "ident_webui": "",
       "en": "Latest measured value: {%@^%1$s}",
-      "fi": "",
+      "fi": "Viimeisin mitattu arvo: {%@^%1$s}",
       "ru": "Последнее измерение: {%@^%1$s}",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Senaste uppmätta värde: {%@^%1$s}",
+      "fr": "Dernière valeur mesurée : {%@^%1$s}",
+      "de": "Letzter Messwert: {%@^%1$s}",
+      "pl": "Ostatnia zmierzona wartość: {%@^%1$s}"
     }
   ]
 }
