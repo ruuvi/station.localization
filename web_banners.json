@@ -2,9 +2,9 @@
 {
         "plan": "",
         "key": "20240228",
-        "en": "Version 0.11.0 is released! This version adds XLSX and PDF (PDF Business Starter only) history export options, extra history length choices based on subscription, and minor improvements. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
-        "fi": "Versio 0.11.0 on julkaistu! Tämä versio tuo historiatietojen tallennuksen XLSX- ja PDF-tiedostomuodoissa (PDF vain Business Starter), historiapituudet tilaustason mukaan ja muita pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.11.0 har släppts! Denna version ger historikdatasparande i XLSX- och PDF-filformat (PDF endast för Business Starter), historiklängder efter prenumerationsnivå och andra mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "en": "Version 0.11.0 is released! This version adds XLSX history export option, PDF measurement reports (available only on Business plans), and other minor improvements. Check full list of what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
+        "fi": "Versio 0.11.0 on julkaistu! Tämä versio lisää XLSX-historian viennin, PDF-mittausraportit (saatavilla vain Business-tilaajille) ja muita pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.11.0 har släppts! Den här versionen lägger till XLSX-historikexport, PDF-mätrapporter (endast tillgängligt för Business-prenumeranter) och andra mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
