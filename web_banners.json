@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240119",
-        "en": "Version 0.10.4 is released! This version includes a fix for browsing sensor history in Chrome and minor improvements. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
-        "fi": "Versio 0.10.4 on julkaistu! Tämä versio sisältää korjauksen anturihistorian selaukseen Chromessa ja pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.10.4 har släppts! Den här versionen innehåller en fix för att surfa på sensorhistorik i Chrome och mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240228",
+        "en": "Version 0.11.0 is released! This version adds XLSX and PDF (PDF Business Starter only) history export options, adds additional history length options according to subscription level, and other minor improvements. Check what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
+        "fi": "Versio 0.11.0 on julkaistu! Tämä versio tuo historiatietojen tallennuksen XLSX- ja PDF-tiedostomuodoissa (PDF vain Business Starter) ja saatavilla olevat historiapituudet tilaustason mukaan, sekä muita pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.11.0 har släppts! Denna version ger historikdatalagring i XLSX- och PDF-filformat (PDF endast för Business Starter) och tillgängliga historiklängder efter prenumerationsnivå, såväl som andra mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
