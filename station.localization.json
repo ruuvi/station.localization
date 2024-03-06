@@ -3172,7 +3172,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Close.title",
       "ident_android": "close",
-      "ident_webui": "",
+      "ident_webui": "close",
       "en": "Close",
       "fi": "Sulje",
       "ru": "Закрыть",
@@ -12337,6 +12337,42 @@
       "fr": "Dernière valeur mesurée : {%@^%1$s}",
       "de": "Letzter Messwert: {%@^%1$s}",
       "pl": "Ostatnia zmierzona wartość: {%@^%1$s}"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pick_first_day",
+      "en": "Please pick the first day.",
+      "fi": "Valitse ensimmäinen päivä.",
+      "ru": "",
+      "sv": "Vänligen välj första dagen.",
+      "fr": "Veuillez choisir le premier jour.",
+      "de": "Bitte wählen Sie den ersten Tag aus.",
+      "pl": "Proszę wybrać pierwszy dzień."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pick_second_day",
+      "en": "Please pick the second day.",
+      "fi": "Valitse toinen päivä.",
+      "ru": "",
+      "sv": "Vänligen välj andra dagen.",
+      "fr": "Veuillez choisir le deuxième jour.",
+      "de": "Bitte wählen Sie den zweiten Tag aus.",
+      "pl": "Proszę wybrać drugi dzień."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "set",
+      "en": "Set",
+      "fi": "Aseta",
+      "ru": "",
+      "sv": "Ange",
+      "fr": "Définir",
+      "de": "Setzen",
+      "pl": "Ustaw"
     }
   ]
 }
