@@ -3172,7 +3172,7 @@
     {
       "ident_ios": "HumidityCalibration.Button.Close.title",
       "ident_android": "close",
-      "ident_webui": "",
+      "ident_webui": "close",
       "en": "Close",
       "fi": "Sulje",
       "ru": "Закрыть",
@@ -7878,11 +7878,11 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "no_data",
-      "en": "No data.\nThe sensor needs to be in range of a Ruuvi Gateway.",
-      "fi": "Ei tallennettuja mittauksia.\nAnturin tulee olla reitittimen kuuluvuusalueella.",
-      "ru": "Нет данных.\nДатчик должен находиться в зоне действия Ruuvi Gateway.",
-      "sv": "Ingen data.\nSensors måste vara inom räckhåll av en gateway.",
-      "fr": "Pas de données de mesure.\nLe capteur doit être à la portée du routeur.",
+      "en": "No data. The sensor needs to be in range of a Ruuvi Gateway.",
+      "fi": "Ei tallennettuja mittauksia. Anturin tulee olla reitittimen kuuluvuusalueella.",
+      "ru": "Нет данных. Датчик должен находиться в зоне действия Ruuvi Gateway.",
+      "sv": "Ingen data. Sensors måste vara inom räckhåll av en gateway.",
+      "fr": "Pas de données de mesure. Le capteur doit être à la portée du routeur.",
       "de": "Keine Daten. Der Sensor muss sich in Reichweite eines Gateways befinden.",
 	  "pl": ""
     },
@@ -12337,6 +12337,42 @@
       "fr": "Dernière valeur mesurée : {%@^%1$s}",
       "de": "Letzter Messwert: {%@^%1$s}",
       "pl": "Ostatnia zmierzona wartość: {%@^%1$s}"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pick_first_day",
+      "en": "Please pick the first day.",
+      "fi": "Valitse ensimmäinen päivä.",
+      "ru": "",
+      "sv": "Vänligen välj första dagen.",
+      "fr": "Veuillez choisir le premier jour.",
+      "de": "Bitte wählen Sie den ersten Tag aus.",
+      "pl": "Proszę wybrać pierwszy dzień."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pick_second_day",
+      "en": "Please pick the second day.",
+      "fi": "Valitse toinen päivä.",
+      "ru": "",
+      "sv": "Vänligen välj andra dagen.",
+      "fr": "Veuillez choisir le deuxième jour.",
+      "de": "Bitte wählen Sie den zweiten Tag aus.",
+      "pl": "Proszę wybrać drugi dzień."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "set",
+      "en": "Set",
+      "fi": "Aseta",
+      "ru": "",
+      "sv": "Ange",
+      "fr": "Définir",
+      "de": "Setzen",
+      "pl": "Ustaw"
     }
   ]
 }
