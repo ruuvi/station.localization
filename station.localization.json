@@ -10923,6 +10923,18 @@
       "pl": ""
     },
     {
+    "ident_ios": "",
+    "ident_android": "chart_latest_min_max_avg",
+    "ident_webui": "",
+    "en": "Latest: %2$s Min: %2$s Max: %3$s Average: %4$s",
+    "fi": "",
+    "ru": "",
+    "sv": "",
+    "fr": "",
+    "de": "",
+    "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "graph_stats_info",
@@ -11287,12 +11299,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Show on/off label with switch",
-      "fi": "",
+      "fi": "Näytä päällä/pois -teksti kytkimen vieressä",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Visa på/av-text bredvid strömbrytaren",
+      "fr": "Afficher le texte marche/arrêt à côté du commutateur",
+      "de": "Ein-/Aus-Text neben dem Schalter anzeigen",
+      "pl": "Pokaż tekst włączania/wyłączania obok przełącznika"
     },
     {
       "ident_ios": "",
@@ -12307,7 +12319,7 @@
       "ident_android": "",
       "ident_webui": "limits_hit",
       "en": "Limits hit",
-      "fi": "Rajat saavutettu",
+      "fi": "Rajat ylitetty",
       "ru": "",
       "sv": "Gränser nådda",
       "fr": "Limites atteintes",
@@ -12319,7 +12331,7 @@
       "ident_android": "",
       "ident_webui": "no_limits_hit",
       "en": "No limits hit",
-      "fi": "Ei rajoja saavutettu",
+      "fi": "Ei ylitettyjä rajoja",
       "ru": "",
       "sv": "Inga gränser nådda",
       "fr": "Aucune limite atteinte",
@@ -12342,25 +12354,25 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "pick_first_day",
-      "en": "Please pick the first day.",
-      "fi": "Valitse ensimmäinen päivä.",
+      "en": "Please pick the start date.",
+      "fi": "Valitse aloituspäivä.",
       "ru": "",
-      "sv": "Vänligen välj första dagen.",
-      "fr": "Veuillez choisir le premier jour.",
-      "de": "Bitte wählen Sie den ersten Tag aus.",
-      "pl": "Proszę wybrać pierwszy dzień."
+      "sv": "Välj ett startdatum.",
+      "fr": "Sélectionnez une date de début.",
+      "de": "Wählen Sie ein Startdatum.",
+      "pl": "Wybierz datę rozpoczęcia."
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "pick_second_day",
-      "en": "Please pick the second day.",
-      "fi": "Valitse toinen päivä.",
+      "en": "Please pick the end date.",
+      "fi": "Valitse päättymispäivä.",
       "ru": "",
-      "sv": "Vänligen välj andra dagen.",
-      "fr": "Veuillez choisir le deuxième jour.",
-      "de": "Bitte wählen Sie den zweiten Tag aus.",
-      "pl": "Proszę wybrać drugi dzień."
+      "sv": "Välj ett slutdatum.",
+      "fr": "Sélectionnez une date de fin.",
+      "de": "Wählen Sie ein Enddatum aus.",
+      "pl": "Wybierz datę zakończenia."
     },
     {
       "ident_ios": "",
