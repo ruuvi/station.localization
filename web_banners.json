@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240228",
-        "en": "Version 0.11.0 is released! This version adds XLSX history export option, PDF measurement reports (available only on Business plans), and other minor improvements. Check full list of what's changed <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>here</a>.",
-        "fi": "Versio 0.11.0 on julkaistu! Tämä versio lisää XLSX-historian viennin, PDF-mittausraportit (saatavilla vain Business-tilaajille) ja muita pieniä parannuksia. Tarkista muutokset <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.11.0 har släppts! Den här versionen lägger till XLSX-historikexport, PDF-mätrapporter (endast tillgängligt för Business-prenumeranter) och andra mindre förbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240314",
+        "en": "Version 0.12.0 is released! The length selector for viewing history now includes a calendar view, available for Basic subscriptions and above. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 0.12.0 on julkaistu! Historiaa tarkastellessa on nyt mahdollista valita haluttu aikaväli kalenterinäkymästä (saatavilla Basic-tilauksissa ja paremmissa). Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.12.0 har släppts! Längdväljaren för visning av historik inkluderar nu en kalendervy, tillgänglig för Basic-abonnemang och högre. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
