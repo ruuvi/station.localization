@@ -10926,7 +10926,7 @@
     "ident_ios": "",
     "ident_android": "chart_latest_min_max_avg",
     "ident_webui": "",
-    "en": "Latest: %2$s Min: %2$s Max: %3$s Average: %4$s",
+    "en": "Min: %1$s Max: %2$s Average: %3$s Latest: %4$s",
     "fi": "",
     "ru": "",
     "sv": "",
