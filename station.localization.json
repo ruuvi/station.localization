@@ -12341,7 +12341,7 @@
     {
       "ident_ios": "",
       "ident_android": "latest_measured_value",
-      "ident_webui": "",
+      "ident_webui": "latest_measured_value",
       "en": "Latest measured value: {%@^%1$s}",
       "fi": "Viimeisin mitattu arvo: {%@^%1$s}",
       "ru": "Последнее измерение: {%@^%1$s}",
