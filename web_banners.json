@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240314",
-        "en": "Version 0.12.0 is released! The length selector for viewing history now includes a calendar view, available for Basic subscriptions and above. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 0.12.0 on julkaistu! Historiaa tarkastellessa on nyt mahdollista valita haluttu aikaväli kalenterinäkymästä (saatavilla Basic-tilauksissa ja paremmissa). Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.12.0 har släppts! Längdväljaren för visning av historik inkluderar nu en kalendervy, tillgänglig för Basic-abonnemang och högre. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240329",
+        "en": "Version 0.12.1 is released! This update brings minor improvements to alert settings and historical data visualisation. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 0.12.1 on julkaistu! Tämä versio sisältää pieniä parannuksia hälytysten asettamiseen ja historiakuvaajiin. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.12.1 har släppts! Denna uppdatering medför mindre förbättringar av inställningar för aviseringar och visualisering av historiska data. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
