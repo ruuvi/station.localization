@@ -12385,6 +12385,18 @@
       "fr": "Définir",
       "de": "Setzen",
       "pl": "Ustaw"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "upgrade_plan",
+      "en": "Upgrade plan",
+      "fi": "Päivitä suunnitelma",
+      "ru": "",
+      "sv": "Uppgradera plan",
+      "fr": "Mettre à niveau le plan",
+      "de": "Plan aufwerten",
+      "pl": "Zaktualizuj plan"
     }
   ]
 }
