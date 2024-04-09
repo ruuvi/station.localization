@@ -9299,7 +9299,7 @@
       "ru": "",
       "sv": "{%.0f^%1$s} dagar",
       "fr": "{%.0f^%1$s} jours",
-      "de": "{%.0f^%1$s} Tage",
+      "de": "{%.0f^%1$s} tage",
 	  "pl": ""
     },
     {
@@ -9311,7 +9311,7 @@
       "ru": "1 час",
       "sv": "1 timme",
       "fr": "1 heure",
-      "de": "1 Stunde",
+      "de": "1 stunde",
       "pl": ""
     },
     {
@@ -12385,6 +12385,18 @@
       "fr": "Définir",
       "de": "Setzen",
       "pl": "Ustaw"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "upgrade_plan",
+      "en": "Upgrade plan",
+      "fi": "Päivitä tilaustaso",
+      "ru": "",
+      "sv": "Uppgradera plan",
+      "fr": "Mettre à niveau le plan",
+      "de": "Plan aufwerten",
+      "pl": "Zaktualizuj plan"
     }
   ]
 }
