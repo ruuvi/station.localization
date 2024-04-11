@@ -10927,12 +10927,12 @@
     "ident_android": "chart_latest_min_max_avg",
     "ident_webui": "",
     "en": "Min: %1$s Max: %2$s Average: %3$s Latest: %4$s",
-    "fi": "",
-    "ru": "",
-    "sv": "",
-    "fr": "",
-    "de": "",
-    "pl": ""
+    "fi": "Min: %1$s Max: %2$s Keskiarvo: %3$s Viimeisin: %4$s",
+    "ru": "Мин: %1$s Макс: %2$s Среднее: %3$s Последний: %4$s",
+    "sv": "Min: %1$s Max: %2$s Medelvärde %3$s Senast: %4$s",
+    "fr": "Min: %1$s Max: %2$s Moyenne: %3$s Dernière: %4$s",
+    "de": "Min: %1$s Max: %2$s Durchschnitt: %3$s Neueste: %4$s",
+    "pl": "Min: %1$s Maks: %2$s Przeciętny: %3$s Najnowszy: %4$s"
     },
     {
       "ident_ios": "",
