@@ -11992,7 +11992,7 @@
     },
     {
       "ident_ios": "activity_saving_to_cloud",
-      "ident_android": "",
+      "ident_android": "saving_to_cloud",
       "ident_webui": "",
       "en": "Saving to cloud... Please wait.",
       "fi": "Tallennetaan pilveen... Odota.",
@@ -12004,7 +12004,7 @@
     },
     {
       "ident_ios": "activity_saving_success",
-      "ident_android": "",
+      "ident_android": "saving_success",
       "ident_webui": "",
       "en": "Saved successfully.",
       "fi": "Tallennus onnistui.",
@@ -12016,7 +12016,7 @@
     },
     {
       "ident_ios": "activity_saving_fail",
-      "ident_android": "",
+      "ident_android": "saving_fail",
       "ident_webui": "",
       "en": "Couldn't save changes to cloud.",
       "fi": "Muutoksia ei voitu tallentaa pilveen.",
