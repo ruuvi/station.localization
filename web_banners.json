@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240329",
-        "en": "Version 0.12.1 is released! This update brings minor improvements to alert settings and historical data visualisation. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 0.12.1 on julkaistu! Tämä versio sisältää pieniä parannuksia hälytysten asettamiseen ja historiakuvaajiin. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 0.12.1 har släppts! Denna uppdatering medför mindre förbättringar av inställningar för aviseringar och visualisering av historiska data. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240425",
+        "en": "Version 0.12.2 is released! This update brings features above current subscription level to be shown in UI as well as minor improvements to sign in and latest measurement for humidity under alert settings. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 0.12.2 on julkaistu! Tämä päivitys tuo nykyistä tilaustasoa korkeammat ominaisuudet näkymään käyttöliittymässä sekä pieniä parannuksia sisäänkirjautumiseen ja viimeisimmän kosteusmittauksen esittämiseen hälytysasetuksissa. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 0.12.2 har släppts! Den här uppdateringen ger funktioner över nuvarande prenumerationsnivå som ska visas i användargränssnittet samt mindre förbättringar för att logga in och senaste mätningen för luftfuktighet under varningsinställningar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
