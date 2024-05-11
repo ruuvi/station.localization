@@ -2125,30 +2125,6 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Alerts.Humidity.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si la valeur est inférieure à %.0f ou supérieure à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
-	  "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.Alerts.DewPoint.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli kastepiste alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si le point de rosée est inférieur à %.0f ou supérieur à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
-	  "pl": ""
-    },
-    {
       "ident_ios": "TagSettings.dewPointAlertTitleLabel.text",
       "ident_android": "",
       "ident_webui": "",
@@ -2158,18 +2134,6 @@
       "sv": "Daggpunkt",
       "fr": "Point de rosée",
       "de": "Taupunkt",
-	  "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.Alerts.Pressure.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli ilmanpaine %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si la pression de l'air est inférieure à %.0f ou supérieure à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
 	  "pl": ""
     },
     {
@@ -2506,18 +2470,6 @@
       "sv": "Mer info",
       "fr": "Plus d'infos",
       "de": "Mehr info",
-	  "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Alerts.Temperature.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli lämpötila alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si la température est inférieure à %.0f ou supérieure à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
 	  "pl": ""
     },
     {
@@ -2905,16 +2857,16 @@
 	  "pl": "Wyłącz"
     },
     {
-      "ident_ios": "TagSettings.Alerts.Temperature.description",
+      "ident_ios": "TagSettings.Alerts.description",
       "ident_android": "alert_subtitle_on",
       "ident_webui": "alert_description",
-      "en": "Alert when less than {%.0f^%1$s} or more than {%.0f^%2$s}",
-      "fi": "Hälytä, mikäli alle {%.0f^%1$s} tai yli {%.0f^%2$s}",
-      "ru": "Уведомление если меньше {%.0f^%1$s} или больше {%.0f^%2$s}",
-      "sv": "Alarmera när mindre än {%.0f^%1$s} eller mer än {%.0f^%2$s}",
-      "fr": "Notifier si la valeur est inférieure à {%.0f^%1$s} ou supérieure à {%.0f^%2$s}",
-      "de": "Warnung bei weniger als {%.0f^%1$s} oder mehr als {%.0f^%2$s}",
-	  "pl": "Ostrzeżenie, gdy mniej niż {%.0f^%1$s} lub więcej niż {%.0f^%2$s}"
+      "en": "Alert when less than {%@^%1$s} or more than {%@^%2$s}",
+      "fi": "Hälytä, mikäli alle {%@^%1$s} tai yli {%@^%2$s}",
+      "ru": "Уведомление если меньше {%@^%1$s} или больше {%@^%2$s}",
+      "sv": "Alarmera när mindre än {%@^%1$s} eller mer än {%@^%2$s}",
+      "fr": "Notifier si la valeur est inférieure à {%@^%1$s} ou supérieure à {%@^%2$s}",
+      "de": "Warnung bei weniger als {%@^%1$s} oder mehr als {%@^%2$s}",
+      "pl": "Ostrzeżenie, gdy mniej niż {%@^%1$s} lub więcej niż {%@^%2$s}"
     },
     {
       "ident_ios": "TagSettings.Label.alerts.text",
