@@ -10911,15 +10911,15 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "chart_min_max_avg",
       "ident_android": "chart_min_max_avg",
       "ident_webui": "",
-      "en": "Min: %1$,.2f Max: %2$,.2f Average: %3$,.2f",
-      "fi": "Min: %1$,.2f Max: %2$,.2f Keskiarvo: %3$,.2f",
-      "ru": "Мин: %1$,.2f Макс: %2$,.2f Среднее: %3$,.2f",
-      "sv": "Min: %1$,.2f Max: %2$,.2f Medelvärde: %3$,.2f",
-      "fr": "Min: %1$,.2f Max: %2$,.2f Moyenne: %3$,.2f",
-      "de": "Min: %1$,.2f Max: %2$,.2f Durchschnitt: %3$,.2f",
+      "en": "Min: {%@^%1$,.2f} Max: {%@^%2$,.2f} Average: {%@^%3$,.2f}",
+      "fi": "Min: {%@^%1$,.2f} Max: {%@^%2$,.2f} Keskiarvo: {%@^%3$,.2f}",
+      "ru": "Мин: {%@^%1$,.2f} Макс: {%@^%2$,.2f} Среднее: {%@^%3$,.2f}",
+      "sv": "Min: {%@^%1$,.2f} Max: {%@^%2$,.2f} Medelvärde: {%@^%3$,.2f}",
+      "fr": "Min: {%@^%1$,.2f} Max: {%@^%2$,.2f} Moyenne: {%@^%3$,.2f}",
+      "de": "Min: {%@^%1$,.2f} Max: {%@^%2$,.2f} Durchschnitt: {%@^%3$,.2f}",
       "pl": ""
     },
     {
