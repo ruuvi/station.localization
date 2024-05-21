@@ -1,0 +1,137 @@
+{
+  "messageTemplates": {
+    "alert_temperature_over": {
+      "en": "<b>Ruuvi Temperature Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe temperature has reached ${ai.currentValue}${ai.alertUnit.symbol} which is above the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Lämpöhälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLämpötila on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on yli kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Temperaturvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTemperaturen har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är över tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Température Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa température a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est au-dessus du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Temperaturwarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Temperatur hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was über dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_temperature_under": {
+      "en": "<b>Ruuvi Temperature Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe temperature has reached ${ai.currentValue}${ai.alertUnit.symbol} which is below the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Lämpöhälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLämpötila on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on alle kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Temperaturvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTemperaturen har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är under tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Température Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa température a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est en dessous du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Temperaturwarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Temperatur hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was unter dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_temperature_resolved": {
+      "en": "<b>Ruuvi Temperature Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe temperature has returned to the allowed range of ${ai.thresholdMin}${ai.alertUnit.symbol} to ${ai.thresholdMax}${ai.alertUnit.symbol}. Current temperature: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Lämpöhälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLämpötila on palannut sallittuun alueeseen ${ai.thresholdMin}${ai.alertUnit.symbol} - ${ai.thresholdMax}${ai.alertUnit.symbol}. Nykyinen lämpötila: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Temperaturvarning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTemperaturen har återgått till det tillåtna intervallet ${ai.thresholdMin}${ai.alertUnit.symbol} till ${ai.thresholdMax}${ai.alertUnit.symbol}. Nuvarande temperatur: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Température Ruuvi Résolue :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa température est revenue dans la plage autorisée de ${ai.thresholdMin}${ai.alertUnit.symbol} à ${ai.thresholdMax}${ai.alertUnit.symbol}. Température actuelle : ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Temperaturwarnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Temperatur ist in den zulässigen Bereich von ${ai.thresholdMin}${ai.alertUnit.symbol} bis ${ai.thresholdMax}${ai.alertUnit.symbol} zurückgekehrt. Aktuelle Temperatur: ${ai.currentValue}${ai.alertUnit.symbol}."
+    },
+    "alert_pressure_over": {
+      "en": "<b>Ruuvi Pressure Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe pressure has reached ${ai.currentValue}${ai.alertUnit.symbol} which is above the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Painehälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nPaine on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on yli kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Tryckvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTrycket har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är över tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Pression Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa pression a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est au-dessus du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Druckwarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Druck hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was über dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_pressure_under": {
+      "en": "<b>Ruuvi Pressure Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe pressure has reached ${ai.currentValue}${ai.alertUnit.symbol} which is below the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Painehälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nPaine on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on alle kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Tryckvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTrycket har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är under tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Pression Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa pression a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est en dessous du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Druckwarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Druck hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was unter dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_pressure_resolved": {
+      "en": "<b>Ruuvi Pressure Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe pressure has returned to the allowed range of ${ai.thresholdMin}${ai.alertUnit.symbol} to ${ai.thresholdMax}${ai.alertUnit.symbol}. Current pressure: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Painehälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nPaine on palannut sallittuun alueeseen ${ai.thresholdMin}${ai.alertUnit.symbol} - ${ai.thresholdMax}${ai.alertUnit.symbol}. Nykyinen paine: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Tryckvarning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nTrycket har återgått till det tillåtna intervallet ${ai.thresholdMin}${ai.alertUnit.symbol} till ${ai.thresholdMax}${ai.alertUnit.symbol}. Nuvarande tryck: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte de Pression Ruuvi Résolue :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa pression est revenue dans la plage autorisée de ${ai.thresholdMin}${ai.alertUnit.symbol} à ${ai.thresholdMax}${ai.alertUnit.symbol}. Pression actuelle : ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Druckwarnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Druck ist in den zulässigen Bereich von ${ai.thresholdMin}${ai.alertUnit.symbol} bis ${ai.thresholdMax}${ai.alertUnit.symbol} zurückgekehrt. Aktueller Druck: ${ai.currentValue}${ai.alertUnit.symbol}."
+    },
+    "alert_humidity_over": {
+      "en": "<b>Ruuvi Humidity Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe humidity has reached ${ai.currentValue}${ai.alertUnit.symbol} which is above the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Kosteushälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nKosteus on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on yli kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Fuktvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nFuktigheten har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är över tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nL'humidité a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est au-dessus du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Feuchtigkeit hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was über dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_humidity_under": {
+      "en": "<b>Ruuvi Humidity Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe humidity has reached ${ai.currentValue}${ai.alertUnit.symbol} which is below the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Kosteushälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nKosteus on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, joka on alle kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Fuktvarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nFuktigheten har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är under tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nL'humidité a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est en dessous du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Feuchtigkeit hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was unter dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_humidity_resolved": {
+      "en": "<b>Ruuvi Humidity Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe humidity has returned to the allowed range of ${ai.thresholdMin}${ai.alertUnit.symbol} to ${ai.thresholdMax}${ai.alertUnit.symbol}. Current humidity: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Kosteushälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nKosteus on palannut sallittuun alueeseen ${ai.thresholdMin}${ai.alertUnit.symbol} - ${ai.thresholdMax}${ai.alertUnit.symbol}. Nykyinen kosteus: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Fuktvarning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nFuktigheten har återgått till det tillåtna intervallet ${ai.thresholdMin}${ai.alertUnit.symbol} till ${ai.thresholdMax}${ai.alertUnit.symbol}. Nuvarande fuktighet: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi Résolue :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nL'humidité est revenue dans la plage autorisée de ${ai.thresholdMin}${ai.alertUnit.symbol} à ${ai.thresholdMax}${ai.alertUnit.symbol}. Humidité actuelle : ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Feuchtigkeit ist in den zulässigen Bereich von ${ai.thresholdMin}${ai.alertUnit.symbol} bis ${ai.thresholdMax}${ai.alertUnit.symbol} zurückgekehrt. Aktuelle Feuchtigkeit: ${ai.currentValue}${ai.alertUnit.symbol}."
+    },
+    "alert_signal_over": {
+      "en": "<b>Ruuvi RSSI Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe RSSI has reached ${ai.currentValue}${ai.alertUnit.symbol}, which is above the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi RSSI-hälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, mikä on yli kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi RSSI-varning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är över tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte RSSI Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe RSSI a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est au-dessus du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi RSSI-Warnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer RSSI hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was über dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_signal_under": {
+      "en": "<b>Ruuvi RSSI Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe RSSI has reached ${ai.currentValue}${ai.alertUnit.symbol}, which is below the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi RSSI-hälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, mikä on alle kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi RSSI-varning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är under tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte RSSI Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe RSSI a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est en dessous du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi RSSI-Warnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer RSSI hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was unter dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_signal_resolved": {
+      "en": "<b>Ruuvi RSSI Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe RSSI has returned to the allowed range of ${ai.thresholdMin}${ai.alertUnit.symbol} to ${ai.thresholdMax}${ai.alertUnit.symbol}. Current RSSI: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi RSSI-hälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI on palannut sallittuun alueeseen ${ai.thresholdMin}${ai.alertUnit.symbol} - ${ai.thresholdMax}${ai.alertUnit.symbol}. Nykyinen RSSI: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi RSSI-varning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nRSSI har återgått till det tillåtna intervallet ${ai.thresholdMin}${ai.alertUnit.symbol} till ${ai.thresholdMax}${ai.alertUnit.symbol}. Nuvarande RSSI: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte RSSI Ruuvi Résolue:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe RSSI est revenu dans la plage autorisée de ${ai.thresholdMin}${ai.alertUnit.symbol} à ${ai.thresholdMax}${ai.alertUnit.symbol}. RSSI actuel : ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi RSSI-Warnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer RSSI ist in den zulässigen Bereich von ${ai.thresholdMin}${ai.alertUnit.symbol} bis ${ai.thresholdMax}${ai.alertUnit.symbol} zurückgekehrt. Aktueller RSSI: ${ai.currentValue}${ai.alertUnit.symbol}."
+    },
+    "alert_movement_different_from": {
+      "en": "<b>Ruuvi Movement Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe sensor has detected movement. Current movement counter: ${ai.currentValue}.",
+      "fi": "<b>Ruuvi Liikehälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAnturi on havainnut liikettä. Nykyinen liikemittari: ${ai.currentValue}.",
+      "sv": "<b>Ruuvi Rörelsevarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nSensorn har upptäckt rörelse. Nuvarande rörelseräknare: ${ai.currentValue}.",
+      "fr": "<b>Alerte de Mouvement Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe capteur a détecté un mouvement. Compteur de mouvement actuel : ${ai.currentValue}.",
+      "de": "<b>Ruuvi Bewegungswarnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Sensor hat eine Bewegung erkannt. Aktueller Bewegungszähler: ${ai.currentValue}."
+    },
+    "alert_movement_resolved": {
+      "en": "<b>Ruuvi Movement Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe sensor has detected movement. Current movement counter: ${ai.currentValue}.",
+      "fi": "<b>Ruuvi Liikehälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAnturi on havainnut liikettä. Nykyinen liikemittari: ${ai.currentValue}.",
+      "sv": "<b>Ruuvi Rörelsevarning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nSensorn har upptäckt rörelse. Nuvarande rörelseräknare: ${ai.currentValue}.",
+      "fr": "<b>Alerte de Mouvement Ruuvi Résolue:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe capteur a détecté un mouvement. Compteur de mouvement actuel : ${ai.currentValue}.",
+      "de": "<b>Ruuvi Bewegungswarnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Sensor hat eine Bewegung erkannt. Aktueller Bewegungszähler: ${ai.currentValue}."
+    },
+    "alert_battery_over": {
+      "en": "<b>Ruuvi Battery Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe battery voltage has reached ${ai.currentValue}${ai.alertUnit.symbol}, which is above the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Akkuhälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAkun jännite on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, mikä on yli kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Batterivarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nBatterispänningen har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är över tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte Batterie Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa tension de la batterie a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est au-dessus du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Batterie-Warnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Batteriespannung hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was über dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_battery_under": {
+      "en": "<b>Ruuvi Battery Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe battery voltage has reached ${ai.currentValue}${ai.alertUnit.symbol}, which is below the threshold of ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Akkuhälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAkun jännite on saavuttanut ${ai.currentValue}${ai.alertUnit.symbol}, mikä on alle kynnyksen ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Batterivarning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nBatterispänningen har nått ${ai.currentValue}${ai.alertUnit.symbol}, vilket är under tröskeln ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte Batterie Ruuvi :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa tension de la batterie a atteint ${ai.currentValue}${ai.alertUnit.symbol}, ce qui est en dessous du seuil de ${ai.thresholdValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Batterie-Warnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Batteriespannung hat ${ai.currentValue}${ai.alertUnit.symbol} erreicht, was unter dem Schwellenwert von ${ai.thresholdValue}${ai.alertUnit.symbol} liegt."
+    },
+    "alert_battery_resolved": {
+      "en": "<b>Ruuvi Battery Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe battery voltage has returned to the allowed range of ${ai.thresholdMin}${ai.alertUnit.symbol} to ${ai.thresholdMax}${ai.alertUnit.symbol}. Current battery voltage: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Akkuhälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAkun jännite on palannut sallittuun alueeseen ${ai.thresholdMin}${ai.alertUnit.symbol} - ${ai.thresholdMax}${ai.alertUnit.symbol}. Nykyinen akkujännite: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Batterivarning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nBatterispänningen har återgått till det tillåtna intervallet ${ai.thresholdMin}${ai.alertUnit.symbol} till ${ai.thresholdMax}${ai.alertUnit.symbol}. Nuvarande batterispänning: ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte Batterie Ruuvi Résolue :</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLa tension de la batterie est revenue dans la plage autorisée de ${ai.thresholdMin}${ai.alertUnit.symbol} à ${ai.thresholdMax}${ai.alertUnit.symbol}. Tension de la batterie actuelle : ${ai.currentValue}${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Batterie-Warnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDie Batteriespannung ist in den zulässigen Bereich von ${ai.thresholdMin}${ai.alertUnit.symbol} bis ${ai.thresholdMax}${ai.alertUnit.symbol} zurückgekehrt. Aktuelle Batteriespannung: ${ai.currentValue}${ai.alertUnit.symbol}."
+    },
+    "alert_offline_over": {
+      "en": "<b>Ruuvi Offline Alert:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe sensor has been offline for more than ${ai.thresholdValue} ${ai.alertUnit.symbol}.",
+      "fi": "<b>Ruuvi Offline-hälytys:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAnturi on ollut offline-tilassa yli ${ai.thresholdValue} ${ai.alertUnit.symbol}.",
+      "sv": "<b>Ruuvi Offline-varning:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nSensorn har varit offline i mer än ${ai.thresholdValue} ${ai.alertUnit.symbol}.",
+      "fr": "<b>Alerte Hors Ligne Ruuvi:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe capteur est hors ligne depuis plus de ${ai.thresholdValue} ${ai.alertUnit.symbol}.",
+      "de": "<b>Ruuvi Offline-Warnung:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Sensor ist seit mehr als ${ai.thresholdValue} ${ai.alertUnit.symbol} offline."
+    },
+    "alert_offline_resolved": {
+      "en": "<b>Ruuvi Offline Alert Resolved:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nThe sensor is back online.",
+      "fi": "<b>Ruuvi Offline-hälytys Ratkaistu:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nAnturi on jälleen online-tilassa.",
+      "sv": "<b>Ruuvi Offline-varning Återställd:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nSensorn är åter online.",
+      "fr": "<b>Alerte Hors Ligne Ruuvi Résolue:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nLe capteur est de nouveau en ligne.",
+      "de": "<b>Ruuvi Offline-Warnung Gelöst:</b> '${ai.name}' ${ai.alertData ? `(${ai.alertData})` : ''}\nDer Sensor ist wieder online."
+    }
+  }
+}
