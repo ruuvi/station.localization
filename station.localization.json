@@ -12493,6 +12493,30 @@
       "fr": "Capteur supprimé",
       "de": "Sensor entfernt",
       "pl": "Usunięto czujnik"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_shared_by_me_description",
+      "en": "These are the sensors you have shared with others.",
+      "fi": "Nämä ovat anturit, jotka olet jakanut muiden kanssa.",
+      "ru": "",
+      "sv": "Detta är sensorerna som du har delat med andra.",
+      "fr": "Voici les capteurs que vous avez partagés avec d'autres.",
+      "de": "Dies sind die Sensoren, die Sie mit anderen geteilt haben.",
+      "pl": "To są czujniki, które udostępniłeś innym."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_shared_with_me_description",
+      "en": "These are the sensors shared with you by others.",
+      "fi": "Nämä ovat anturit, jotka muut ovat jakaneet kanssasi.",
+      "ru": "",
+      "sv": "Detta är sensorerna som andra har delat med dig.",
+      "fr": "Voici les capteurs que d'autres ont partagés avec vous.",
+      "de": "Dies sind die Sensoren, die andere mit Ihnen geteilt haben.",
+      "pl": "To są czujniki, które inni udostępnili tobie."
     }
   ]
 }
