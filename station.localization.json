@@ -7924,7 +7924,7 @@
     },
     {
       "ident_ios": "On",
-      "ident_android": "",
+      "ident_android": "on",
       "ident_webui": "on",
       "en": "On",
       "fi": "Päällä",
@@ -7936,7 +7936,7 @@
     },
     {
       "ident_ios": "Off",
-      "ident_android": "",
+      "ident_android": "off",
       "ident_webui": "off",
       "en": "Off",
       "fi": "Pois",
