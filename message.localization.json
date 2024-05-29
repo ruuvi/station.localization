@@ -1,0 +1,137 @@
+{
+  "messageTemplates": {
+    "alert_temperature_over": {
+      "en": "<b>Ruuvi Temperature Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe temperature has reached {{currentValue}}{{alertUnit_symbol}} which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Lämpöhälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Temperaturvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTemperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Température Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Temperaturwarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_temperature_under": {
+      "en": "<b>Ruuvi Temperature Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe temperature has reached {{currentValue}}{{alertUnit_symbol}} which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Lämpöhälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Temperaturvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTemperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Température Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Temperaturwarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_temperature_resolved": {
+      "en": "<b>Ruuvi Temperature Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe temperature has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current temperature: {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Lämpöhälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLämpötila on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen lämpötila: {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Temperaturvarning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTemperaturen har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande temperatur: {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Température Ruuvi Résolue :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa température est revenue dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Température actuelle : {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Temperaturwarnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Temperatur ist in den zulässigen Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Temperatur: {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_pressure_over": {
+      "en": "<b>Ruuvi Pressure Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe pressure has reached {{currentValue}}{{alertUnit_symbol}} which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Painehälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nPaine on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Tryckvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTrycket har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Pression Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa pression a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Druckwarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Druck hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_pressure_under": {
+      "en": "<b>Ruuvi Pressure Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe pressure has reached {{currentValue}}{{alertUnit_symbol}} which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Painehälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nPaine on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Tryckvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTrycket har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Pression Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa pression a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Druckwarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Druck hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_pressure_resolved": {
+      "en": "<b>Ruuvi Pressure Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe pressure has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current pressure: {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Painehälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nPaine on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen paine: {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Tryckvarning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nTrycket har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande tryck: {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte de Pression Ruuvi Résolue :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa pression est revenue dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Pression actuelle : {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Druckwarnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Druck ist in den zulässigen Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktueller Druck: {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_humidity_over": {
+      "en": "<b>Ruuvi Humidity Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe humidity has reached {{currentValue}}{{alertUnit_symbol}} which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Kosteushälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nKosteus on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Fuktvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nFuktigheten har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nL'humidité a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Feuchtigkeit hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_humidity_under": {
+      "en": "<b>Ruuvi Humidity Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe humidity has reached {{currentValue}}{{alertUnit_symbol}} which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Kosteushälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nKosteus on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Fuktvarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nFuktigheten har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nL'humidité a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Feuchtigkeit hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_humidity_resolved": {
+      "en": "<b>Ruuvi Humidity Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe humidity has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current humidity: {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Kosteushälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nKosteus on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen kosteus: {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Fuktvarning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nFuktigheten har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande fuktighet: {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte d'Humidité Ruuvi Résolue :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nL'humidité est revenue dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Humidité actuelle : {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Feuchtigkeitswarnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Feuchtigkeit ist in den zulässigen Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Feuchtigkeit: {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_signal_over": {
+      "en": "<b>Ruuvi RSSI Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe RSSI has reached {{currentValue}}{{alertUnit_symbol}}, which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi RSSI-hälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI on saavuttanut {{currentValue}}{{alertUnit_symbol}}, mikä on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi RSSI-varning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte RSSI Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe RSSI a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi RSSI-Warnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer RSSI hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_signal_under": {
+      "en": "<b>Ruuvi RSSI Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe RSSI has reached {{currentValue}}{{alertUnit_symbol}}, which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi RSSI-hälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI on saavuttanut {{currentValue}}{{alertUnit_symbol}}, mikä on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi RSSI-varning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte RSSI Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe RSSI a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi RSSI-Warnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer RSSI hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_signal_resolved": {
+      "en": "<b>Ruuvi RSSI Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe RSSI has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current RSSI: {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi RSSI-hälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen RSSI: {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi RSSI-varning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nRSSI har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande RSSI: {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte RSSI Ruuvi Résolue:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe RSSI est revenu dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. RSSI actuel : {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi RSSI-Warnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer RSSI ist in den zulässigen Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktueller RSSI: {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_movement_different_from": {
+      "en": "<b>Ruuvi Movement Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe sensor has detected movement. Current movement counter: {{currentValue}}.",
+      "fi": "<b>Ruuvi Liikehälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAnturi on havainnut liikettä. Nykyinen liikemittari: {{currentValue}}.",
+      "sv": "<b>Ruuvi Rörelsevarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nSensorn har upptäckt rörelse. Nuvarande rörelseräknare: {{currentValue}}.",
+      "fr": "<b>Alerte de Mouvement Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe capteur a détecté un mouvement. Compteur de mouvement actuel : {{currentValue}}.",
+      "de": "<b>Ruuvi Bewegungswarnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Sensor hat eine Bewegung erkannt. Aktueller Bewegungszähler: {{currentValue}}."
+    },
+    "alert_movement_resolved": {
+      "en": "<b>Ruuvi Movement Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe sensor has detected movement. Current movement counter: {{currentValue}}.",
+      "fi": "<b>Ruuvi Liikehälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAnturi on havainnut liikettä. Nykyinen liikemittari: {{currentValue}}.",
+      "sv": "<b>Ruuvi Rörelsevarning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nSensorn har upptäckt rörelse. Nuvarande rörelseräknare: {{currentValue}}.",
+      "fr": "<b>Alerte de Mouvement Ruuvi Résolue:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe capteur a détecté un mouvement. Compteur de mouvement actuel : {{currentValue}}.",
+      "de": "<b>Ruuvi Bewegungswarnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Sensor hat eine Bewegung erkannt. Aktueller Bewegungszähler: {{currentValue}}."
+    },
+    "alert_battery_over": {
+      "en": "<b>Ruuvi Battery Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe battery voltage has reached {{currentValue}}{{alertUnit_symbol}}, which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Akkuhälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAkun jännite on saavuttanut {{currentValue}}{{alertUnit_symbol}}, mikä on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Batterivarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nBatterispänningen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte Batterie Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa tension de la batterie a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Batterie-Warnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Batteriespannung hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_battery_under": {
+      "en": "<b>Ruuvi Battery Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe battery voltage has reached {{currentValue}}{{alertUnit_symbol}}, which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Akkuhälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAkun jännite on saavuttanut {{currentValue}}{{alertUnit_symbol}}, mikä on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Batterivarning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nBatterispänningen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte Batterie Ruuvi :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa tension de la batterie a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Batterie-Warnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Batteriespannung hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt."
+    },
+    "alert_battery_resolved": {
+      "en": "<b>Ruuvi Battery Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe battery voltage has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current battery voltage: {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Akkuhälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAkun jännite on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen akkujännite: {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Batterivarning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nBatterispänningen har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande batterispänning: {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "<b>Alerte Batterie Ruuvi Résolue :</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLa tension de la batterie est revenue dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Tension de la batterie actuelle : {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Batterie-Warnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDie Batteriespannung ist in den zulässigen Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Batteriespannung: {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_offline_over": {
+      "en": "<b>Ruuvi Offline Alert:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe sensor has been offline for more than {{thresholdValue}} {{alertUnit_symbol}}.",
+      "fi": "<b>Ruuvi Offline-hälytys:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAnturi on ollut offline-tilassa yli {{thresholdValue}} {{alertUnit_symbol}}.",
+      "sv": "<b>Ruuvi Offline-varning:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nSensorn har varit offline i mer än {{thresholdValue}} {{alertUnit_symbol}}.",
+      "fr": "<b>Alerte Hors Ligne Ruuvi:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe capteur est hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}.",
+      "de": "<b>Ruuvi Offline-Warnung:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Sensor ist seit mehr als {{thresholdValue}} {{alertUnit_symbol}} offline."
+    },
+    "alert_offline_resolved": {
+      "en": "<b>Ruuvi Offline Alert Resolved:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nThe sensor is back online.",
+      "fi": "<b>Ruuvi Offline-hälytys Ratkaistu:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nAnturi on jälleen online-tilassa.",
+      "sv": "<b>Ruuvi Offline-varning Återställd:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nSensorn är åter online.",
+      "fr": "<b>Alerte Hors Ligne Ruuvi Résolue:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nLe capteur est de nouveau en ligne.",
+      "de": "<b>Ruuvi Offline-Warnung Gelöst:</b> '{{name}}'{{#if alertData}} ({{alertData}}){{/if}}\nDer Sensor ist wieder online."
+    }
+  }
+}
