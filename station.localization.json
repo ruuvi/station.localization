@@ -442,7 +442,19 @@
       "sv": "Välkomst Visad",
       "fr": "La présentation est affichée",
       "de": "Willkommen angezeigt",
-	  "pl": ""
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.TOSAccepted.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Terms of Service Accepted",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "Defaults.ChartsSwipeInstructionWasShown.title",
@@ -599,6 +611,18 @@
       "fr": "Demander un avis si le lancement de l'application est divisible par",
       "de": "Überprüfung fragen, ob App-Start teilbar durch",
 	  "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.ShowAlertRangeInGraph.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show alert range in graph",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
@@ -10453,6 +10477,30 @@
       "fr": "Suivant",
       "de": "Nächste",
 	  "pl": ""
+    },
+    {
+      "ident_ios": "onboarding_start_tos_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "I accept Terms and Conditions and Privacy Policy",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "onboarding_start_tos_link",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Terms and Conditions and Privacy Policy",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "",
