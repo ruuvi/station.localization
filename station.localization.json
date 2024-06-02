@@ -442,7 +442,19 @@
       "sv": "Välkomst Visad",
       "fr": "La présentation est affichée",
       "de": "Willkommen angezeigt",
-	  "pl": ""
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.TOSAccepted.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Terms of Service Accepted",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "Defaults.ChartsSwipeInstructionWasShown.title",
@@ -599,6 +611,18 @@
       "fr": "Demander un avis si le lancement de l'application est divisible par",
       "de": "Überprüfung fragen, ob App-Start teilbar durch",
 	  "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.ShowAlertRangeInGraph.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show alert range in graph",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
@@ -10455,6 +10479,30 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "onboarding_start_tos_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "I accept Terms and Conditions and Privacy Policy",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "onboarding_start_tos_link",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Terms and Conditions and Privacy Policy",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "signed_in_user",
       "ident_webui": "signed_in_user",
@@ -12379,7 +12427,7 @@
       "ident_android": "",
       "ident_webui": "share_center",
       "en": "Share center",
-      "fi": "Jako keskus",
+      "fi": "Jakokeskus",
       "ru": "",
       "sv": "Delningscenter",
       "fr": "Centre de partage",
@@ -12390,49 +12438,49 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center_subtitle",
-      "en": "Share your sensors with others",
-      "fi": "Jaa anturisi muiden kanssa",
+      "en": "Share your sensors with other Ruuvi Cloud users and manage the sensor sharing settings",
+      "fi": "Jaa antureitasi muiden Ruuvi Cloud -käyttäjien kanssa ja hallitse antureiden jakoasetuksia",
       "ru": "",
-      "sv": "Dela dina sensorer med andra",
-      "fr": "Partagez vos capteurs avec d'autres",
-      "de": "Teilen Sie Ihre Sensoren mit anderen",
-      "pl": "Udostępnij swoje czujniki innym"
+      "sv": "Dela dina sensorer med andra Ruuvi Cloud-användare och hantera inställningar för sensordelning",
+      "fr": "Partagez vos capteurs avec d'autres utilisateurs de Ruuvi Cloud et gérez les paramètres de partage de capteurs",
+      "de": "Teilen Sie Ihre Sensoren mit anderen Ruuvi Cloud-Benutzern und verwalten Sie die Einstellungen für die Sensorfreigabe",
+      "pl": "Udostępnij swoje czujniki innym użytkownikom Ruuvi Cloud i zarządzaj ustawieniami udostępniania czujników"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center_description",
-      "en": "Share your sensor data securely and easily.",
-      "fi": "Jaa anturidatasi turvallisesti ja helposti.",
+      "en": "Share your sensors securely and easily with other Ruuvi Cloud users.",
+      "fi": "Jaa anturisi turvallisesti ja helposti muille Ruuvi Cloud -käyttäjille.",
       "ru": "",
-      "sv": "Dela din sensordata säkert och enkelt.",
-      "fr": "Partagez vos données de capteur en toute sécurité et facilement.",
-      "de": "Teilen Sie Ihre Sensordaten sicher und einfach.",
-      "pl": "Udostępniaj dane z czujników bezpiecznie i łatwo."
+      "sv": "Dela dina sensorer säkert och enkelt med andra Ruuvi Cloud-användare.",
+      "fr": "Partagez vos capteurs en toute sécurité et facilement avec d'autres utilisateurs de Ruuvi Cloud.",
+      "de": "Teilen Sie Ihre Sensoren sicher und einfach mit anderen Ruuvi Cloud-Benutzern.",
+      "pl": "Udostępnij swój czujnik bezpiecznie i łatwo innym użytkownikom Ruuvi Cloud."
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "shared_by_me",
-      "en": "Shared by me",
-      "fi": "Minun jakamani",
+      "en": "Sensors shared by me",
+      "fi": "Jakamani anturit",
       "ru": "",
-      "sv": "Delat av mig",
-      "fr": "Partagé par moi",
-      "de": "Von mir geteilt",
-      "pl": "Udostępnione przeze mnie"
+      "sv": "Sensorer som delas av mig",
+      "fr": "Capteurs partagés par moi",
+      "de": "Von mir freigegebene Sensoren",
+      "pl": "Czujniki udostępnione przeze mnie"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "shared_to_me",
-      "en": "Shared to me",
-      "fi": "Minulle jaettu",
+      "en": "Sensors shared to me",
+      "fi": "Minulle jaetut anturit",
       "ru": "",
-      "sv": "Delat till mig",
-      "fr": "Partagé avec moi",
-      "de": "Mit mir geteilt",
-      "pl": "Udostępnione mi"
+      "sv": "Sensorer delade till mig",
+      "fr": "Capteurs partagés avec moi",
+      "de": "Mit mir geteilte Sensoren",
+      "pl": "Czujniki udostępnione mi"
     },
     {
       "ident_ios": "",
@@ -12450,32 +12498,32 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "sensor_shared_to_email",
-      "en": "{} shared to {}",
-      "fi": "{} jaettu {}",
+      "en": "Sensor {} shared to {}",
+      "fi": "Anturi {} jaettu {}",
       "ru": "",
-      "sv": "{} delat till {}",
-      "fr": "{} partagé à {}",
-      "de": "{} geteilt mit {}",
-      "pl": "{} udostępnione do {}"
+      "sv": "Sensor {} delat till {}",
+      "fr": "Capteur {} partagé à {}",
+      "de": "Sensor {} geteilt mit {}",
+      "pl": "Czujnik {} udostępnione do {}"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "sensor_not_shared_to_email",
-      "en": "{} not shared to {}",
-      "fi": "{} ei jaettu {}",
+      "en": "Sensor {} not shared to {}",
+      "fi": "Anturia {} ei jaettu {}",
       "ru": "",
-      "sv": "{} inte delat till {}",
-      "fr": "{} pas partagé à {}",
-      "de": "{} nicht geteilt mit {}",
-      "pl": "{} nie udostępnione do {}"
+      "sv": "Sensor {} inte delat till {}",
+      "fr": "Capteur {} pas partagé à {}",
+      "de": "Sensor {} nicht geteilt mit {}",
+      "pl": "Czujnik {} nie udostępnione do {}"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_result",
       "en": "Share result",
-      "fi": "Jaa tulos",
+      "fi": "Jakoraportti",
       "ru": "",
       "sv": "Dela resultat",
       "fr": "Partager le résultat",
@@ -12493,6 +12541,30 @@
       "fr": "Capteur supprimé",
       "de": "Sensor entfernt",
       "pl": "Usunięto czujnik"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_shared_by_me_description",
+      "en": "Below is a list of sensors you have shared with others via Ruuvi Cloud.",
+      "fi": "Alla on luettelo antureista, jotka olet jakanut muille Ruuvi Cloudin kautta.",
+      "ru": "",
+      "sv": "Nedan finns en lista över sensorer som du har delat med andra via Ruuvi Cloud.",
+      "fr": "Vous trouverez ci-dessous une liste des capteurs que vous avez partagés avec d'autres via Ruuvi Cloud.",
+      "de": "Nachfolgend finden Sie eine Liste der Sensoren, die Sie über Ruuvi Cloud mit anderen geteilt haben.",
+      "pl": "Poniżej znajduje się lista czujników, które udostępniłeś innym za pośrednictwem Ruuvi Cloud."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_shared_with_me_description",
+      "en": "Below is a list of the sensors shared to you via Ruuvi Cloud, including the associated owner's email addresses and subscription level.",
+      "fi": "Alla on luettelo sinulle Ruuvi Cloudin kautta jaetuista antureista sekä niihin liittyvien omistajien sähköpostiosoitteet ja tilaustaso.",
+      "ru": "",
+      "sv": "Nedan finns en lista över de sensorer som distribueras till dig via Ruuvi Cloud, samt e-postadresser och abonnemangsnivå för associerade ägare.",
+      "fr": "Vous trouverez ci-dessous une liste des capteurs qui vous sont distribués via Ruuvi Cloud, ainsi que les adresses e-mail et le niveau d'abonnement des propriétaires associés.",
+      "de": "Nachfolgend finden Sie eine Liste der über Ruuvi Cloud an Sie verteilten Sensoren sowie die E-Mail-Adressen und die Abonnementstufe der zugehörigen Eigentümer.",
+      "pl": "Poniżej znajduje się lista czujników dystrybuowanych do Ciebie za pośrednictwem Ruuvi Cloud, a także adresy e-mail i poziom subskrypcji powiązanych właścicieli."
     }
   ]
 }
