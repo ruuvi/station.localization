@@ -11307,6 +11307,30 @@
       "pl": "Pokaż tekst włączania/wyłączania obok przełącznika"
     },
     {
+      "ident_ios": "Defaults.ShowAlertRangeInCharts.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show alert range in charts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.UseNewChart.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Use improved chart",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
@@ -12426,37 +12450,37 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center",
-      "en": "Share center",
-      "fi": "Jakokeskus",
+      "en": "Share Sensors",
+      "fi": "Jaa antureita",
       "ru": "",
-      "sv": "Delningscenter",
-      "fr": "Centre de partage",
-      "de": "Freigabezentrum",
-      "pl": "Centrum udostępniania"
+      "sv": "Dela sensorer",
+      "fr": "Partager des capteurs",
+      "de": "Sensoren teilen",
+      "pl": "Udostępnij czujniki"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center_subtitle",
-      "en": "Share your sensors with other Ruuvi Cloud users and manage the sensor sharing settings",
-      "fi": "Jaa antureitasi muiden Ruuvi Cloud -käyttäjien kanssa ja hallitse antureiden jakoasetuksia",
+      "en": "Share your sensors with other Ruuvi users and manage the sensor sharing settings",
+      "fi": "Jaa antureitasi muiden Ruuvi-käyttäjien kanssa ja hallitse antureiden jakoasetuksia",
       "ru": "",
-      "sv": "Dela dina sensorer med andra Ruuvi Cloud-användare och hantera inställningar för sensordelning",
-      "fr": "Partagez vos capteurs avec d'autres utilisateurs de Ruuvi Cloud et gérez les paramètres de partage de capteurs",
-      "de": "Teilen Sie Ihre Sensoren mit anderen Ruuvi Cloud-Benutzern und verwalten Sie die Einstellungen für die Sensorfreigabe",
-      "pl": "Udostępnij swoje czujniki innym użytkownikom Ruuvi Cloud i zarządzaj ustawieniami udostępniania czujników"
+      "sv": "Dela dina sensorer med andra Ruuvi-användare och hantera inställningar för sensordelning",
+      "fr": "Partagez vos capteurs avec d'autres utilisateurs de Ruuvi et gérez les paramètres de partage de capteurs",
+      "de": "Teilen Sie Ihre Sensoren mit anderen Ruuvi-Benutzern und verwalten Sie die Einstellungen für die Sensorfreigabe",
+      "pl": "Udostępnij swoje czujniki innym użytkownikom Ruuvi i zarządzaj ustawieniami udostępniania czujników"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center_description",
-      "en": "Share your sensors securely and easily with other Ruuvi Cloud users.",
-      "fi": "Jaa anturisi turvallisesti ja helposti muille Ruuvi Cloud -käyttäjille.",
+      "en": "Select one or more sensors from the list, enter the email addresses to share with, and tap Add. You can add multiple email addresses at once. To share, tap the Share button.",
+      "fi": "Valitse yksi tai useampi anturi listasta, syötä sähköpostiosoitteet ja napauta Lisää. Voit lisätä useita sähköpostiosoitteita kerralla. Jaa napauttamalla Jaa-painiketta.",
       "ru": "",
-      "sv": "Dela dina sensorer säkert och enkelt med andra Ruuvi Cloud-användare.",
-      "fr": "Partagez vos capteurs en toute sécurité et facilement avec d'autres utilisateurs de Ruuvi Cloud.",
-      "de": "Teilen Sie Ihre Sensoren sicher und einfach mit anderen Ruuvi Cloud-Benutzern.",
-      "pl": "Udostępnij swój czujnik bezpiecznie i łatwo innym użytkownikom Ruuvi Cloud."
+      "sv": "Välj en eller flera sensorer från listan, ange e-postadresserna att dela med och tryck på Lägg till. Du kan lägga till flera e-postadresser samtidigt. För att dela, tryck på Dela-knappen.",
+      "fr": "Sélectionnez un ou plusieurs capteurs dans la liste, entrez les adresses e-mail pour partager, puis appuyez sur Ajouter. Vous pouvez ajouter plusieurs adresses e-mail à la fois. Pour partager, appuyez sur le bouton Partager.",
+      "de": "Wählen Sie einen oder mehrere Sensoren aus der Liste aus, geben Sie die E-Mail-Adressen ein, mit denen Sie teilen möchten, und tippen Sie auf Hinzufügen. Sie können mehrere E-Mail-Adressen auf einmal hinzufügen. Zum Teilen tippen Sie auf die Schaltfläche Teilen.",
+      "pl": "Wybierz jeden lub więcej czujników z listy, wprowadź adresy e-mail, aby udostępnić, i naciśnij Dodaj. Możesz dodać wiele adresów e-mail naraz. Aby udostępnić, naciśnij przycisk Udostępnij."
     },
     {
       "ident_ios": "",
@@ -12522,13 +12546,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_result",
-      "en": "Share result",
-      "fi": "Jakoraportti",
+      "en": "Report",
+      "fi": "Raportti",
       "ru": "",
-      "sv": "Dela resultat",
-      "fr": "Partager le résultat",
-      "de": "Ergebnis teilen",
-      "pl": "Udostępnij wynik"
+      "sv": "Rapportera",
+      "fr": "Rapport",
+      "de": "Bericht",
+      "pl": "Raport"
     },
     {
       "ident_ios": "",
@@ -12546,25 +12570,25 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "sensor_shared_by_me_description",
-      "en": "Below is a list of sensors you have shared with others via Ruuvi Cloud.",
-      "fi": "Alla on luettelo antureista, jotka olet jakanut muille Ruuvi Cloudin kautta.",
+      "en": "Below is a list of sensors you have shared with others. To remove a share, choose X. After removing the share, the respective sensor will be removed from the recipient's app and it will become instantly unaccessible for the user.",
+      "fi": "Alla on luettelo antureista, jotka olet jakanut muiden kanssa. Poistaaksesi jaon, valitse X. Jaon poistamisen jälkeen kyseinen anturi poistetaan vastaanottajan sovelluksesta eikä käyttäjä pääse enää lukemaan sen tietoja.",
       "ru": "",
-      "sv": "Nedan finns en lista över sensorer som du har delat med andra via Ruuvi Cloud.",
-      "fr": "Vous trouverez ci-dessous une liste des capteurs que vous avez partagés avec d'autres via Ruuvi Cloud.",
-      "de": "Nachfolgend finden Sie eine Liste der Sensoren, die Sie über Ruuvi Cloud mit anderen geteilt haben.",
-      "pl": "Poniżej znajduje się lista czujników, które udostępniłeś innym za pośrednictwem Ruuvi Cloud."
+      "sv": "Nedan finns en lista över sensorer du har delat med andra. För att ta bort en delning, välj X. Efter att delningen har tagits bort kommer den respektive sensorn att tas bort från mottagarens app och bli omedelbart otillgänglig för användaren.",
+      "fr": "Ci-dessous se trouve une liste des capteurs que vous avez partagés avec d'autres. Pour supprimer un partage, choisissez X. Après la suppression du partage, le capteur concerné sera retiré de l'application du destinataire et deviendra immédiatement inaccessible pour l'utilisateur.",
+      "de": "Unten finden Sie eine Liste der Sensoren, die Sie mit anderen geteilt haben. Um eine Freigabe zu entfernen, wählen Sie X. Nach dem Entfernen der Freigabe wird der jeweilige Sensor aus der App des Empfängers entfernt und ist für den Benutzer sofort unzugänglich.",
+      "pl": "Poniżej znajduje się lista czujników, które udostępniłeś innym. Aby usunąć udostępnienie, wybierz X. Po usunięciu udostępnienia dany czujnik zostanie usunięty z aplikacji odbiorcy i stanie się natychmiast niedostępny dla użytkownika."
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "sensor_shared_with_me_description",
-      "en": "Below is a list of the sensors shared to you via Ruuvi Cloud, including the associated owner's email addresses and subscription level.",
-      "fi": "Alla on luettelo sinulle Ruuvi Cloudin kautta jaetuista antureista sekä niihin liittyvien omistajien sähköpostiosoitteet ja tilaustaso.",
+      "en": "Below is a list of sensors shared with you, along with the owner's email addresses and subscription levels. To remove a share, choose X. The respective sensor will be removed from the app.",
+      "fi": "Alla on luettelo antureista, jotka on jaettu sinulle, sekä omistajien sähköpostiosoitteet ja tilausasetukset. Poistaaksesi jaon, valitse X. Kyseinen anturi poistetaan sovelluksesta.",
       "ru": "",
-      "sv": "Nedan finns en lista över de sensorer som distribueras till dig via Ruuvi Cloud, samt e-postadresser och abonnemangsnivå för associerade ägare.",
-      "fr": "Vous trouverez ci-dessous une liste des capteurs qui vous sont distribués via Ruuvi Cloud, ainsi que les adresses e-mail et le niveau d'abonnement des propriétaires associés.",
-      "de": "Nachfolgend finden Sie eine Liste der über Ruuvi Cloud an Sie verteilten Sensoren sowie die E-Mail-Adressen und die Abonnementstufe der zugehörigen Eigentümer.",
-      "pl": "Poniżej znajduje się lista czujników dystrybuowanych do Ciebie za pośrednictwem Ruuvi Cloud, a także adresy e-mail i poziom subskrypcji powiązanych właścicieli."
+      "sv": "Nedan finns en lista över sensorer som har delats med dig, tillsammans med ägarens e-postadresser och prenumerationsnivåer. För att ta bort en delning, välj X. Den respektive sensorn kommer att tas bort från appen.",
+      "fr": "Ci-dessous se trouve une liste des capteurs partagés avec vous, ainsi que les adresses e-mail des propriétaires et les niveaux d'abonnement. Pour supprimer un partage, choisissez X. Le capteur concerné sera supprimé de l'application.",
+      "de": "Unten finden Sie eine Liste der Sensoren, die mit Ihnen geteilt wurden, zusammen mit den E-Mail-Adressen der Eigentümer und den Abonnementstufen. Um eine Freigabe zu entfernen, wählen Sie X. Der entsprechende Sensor wird aus der App entfernt.",
+      "pl": "Poniżej znajduje się lista czujników udostępnionych Tobie, wraz z adresami e-mail właścicieli i poziomami subskrypcji. Aby usunąć udostępnienie, wybierz X. Odpowiedni czujnik zostanie usunięty z aplikacji."
     }
   ]
 }
