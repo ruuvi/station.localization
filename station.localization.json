@@ -11307,6 +11307,30 @@
       "pl": "Pokaż tekst włączania/wyłączania obok przełącznika"
     },
     {
+      "ident_ios": "Defaults.ShowAlertRangeInCharts.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show alert range in charts",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.UseNewChart.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Use improved chart",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
