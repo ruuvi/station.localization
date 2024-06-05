@@ -12589,6 +12589,18 @@
       "fr": "Ci-dessous se trouve une liste des capteurs partagés avec vous, ainsi que les adresses e-mail des propriétaires et les niveaux d'abonnement. Pour supprimer un partage, choisissez X. Le capteur concerné sera supprimé de l'application.",
       "de": "Unten finden Sie eine Liste der Sensoren, die mit Ihnen geteilt wurden, zusammen mit den E-Mail-Adressen der Eigentümer und den Abonnementstufen. Um eine Freigabe zu entfernen, wählen Sie X. Der entsprechende Sensor wird aus der App entfernt.",
       "pl": "Poniżej znajduje się lista czujników udostępnionych Tobie, wraz z adresami e-mail właścicieli i poziomami subskrypcji. Aby usunąć udostępnienie, wybierz X. Odpowiedni czujnik zostanie usunięty z aplikacji."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "remove_sensor_confirmation_title",
+      "en": "Remove sensor",
+      "fi": "Poista anturi",
+      "ru": "",
+      "sv": "Ta bort sensor",
+      "fr": "Supprimer le capteur",
+      "de": "Sensor entfernen",
+      "pl": "Usuń czujnik"
     }
   ]
 }
