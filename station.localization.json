@@ -10483,24 +10483,24 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "I accept Terms of Service and Privacy Policy. I also approve that Ruuvi may collect anonymous usage data for development purposes.",
-      "fi": "",
+      "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön. Hyväksyn myös, että Ruuvi voi kerätä nimettömiä käyttötietoja sovelluksen kehittämiseksi.",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Jag accepterar villkoren och integritetspolicyn. Jag godkänner också att Ruuvi kan samla in anonym användningsdata för utvecklingsändamål.",
+      "fr": "J'accepte les Conditions d'utilisation et la Politique de confidentialité. J'approuve également que Ruuvi puisse collecter des données d'utilisation anonymes à des fins de développement.",
+      "de": "Ich akzeptiere die Nutzungsbedingungen und die Datenschutzerklärung. Ich stimme auch zu, dass Ruuvi anonyme Nutzungsdaten zu Entwicklungszwecken sammeln darf.",
+      "pl": "Akceptuję Warunki użytkowania i Politykę prywatności. Zgadzam się również, aby Ruuvi mogło zbierać anonimowe dane o użytkowaniu w celach rozwojowych."
     },
     {
       "ident_ios": "onboarding_start_tos_link_markup",
       "ident_android": "",
       "ident_webui": "",
       "en": "Terms of Service and Privacy Policy",
-      "fi": "",
+      "fi": "Yleiset myynti- ja käyttöehdot sekä yksityisyyskäytäntö",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Användarvillkor och integritetspolicy",
+      "fr": "Conditions d'utilisation et politique de confidentialité",
+      "de": "Nutzungsbedingungen und Datenschutzerklärung",
+      "pl": "Warunki użytkowania i polityka prywatności"
     },
     {
       "ident_ios": "onboarding_start_tos_link",
@@ -10509,10 +10509,10 @@
       "en": "https://ruuvi.com/privacy",
       "fi": "https://ruuvi.com/fi/privacy",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "https://ruuvi.com/privacy",
+      "fr": "https://ruuvi.com/privacy",
+      "de": "https://ruuvi.com/privacy",
+      "pl": "https://ruuvi.com/privacy"
     },
     {
       "ident_ios": "",
