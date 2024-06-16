@@ -9867,18 +9867,6 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "export_csv_feature_location",
-      "ident_android": "export_csv_feature_location",
-      "ident_webui": "",
-      "en": "You can export a sensor's history from its history graph page. Tap the three dots menu icon in the top right corner, and then select \\\"Export history (csv)\\\".",
-      "fi": "Anturihistoria voidaan viedä tiedostoon anturin historiasivulla. Napauta oikeassa yläkulmassa olevaa kolmipistevalikkoa ja valitse sitten \\\"Lataa historia (csv)\\\".",
-      "ru": "",
-      "sv": "Du kan exportera sensorns historik från dess historiagramsida. Tryck på tre punkters menyikon i övre högra hörnet, och välj sedan \\\"Exportera historik (csv)\\\".",
-      "fr": "Vous pouvez exporter l'historique d'un capteur à partir de sa page graphique d'historique. Appuyez sur l'icône de menu à trois points dans le coin supérieur droit, puis sélectionnez \\\"Exporter l'historique (csv)\\\".",
-      "de": "Sie können den Verlauf eines Sensors von seiner Verlaufsgrafikseite aus exportieren. Tippen Sie auf das Drei-Punkte-Menüsymbol in der oberen rechten Ecke und wählen Sie dann \\\"Verlauf exportieren (csv)\\\".",
-	  "pl": ""
-    },
-    {
       "ident_ios": "low_battery",
       "ident_android": "low_battery",
       "ident_webui": "low_battery",
