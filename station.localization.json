@@ -11847,7 +11847,7 @@
       "pl": "Włącz powiadomienie o alercie Bluetooth tylko raz na godzinę, nawet jeśli alert został uruchomiony ponownie."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "move_up",
       "ident_android": "",
       "ident_webui": "move_up",
       "en": "Move up",
@@ -11859,7 +11859,7 @@
       "pl": "Przesuń w górę"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "move_down",
       "ident_android": "",
       "ident_webui": "move_down",
       "en": "Move down",
