@@ -7599,7 +7599,7 @@
 	  "pl": "Czujnik udostępniony pomyślnie"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.General.title",
+      "ident_ios": "",
       "ident_android": "general",
       "ident_webui": "general",
       "en": "General",
@@ -9867,18 +9867,6 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "export_csv_feature_location",
-      "ident_android": "export_csv_feature_location",
-      "ident_webui": "",
-      "en": "You can export a sensor's history from its history graph page. Tap the three dots menu icon in the top right corner, and then select \\\"Export history (csv)\\\".",
-      "fi": "Anturihistoria voidaan viedä tiedostoon anturin historiasivulla. Napauta oikeassa yläkulmassa olevaa kolmipistevalikkoa ja valitse sitten \\\"Lataa historia (csv)\\\".",
-      "ru": "",
-      "sv": "Du kan exportera sensorns historik från dess historiagramsida. Tryck på tre punkters menyikon i övre högra hörnet, och välj sedan \\\"Exportera historik (csv)\\\".",
-      "fr": "Vous pouvez exporter l'historique d'un capteur à partir de sa page graphique d'historique. Appuyez sur l'icône de menu à trois points dans le coin supérieur droit, puis sélectionnez \\\"Exporter l'historique (csv)\\\".",
-      "de": "Sie können den Verlauf eines Sensors von seiner Verlaufsgrafikseite aus exportieren. Tippen Sie auf das Drei-Punkte-Menüsymbol in der oberen rechten Ecke und wählen Sie dann \\\"Verlauf exportieren (csv)\\\".",
-	  "pl": ""
-    },
-    {
       "ident_ios": "low_battery",
       "ident_android": "low_battery",
       "ident_webui": "low_battery",
@@ -9891,7 +9879,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "change_background_image",
+      "ident_ios": "",
       "ident_android": "change_background_image",
       "ident_webui": "",
       "en": "Change background image",
@@ -10080,18 +10068,6 @@
       "sv": "Vald sensortyp",
       "fr": "Type de capteur sélectionné",
       "de": "Ausgewählter Sensortyp",
-	  "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SectionHeader.General.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "GENERAL",
-      "fi": "YLEISET",
-      "ru": "ОСНОВНЫЕ",
-      "sv": "ALLMÄNT",
-      "fr": "GÉNÉRAL",
-      "de": "ALLGEMEINES",
 	  "pl": ""
     },
     {
@@ -11859,7 +11835,7 @@
       "pl": "Włącz powiadomienie o alercie Bluetooth tylko raz na godzinę, nawet jeśli alert został uruchomiony ponownie."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "move_up",
       "ident_android": "",
       "ident_webui": "move_up",
       "en": "Move up",
@@ -11871,7 +11847,7 @@
       "pl": "Przesuń w górę"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "move_down",
       "ident_android": "",
       "ident_webui": "move_down",
       "en": "Move down",
