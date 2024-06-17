@@ -7599,7 +7599,7 @@
 	  "pl": "Czujnik udostępniony pomyślnie"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.General.title",
+      "ident_ios": "",
       "ident_android": "general",
       "ident_webui": "general",
       "en": "General",
@@ -9879,7 +9879,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "change_background_image",
+      "ident_ios": "",
       "ident_android": "change_background_image",
       "ident_webui": "",
       "en": "Change background image",
@@ -10068,18 +10068,6 @@
       "sv": "Vald sensortyp",
       "fr": "Type de capteur sélectionné",
       "de": "Ausgewählter Sensortyp",
-	  "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SectionHeader.General.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "GENERAL",
-      "fi": "YLEISET",
-      "ru": "ОСНОВНЫЕ",
-      "sv": "ALLMÄNT",
-      "fr": "GÉNÉRAL",
-      "de": "ALLGEMEINES",
 	  "pl": ""
     },
     {
