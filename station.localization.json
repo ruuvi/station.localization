@@ -11836,7 +11836,7 @@
     },
     {
       "ident_ios": "move_up",
-      "ident_android": "",
+      "ident_android": "move_up",
       "ident_webui": "move_up",
       "en": "Move up",
       "fi": "Siirrä ylös",
@@ -11848,7 +11848,7 @@
     },
     {
       "ident_ios": "move_down",
-      "ident_android": "",
+      "ident_android": "move_down",
       "ident_webui": "move_down",
       "en": "Move down",
       "fi": "Siirrä alas",
