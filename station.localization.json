@@ -794,7 +794,7 @@
     },
     {
       "ident_ios": "ExportService.Date",
-      "ident_android": "",
+      "ident_android": "date",
       "ident_webui": "date",
       "en": "Date",
       "fi": "Päivämäärä",
@@ -9133,6 +9133,18 @@
       "fr": "Exportation de l'historique (csv)",
       "de": "Verlauf exportieren (csv)",
 	  "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "export_history_xlsx",
+      "ident_webui": "",
+      "en": "Export history (xlsx)",
+      "fi": "Lataa historia (xlsx)",
+      "ru": "Выгрузить историю (xlsx)",
+      "sv": "Exportera historik (xlsx)",
+      "fr": "Exportation de l'historique (xlsx)",
+      "de": "Verlauf exportieren (xlsx)",
+      "pl": ""
     },
     {
       "ident_ios": "clear_view",
