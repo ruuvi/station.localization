@@ -12606,13 +12606,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "my_sensors",
-      "en": "My Sensors",
-      "fi": "Omat anturit",
+      "en": "Sensors",
+      "fi": "Anturit",
       "ru": "",
-      "sv": "Mina sensorer",
-      "fr": "Mes capteurs",
-      "de": "Meine Sensoren",
-      "pl": "Moje czujniki"
+      "sv": "Sensorer",
+      "fr": "Capteurs",
+      "de": "Sensoren",
+      "pl": "Czujniki"
     },
     {
       "ident_ios": "",
