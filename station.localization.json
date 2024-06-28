@@ -12738,13 +12738,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "my_profile",
-      "en": "My Ruuvi Account",
-      "fi": "Minun Ruuvi-tilini",
+      "en": "My Profile",
+      "fi": "Profiilini",
       "ru": "",
-      "sv": "Mitt Ruuvi-konto",
-      "fr": "Mon compte Ruuvi",
-      "de": "Mein Ruuvi Konto",
-      "pl": "Moje konto Ruuvi"
+      "sv": "Min profil",
+      "fr": "Mon profil",
+      "de": "Mein Profil",
+      "pl": "Mój profil"
     }
   ]
 }
