@@ -12667,7 +12667,7 @@
       "ident_android": "",
       "ident_webui": "switch_to_dark_mode",
       "en": "Switch to dark mode",
-      "fi": "Vaihda pimeään tilaan",
+      "fi": "Vaihda tummaan teemaan",
       "ru": "",
       "sv": "Byt till mörkt läge",
       "fr": "Passer en mode sombre",
@@ -12679,7 +12679,7 @@
       "ident_android": "",
       "ident_webui": "switch_to_light_mode",
       "en": "Switch to light mode",
-      "fi": "Vaihda vaaleaan tilaan",
+      "fi": "Vaihda vaaleaan teemaan",
       "ru": "",
       "sv": "Byt till ljust läge",
       "fr": "Passer en mode clair",
@@ -12690,13 +12690,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "all_my_sensors",
-      "en": "All my sensors",
+      "en": "All Sensors",
       "fi": "Kaikki anturit",
       "ru": "",
-      "sv": "Alla mina sensorer",
-      "fr": "Tous mes capteurs",
-      "de": "Alle meine Sensoren",
-      "pl": "Wszystkie moje czujniki"
+      "sv": "Alla sensorer",
+      "fr": "Tous les capteurs",
+      "de": "Alle Sensoren",
+      "pl": "Wszystkie czujniki"
     },
     {
       "ident_ios": "",
@@ -12715,7 +12715,7 @@
       "ident_android": "",
       "ident_webui": "share_sensors",
       "en": "Share Sensors",
-      "fi": "Jaa anturit",
+      "fi": "Jaa antureita",
       "ru": "",
       "sv": "Dela sensorer",
       "fr": "Partager les capteurs",
@@ -12726,25 +12726,25 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "app_settings",
-      "en": "App Settings",
-      "fi": "Sovelluksen asetukset",
+      "en": "Settings",
+      "fi": "Asetukset",
       "ru": "",
-      "sv": "Appinställningar",
-      "fr": "Paramètres de l'application",
-      "de": "App-Einstellungen",
-      "pl": "Ustawienia aplikacji"
+      "sv": "Inställningar",
+      "fr": "Paramètres",
+      "de": "Einstellungen",
+      "pl": "Ustawienia"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "my_profile",
-      "en": "My Profile",
-      "fi": "Profiilini",
+      "en": "My Ruuvi Account",
+      "fi": "Minun Ruuvi-tilini",
       "ru": "",
-      "sv": "Min profil",
-      "fr": "Mon profil",
-      "de": "Mein Profil",
-      "pl": "Mój profil"
+      "sv": "Mitt Ruuvi-konto",
+      "fr": "Mon compte Ruuvi",
+      "de": "Mein Ruuvi Konto",
+      "pl": "Moje konto Ruuvi"
     }
   ]
 }
