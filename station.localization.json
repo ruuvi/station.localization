@@ -10470,13 +10470,13 @@
       "ident_ios": "onboarding_start_tos_title",
       "ident_android": "",
       "ident_webui": "",
-      "en": "I accept Terms of Service and Privacy Policy. I also approve that Ruuvi may collect anonymous usage data for development purposes.",
-      "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön. Hyväksyn myös, että Ruuvi voi kerätä nimettömiä käyttötietoja sovelluksen kehittämiseksi.",
+      "en": "I accept Terms of Service and Privacy Policy.",
+      "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön.",
       "ru": "",
-      "sv": "Jag accepterar villkoren och integritetspolicyn. Jag godkänner också att Ruuvi kan samla in anonym användningsdata för utvecklingsändamål.",
-      "fr": "J'accepte les Conditions d'utilisation et la Politique de confidentialité. J'approuve également que Ruuvi puisse collecter des données d'utilisation anonymes à des fins de développement.",
-      "de": "Ich akzeptiere die Nutzungsbedingungen und die Datenschutzerklärung. Ich stimme auch zu, dass Ruuvi anonyme Nutzungsdaten zu Entwicklungszwecken sammeln darf.",
-      "pl": "Akceptuję Warunki użytkowania i Politykę prywatności. Zgadzam się również, aby Ruuvi mogło zbierać anonimowe dane o użytkowaniu w celach rozwojowych."
+      "sv": "Jag accepterar villkoren och integritetspolicyn.",
+      "fr": "J'accepte les Conditions d'utilisation et la Politique de confidentialité.",
+      "de": "Ich akzeptiere die Nutzungsbedingungen und die Datenschutzerklärung.",
+      "pl": "Akceptuję Warunki użytkowania i Politykę prywatności."
     },
     {
       "ident_ios": "onboarding_start_tos_link_markup",
@@ -10501,6 +10501,18 @@
       "fr": "https://ruuvi.com/privacy",
       "de": "https://ruuvi.com/privacy",
       "pl": "https://ruuvi.com/privacy"
+    },
+    {
+      "ident_ios": "onboarding_start_anonymous_data_collection_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "I want to help Ruuvi by sharing anonymous statistics to improve app performance and stability",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "",
