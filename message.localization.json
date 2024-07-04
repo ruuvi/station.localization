@@ -1,21 +1,21 @@
 {
   "messageTemplates": {
     "alert_temperature_over": {
-      "en": "{{name}}\n\nRuuvi Temperature Alert\n\n{{#if alertData}} {{alertData}}{{else}}The temperature has reached {{currentValue}}{{alertUnit_symbol}} which is above the threshold of {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
+      "en": "{{name}}\n\n{{#if alertData}} {{alertData}}{{else}}Temperature above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nRuuvi Lämpöhälytys\n\n{{#if alertData}} {{alertData}}{{else}}Lämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "sv": "{{name}}\n\nRuuvi Temperaturvarning\n\n{{#if alertData}} {{alertData}}{{else}}Temperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "fr": "{{name}}\n\nAlerte de Température Ruuvi \n\n{{#if alertData}} {{alertData}}{{else}}La température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "de": "{{name}}\n\nRuuvi Temperaturwarnung\n\n{{#if alertData}} {{alertData}}{{else}}Die Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt.{{/if}}"
     },
     "alert_temperature_under": {
-      "en": "{{name}}\n\nRuuvi Temperature Alert\n\n{{#if alertData}} {{alertData}}{{else}}The temperature has reached {{currentValue}}{{alertUnit_symbol}} which is below the threshold of {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
+      "en": "{{name}}\n\n{{#if alertData}} {{alertData}}{{else}}Temperature below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nRuuvi Lämpöhälytys\n\n{{#if alertData}} {{alertData}}{{else}}Lämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "sv": "{{name}}\n\nRuuvi Temperaturvarning\n\n{{#if alertData}} {{alertData}}{{else}}Temperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "fr": "{{name}}\n\nAlerte de Température Ruuvi \n\n{{#if alertData}} {{alertData}}{{else}}La température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "de": "{{name}}\n\nRuuvi Temperaturwarnung\n\n{{#if alertData}} {{alertData}}{{else}}Die Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht, was unter dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt.{{/if}}"
     },
     "alert_temperature_resolved": {
-      "en": "{{name}}\n\nRuuvi Temperature Alert Resolved\n\nThe temperature has returned to the allowed range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current temperature: {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nTemperature resolved\n\nTemperature has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current temperature: {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nRuuvi Lämpöhälytys Ratkaistu\n\nLämpötila on palannut sallittuun alueeseen {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen lämpötila: {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nRuuvi Temperaturvarning Återställd\n\nTemperaturen har återgått till det tillåtna intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande temperatur: {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de Température Ruuvi Résolue \n\nLa température est revenue dans la plage autorisée de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Température actuelle : {{currentValue}}{{alertUnit_symbol}}.",
