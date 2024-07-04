@@ -10468,7 +10468,7 @@
     },
     {
       "ident_ios": "onboarding_start_tos_title",
-      "ident_android": "",
+      "ident_android": "onboarding_start_tos_title",
       "ident_webui": "",
       "en": "I accept Terms of Service and Privacy Policy.",
       "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön.",
@@ -10480,7 +10480,7 @@
     },
     {
       "ident_ios": "onboarding_start_tos_link_markup",
-      "ident_android": "",
+      "ident_android": "onboarding_start_tos_link_markup",
       "ident_webui": "",
       "en": "Terms of Service and Privacy Policy",
       "fi": "yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön",
@@ -10492,7 +10492,7 @@
     },
     {
       "ident_ios": "onboarding_start_tos_link",
-      "ident_android": "",
+      "ident_android": "onboarding_start_tos_link",
       "ident_webui": "",
       "en": "https://ruuvi.com/privacy",
       "fi": "https://ruuvi.com/fi/tietosuoja",
@@ -10504,7 +10504,7 @@
     },
     {
       "ident_ios": "onboarding_start_anonymous_data_collection_title",
-      "ident_android": "",
+      "ident_android": "onboarding_start_anonymous_data_collection_title",
       "ident_webui": "",
       "en": "I want to help Ruuvi by sharing anonymous statistics to improve app performance and stability",
       "fi": "",
