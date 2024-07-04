@@ -11343,6 +11343,42 @@
       "pl": ""
     },
     {
+      "ident_ios": "Defaults.HistorySyncLegacy.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sync history with sign in",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.HistorySyncDashboard.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sync history after sign in",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "Defaults.HistorySyncPerSensor.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sync history per sensor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
