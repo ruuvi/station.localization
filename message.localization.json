@@ -1,137 +1,109 @@
 {
   "messageTemplates": {
     "alert_temperature_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Lämpötila yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperaturen över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperaturen har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Température au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa température a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Lämpötila yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Température au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_temperature_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Lämpötila alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperaturen under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperaturen har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Température en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa température a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Lämpötila alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Température en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_temperature_resolved": {
-      "en": "{{name}}\n\nTemperature resolved\n\nTemperature has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current temperature: {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nLämpöhälytys ratkaistu\n\nLämpötila on palannut alueelle {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen lämpötila: {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nTemperaturvarning återställd\n\nTemperaturen har återgått till intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande temperatur: {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de température résolue\n\nLa température est revenue dans la plage de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Température actuelle : {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nTemperaturwarnung gelöst\n\nDie Temperatur ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Temperatur: {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nTemperature resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nLämpöhälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nTemperaturvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de température résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nTemperaturwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pressure_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pressure above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nPressure has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paine yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nPaine on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Trycket över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTrycket har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pression au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa pression a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Druck über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer Druck hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pressure above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paine yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tryck över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pression au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Druck über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pressure_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pressure below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nPressure has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paine alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nPaine on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Trycket under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTrycket har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pression en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa pression a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Druck unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer Druck hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pressure below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paine alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tryck under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Pression en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Druck unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pressure_resolved": {
-      "en": "{{name}}\n\nPressure resolved\n\nPressure has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current pressure: {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nPainehälytys ratkaistu\n\nPaine on palannut alueelle {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen paine: {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nTryckvarning återställd\n\nTrycket har återgått till intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande tryck: {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de pression résolue\n\nLa pression est revenue dans la plage de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Pression actuelle : {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nDruckwarnung gelöst\n\nDer Druck ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktueller Druck: {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nPressure resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nPainehälytys ratkaistu\n\n Nykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nTryckvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de pression résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nDruckwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_humidity_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidity above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nHumidity has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kosteus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nKosteus on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Fuktigheten över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nFuktigheten har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nL'humidité a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Feuchtigkeit über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Feuchtigkeit hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidity above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kosteus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Fuktighet över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Feuchtigkeit über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_humidity_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidity below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nHumidity has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kosteus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nKosteus on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Fuktigheten under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nFuktigheten har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nL'humidité a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Feuchtigkeit unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Feuchtigkeit hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidity below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kosteus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Fuktighet under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Feuchtigkeit unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_humidity_resolved": {
-      "en": "{{name}}\n\nHumidity resolved\n\nHumidity has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current humidity: {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nKosteushälytys ratkaistu\n\nKosteus on palannut alueelle {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen kosteus: {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nFuktvarning återställd\n\nFuktigheten har återgått till intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande fuktighet: {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte d'humidité résolue\n\nL'humidité est revenue dans la plage de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Humidité actuelle : {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nFeuchtigkeitswarnung gelöst\n\nDie Feuchtigkeit ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Feuchtigkeit: {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nHumidity resolved\n\n Current reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nKosteushälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nFuktvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte d'humidité résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nFeuchtigkeitswarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_signal_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLe RSSI a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer RSSI hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signaali yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_signal_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nRSSI har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLe RSSI a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}RSSI unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer RSSI hat {{currentValue}}{{alertUnit_symbol}} erreicht."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_signal_resolved": {
-      "en": "{{name}}\n\nRSSI resolved\n\nRSSI has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current RSSI: {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nRSSI-hälytys ratkaistu\n\nRSSI on palannut alueelle {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen RSSI: {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nRSSI-varning återställd\n\nRSSI har återgått till intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande RSSI: {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte RSSI résolue\n\nLe RSSI est revenu dans la plage de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. RSSI actuel : {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nRSSI-Warnung gelöst\n\nDer RSSI ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktueller RSSI: {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nSignal resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nSignal-hälytys ratkaistu\n\n Nykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nSignal-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte signal résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nSignal-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_movement_different_from": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor detected movement{{/if}}\n\nCurrent movement counter: {{currentValue}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Anturi havaitsi liikettä{{/if}}\n\nNykyinen liikemittari: {{currentValue}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensorn upptäckte rörelse{{/if}}\n\nNuvarande rörelseräknare: {{currentValue}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Le capteur a détecté un mouvement{{/if}}\n\nCompteur de mouvement actuel : {{currentValue}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Der Sensor hat eine Bewegung erkannt{{/if}}\n\nAktueller Bewegungszähler: {{currentValue}}."
-    },
-    "alert_movement_resolved": {
-      "en": "{{name}}\n\nMovement resolved\n\n{{#if alertData}}{{alertData}}{{else}}Sensor detected movement. Current movement counter: {{currentValue}}{{/if}}.",
-      "fi": "{{name}}\n\nLiikehälytys ratkaistu\n\n{{#if alertData}}{{alertData}}{{else}}Anturi havaitsi liikettä. Nykyinen liikemittari: {{currentValue}}{{/if}}.",
-      "sv": "{{name}}\n\nRörelsevarning återställd\n\n{{#if alertData}}{{alertData}}{{else}}Sensorn upptäckte rörelse. Nuvarande rörelseräknare: {{currentValue}}{{/if}}.",
-      "fr": "{{name}}\n\nAlerte de mouvement résolue\n\n{{#if alertData}}{{alertData}}{{else}}Le capteur a détecté un mouvement. Compteur de mouvement actuel : {{currentValue}}{{/if}}.",
-      "de": "{{name}}\n\nBewegungswarnung gelöst\n\n{{#if alertData}}{{alertData}}{{else}}Der Sensor hat eine Bewegung erkannt. Aktueller Bewegungszähler: {{currentValue}}{{/if}}."
-    },
-    "alert_battery_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Battery voltage above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nBattery voltage has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Akun jännite yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nAkun jännite on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batterispänningen över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nBatterispänningen har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tension de la batterie au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa tension de la batterie a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batteriespannung über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Batteriespannung hat {{currentValue}}{{alertUnit_symbol}} erreicht."
-    },
-    "alert_battery_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Battery voltage below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nBattery voltage has reached {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Akun jännite alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nAkun jännite on saavuttanut {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batterispänningen under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nBatterispänningen har nått {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tension de la batterie en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa tension de la batterie a atteint {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batteriespannung unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDie Batteriespannung hat {{currentValue}}{{alertUnit_symbol}} erreicht."
-    },
-    "alert_battery_resolved": {
-      "en": "{{name}}\n\nBattery resolved\n\nBattery voltage has returned to the range of {{thresholdMin}}{{alertUnit_symbol}} to {{thresholdMax}}{{alertUnit_symbol}}. Current battery voltage: {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nAkkuhälytys ratkaistu\n\nAkun jännite on palannut alueelle {{thresholdMin}}{{alertUnit_symbol}} - {{thresholdMax}}{{alertUnit_symbol}}. Nykyinen akkujännite: {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nBatterivarning återställd\n\nBatterispänningen har återgått till intervallet {{thresholdMin}}{{alertUnit_symbol}} till {{thresholdMax}}{{alertUnit_symbol}}. Nuvarande batterispänning: {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte batterie résolue\n\nLa tension de la batterie est revenue dans la plage de {{thresholdMin}}{{alertUnit_symbol}} à {{thresholdMax}}{{alertUnit_symbol}}. Tension de la batterie actuelle : {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nBatteriewarnung gelöst\n\nDie Batteriespannung ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Batteriespannung: {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Movement detected{{/if}}\n\nCurrent reading is {{currentValue}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Liikettä havaittu{{/if}}\n\nNykyinen lukema on {{currentValue}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Rörelse upptäckt{{/if}}\n\nNuvarande avläsning är {{currentValue}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Mouvement détecté{{/if}}\n\nLa lecture actuelle est {{currentValue}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Bewegung erkannt{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}."
     },
     "alert_offline_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline for more than {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Anturi offline yli {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensorn offline mer än {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Capteur hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline seit mehr als {{thresholdValue}} {{alertUnit_symbol}}{{/if}}"
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Cloud connection lost{{/if}}\n\nSensor has been offline over {{thresholdValue}} {{alertUnit_symbol}}",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Yhteys pilveen katkennut{{/if}}\n\nAnturi on ollut offline-tilassa yli {{thresholdValue}} {{alertUnit_symbol}}",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Molnanslutning förlorad{{/if}}\n\nSensorn har varit offline i över {{thresholdValue}} {{alertUnit_symbol}}",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Connexion au cloud perdue{{/if}}\n\nLe capteur est hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Cloud-Verbindung verloren{{/if}}\n\nDer Sensor ist seit über {{thresholdValue}} {{alertUnit_symbol}} offline",
     },
     "alert_offline_resolved": {
-      "en": "{{name}}\n\nOffline resolved\n\nThe sensor is back online.",
-      "fi": "{{name}}\n\nOffline-hälytys ratkaistu\n\nAnturi on jälleen online-tilassa.",
-      "sv": "{{name}}\n\nOffline-varning återställd\n\nSensorn är åter online.",
-      "fr": "{{name}}\n\nAlerte hors ligne résolue\n\nLe capteur est de nouveau en ligne.",
-      "de": "{{name}}\n\nOffline-Warnung gelöst\n\nDer Sensor ist wieder online."
+      "en": "{{name}}\n\nCloud connection resolved\n\nSensor is back online.",
+      "fi": "{{name}}\n\nPilviyhteys palautunut\n\nAnturi on jälleen online-tilassa.",
+      "sv": "{{name}}\n\nMolnanslutning åtgärdad\n\nSensorn är åter online.",
+      "fr": "{{name}}\n\nConnexion au cloud rétablie\n\nLe capteur est de nouveau en ligne.",
+      "de": "{{name}}\n\nCloud-Verbindung wiederhergestellt\n\nDer Sensor ist wieder online."
     }
   }
 }
