@@ -120,11 +120,11 @@
       "de": "{{name}}\n\nBatteriewarnung gelöst\n\nDie Batteriespannung ist in den Bereich von {{thresholdMin}}{{alertUnit_symbol}} bis {{thresholdMax}}{{alertUnit_symbol}} zurückgekehrt. Aktuelle Batteriespannung: {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_offline_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline for more than {{thresholdValue}} {{alertUnit_symbol}}{{/if}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Anturi offline yli {{thresholdValue}} {{alertUnit_symbol}}{{/if}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensorn offline mer än {{thresholdValue}} {{alertUnit_symbol}}{{/if}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Capteur hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}{{/if}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline seit mehr als {{thresholdValue}} {{alertUnit_symbol}}{{/if}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline for more than {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Anturi offline yli {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensorn offline mer än {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Capteur hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}{{/if}}",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Sensor offline seit mehr als {{thresholdValue}} {{alertUnit_symbol}}{{/if}}"
     },
     "alert_offline_resolved": {
       "en": "{{name}}\n\nOffline resolved\n\nThe sensor is back online.",
