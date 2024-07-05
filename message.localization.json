@@ -1,14 +1,14 @@
 {
   "messageTemplates": {
     "alert_temperature_over": {
-      "en": "{{name}}\n\n{{#if alertData}} {{alertData}}{{else}}Temperature above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nRuuvi Lämpöhälytys\n\n{{#if alertData}} {{alertData}}{{else}}Lämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on yli kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "sv": "{{name}}\n\nRuuvi Temperaturvarning\n\n{{#if alertData}} {{alertData}}{{else}}Temperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är över tröskeln {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "fr": "{{name}}\n\nAlerte de Température Ruuvi \n\n{{#if alertData}} {{alertData}}{{else}}La température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est au-dessus du seuil de {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "de": "{{name}}\n\nRuuvi Temperaturwarnung\n\n{{#if alertData}} {{alertData}}{{else}}Die Temperatur hat {{currentValue}}{{alertUnit_symbol}} erreicht, was über dem Schwellenwert von {{thresholdValue}}{{alertUnit_symbol}} liegt.{{/if}}"
     },
     "alert_temperature_under": {
-      "en": "{{name}}\n\n{{#if alertData}} {{alertData}}{{else}}Temperature below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperature below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nTemperature has reached {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nRuuvi Lämpöhälytys\n\n{{#if alertData}} {{alertData}}{{else}}Lämpötila on saavuttanut {{currentValue}}{{alertUnit_symbol}}, joka on alle kynnyksen {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "sv": "{{name}}\n\nRuuvi Temperaturvarning\n\n{{#if alertData}} {{alertData}}{{else}}Temperaturen har nått {{currentValue}}{{alertUnit_symbol}}, vilket är under tröskeln {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
       "fr": "{{name}}\n\nAlerte de Température Ruuvi \n\n{{#if alertData}} {{alertData}}{{else}}La température a atteint {{currentValue}}{{alertUnit_symbol}}, ce qui est en dessous du seuil de {{thresholdValue}}{{alertUnit_symbol}}.{{/if}}",
