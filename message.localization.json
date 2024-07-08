@@ -96,7 +96,7 @@
       "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Yhteys pilveen katkennut{{/if}}\n\nAnturi on ollut offline-tilassa yli {{thresholdValue}} {{alertUnit_symbol}}",
       "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Molnanslutning förlorad{{/if}}\n\nSensorn har varit offline i över {{thresholdValue}} {{alertUnit_symbol}}",
       "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Connexion au cloud perdue{{/if}}\n\nLe capteur est hors ligne depuis plus de {{thresholdValue}} {{alertUnit_symbol}}",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Cloud-Verbindung verloren{{/if}}\n\nDer Sensor ist seit über {{thresholdValue}} {{alertUnit_symbol}} offline",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Cloud-Verbindung verloren{{/if}}\n\nDer Sensor ist seit über {{thresholdValue}} {{alertUnit_symbol}} offline"
     },
     "alert_offline_resolved": {
       "en": "{{name}}\n\nCloud connection resolved\n\nSensor is back online.",
