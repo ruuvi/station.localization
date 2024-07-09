@@ -1,4 +1,4 @@
-name: Check json
+name: Check json files
 
 on:
   push:
@@ -13,7 +13,7 @@ on:
 
 jobs:
   check-json:
-    name: Build firmware
+    name: Check json files
     runs-on: ubuntu-latest
 
     steps:
