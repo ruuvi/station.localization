@@ -1,0 +1,33 @@
+name: Check json files
+
+on:
+  push:
+    branches:
+      - '**'
+    tags:
+      - '*'
+  pull_request:
+    branches:
+      - '**'
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-json:
+    name: Check json files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y jq
+
+      - name: Check json validity
+        run: |
+          for file in $(find . -name '*.json'); do
+            echo "Checking $file"
+            jq empty $file
+          done
