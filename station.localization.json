@@ -12793,6 +12793,54 @@
       "fr": "Mon profil",
       "de": "Mein Profil",
       "pl": "Mój profil"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "compare_sensors",
+      "en": "",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "compare_subtitle",
+      "en": "",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "select_sensor_and_load",
+      "en": "",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "compare",
+      "en": "",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
