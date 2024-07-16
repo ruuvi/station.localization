@@ -11068,7 +11068,7 @@
     },
     {
       "ident_ios": "settings_email_alerts",
-      "ident_android": "",
+      "ident_android": "settings_email_alerts",
       "ident_webui": "",
       "en": "Email Alerts",
       "fi": "Sähköpostihälytykset",
@@ -11080,7 +11080,7 @@
     },
     {
       "ident_ios": "settings_email_alerts_description",
-      "ident_android": "",
+      "ident_android": "settings_email_alerts_description",
       "ident_webui": "",
       "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive email alerts by enabling this.",
       "fi": "Jos olet Ruuvi Cloud ja Ruuvi Gateway -käyttäjä, voit vastaanottaa sähköpostihälytyksiä ottamalla tämän käyttöön.",
@@ -11092,7 +11092,7 @@
     },
     {
       "ident_ios": "settings_push_alerts",
-      "ident_android": "",
+      "ident_android": "settings_push_alerts",
       "ident_webui": "",
       "en": "Push Alerts",
       "fi": "Push-hälytykset",
@@ -11104,7 +11104,7 @@
     },
     {
       "ident_ios": "settings_push_alerts_description",
-      "ident_android": "",
+      "ident_android": "settings_push_alerts_description",
       "ident_webui": "",
       "en": "If you are using Ruuvi Cloud and Ruuvi Gateway, you will be able to receive push alerts by enabling this.",
       "fi": "Jos olet Ruuvi Cloud ja Ruuvi Gateway -käyttäjä, voit vastaanottaa push-hälytyksiä ottamalla tämän käyttöön.",
