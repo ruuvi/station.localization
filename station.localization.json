@@ -10494,25 +10494,25 @@
       "ident_ios": "onboarding_start_tos_link",
       "ident_android": "onboarding_start_tos_link",
       "ident_webui": "",
-      "en": "https://ruuvi.com/privacy",
-      "fi": "https://ruuvi.com/fi/tietosuoja",
-      "ru": "",
-      "sv": "https://ruuvi.com/privacy",
-      "fr": "https://ruuvi.com/privacy",
-      "de": "https://ruuvi.com/privacy",
-      "pl": "https://ruuvi.com/privacy"
+      "en": "https://ruuvi.com/privacy/#apps",
+      "fi": "https://ruuvi.com/fi/tietosuoja/#apps",
+      "ru": "https://ruuvi.com/privacy/#apps",
+      "sv": "https://ruuvi.com/privacy/#apps",
+      "fr": "https://ruuvi.com/privacy/#apps",
+      "de": "https://ruuvi.com/privacy/#apps",
+      "pl": "https://ruuvi.com/privacy/#apps"
     },
     {
       "ident_ios": "onboarding_start_anonymous_data_collection_title",
       "ident_android": "onboarding_start_anonymous_data_collection_title",
       "ident_webui": "",
       "en": "I want to help Ruuvi by sharing anonymous statistics to improve app performance and stability",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Haluan auttaa Ruuvia jakamalla anonyymejä käyttötietoja sovelluksen suorituskyvyn ja vakauden parantamiseksi",
+      "ru": "Я хочу помочь Ruuvi, делясь анонимной статистикой для улучшения производительности и стабильности приложения",
+      "sv": "Jag vill hjälpa Ruuvi genom att dela anonym statistik för att förbättra appens prestanda och stabilitet",
+      "fr": "Je souhaite aider Ruuvi en partageant des statistiques anonymes pour améliorer les performances et la stabilité de l'application",
+      "de": "Ich möchte Ruuvi helfen, indem ich anonyme Statistiken teile, um die Leistung und Stabilität der App zu verbessern",
+      "pl": "Chcę pomóc Ruuvi, udostępniając anonimowe statystyki w celu poprawy wydajności i stabilności aplikacji"
     },
     {
       "ident_ios": "",
