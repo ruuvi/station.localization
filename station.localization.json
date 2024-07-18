@@ -10470,13 +10470,13 @@
       "ident_ios": "onboarding_start_tos_title",
       "ident_android": "onboarding_start_tos_title",
       "ident_webui": "",
-      "en": "I accept Terms of Service and Privacy Policy.",
-      "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön.",
+      "en": "I accept Terms of Service and Privacy Policy",
+      "fi": "Hyväksyn yleiset myynti- ja käyttöehdot sekä yksityisyyskäytännön",
       "ru": "",
-      "sv": "Jag accepterar villkoren och integritetspolicyn.",
-      "fr": "J'accepte les Conditions d'utilisation et la Politique de confidentialité.",
-      "de": "Ich akzeptiere die Nutzungsbedingungen und die Datenschutzerklärung.",
-      "pl": "Akceptuję Warunki użytkowania i Politykę prywatności."
+      "sv": "Jag accepterar villkoren och integritetspolicyn",
+      "fr": "J'accepte les Conditions d'utilisation et la Politique de confidentialité",
+      "de": "Ich akzeptiere die Nutzungsbedingungen und die Datenschutzerklärung",
+      "pl": "Akceptuję Warunki użytkowania i Politykę prywatności"
     },
     {
       "ident_ios": "onboarding_start_tos_link_markup",
