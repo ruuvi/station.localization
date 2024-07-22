@@ -11391,6 +11391,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "Defaults.WidgetsRefreshInterval.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Widgets Refresh Interval",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "add_sensor_dialog_text",
