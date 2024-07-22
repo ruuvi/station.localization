@@ -10071,6 +10071,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "Widgets.Refresh.Manual.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Refresh Widget",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "Widgets.Sensor.Type.title",
       "ident_android": "",
       "ident_webui": "",
