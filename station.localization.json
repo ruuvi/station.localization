@@ -11390,6 +11390,18 @@
       "de": "",
       "pl": ""
     },
+     {
+      "ident_ios": "Defaults.NetworkPullingInterval.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Network Pulling Interval",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
     {
       "ident_ios": "Defaults.WidgetsRefreshInterval.title",
       "ident_android": "",
