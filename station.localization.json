@@ -12857,14 +12857,14 @@
     {
       "ident_ios": "",
       "ident_android": "",
-      "ident_webui": "select_sensor_and_load",
-      "en": "",
-      "fi": "",
+      "ident_webui": "unit",
+      "en": "Unit",
+      "fi": "Yksikkö",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Enhet",
+      "fr": "Unité",
+      "de": "Einheit",
+      "pl": "Jednostka"
     },
     {
       "ident_ios": "",
