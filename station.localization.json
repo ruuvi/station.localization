@@ -6663,6 +6663,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "RuuviCloudApiError.unexpectedHTTPStatusCodeShouldRetry",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "We are having problems right now. Please try again.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "RuuviCloudError.NotAuthorized",
       "ident_android": "",
       "ident_webui": "",
@@ -12834,61 +12846,61 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "compare_sensors",
-      "en": "",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "Compare Sensors",
+      "fi": "Vertaile antureita",
+      "ru": "Сравнить датчики",
+      "sv": "Jämför sensorer",
+      "fr": "Comparer les capteurs",
+      "de": "Sensoren vergleichen",
+      "pl": "Porównaj czujniki"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "compare_subtitle",
-      "en": "",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "Compare history data from multiple sensors on a unified chart",
+      "fi": "Vertaile usean anturin hisoriatietoja yhdessä kuvaajassa",
+      "ru": "Сравните исторические данные с нескольких датчиков на едином графике",
+      "sv": "Jämför historiska data från flera sensorer på ett enhetligt diagram",
+      "fr": "Comparez les données historiques de plusieurs capteurs sur un graphique unifié",
+      "de": "Vergleichen Sie historische Daten von mehreren Sensoren auf einem einheitlichen Diagramm",
+      "pl": "Porównaj dane historyczne z wielu czujników na zjednoczonym wykresie"
     },
     {
       "ident_ios": "",
       "ident_android": "",
-      "ident_webui": "select_sensor_and_load",
-      "en": "",
-      "fi": "",
+      "ident_webui": "unit",
+      "en": "Unit",
+      "fi": "Yksikkö",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Enhet",
+      "fr": "Unité",
+      "de": "Einheit",
+      "pl": "Jednostka"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "compare",
-      "en": "",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "Compare",
+      "fi": "Vertaile",
+      "ru": "Сравнить",
+      "sv": "Jämför",
+      "fr": "Comparer",
+      "de": "Vergleichen",
+      "pl": "Porównaj"
     },
     {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "compare_description",
-      "en": "",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "First, select all Ruuvi sensors you want to compare with each other. Then, select the unit of measurement. Finally, tap Load and wait for the data to be loaded into the chart.",
+      "fi": "Valitse ensin kaikki Ruuvi-anturit, joita haluat vertailla keskenään. Valitse sitten mittayksikkö. Valitse lopuksi Lataa ja odota, että tiedot ladataan kuvaajaan.",
+      "ru": "Сначала выберите все датчики Ruuvi, которые вы хотите сравнить друг с другом. Затем выберите единицу измерения. Наконец, выберите Загрузить и подождите, пока данные будут загружены в график.",
+      "sv": "Välj först alla Ruuvi-sensorer du vill jämföra med varandra. Välj sedan måttenhet. Slutligen väljer du Ladda och väntar på att data ska laddas in i diagrammet.",
+      "fr": "Tout d'abord, sélectionnez tous les capteurs Ruuvi que vous souhaitez comparer entre eux. Ensuite, sélectionnez l'unité de mesure. Enfin, choisissez Charger et attendez que les données soient chargées dans le graphique.",
+      "de": "Wählen Sie zuerst alle Ruuvi-Sensoren aus, die Sie miteinander vergleichen möchten. Wählen Sie dann die Maßeinheit aus. Wählen Sie schließlich Laden und warten Sie, bis die Daten in das Diagramm geladen sind.",
+      "pl": "Najpierw wybierz wszystkie czujniki Ruuvi, które chcesz porównać ze sobą. Następnie wybierz jednostkę miary. Na koniec wybierz Załaduj i poczekaj, aż dane zostaną załadowane do wykresu."
     }
   ]
 }
