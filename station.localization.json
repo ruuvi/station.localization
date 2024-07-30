@@ -6663,6 +6663,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "RuuviCloudApiError.unexpectedHTTPStatusCodeShouldRetry",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "We are having problems right now. Please try again.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "RuuviCloudError.NotAuthorized",
       "ident_android": "",
       "ident_webui": "",
