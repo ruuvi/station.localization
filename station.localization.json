@@ -6666,13 +6666,13 @@
       "ident_ios": "RuuviCloudApiError.unexpectedHTTPStatusCodeShouldRetry",
       "ident_android": "",
       "ident_webui": "",
-      "en": "We are having problems right now. Please try again.",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "There was an issue connecting to server. Please try again.",
+      "fi": "Yhteys palvelimeen epäonnistui. Yritä uudelleen.",
+      "ru": "Произошла ошибка при подключении к серверу. Пожалуйста, попробуйте снова.",
+      "sv": "Det gick inte att ansluta till servern. Försök igen.",
+      "fr": "Une erreur s'est produite lors de la connexion au serveur. Veuillez réessayer.",
+      "de": "Es gab ein Problem bei der Verbindung zum Server. Bitte versuchen Sie es erneut.",
+      "pl": "Wystąpił problem z połączeniem z serwerem. Proszę spróbować ponownie."
     },
     {
       "ident_ios": "RuuviCloudError.NotAuthorized",
