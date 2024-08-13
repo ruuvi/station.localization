@@ -2030,7 +2030,7 @@
     },
     {
       "ident_ios": "TagSettings.dataSourceTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "data_received_via",
       "ident_webui": "",
       "en": "Data Received Via",
       "fi": "Datalähde",
@@ -2054,7 +2054,7 @@
     },
     {
       "ident_ios": "TagSettings.DataSource.Advertisement.title",
-      "ident_android": "",
+      "ident_android": "advertisement",
       "ident_webui": "",
       "en": "Advertisement",
       "fi": "Laiteilmoitus",
@@ -2066,7 +2066,7 @@
     },
     {
       "ident_ios": "TagSettings.DataSource.Network.title",
-      "ident_android": "",
+      "ident_android": "cloud",
       "ident_webui": "",
       "en": "Cloud",
       "fi": "Pilvi",
