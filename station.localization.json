@@ -12925,6 +12925,18 @@
       "fr": "Sélectionner",
       "de": "Auswählen",
       "pl": "Wybierz"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "image_format_not_supported",
+      "en": "Image format not supported",
+      "fi": "Kuvamuotoa ei tueta",
+      "ru": "",
+      "sv": "Bildformat stöds inte",
+      "fr": "Format d'image non pris en charge",
+      "de": "Bildformat wird nicht unterstützt",
+      "pl": "Format obrazu nie jest obsługiwany"
     }
   ]
 }
