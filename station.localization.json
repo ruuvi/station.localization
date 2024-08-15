@@ -10851,6 +10851,18 @@
       "pl": "Nie jesteś zalogowany.\\n\\nJeśli masz konto i dodałeś już do niego czujniki Ruuvi, po zalogowaniu zostaną one automatycznie zsynchronizowane z aplikacją mobilną Ruuvi Station."
     },
     {
+      "ident_ios": "",
+      "ident_android": "dashboard_banner_signed_out",
+      "ident_webui": "",
+      "en": "You are not signed in.",
+      "fi": "Et ole kirjautunut sisään.",
+      "ru": "Вы не вошли в аккаунт.",
+      "sv": "Du är inte inloggad.",
+      "fr": "Vous n'êtes pas connecté.",
+      "de": "Sie sind nicht angemeldet.",
+      "pl": "Nie jesteś zalogowany."
+    },
+    {
       "ident_ios": "add_a_sensor",
       "ident_android": "add_a_sensor",
       "ident_webui": "",
@@ -12901,6 +12913,42 @@
       "fr": "Tout d'abord, sélectionnez tous les capteurs Ruuvi que vous souhaitez comparer entre eux. Ensuite, sélectionnez l'unité de mesure. Enfin, choisissez Charger et attendez que les données soient chargées dans le graphique.",
       "de": "Wählen Sie zuerst alle Ruuvi-Sensoren aus, die Sie miteinander vergleichen möchten. Wählen Sie dann die Maßeinheit aus. Wählen Sie schließlich Laden und warten Sie, bis die Daten in das Diagramm geladen sind.",
       "pl": "Najpierw wybierz wszystkie czujniki Ruuvi, które chcesz porównać ze sobą. Następnie wybierz jednostkę miary. Na koniec wybierz Załaduj i poczekaj, aż dane zostaną załadowane do wykresu."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensors_select_label",
+      "en": "Sensors",
+      "fi": "Anturit",
+      "ru": "",
+      "sv": "Sensorer",
+      "fr": "Capteurs",
+      "de": "Sensoren",
+      "pl": "Czujniki"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensors_select_button",
+      "en": "Select",
+      "fi": "Valitse",
+      "ru": "",
+      "sv": "Välj",
+      "fr": "Sélectionner",
+      "de": "Auswählen",
+      "pl": "Wybierz"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "image_format_not_supported",
+      "en": "Image format not supported",
+      "fi": "Kuvamuotoa ei tueta",
+      "ru": "",
+      "sv": "Bildformat stöds inte",
+      "fr": "Format d'image non pris en charge",
+      "de": "Bildformat wird nicht unterstützt",
+      "pl": "Format obrazu nie jest obsługiwany"
     }
   ]
 }
