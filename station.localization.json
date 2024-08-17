@@ -10851,7 +10851,7 @@
       "pl": "Nie jesteś zalogowany.\\n\\nJeśli masz konto i dodałeś już do niego czujniki Ruuvi, po zalogowaniu zostaną one automatycznie zsynchronizowane z aplikacją mobilną Ruuvi Station."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "dashboard_banner_signed_out",
       "ident_android": "dashboard_banner_signed_out",
       "ident_webui": "",
       "en": "You are not signed in.",
