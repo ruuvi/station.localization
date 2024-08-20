@@ -12961,6 +12961,18 @@
       "fr": "Charger",
       "de": "Laden",
       "pl": "Załaduj"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "try_refreshing_page",
+      "en": "Try refreshing the page",
+      "fi": "Kokeile päivittää sivu uudelleen.",
+      "ru": "",
+      "sv": "Försök att ladda om sidan",
+      "fr": "Essayez de rafraîchir la page",
+      "de": "Versuchen Sie, die Seite neu zu laden",
+      "pl": "Spróbuj odświeżyć stronę"
     }
   ]
 }
