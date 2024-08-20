@@ -8212,7 +8212,7 @@
     },
     {
       "ident_ios": "internet_connection_problem",
-      "ident_android": "",
+      "ident_android": "internet_connection_problem",
       "ident_webui": "internet_connection_problem",
       "en": "Internet connection problem",
       "fi": "Ongelma internet-yhteydessä",
