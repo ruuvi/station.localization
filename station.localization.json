@@ -12949,6 +12949,18 @@
       "fr": "Format d'image non pris en charge",
       "de": "Bildformat wird nicht unterstützt",
       "pl": "Format obrazu nie jest obsługiwany"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "load",
+      "en": "Load",
+      "fi": "Lataa",
+      "ru": "",
+      "sv": "Ladda",
+      "fr": "Charger",
+      "de": "Laden",
+      "pl": "Załaduj"
     }
   ]
 }
