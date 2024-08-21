@@ -1,10 +1,10 @@
 [
 {
         "plan": "",
-        "key": "20240628",
-        "en": "Version 1.0 is released! This update brings a new sensor share feature, a completely redesigned menu, support for external temperature sensor and other smaller usability improvements. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.0 on julkaistu! Tämä päivitys sisältää uuden anturin jakamisominaisuuden, uudistetun valikon, tuen ulkoiselle lämpötila-anturille ja muita pienempiä käytettävyysparannuksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.0 har släppts! Denna uppdatering erbjuder en ny sensor-delningsfunktion, en helt omdesignad meny, stöd för extern temperatursensor och andra mindre användbarhetsförbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20240821",
+        "en": "Version 1.0.1 is released! This update brings a new compare sensors feature and other smaller usability improvements. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.0.1 on julkaistu! Tämä päivitys sisältää uuden antureiden vertailutoiminnallisuuden ja muita pienempiä käytettävyysparannuksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.0.1 har släppts! Denna uppdatering erbjuder en ny funktion för att jämföra sensorer och andra mindre användbarhetsförbättringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
         {
         "plan": "Free",
