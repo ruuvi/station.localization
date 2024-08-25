@@ -12940,11 +12940,11 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "",
+      "ident_android": "image_format_not_supported",
       "ident_webui": "image_format_not_supported",
       "en": "Image format not supported",
       "fi": "Kuvamuotoa ei tueta",
-      "ru": "",
+      "ru": "Формат изображения не поддерживается",
       "sv": "Bildformat stöds inte",
       "fr": "Format d'image non pris en charge",
       "de": "Bildformat wird nicht unterstützt",
