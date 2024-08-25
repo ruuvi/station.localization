@@ -625,6 +625,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "Defaults.ImageCompressionQuality.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Image Compression Quality({%d%})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
       "ident_android": "",
       "ident_webui": "",
