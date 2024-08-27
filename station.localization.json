@@ -12985,6 +12985,42 @@
       "fr": "Essayez de rafraîchir la page",
       "de": "Versuchen Sie, die Seite neu zu laden",
       "pl": "Spróbuj odświeżyć stronę"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "my_account_change_email",
+      "ident_webui": "",
+      "en": "Contact support@ruuvi.com if you wish to change email address.",
+      "fi": "",
+      "ru": "Свяжитесь с support@ruuvi.com, если вы хотите изменить адрес электронной почты.",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "my_account_change_email_link_markup",
+      "ident_webui": "",
+      "en": "support@ruuvi.com",
+      "fi": "support@ruuvi.com",
+      "ru": "support@ruuvi.com",
+      "sv": "support@ruuvi.com",
+      "fr": "support@ruuvi.com",
+      "de": "support@ruuvi.com",
+      "pl": "support@ruuvi.com"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "my_account_change_email_link",
+      "ident_webui": "",
+      "en": "mailto:support@ruuvi.com",
+      "fi": "mailto:support@ruuvi.com",
+      "ru": "mailto:support@ruuvi.com",
+      "sv": "mailto:support@ruuvi.com",
+      "fr": "mailto:support@ruuvi.com",
+      "de": "mailto:support@ruuvi.com",
+      "pl": "mailto:support@ruuvi.com"
     }
   ]
 }
