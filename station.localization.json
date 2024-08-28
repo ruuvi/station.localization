@@ -13001,7 +13001,7 @@
     {
       "ident_ios": "my_account_change_email",
       "ident_android": "my_account_change_email",
-      "ident_webui": "",
+      "ident_webui": "my_account_change_email",
       "en": "Contact support@ruuvi.com if you wish to change the email address associated with this user account.",
       "fi": "Ota yhteyttä support@ruuvi.com, jos haluat vaihtaa tämän käyttäjätilin sähköpostiosoitteen.",
       "ru": "Свяжитесь с support@ruuvi.com, если вы хотите изменить адрес электронной почты.",
@@ -13013,7 +13013,7 @@
     {
       "ident_ios": "my_account_change_email_link_markup",
       "ident_android": "my_account_change_email_link_markup",
-      "ident_webui": "",
+      "ident_webui": "my_account_change_email_link_markup",
       "en": "support@ruuvi.com",
       "fi": "support@ruuvi.com",
       "ru": "support@ruuvi.com",
@@ -13025,7 +13025,7 @@
     {
       "ident_ios": "my_account_change_email_link",
       "ident_android": "my_account_change_email_link",
-      "ident_webui": "",
+      "ident_webui": "my_account_change_email_link",
       "en": "mailto:support@ruuvi.com",
       "fi": "mailto:support@ruuvi.com",
       "ru": "mailto:support@ruuvi.com",
