@@ -12987,7 +12987,7 @@
       "pl": "Spróbuj odświeżyć stronę"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "my_account_change_email",
       "ident_android": "my_account_change_email",
       "ident_webui": "",
       "en": "Contact support@ruuvi.com if you wish to change the email address associated with this user account.",
@@ -12999,7 +12999,7 @@
       "pl": "Skontaktuj się z support@ruuvi.com, jeśli chcesz zmienić adres e-mail powiązany z tym kontem użytkownika."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "my_account_change_email_link_markup",
       "ident_android": "my_account_change_email_link_markup",
       "ident_webui": "",
       "en": "support@ruuvi.com",
@@ -13011,7 +13011,7 @@
       "pl": "support@ruuvi.com"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "my_account_change_email_link",
       "ident_android": "my_account_change_email_link",
       "ident_webui": "",
       "en": "mailto:support@ruuvi.com",
