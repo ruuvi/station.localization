@@ -12990,13 +12990,13 @@
       "ident_ios": "",
       "ident_android": "my_account_change_email",
       "ident_webui": "",
-      "en": "Contact support@ruuvi.com if you wish to change email address.",
-      "fi": "",
+      "en": "Contact support@ruuvi.com if you wish to change the email address associated with this user account.",
+      "fi": "Ota yhteyttä support@ruuvi.com, jos haluat vaihtaa tämän käyttäjätilin sähköpostiosoitteen.",
       "ru": "Свяжитесь с support@ruuvi.com, если вы хотите изменить адрес электронной почты.",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Kontakta support@ruuvi.com om du vill ändra e-postadressen som är kopplad till detta användarkonto.",
+      "fr": "Contactez support@ruuvi.com si vous souhaitez modifier l'adresse e-mail associée à ce compte utilisateur.",
+      "de": "Kontaktieren Sie support@ruuvi.com, wenn Sie die mit diesem Benutzerkonto verknüpfte E-Mail-Adresse ändern möchten.",
+      "pl": "Skontaktuj się z support@ruuvi.com, jeśli chcesz zmienić adres e-mail powiązany z tym kontem użytkownika."
     },
     {
       "ident_ios": "",
