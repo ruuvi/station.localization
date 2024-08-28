@@ -11117,7 +11117,7 @@
     {
       "ident_ios": "settings_email_alerts",
       "ident_android": "settings_email_alerts",
-      "ident_webui": "",
+      "ident_webui": "settings_email_alerts",
       "en": "Email Alerts",
       "fi": "Sähköpostihälytykset",
       "ru": "",
@@ -11148,6 +11148,18 @@
       "sv": "Push-varningar",
       "fr": "Alertes push",
       "de": "Push-Benachrichtigungen",
+	  "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "settings_mobile_push_alerts",
+      "en": "Mobile Push Alerts",
+      "fi": "Mobiilipush-hälytykset",
+      "ru": "",
+      "sv": "Mobil push-varningar",
+      "fr": "Alertes push mobiles",
+      "de": "Mobile Push-Benachrichtigungen",
 	  "pl": ""
     },
     {
