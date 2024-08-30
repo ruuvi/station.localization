@@ -449,12 +449,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Terms of service accepted",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Käyttöehdot hyväksytty",
+      "ru": "Условия обслуживания приняты",
+      "sv": "Användarvillkor accepterade",
+      "fr": "Conditions d'utilisation acceptées",
+      "de": "Nutzungsbedingungen akzeptiert",
+      "pl": "Warunki usługi zaakceptowane"
     },
     {
       "ident_ios": "Defaults.ChartsSwipeInstructionWasShown.title",
@@ -561,7 +561,7 @@
       "ru": "Смещение Очистки в Часах",
       "sv": "Beskärning av förskjutningstider",
       "fr": "Décalage",
-      "de": "Versatzstunden beschneiden",
+      "de": "Versatz beschneiden",
 	  "pl": ""
     },
     {
@@ -617,24 +617,24 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Show alert range in graph",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Näytä hälytysalue kuvaajassa",
+      "ru": "Показать диапазон предупреждений на графике",
+      "sv": "Visa varningsområde i grafen",
+      "fr": "Afficher la plage d'alerte dans le graphique",
+      "de": "Alarmbereich im Diagramm anzeigen",
+      "pl": "Pokaż zakres alarmowy na wykresie"
     },
     {
       "ident_ios": "Defaults.ImageCompressionQuality.title",
       "ident_android": "",
       "ident_webui": "",
       "en": "Image compression",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Kuvan pakkaus",
+      "ru": "Сжатие изображения",
+      "sv": "Bildkomprimering",
+      "fr": "Compression d'image",
+      "de": "Bildkompression",
+      "pl": "Kompresja obrazu"
     },
     {
       "ident_ios": "DiscoverTable.SectionTitle.WebTags",
@@ -2457,7 +2457,7 @@
       "ru": "фоновое\\nИзображение",
       "sv": "Bakgrundsbild",
       "fr": "Fond d'écran",
-      "de": "Hintergrund bild",
+      "de": "Hintergrundbild",
 	  "pl": ""
     },
     {
@@ -2925,7 +2925,7 @@
       "ru": "Фоновое изображение",
       "sv": "Bakgrundsbild",
       "fr": "Fond d'écran",
-      "de": "Hintergrund bild",
+      "de": "Hintergrundbild",
 	  "pl": ""
     },
     {
@@ -5514,12 +5514,12 @@
       "ident_ios": "Defaults.BackgroundScanning.foreground.interval",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Data logging foreground interval",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
+      "en": "Data logging interval when app is in foreground",
+      "fi": "Tallennusväli ohjelman ollessa etualalla",
+      "ru": "Интервал сохранения, когда программа на переднем плане",
+      "sv": "Intervall för datalogging i förgrunden",
+      "fr": "Intervalle de sauvegarde lorsque le programme est au premier plan",
+      "de": "Speicherintervall, wenn das Programm im Vordergrund ist",
       "pl": ""
     },
     {
@@ -5550,7 +5550,7 @@
       "ident_ios": "RuuviOnboard.Cloud.Benefits.message",
       "ident_android": "sign_in_benefits_description",
       "ident_webui": "",
-      "en": "Benefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the Cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
+      "en": "Benefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
       "fi": "Hyödyt:\\n\\n ● Anturien nimet, taustakuvat sekä kalibrointi- ja hälytysasetukset tallentuvat turvallisesti tilillesi pilvipalveluun\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Selaa jopa 2 vuoden historiatietoja osoitteessa station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
       "ru": "Преимущества:\\n\\n ● Название датчика, изображение фона, данные калибровки и настройки тревог будут безопасно храниться в облаке\\n\\n ● Получите доступ к датчикам через интернет (требуестся Ruuvi Gateway)\\n\\n ● Поделитесь данными датчиков с друзьями и членами семьи (требуется Ruuvi Gateway)\\n\\n ● Просматривайте до 2-х лет истории на сайте station.ruuvi.com (требуется a Ruuvi Gateway)",
       "sv": "Fördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
@@ -7183,7 +7183,7 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Firmware update process has been completed successfully.\n\n\n\nYour Ruuvi sensor is ready for use!",
-      "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuvi anturisi on valmis käyttöön!",
+      "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuvi-anturisi on valmis käyttöön!",
       "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш Ruuvi готов к использованию!",
       "sv": "Uppdateringsprocessen har slutförts.\n\n\n\nRuuvi-sensorn är redo att användas!",
       "fr": "Mise à jour réussie.\n\n\n\nRuuviTag est prêt à être utilisé !",
@@ -7698,7 +7698,7 @@
       "ident_ios": "Owner.Claim.description",
       "ident_android": "claim_description",
       "ident_webui": "",
-      "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Each Ruuvi sensor can have only one owner. To claim ownership, you need to be signed in.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the Cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
+      "en": "Do you own this sensor? If yes, please claim ownership of the sensor and it'll be added to your Ruuvi account. Each Ruuvi sensor can have only one owner. To claim ownership, you need to be signed in.\\n\\nBenefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
       "fi": "Omistatko tämän anturin? Vahvista omistajuus ja anturi lisätään Ruuvi-tilillesi. Jokaisella Ruuvi-anturilla voi olla vain yksi omistaja. Vahvistaaksesi omistajuuden, sinun täytyy olla kirjautuneena sisälle.\\n\\nHyödyt:\\n\\n ● Anturien nimet, taustakuvat sekä kalibrointi- ja hälytysasetukset tallentuvat turvallisesti tilillesi pilvipalveluun\\n\\n ● Lue anturitiedot etänä verkossa (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Jaa antureita ystävien ja perheen kesken (vaatii Ruuvi Gateway -reitittimen)\\n\\n ● Selaa jopa 2 vuoden historiatietoja osoitteessa station.ruuvi.com (vaatii Ruuvi Gateway -reitittimen)",
       "ru": "Это ваш датчик? Если да, то пожалуйста заявите о владении и датчик будет добавлен в ваш Ruuvi аккаунт. Каждый датчик может иметь только одного владельца. Чтобы заявить права собственности, вам необходимо войти в систему.\\n\\nПреимущества:\\n\\n ● Название датчика, изображение фона, данные калибровки и настройки тревог будут безопасно храниться в облаке\\n\\n ● Получите доступ к датчикам через интернет (требуестся Ruuvi Gateway)\\n\\n ● Поделитесь данными датчиков с друзьями и членами семьи (требуется Ruuvi Gateway)\\n\\n ● Просматривайте до 2-х лет истории на сайте station.ruuvi.com (требуется a Ruuvi Gateway)",
       "sv": "Äger du den här sensorn? Bekräfta ägandet och så läggs sensorn till på ditt Ruuvi-konto. Varje Ruuvi-sensor kan bara ha en ägare. För att göra anspråk på äganderätt måste du vara inloggad.\\n\\nFördelar:\\n\\n ● Sensornamn, bakgrundsbilder, kalibrering och larminformation från en säker molntjänst\\n\\n ● Läs sensorinformation på distans online ( kräver Ruuvi Gateway-router)\\n\\n ● Dela sensorer med vänner och familj (kräver Ruuvi Gateway)\\n\\n ● Upp till 2 års historik från station.ruuvi.com (kräver Ruuvi Gateway)",
@@ -9323,7 +9323,7 @@
       "ru": "1 час",
       "sv": "1 timme",
       "fr": "1 heure",
-      "de": "1 stunde",
+      "de": "1 Stunde",
       "pl": ""
     },
     {
@@ -9335,7 +9335,7 @@
       "ru": "2 часа",
       "sv": "2 timmar",
       "fr": "2 heures",
-      "de": "2 stunden",
+      "de": "2 Stunden",
       "pl": "2 godziny"
     },
     {
@@ -9347,7 +9347,7 @@
       "ru": "3 часа",
       "sv": "3 timmar",
       "fr": "3 heures",
-      "de": "3 stunden",
+      "de": "3 Stunden",
       "pl": "3 godziny"
     },
     {
@@ -9359,7 +9359,7 @@
       "ru": "12 часов",
       "sv": "12 timmar",
       "fr": "12 heures",
-      "de": "12 stunden",
+      "de": "12 Stunden",
       "pl": "12 godziny"
     },
     {
@@ -9743,7 +9743,7 @@
       "ru": "Вид",
       "sv": "Vy",
       "fr": "Voir",
-      "de": "Siehe",
+      "de": "Ansicht",
 	  "pl": ""
     },
     {
@@ -11658,11 +11658,11 @@
       "ident_ios": "mac_address",
       "ident_android": "nfc_dialog_mac_address",
       "ident_webui": "",
-      "en": "Mac address:",
+      "en": "MAC address:",
       "fi": "MAC-osoite:",
       "ru": "",
       "sv": "MAC-adress:",
-      "fr": "Adresse Mac:",
+      "fr": "Adresse MAC:",
       "de": "MAC-Adresse:",
 	  "pl": ""
     },
@@ -12451,7 +12451,7 @@
       "ident_android": "",
       "ident_webui": "ruuvi_measurements_report",
       "en": "Ruuvi measurements report",
-      "fi": "Ruuvi mittausraportti",
+      "fi": "Ruuvi-mittausraportti",
       "ru": "",
       "sv": "Ruuvi mätning rapport",
       "fr": "Rapport de mesures Ruuvi",
