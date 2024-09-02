@@ -9159,7 +9159,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "export_history_xlsx",
       "ident_android": "export_history_xlsx",
       "ident_webui": "",
       "en": "Export history (xlsx)",
