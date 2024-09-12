@@ -6114,13 +6114,13 @@
       "ident_ios": "UserApiError.ER_TOKEN_EXPIRED",
       "ident_android": "cloud_er_token_expired",
       "ident_webui": "UserApiError.ER_TOKEN_EXPIRED",
-      "en": "Token is expired",
-      "fi": "Avain on vanhentunut",
-      "ru": "Токен истек",
-      "sv": "Nyckeln har upphört att gälla",
-      "fr": "Le code est perimé",
-      "de": "Token ist abgelaufen",
-	  "pl": "Token wygasł"
+      "en": "The entered one-time password (OTP) is wrong or expired",
+      "fi": "Syöttämäsi kertakäyttökoodi (OTP) on väärä tai vanhentunut",
+      "ru": "Введённый одноразовый пароль (OTP) неверен или истек",
+      "sv": "Den angivna engångskoden (OTP) är felaktig eller har gått ut",
+      "fr": "Le mot de passe à usage unique (OTP) entré est incorrect ou expiré",
+      "de": "Das eingegebene Einmalpasswort (OTP) ist falsch oder abgelaufen",
+	  "pl": "Wprowadzony jednorazowy kod (OTP) jest nieprawidłowy lub wygasł"
     },
     {
       "ident_ios": "UserApiError.ER_SUBSCRIPTION_NOT_FOUND",
