@@ -8850,12 +8850,12 @@
       "ident_ios": "app_theme",
       "ident_android": "app_theme",
       "ident_webui": "",
-      "en": "App Theme",
+      "en": "App theme",
       "fi": "Sovelluksen teema",
       "ru": "Тема приложения",
       "sv": "App tema",
-      "fr": "App Theme",
-      "de": "App Thema",
+      "fr": "App theme",
+      "de": "App thema",
 	  "pl": ""
     },
     {
