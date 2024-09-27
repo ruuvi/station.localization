@@ -925,6 +925,18 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "ExportService.DataSource",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Data Source",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "ForegroundRow.advertisement.section",
       "ident_android": "",
       "ident_webui": "",
@@ -11461,6 +11473,18 @@
       "fr": "Intervalle de rafraîchissement des widgets",
       "de": "Aktualisierungsintervall der Widgets",
       "pl": "Interwał odświeżania widgetów"
+    },
+    {
+      "ident_ios": "Defaults.IncludeDataSourceInHistoryExport.title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Include Data Source in History Export",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "",
