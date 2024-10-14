@@ -13081,6 +13081,42 @@
       "fr": "Important !",
       "de": "Wichtig!",
       "pl": "Ważne!"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "android_8_required",
+      "ident_webui": "",
+      "en": "This feature is only supported starting from Android 8. You can use export to csv.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widgets_add_sensors_first",
+      "ident_webui": "",
+      "en": "Add sensors to app before using widgets",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "widgets_enable_background_service",
+      "ident_webui": "",
+      "en": "To update local sensor values in widget you need to enable background scanning service. This is not needed for cloud sensors with Ruuvi Gateway. You can enable background service now. Adjust scanning interval in app settings. Currently it set to {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
