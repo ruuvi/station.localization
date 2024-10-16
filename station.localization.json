@@ -13086,37 +13086,37 @@
       "ident_ios": "",
       "ident_android": "android_8_required",
       "ident_webui": "",
-      "en": "This feature is only supported starting from Android 8. You can use export to csv.",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "This feature is available on devices with Android 8 and newer. Use the export to CSV option instead.",
+      "fi": "Tämä ominaisuus on käytettävissä Android 8 ja uudemmissa laitteissa. Käytä tämän sijaan CSV-tiedostoon vientiä.",
+      "ru": "Эта функция доступна на устройствах с Android 8 и новее. Используйте экспорт в формате CSV вместо этого.",
+      "sv": "Den här funktionen är tillgänglig på enheter med Android 8 och senare. Använd export till CSV istället.",
+      "fr": "Cette fonctionnalité est disponible sur les appareils Android 8 et versions ultérieures. Utilisez l'option d'exportation en CSV à la place.",
+      "de": "Diese Funktion ist auf Geräten mit Android 8 und neuer verfügbar. Verwenden Sie stattdessen den Export in CSV.",
+      "pl": "Ta funkcja jest dostępna na urządzeniach z Androidem 8 i nowszymi. Użyj opcji eksportu do pliku CSV zamiast tego."
     },
     {
       "ident_ios": "",
       "ident_android": "widgets_add_sensors_first",
       "ident_webui": "",
       "en": "Add sensors to app before using widgets",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Lisää antureita sovellukseen ennen widgetien käyttämistä",
+      "ru": "Добавьте датчики в приложение перед использованием виджетов",
+      "sv": "Lägg till sensorer i appen innan du använder widgetar",
+      "fr": "Ajoutez des capteurs à l'application avant d'utiliser les widgets",
+      "de": "Fügen Sie Sensoren zur App hinzu, bevor Sie Widgets verwenden",
+      "pl": "Dodaj czujniki do aplikacji przed użyciem widżetów"
     },
     {
       "ident_ios": "",
       "ident_android": "widgets_enable_background_service",
       "ident_webui": "",
-      "en": "To update local sensor values in widget you need to enable background scanning service. This is not needed for cloud sensors with Ruuvi Gateway. You can enable background service now. Adjust scanning interval in app settings. Currently it set to {%@^%1$s}",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "en": "Enable background scanning to update local sensor values via Bluetooth in the widget. This isn't needed for cloud sensors with Ruuvi Gateway. Background scanning interval can be set in Ruuvi Station app settings (currently set to {%@^%1$s}).",
+      "fi": "Päivitä paikallisten Bluetooth-antureiden tiedot widgetiin ottamalla taustaskannaus käyttöön. Tätä ei tarvita pilviantureille, joiden tiedot kerätään Ruuvi Gatewayn avulla. Taustaskannauksen aikaväli voidaan asettaa Ruuvi Station -sovelluksen asetuksissa (tämän hetkinen arvo on {%@^%1$s}).",
+      "ru": "Включите фоновое сканирование, чтобы обновлять локальные значения датчиков через Bluetooth в виджете. Это не требуется для облачных датчиков с Ruuvi Gateway. Интервал фонового сканирования можно установить в настройках приложения Ruuvi Station (текущий интервал {%@^%1$s}).",
+      "sv": "Uppdatera lokala Bluetooth-sensorers data i widgeten genom att aktivera bakgrundsskanning. Detta behövs inte för molnsensorer vars data samlas in via Ruuvi Gateway. Intervall för bakgrundsskanning kan ställas in i Ruuvi Station-appens inställningar (för närvarande inställt på {%@^%1$s}).",
+      "fr": "Activez le balayage en arrière-plan pour mettre à jour les valeurs des capteurs locaux via Bluetooth dans le widget. Ce n'est pas nécessaire pour les capteurs cloud avec Ruuvi Gateway. L'intervalle de balayage en arrière-plan peut être défini dans les paramètres de l'application Ruuvi Station (actuellement défini sur {%@^%1$s}).",
+      "de": "Aktualisieren Sie die Daten der lokalen Bluetooth-Sensoren im Widget, indem Sie die Hintergrundsuche aktivieren. Dies ist nicht erforderlich für Cloud-Sensoren, deren Daten über Ruuvi Gateway gesammelt werden. Das Intervall für die Hintergrundsuche kann in den Einstellungen der Ruuvi Station-App festgelegt werden (derzeit eingestellt auf {%@^%1$s}).",
+      "pl": "Włącz skanowanie w tle, aby zaktualizować wartości lokalnych czujników przez Bluetooth w widżecie. Nie jest to wymagane dla czujników w chmurze z Ruuvi Gateway. Interwał skanowania w tle można ustawić w ustawieniach aplikacji Ruuvi Station (obecnie ustawiony na {%@^%1$s})."
     }
   ]
 }
