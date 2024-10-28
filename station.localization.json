@@ -13117,6 +13117,30 @@
       "fr": "Activez le balayage en arrière-plan pour mettre à jour les valeurs des capteurs locaux via Bluetooth dans le widget. Ce n'est pas nécessaire pour les capteurs cloud avec Ruuvi Gateway. L'intervalle de balayage en arrière-plan peut être défini dans les paramètres de l'application Ruuvi Station (actuellement défini sur {%@^%1$s}).",
       "de": "Aktualisieren Sie die Daten der lokalen Bluetooth-Sensoren im Widget, indem Sie die Hintergrundsuche aktivieren. Dies ist nicht erforderlich für Cloud-Sensoren, deren Daten über Ruuvi Gateway gesammelt werden. Das Intervall für die Hintergrundsuche kann in den Einstellungen der Ruuvi Station-App festgelegt werden (derzeit eingestellt auf {%@^%1$s}).",
       "pl": "Włącz skanowanie w tle, aby zaktualizować wartości lokalnych czujników przez Bluetooth w widżecie. Nie jest to wymagane dla czujników w chmurze z Ruuvi Gateway. Interwał skanowania w tle można ustawić w ustawieniach aplikacji Ruuvi Station (obecnie ustawiony na {%@^%1$s})."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "increase_graph_size",
+      "ident_webui": "",
+      "en": "Increase graph size",
+      "fi": "",
+      "ru": "Сделать графики крупнее",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "decrease_graph_size",
+      "ident_webui": "",
+      "en": "Decrease  graph size",
+      "fi": "",
+      "ru": "Сделать графики меньше",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
