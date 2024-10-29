@@ -13123,24 +13123,24 @@
       "ident_android": "increase_graph_size",
       "ident_webui": "",
       "en": "Increase graph size",
-      "fi": "",
+      "fi": "Suurenna kaavioiden kokoa",
       "ru": "Сделать графики крупнее",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Förstora diagrammens storlek",
+      "fr": "Agrandir la taille des graphiques",
+      "de": "Vergrößern Sie die Größe der Diagramme",
+      "pl": "Powiększ rozmiar wykresów"
     },
     {
       "ident_ios": "",
       "ident_android": "decrease_graph_size",
       "ident_webui": "",
-      "en": "Decrease  graph size",
-      "fi": "",
+      "en": "Decrease graph size",
+      "fi": "Pienennä kaavioiden kokoa",
       "ru": "Сделать графики меньше",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Minska diagrammens storlek",
+      "fr": "Réduire la taille des graphiques",
+      "de": "Verkleinern Sie die Größe der Diagramme",
+      "pl": "Zmniejsz rozmiar wykresów"
     }
   ]
 }
