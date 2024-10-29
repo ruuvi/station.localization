@@ -12245,7 +12245,7 @@
     {
       "ident_ios": "UserApiError.ER_CONFLICT",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_CONFLICT",
       "en": "Data already exists, cannot update",
       "fi": "Tiedot on jo olemassa, päivitystä ei voida tehdä",
       "ru": "",
