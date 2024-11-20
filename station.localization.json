@@ -2175,7 +2175,7 @@
     {
       "ident_ios": "TagSettings.dewPointAlertTitleLabel.text",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "dewpoint",
       "en": "Dew point",
       "fi": "Kastepiste",
       "ru": "Точка Росы",
