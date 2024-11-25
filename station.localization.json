@@ -13141,6 +13141,114 @@
       "fr": "Réduire la taille des graphiques",
       "de": "Verkleinern Sie die Größe der Diagramme",
       "pl": "Zmniejsz rozmiar wykresów"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pm10",
+      "en": "PM1.0",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pm25",
+      "en": "PM2.5",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pm40",
+      "en": "PM4.0",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "pm100",
+      "en": "PM10.0",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "co2",
+      "en": "CO2",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "voc",
+      "en": "VOC",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "nox",
+      "en": "NOX",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sound",
+      "en": "Sound",
+      "fi": "Ääni",
+      "ru": "",
+      "sv": "Ljud",
+      "fr": "Son",
+      "de": "Ton",
+      "pl": "Dźwięk"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "luminosity",
+      "en": "Luminosity",
+      "fi": "Valoisuus",
+      "ru": "",
+      "sv": "Luminans",
+      "fr": "Luminosité",
+      "de": "Helligkeit",
+      "pl": "Jasność"
     }
   ]
 }
