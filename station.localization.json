@@ -13241,6 +13241,30 @@
     {
       "ident_ios": "",
       "ident_android": "",
+      "ident_webui": "soundLevelAvg",
+      "en": "Sound level (average)",
+      "fi": "Äänitaso (keskiarvo)",
+      "ru": "",
+      "sv": "Ljudnivå (genomsnitt)",
+      "fr": "Niveau sonore (moyenne)",
+      "de": "Schalldruckpegel (Durchschnitt)",
+      "pl": "Poziom dźwięku (średnia)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "soundLevelPeak",
+      "en": "Sound level (peak)",
+      "fi": "Äänitaso (huippu)",
+      "ru": "",
+      "sv": "Ljudnivå (topp)",
+      "fr": "Niveau sonore (crête)",
+      "de": "Schalldruckpegel (Spitze)",
+      "pl": "Poziom dźwięku (szczyt)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
       "ident_webui": "luminosity",
       "en": "Luminosity",
       "fi": "Valoisuus",
@@ -13249,6 +13273,18 @@
       "fr": "Luminosité",
       "de": "Helligkeit",
       "pl": "Jasność"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "illuminance",
+      "en": "Illuminance",
+      "fi": "Valaistusvoimakkuus",
+      "ru": "",
+      "sv": "Illuminans",
+      "fr": "Éclairement",
+      "de": "Beleuchtungsstärke",
+      "pl": "Natężenie światła"
     }
   ]
 }
