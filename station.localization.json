@@ -13479,7 +13479,7 @@
       "pl": "Zmniejsz rozmiar wykresów"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm1",
       "ident_android": "pm1",
       "ident_webui": "pm10",
       "en": "PM1.0",
@@ -13491,7 +13491,7 @@
       "pl": "PM1.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm25",
       "ident_android": "pm25",
       "ident_webui": "pm25",
       "en": "PM2.5",
@@ -13503,7 +13503,7 @@
       "pl": "PM2.5"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm4",
       "ident_android": "pm4",
       "ident_webui": "pm40",
       "en": "PM4.0",
@@ -13515,7 +13515,7 @@
       "pl": "PM4.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm10",
       "ident_android": "pm10",
       "ident_webui": "pm100",
       "en": "PM10.0",
@@ -13527,7 +13527,7 @@
       "pl": "PM10.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "co2",
       "ident_android": "co2",
       "ident_webui": "co2",
       "en": "CO2",
@@ -13539,7 +13539,7 @@
       "pl": "CO2"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "voc",
       "ident_android": "voc",
       "ident_webui": "voc",
       "en": "VOC",
@@ -13551,7 +13551,7 @@
       "pl": "VOC"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "nox",
       "ident_android": "nox",
       "ident_webui": "nox",
       "en": "NOx",
@@ -13563,7 +13563,7 @@
       "pl": "NOx"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound",
       "ident_android": "",
       "ident_webui": "sound",
       "en": "Sound",
