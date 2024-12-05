@@ -13861,6 +13861,18 @@
       "fr": "AQI",
       "de": "AQI",
       "pl": "AQI"
+    },
+    {
+      "ident_ios": "air_quality",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Air Quality",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
