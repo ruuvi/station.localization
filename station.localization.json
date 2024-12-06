@@ -13867,12 +13867,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Air Quality",
-      "fi": "",
+      "fi": "Ilmanlaatu",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Luftkvalitet",
+      "fr": "Qualité de l'air",
+      "de": "Luftqualität",
+      "pl": "Jakość powietrza"
     }
   ]
 }
