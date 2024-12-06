@@ -8451,6 +8451,222 @@
 	  "pl": ""
     },
     {
+      "ident_ios": "",
+      "ident_android": "alert_notification_co2_high_threshold",
+      "ident_webui": "",
+      "en": "CO2 is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_co2_low_threshold",
+      "ident_webui": "",
+      "en": "CO2 is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm1_high_threshold",
+      "ident_webui": "",
+      "en": "PM1.0 is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm1_low_threshold",
+      "ident_webui": "",
+      "en": "PM1.0 is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm25_high_threshold",
+      "ident_webui": "",
+      "en": "PM2.5 is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm25_low_threshold",
+      "ident_webui": "",
+      "en": "PM2.5 is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm4_high_threshold",
+      "ident_webui": "",
+      "en": "PM4.0 is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm4_low_threshold",
+      "ident_webui": "",
+      "en": "PM4.0 is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm10_high_threshold",
+      "ident_webui": "",
+      "en": "PM10.0 is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_pm10_low_threshold",
+      "ident_webui": "",
+      "en": "PM10.0 is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_voc_high_threshold",
+      "ident_webui": "",
+      "en": "VOC is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_voc_low_threshold",
+      "ident_webui": "",
+      "en": "VOC is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_nox_high_threshold",
+      "ident_webui": "",
+      "en": "NOx is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_nox_low_threshold",
+      "ident_webui": "",
+      "en": "NOx is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_sound_high_threshold",
+      "ident_webui": "",
+      "en": "Sound is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_sound_low_threshold",
+      "ident_webui": "",
+      "en": "Sound is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_luminosity_high_threshold",
+      "ident_webui": "",
+      "en": "Luminosity is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "alert_notification_luminosity_low_threshold",
+      "ident_webui": "",
+      "en": "Luminosity is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "alert_notification_offline_message",
       "ident_android": "alert_notification_offline_message",
       "ident_webui": "",
@@ -13479,7 +13695,7 @@
       "pl": "Zmniejsz rozmiar wykresów"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm1",
       "ident_android": "pm1",
       "ident_webui": "pm10",
       "en": "PM1.0",
@@ -13491,7 +13707,7 @@
       "pl": "PM1.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm25",
       "ident_android": "pm25",
       "ident_webui": "pm25",
       "en": "PM2.5",
@@ -13503,7 +13719,7 @@
       "pl": "PM2.5"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm4",
       "ident_android": "pm4",
       "ident_webui": "pm40",
       "en": "PM4.0",
@@ -13515,7 +13731,7 @@
       "pl": "PM4.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "pm10",
       "ident_android": "pm10",
       "ident_webui": "pm100",
       "en": "PM10.0",
@@ -13527,7 +13743,7 @@
       "pl": "PM10.0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "co2",
       "ident_android": "co2",
       "ident_webui": "co2",
       "en": "CO2",
@@ -13539,7 +13755,7 @@
       "pl": "CO2"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "voc",
       "ident_android": "voc",
       "ident_webui": "voc",
       "en": "VOC",
@@ -13551,7 +13767,7 @@
       "pl": "VOC"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "nox",
       "ident_android": "nox",
       "ident_webui": "nox",
       "en": "NOx",
@@ -13563,7 +13779,7 @@
       "pl": "NOx"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound",
       "ident_android": "",
       "ident_webui": "sound",
       "en": "Sound",
@@ -13624,7 +13840,7 @@
     },
         {
       "ident_ios": "TagSettings.co2AlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "co2_with_unit",
       "ident_webui": "",
       "en": "CO2 ({%@^%1$s})",
       "fi": "CO2 ({%@^%1$s})",
@@ -13636,7 +13852,7 @@
     },
     {
       "ident_ios": "TagSettings.pm10AlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "pm1_with_unit",
       "ident_webui": "",
       "en": "PM1.0 ({%@^%1$s})",
       "fi": "PM1.0 ({%@^%1$s})",
@@ -13648,7 +13864,7 @@
     },
     {
       "ident_ios": "TagSettings.pm25AlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "pm25_with_unit",
       "ident_webui": "",
       "en": "PM2.5 ({%@^%1$s})",
       "fi": "PM2.5 ({%@^%1$s})",
@@ -13660,7 +13876,7 @@
     },
     {
       "ident_ios": "TagSettings.pm40AlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "pm4_with_unit",
       "ident_webui": "",
       "en": "PM4.0 ({%@^%1$s})",
       "fi": "PM4.0 ({%@^%1$s})",
@@ -13672,7 +13888,7 @@
     },
     {
       "ident_ios": "TagSettings.pm100AlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "pm10_with_unit",
       "ident_webui": "",
       "en": "PM10.0 ({%@^%1$s})",
       "fi": "PM10.0 ({%@^%1$s})",
@@ -13684,7 +13900,7 @@
     },
     {
       "ident_ios": "TagSettings.vocAlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "voc_with_unit",
       "ident_webui": "",
       "en": "VOC ({%@^%1$s})",
       "fi": "VOC ({%@^%1$s})",
@@ -13696,7 +13912,7 @@
     },
     {
       "ident_ios": "TagSettings.noxAlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "nox_with_unit",
       "ident_webui": "",
       "en": "NOx ({%@^%1$s})",
       "fi": "NOx ({%@^%1$s})",
@@ -13708,7 +13924,7 @@
     },
     {
       "ident_ios": "TagSettings.soundAlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "sound_with_unit",
       "ident_webui": "",
       "en": "Sound ({%@^%1$s})",
       "fi": "Ääni ({%@^%1$s})",
@@ -13720,7 +13936,7 @@
     },
     {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
-      "ident_android": "",
+      "ident_android": "luminosity_with_unit",
       "ident_webui": "",
       "en": "Luminosity ({%@^%1$s})",
       "fi": "Valoisuus ({%@^%1$s})",
@@ -13732,7 +13948,7 @@
     },
     {
       "ident_ios": "unit_pm10",
-      "ident_android": "",
+      "ident_android": "unit_pm1",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13744,7 +13960,7 @@
     },
     {
       "ident_ios": "unit_pm25",
-      "ident_android": "",
+      "ident_android": "unit_pm25",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13756,7 +13972,7 @@
     },
     {
       "ident_ios": "unit_pm40",
-      "ident_android": "",
+      "ident_android": "unit_pm4",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13768,7 +13984,7 @@
     },
     {
       "ident_ios": "unit_pm100",
-      "ident_android": "",
+      "ident_android": "unit_pm10",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13780,7 +13996,7 @@
     },
     {
       "ident_ios": "unit_co2",
-      "ident_android": "",
+      "ident_android": "unit_co2",
       "ident_webui": "",
       "en": "ppm",
       "fi": "ppm",
@@ -13792,7 +14008,7 @@
     },
     {
       "ident_ios": "unit_voc",
-      "ident_android": "",
+      "ident_android": "unit_voc",
       "ident_webui": "",
       "en": "VOC Index",
       "fi": "VOC Index",
@@ -13804,7 +14020,7 @@
     },
     {
       "ident_ios": "unit_nox",
-      "ident_android": "",
+      "ident_android": "unit_nox",
       "ident_webui": "",
       "en": "NOx Index",
       "fi": "NOx Index",
@@ -13816,7 +14032,7 @@
     },
     {
       "ident_ios": "unit_sound",
-      "ident_android": "",
+      "ident_android": "unit_sound",
       "ident_webui": "",
       "en": "dBA",
       "fi": "dBA",
@@ -13828,7 +14044,7 @@
     },
     {
       "ident_ios": "unit_luminosity",
-      "ident_android": "",
+      "ident_android": "unit_luminosity",
       "ident_webui": "",
       "en": "lx",
       "fi": "lx",
@@ -13842,13 +14058,13 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_formatE0",
       "ident_webui": "",
-      "en": "Date,AQI,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V),Movement counter (movements),Measurement sequence number,TX power (dBm)",
-      "fi": "Päivämäärä,AQI,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,Lähetysteho,Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V),Liikelaskuri (liikettä),Mittausjärjestysnumero,Lähetysteho (dBm)",
-      "ru": "Дата,AQI,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,RSSI (dBm),Ускорение по X (g),Ускорение по Y (g),Ускорение по Z (g),Напряжение Батареи (V),Счетчик Движения (движений),Порядковый Номер Измерения,Мощность Передачи (dBm)",
-      "sv": "Datum,AQI,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,Signalstyrka (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Spänning (V),Rörelseräknare (rörelser),Mätningssekvensnummer,Sändningseffekt (dBm)",
-      "fr": "Date,AQI,Température (%1$s),Humidité (%2$s),Pression (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,Puissance d'émission (dBm),Accélération en X (g), Accélération en Y (g), Accélération en Z (g),Tension (V),Compteur de mouvements (mouvements),Numéro de séquence,Puissance d'émission (dBm)",
-      "de": "Zeitstempel,TAQI,emperatur (%1$s),Feuchtigkeit (%2$s),Druck (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,RSSI (dBm),Beschleunigung X (g),Beschleunigung Y (g),Beschleunigung Z (g),Spannung (V),Bewegungszähler,Messsequenznummer,TX-Leistung (dBm)",
-      "pl": "Znacznik czasu,AQI,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),Luminosity,db Avg,db peak,CO2,TVOC,NOX,PM1.0,PM2.5,PM4.0,PM10.0,RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik przesunięć, numer sekwencji pomiaru"
+      "en": "Date,AQI,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V),Movement counter (movements),Measurement sequence number,TX power (dBm)",
+      "fi": "Päivämäärä,AQI,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),Lähetysteho,Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V),Liikelaskuri (liikettä),Mittausjärjestysnumero,Lähetysteho (dBm)",
+      "ru": "Дата,AQI,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),RSSI (dBm),Ускорение по X (g),Ускорение по Y (g),Ускорение по Z (g),Напряжение Батареи (V),Счетчик Движения (движений),Порядковый Номер Измерения,Мощность Передачи (dBm)",
+      "sv": "Datum,AQI,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),Signalstyrka (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Spänning (V),Rörelseräknare (rörelser),Mätningssekvensnummer,Sändningseffekt (dBm)",
+      "fr": "Date,AQI,Température (%1$s),Humidité (%2$s),Pression (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),Puissance d'émission (dBm),Accélération en X (g), Accélération en Y (g), Accélération en Z (g),Tension (V),Compteur de mouvements (mouvements),Numéro de séquence,Puissance d'émission (dBm)",
+      "de": "Zeitstempel,TAQI,emperatur (%1$s),Feuchtigkeit (%2$s),Druck (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),Beschleunigung X (g),Beschleunigung Y (g),Beschleunigung Z (g),Spannung (V),Bewegungszähler,Messsequenznummer,TX-Leistung (dBm)",
+      "pl": "Znacznik czasu,AQI,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik przesunięć, numer sekwencji pomiaru"
     },
     {
       "ident_ios": "",
@@ -13861,6 +14077,18 @@
       "fr": "AQI",
       "de": "AQI",
       "pl": "AQI"
+    },
+    {
+      "ident_ios": "air_quality",
+      "ident_android": "air_quality",
+      "ident_webui": "",
+      "en": "Air Quality",
+      "fi": "Ilmanlaatu",
+      "ru": "",
+      "sv": "Luftkvalitet",
+      "fr": "Qualité de l'air",
+      "de": "Luftqualität",
+      "pl": "Jakość powietrza"
     }
   ]
 }
