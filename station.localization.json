@@ -2713,126 +2713,6 @@
 	  "pl": "Przyspieszenie Z"
     },
     {
-      "ident_ios": "ExportService.CO2",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "CO2",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.PM10",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM1.0",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.PM25",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM2.5",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.PM40",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM4.0",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.PM100",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM10.0",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.VOC",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "VOC",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.NOX",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "NOx",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.SoundAvg",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "dB Avg",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.SoundPeak",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "dB Peak",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.Luminosity",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Luminosity",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
       "ident_ios": "",
       "ident_android": "add_tag_not_found",
       "ident_webui": "",
@@ -3011,222 +2891,6 @@
       "fr": "Température trop basse !",
       "de": "Temperatur zu niedrig!",
 	  "pl": "Zbyt niska temperatura!"
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighCO2.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "CO2 too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowCO2.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "CO2 too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighPM10.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM1.0 too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowPM10.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM1.0 too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighPM25.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM2.5 too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowPM25.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM2.5 too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighPM40.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM4.0 too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowPM40.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM4.0 too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighPM100.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM10.0 too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowPM100.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "PM10.0 too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighVOC.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "VOC too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowVOC.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "VOC too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighNOX.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "NOx too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowNOX.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "NOx too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighSound.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowSound.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighLuminosity.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Luminosity too high!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.LowLuminosity.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Luminosity too low!",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
     },
     {
       "ident_ios": "TagSettings.Alerts.Off",
@@ -4022,7 +3686,7 @@
 	  "pl": "Względna (%)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "humidity_relative_unit",
       "ident_android": "humidity_relative_unit",
       "ident_webui": "",
       "en": "%",
@@ -8451,7 +8115,7 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_co2_high_threshold",
       "ident_android": "alert_notification_co2_high_threshold",
       "ident_webui": "",
       "en": "CO2 is above {%@^%1$s}",
@@ -8463,7 +8127,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_co2_low_threshold",
       "ident_android": "alert_notification_co2_low_threshold",
       "ident_webui": "",
       "en": "CO2 is below {%@^%1$s}",
@@ -8475,7 +8139,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm1_high_threshold",
       "ident_android": "alert_notification_pm1_high_threshold",
       "ident_webui": "",
       "en": "PM1.0 is above {%@^%1$s}",
@@ -8487,7 +8151,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm1_low_threshold",
       "ident_android": "alert_notification_pm1_low_threshold",
       "ident_webui": "",
       "en": "PM1.0 is below {%@^%1$s}",
@@ -8499,7 +8163,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm25_high_threshold",
       "ident_android": "alert_notification_pm25_high_threshold",
       "ident_webui": "",
       "en": "PM2.5 is above {%@^%1$s}",
@@ -8511,7 +8175,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm25_low_threshold",
       "ident_android": "alert_notification_pm25_low_threshold",
       "ident_webui": "",
       "en": "PM2.5 is below {%@^%1$s}",
@@ -8523,7 +8187,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm4_high_threshold",
       "ident_android": "alert_notification_pm4_high_threshold",
       "ident_webui": "",
       "en": "PM4.0 is above {%@^%1$s}",
@@ -8535,7 +8199,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm4_low_threshold",
       "ident_android": "alert_notification_pm4_low_threshold",
       "ident_webui": "",
       "en": "PM4.0 is below {%@^%1$s}",
@@ -8547,7 +8211,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm10_high_threshold",
       "ident_android": "alert_notification_pm10_high_threshold",
       "ident_webui": "",
       "en": "PM10.0 is above {%@^%1$s}",
@@ -8559,7 +8223,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_pm10_low_threshold",
       "ident_android": "alert_notification_pm10_low_threshold",
       "ident_webui": "",
       "en": "PM10.0 is below {%@^%1$s}",
@@ -8571,7 +8235,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_voc_high_threshold",
       "ident_android": "alert_notification_voc_high_threshold",
       "ident_webui": "",
       "en": "VOC is above {%@^%1$s}",
@@ -8583,7 +8247,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_voc_low_threshold",
       "ident_android": "alert_notification_voc_low_threshold",
       "ident_webui": "",
       "en": "VOC is below {%@^%1$s}",
@@ -8595,7 +8259,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_nox_high_threshold",
       "ident_android": "alert_notification_nox_high_threshold",
       "ident_webui": "",
       "en": "NOx is above {%@^%1$s}",
@@ -8607,7 +8271,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_nox_low_threshold",
       "ident_android": "alert_notification_nox_low_threshold",
       "ident_webui": "",
       "en": "NOx is below {%@^%1$s}",
@@ -8619,7 +8283,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_sound_high_threshold",
       "ident_android": "alert_notification_sound_high_threshold",
       "ident_webui": "",
       "en": "Sound is above {%@^%1$s}",
@@ -8631,7 +8295,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_sound_low_threshold",
       "ident_android": "alert_notification_sound_low_threshold",
       "ident_webui": "",
       "en": "Sound is below {%@^%1$s}",
@@ -8643,7 +8307,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_luminosity_high_threshold",
       "ident_android": "alert_notification_luminosity_high_threshold",
       "ident_webui": "",
       "en": "Luminosity is above {%@^%1$s}",
@@ -8655,7 +8319,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alert_notification_luminosity_low_threshold",
       "ident_android": "alert_notification_luminosity_low_threshold",
       "ident_webui": "",
       "en": "Luminosity is below {%@^%1$s}",
@@ -13791,7 +13455,7 @@
       "pl": "Dźwięk"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_avg",
       "ident_android": "sound_avg",
       "ident_webui": "soundLevelAvg",
       "en": "Sound level (average)",
@@ -13803,7 +13467,7 @@
       "pl": "Poziom dźwięku (średnia)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_peak",
       "ident_android": "sound_peak",
       "ident_webui": "soundLevelPeak",
       "en": "Sound level (peak)",
@@ -13815,7 +13479,7 @@
       "pl": "Poziom dźwięku (szczyt)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "luminosity",
       "ident_android": "luminosity",
       "ident_webui": "luminosity",
       "en": "Luminosity",
@@ -14067,7 +13731,7 @@
       "pl": "Znacznik czasu,AQI,temperatura (%1$s), wilgotność (%2$s), ciśnienie (%3$s),Luminosity(lx),db Avg(dBA),db peak(dBA),CO2(ppm),VOC,NOX,PM1.0(µg/m³),PM2.5(µg/m³),PM4.0(µg/m³),PM10.0(µg/m³),RSSI,przyspieszenie X,przyspieszenie Y,przyspieszenie Z,napięcie,licznik przesunięć, numer sekwencji pomiaru"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi",
       "ident_android": "aqi",
       "ident_webui": "",
       "en": "AQI",
