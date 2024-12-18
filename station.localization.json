@@ -13753,6 +13753,18 @@
       "fr": "Qualité de l'air",
       "de": "Luftqualität",
       "pl": "Jakość powietrza"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "image_history_cards",
+      "en": "Image + History cards",
+      "fi": "Kuva + Historiakortit",
+      "ru": "",
+      "sv": "Bild + Historikkort",
+      "fr": "Image + Cartes d'historique",
+      "de": "Bild + Historie-Karten",
+      "pl": "Obraz + Karty historii"
     }
   ]
 }
