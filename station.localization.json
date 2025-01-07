@@ -4059,6 +4059,18 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "permission_dialog_request_message_api31",
+      "ident_webui": "",
+      "en": "In order to scan nearby Bluetooth devices please allow to find and  connect to nearby devices. This permission is also used when app is closed if you enabled background scanning in app settings.\\n\\nRuuviStation doesn't use this  information to determine your location.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "permission_dialog_title",
       "ident_webui": "",
       "en": "Enable Bluetooth scanning",
