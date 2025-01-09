@@ -4059,6 +4059,18 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "permission_dialog_request_message_api31",
+      "ident_webui": "",
+      "en": "To scan nearby Bluetooth devices, please grant permission to find and connect to nearby devices. This permission is also required for background scanning if enabled in the app settings, even when the app is closed.\\n\\nRuuvi Station does not use this information to track your location.",
+      "fi": "Anna sovellukselle lupa etsiä ja yhdistää lähellä oleviin laitteisiin, jotta voit skannata lähistöllä olevia Bluetooth-laitteita. Tämä lupa tarvitaan myös taustaskannaukseen, jos se on aktivoitu sovelluksen asetuksissa, vaikka sovellus olisi suljettuna.\\n\\nRuuvi Station ei käytä näitä tietoja sijaintisi seuraamiseen.",
+      "ru": "Для сканирования ближайших Bluetooth-устройств предоставьте разрешение на их обнаружение и подключение. Это разрешение также необходимо для фонового сканирования, если эта функция включена в настройках приложения, даже когда приложение закрыто.\\n\\nRuuvi Station не использует эту информацию для определения вашего местоположения.",
+      "sv": "För att söka efter närliggande Bluetooth-enheter, ge tillstånd att hitta och ansluta till närliggande enheter. Detta tillstånd krävs också för bakgrundsskanning om det är aktiverat i appens inställningar, även när appen är stängd.\\n\\nRuuvi Station använder inte denna information för att spåra din plats.",
+      "fr": "Pour scanner les appareils Bluetooth à proximité, veuillez autoriser l'application à rechercher et à se connecter aux appareils proches. Cette autorisation est également requise pour la numérisation en arrière-plan si elle est activée dans les paramètres de l'application, même lorsque l'application est fermée.\\n\\nRuuvi Station n'utilise pas ces informations pour suivre votre position.",
+      "de": "Um in der Nähe befindliche Bluetooth-Geräte zu scannen, erteilen Sie bitte die Berechtigung, nahegelegene Geräte zu suchen und sich mit ihnen zu verbinden. Diese Berechtigung ist auch erforderlich, wenn das Hintergrundscannen in den App-Einstellungen aktiviert ist, selbst wenn die App geschlossen ist.\\n\\nRuuvi Station verwendet diese Informationen nicht, um Ihren Standort zu verfolgen.",
+      "pl": "Aby skanować pobliskie urządzenia Bluetooth, należy zezwolić aplikacji na wyszukiwanie i łączenie się z pobliskimi urządzeniami. To uprawnienie jest również wymagane do skanowania w tle, jeśli ta funkcja została włączona w ustawieniach aplikacji, nawet gdy aplikacja jest zamknięta.\\n\\nRuuvi Station nie wykorzystuje tych informacji do śledzenia Twojej lokalizacji."
+    },
+    {
+      "ident_ios": "",
       "ident_android": "permission_dialog_title",
       "ident_webui": "",
       "en": "Enable Bluetooth scanning",
