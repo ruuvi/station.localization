@@ -4037,7 +4037,7 @@
       "ident_ios": "",
       "ident_android": "permission_dialog_background_request_message",
       "ident_webui": "",
-      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \\n\\nPlease click 'allow all the time' if you'd like to use the background scanning feature. \\n\\nRuuvi doesn't track your movements. You're safe.",
+      "en": "In order to scan nearby Bluetooth devices in the background, Android requires background location access to be enabled. \\n\\nPlease click 'allow all the time' on next permission dialog if you'd like to use the background scanning feature. \\n\\We do not collect or store your location data.",
       "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nSalli käyttö, mikäli haluat käyttää taustaskannaus-toiminnallisuutta.\\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
       "ru": "Для того чтобы находить Bluetooth-утройства в фоновом режиме, Android требует включить доступ к фоновому местоположению.\\n\\nПожалуйста разрешите постоянный доспуп к местоположению\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности.",
       "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\nTillåt om du vill använda bakgrundsskanning\\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
@@ -4049,19 +4049,19 @@
       "ident_ios": "",
       "ident_android": "permission_dialog_request_message",
       "ident_webui": "",
-      "en": "In order to scan nearby Bluetooth devices, Android requires location access to be enabled. \\n\\nRuuvi doesn't track your movements. You're safe.",
-      "fi": "Android käyttöjärjestelmä käyttää sijaintitietoja lähellä olevien Bluetooth-laitteiden skannaamiseen. \\n\\nRuuvi ei koskaan jaa käyttäjiensä sijaintitietoja. Käyttö on turvallista.",
-      "ru": "Для того чтобы находить Bluetooth-утройства, Android требует включить доступ к местоположению.\\n\\nRuuvi не отслеживает ваше расположение. Вы в безопасности.",
-      "sv": "Android-operativsystemet kräver åtkomst av platsinformation för att skanna Bluetooth-enheter i närheten. \\n\\n Ruuvi delar aldrig din platsinformation. Användningen är säker.",
-      "fr": "Les appareils Android utilisent votre localisation pour balayer les appareils à proximité. \\n\\nRuuvi ne partage jamais votre position, elle reste confidentielle.",
-      "de": "Um Bluetooth-Geräte in der Nähe zu scannen, muss für Android der Standortzugriff aktiviert sein. \\n\\nRuuvi verfolgt Ihre Bewegungen nicht. Sie sind sicher.",
-	  "pl": "Android wymaga dostępu do lokalizacji, aby skanować znajdujące się w pobliżu urządzenia Bluetooth. \\n\\nRuuvi nie śledzi ruchu użytkownika. Zapewniamy prywatność."
+      "en": "Ruuvi Station requires location permission to detect and communicate with nearby Bluetooth devices, even when the app is closed or not in use.\\n\\nWe do not collect or store your location data.\\n\\nThis permission is required by Android for Bluetooth scanning on devices running Android 11 or older.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+	  "pl": ""
     },
     {
       "ident_ios": "",
       "ident_android": "permission_dialog_request_message_api31",
       "ident_webui": "",
-      "en": "To scan nearby Bluetooth devices, please grant permission to find and connect to nearby devices. This permission is also required for background scanning if enabled in the app settings, even when the app is closed.\\n\\nRuuvi Station does not use this information to track your location.",
+      "en": "To scan nearby Bluetooth devices, please grant permission to find and connect to nearby devices. This permission is also required for background scanning if enabled in the app settings, even when the app is closed.\\n\\nRuuvi Station does not use this information to collect or store your location data.",
       "fi": "Anna sovellukselle lupa etsiä ja yhdistää lähellä oleviin laitteisiin, jotta voit skannata lähistöllä olevia Bluetooth-laitteita. Tämä lupa tarvitaan myös taustaskannaukseen, jos se on aktivoitu sovelluksen asetuksissa, vaikka sovellus olisi suljettuna.\\n\\nRuuvi Station ei käytä näitä tietoja sijaintisi seuraamiseen.",
       "ru": "Для сканирования ближайших Bluetooth-устройств предоставьте разрешение на их обнаружение и подключение. Это разрешение также необходимо для фонового сканирования, если эта функция включена в настройках приложения, даже когда приложение закрыто.\\n\\nRuuvi Station не использует эту информацию для определения вашего местоположения.",
       "sv": "För att söka efter närliggande Bluetooth-enheter, ge tillstånd att hitta och ansluta till närliggande enheter. Detta tillstånd krävs också för bakgrundsskanning om det är aktiverat i appens inställningar, även när appen är stängd.\\n\\nRuuvi Station använder inte denna information för att spåra din plats.",
@@ -13777,6 +13777,30 @@
       "fr": "Image + Cartes d'historique",
       "de": "Bild + Historie-Karten",
       "pl": "Obraz + Karty historii"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "agree",
+      "ident_webui": "",
+      "en": "Agree",
+      "fi": "",
+      "ru": "Согласие",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "decline",
+      "ident_webui": "",
+      "en": "Decline",
+      "fi": "",
+      "ru": "Отказ",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
