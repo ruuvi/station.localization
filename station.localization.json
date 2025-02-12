@@ -13801,6 +13801,114 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_0",
+      "ident_webui": "",
+      "en": "Undefined",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_1",
+      "ident_webui": "",
+      "en": "Unhealthy",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_2",
+      "ident_webui": "",
+      "en": "Poor",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_3",
+      "ident_webui": "",
+      "en": "Moderate",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_4",
+      "ident_webui": "",
+      "en": "Good",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "aqi_level_5",
+      "ident_webui": "",
+      "en": "Excellent",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "battery",
+      "ident_webui": "",
+      "en": "Battery",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "light",
+      "ident_webui": "",
+      "en": "Light",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sound",
+      "ident_webui": "",
+      "en": "Sound",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
