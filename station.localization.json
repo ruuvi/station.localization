@@ -13909,6 +13909,18 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "select_all",
+      "en": "Select all",
+      "fi": "Valitse kaikki",
+      "ru": "",
+      "sv": "Välj alla",
+      "fr": "Tout sélectionner",
+      "de": "Alle auswählen",
+      "pl": "Zaznacz wszystko"
     }
   ]
 }
