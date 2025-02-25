@@ -13921,6 +13921,18 @@
       "fr": "Tout sélectionner",
       "de": "Alle auswählen",
       "pl": "Zaznacz wszystko"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "clear_all",
+      "en": "Clear all",
+      "fi": "Tyhjennä kaikki",
+      "ru": "",
+      "sv": "Rensa alla",
+      "fr": "Tout effacer",
+      "de": "Alle löschen",
+      "pl": "Wyczyść wszystko"
     }
   ]
 }
