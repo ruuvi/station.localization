@@ -10878,12 +10878,12 @@
       "ident_ios": "type_your_email",
       "ident_android": "type_your_email",
       "ident_webui": "",
-      "en": "Type your email..",
+      "en": "Type your email...",
       "fi": "Anna sähköpostiosoite...",
       "ru": "",
       "sv": "Skriv in din e-postadress...",
       "fr": "Tapez votre e-mail...",
-      "de": "Geben Sie Ihre E-Mail ein..",
+      "de": "Geben Sie Ihre E-Mail ein...",
 	  "pl": ""
     },
     {
@@ -13182,13 +13182,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "compare_description",
-      "en": "First, select all Ruuvi sensors you want to compare with each other. Then, select the unit of measurement. Finally, tap Compare and wait for the data to be loaded into the chart.",
-      "fi": "Valitse ensin kaikki Ruuvi-anturit, joita haluat vertailla keskenään. Valitse sitten mittayksikkö. Valitse lopuksi Vertaa ja odota, että tiedot ladataan kuvaajaan.",
-      "ru": "Сначала выберите все датчики Ruuvi, которые хотите сравнить друг с другом. Затем выберите единицу измерения. Наконец, нажмите Сравнить и подождите, пока данные загрузятся в график.",
-      "sv": "Välj först alla Ruuvi-sensorer du vill jämföra med varandra. Välj sedan måttenhet. Slutligen väljer du Jämför och väntar på att data ska laddas in i diagrammet.",
-      "fr": "Tout d'abord, sélectionnez tous les capteurs Ruuvi que vous souhaitez comparer entre eux. Ensuite, sélectionnez l'unité de mesure. Enfin, choisissez Comparer et attendez que les données soient chargées dans le graphique.",
-      "de": "Wählen Sie zuerst alle Ruuvi-Sensoren aus, die Sie miteinander vergleichen möchten. Wählen Sie dann die Maßeinheit aus. Wählen Sie schließlich Vergleichen und warten Sie, bis die Daten in das Diagramm geladen sind.",
-      "pl": "Najpierw wybierz wszystkie czujniki Ruuvi, które chcesz porównać ze sobą. Następnie wybierz jednostkę miary. Na koniec wybierz Porównaj i poczekaj, aż dane zostaną załadowane do wykresu."
+      "en": "First, select all Ruuvi sensors you want to compare with each other. Then tap Compare and wait for the data to be loaded into the chart.",
+      "fi": "Valitse ensin kaikki Ruuvi-anturit, joita haluat vertailla keskenään. Valitse sitten Vertaa ja odota, että tiedot ladataan kuvaajaan.",
+      "ru": "Сначала выберите все датчики Ruuvi, которые хотите сравнить. Затем нажмите «Сравнить» и дождитесь загрузки данных в график.",
+      "sv": "Välj först alla Ruuvi-sensorer du vill jämföra. Tryck sedan på Jämför och vänta tills datan har laddats in i diagrammet.",
+      "fr": "Tout d'abord, sélectionnez tous les capteurs Ruuvi que vous souhaitez comparer. Ensuite, appuyez sur Comparer et attendez que les données se chargent dans le graphique.",
+      "de": "Wählen Sie zuerst alle Ruuvi-Sensoren aus, die Sie vergleichen möchten. Tippen Sie dann auf Vergleichen und warten Sie, bis die Daten in das Diagramm geladen werden.",
+      "pl": "Najpierw wybierz wszystkie czujniki Ruuvi, które chcesz porównać. Następnie naciśnij Porównaj i poczekaj, aż dane zostaną załadowane do wykresu."
     },
     {
       "ident_ios": "",
@@ -13909,6 +13909,30 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "select_all",
+      "en": "Select all",
+      "fi": "Valitse kaikki",
+      "ru": "",
+      "sv": "Välj alla",
+      "fr": "Tout sélectionner",
+      "de": "Alle auswählen",
+      "pl": "Zaznacz wszystko"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "clear_all",
+      "en": "Clear all",
+      "fi": "Tyhjennä kaikki",
+      "ru": "",
+      "sv": "Rensa alla",
+      "fr": "Tout effacer",
+      "de": "Alle löschen",
+      "pl": "Wyczyść wszystko"
     }
   ]
 }
