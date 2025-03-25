@@ -13933,6 +13933,102 @@
       "fr": "Tout effacer",
       "de": "Alle löschen",
       "pl": "Wyczyść wszystko"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "visible_measurements",
+      "ident_webui": "",
+      "en": "Visible measurements",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "visible_measurements_description",
+      "ident_webui": "",
+      "en": "Here, you can choose which measurements you'd like to see and in what order. Switch the \"Use default\" toggle off to customise the settings.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "visible_measurements_use_default",
+      "ident_webui": "",
+      "en": "Use default",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "preview",
+      "ident_webui": "",
+      "en": "Preview",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "customisation_settings",
+      "ident_webui": "",
+      "en": "Customisation settings",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "customisation_settings_description",
+      "ident_webui": "",
+      "en": "Drag and drop the measurements into desired positions.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "show_measurements",
+      "ident_webui": "",
+      "en": "Show measurements",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "hide_measurements",
+      "ident_webui": "",
+      "en": "Hide measurements",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
