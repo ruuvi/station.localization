@@ -14029,6 +14029,18 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "network_error",
+      "en": "Network error",
+      "fi": "Verkkovirhe",
+      "ru": "",
+      "sv": "Nätverksfel",
+      "fr": "Erreur réseau",
+      "de": "Netzwerkfehler",
+      "pl": "Błąd sieci"
     }
   ]
 }
