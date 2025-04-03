@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20250314",
-        "version": "1.2.4",
-        "en": "Version 1.2.4 is released. This update adds select all/clear buttons in sensor compare, fixes a few bugs, and includes some UI tweaks. For a complete list of updates, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.2.4 on julkaistu. Tämä päivitys lisää valitse kaikki/tyhjennä -painikkeet anturivertailuun, korjaa muutamia virheitä ja tuo mukanaan joitakin käyttöliittymäparannuksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.2.4 har släppts. Denna uppdatering lägger till välj alla/rensa-knappar i sensorjämförelsen, åtgärdar några buggar och innehåller vissa UI-justeringar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20250403",
+        "version": "1.2.5",
+        "en": "Version 1.2.5 is released. Graphs now display dotted lines for data gaps and include other improvements and bug fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.2.5 on julkaistu. Graafeihin on lisätty pisteviivat tietoväleille, lisäksi muita parannuksia ja virheenkorjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.2.5 har släppts. Graferna har nu fått streckade linjer för datagap och andra förbättringar och buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
