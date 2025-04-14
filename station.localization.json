@@ -9592,6 +9592,18 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "hour_6",
+      "ident_webui": "",
+      "en": "6 hours",
+      "fi": "6 tuntia",
+      "ru": "6 часов",
+      "sv": "6 timmar",
+      "fr": "6 heures",
+      "de": "6 Stunden",
+      "pl": "6 godziny"
+    },
+    {
+      "ident_ios": "",
       "ident_android": "hour_12",
       "ident_webui": "",
       "en": "12 hours",
