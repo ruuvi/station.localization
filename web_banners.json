@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20250403",
-        "version": "1.2.5",
-        "en": "Version 1.2.5 is released. Graphs now display dotted lines for data gaps and include other improvements and bug fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.2.5 on julkaistu. Graafeihin on lisätty pisteviivat tietoväleille, lisäksi muita parannuksia ja virheenkorjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.2.5 har släppts. Graferna har nu fått streckade linjer för datagap och andra förbättringar och buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20250422",
+        "version": "1.2.6",
+        "en": "Version 1.2.6 is released. This version brings a new 6 hour view to history views selection and other improvements and bug fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.2.6 on julkaistu. Tässä versiossa mukana uusi 6 tunnin historianäkymä sekä muita parannuksia ja virheenkorjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.2.6 har släppts. Den här versionen innehåller en ny 6-timmarsvy i historikvyn samt andra förbättringar och buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
