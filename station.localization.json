@@ -9831,18 +9831,6 @@
 	  "pl": ""
     },
     {
-      "ident_ios": "",
-      "ident_android": "permission_notification_needed",
-      "ident_webui": "",
-      "en": "To enable alerts please allow notifications in settings.",
-      "fi": "Hälytysten näyttäminen vaatii ilmoitusten sallimisen asetuksista.",
-      "ru": "",
-      "sv": "För att visa alarm krävs att aviseringar tillåts i inställningar.",
-      "fr": "Pour activer les alertes, veuillez autoriser les notifications dans les paramètres.",
-      "de": "Um Benachrichtigungen zu aktivieren, erlauben Sie bitte Benachrichtigungen in den Einstellungen.",
-	  "pl": ""
-    },
-    {
       "ident_ios": "full_image_view",
       "ident_android": "full_image_view",
       "ident_webui": "",
@@ -10410,12 +10398,12 @@
       "ident_ios": "",
       "ident_android": "notification_permission_needed",
       "ident_webui": "",
-      "en": "To enable alerts please allow Notifications in settings",
-      "fi": "Ota hälytykset käyttöön ottamalla ensin ilmoitukset käyttöön asetuksista",
+      "en": "To enable alerts and background scanning please allow Notifications in settings",
+      "fi": "",
       "ru": "",
-      "sv": "För att aktivera alarm, vänligen tillåt Notifikationer i inställningar.",
-      "fr": "Pour activer les alertes, veuillez autoriser les notifications dans les paramètres.",
-      "de": "Um Benachrichtigungen zu aktivieren, erlauben Sie bitte Benachrichtigungen in den Einstellungen",
+      "sv": "",
+      "fr": "",
+      "de": "",
 	  "pl": ""
     },
     {
