@@ -10399,11 +10399,11 @@
       "ident_android": "notification_permission_needed",
       "ident_webui": "",
       "en": "To enable alerts and background scanning please allow Notifications in settings",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
+      "fi": "Salli hälytysilmoitukset ja taustaskannaus antamalla sovellukselle lupa näyttää ilmoituksia",
+      "ru": "Чтобы включить оповещения и фоновое сканирование, разрешите уведомления в настройках",
+      "sv": "För att aktivera aviseringar och bakgrundsskanning, tillåt aviseringar i inställningarna",
+      "fr": "Pour activer les alertes et la numérisation en arrière-plan, autorisez les notifications dans les paramètres",
+      "de": "Um Warnmeldungen und das Scannen im Hintergrund zu aktivieren, erlauben Sie Benachrichtigungen in den Einstellungen",
 	  "pl": ""
     },
     {
