@@ -13745,7 +13745,7 @@
     {
       "ident_ios": "aqi",
       "ident_android": "aqi",
-      "ident_webui": "",
+      "ident_webui": "aqi",
       "en": "AQI",
       "fi": "AQI",
       "ru": "AQI",
