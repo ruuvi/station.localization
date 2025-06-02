@@ -13685,7 +13685,7 @@
     {
       "ident_ios": "unit_voc",
       "ident_android": "unit_voc",
-      "ident_webui": "",
+      "ident_webui": "unit_voc",
       "en": "VOC Index",
       "fi": "VOC Index",
       "ru": "VOC Index",
@@ -13697,7 +13697,7 @@
     {
       "ident_ios": "unit_nox",
       "ident_android": "unit_nox",
-      "ident_webui": "",
+      "ident_webui": "unit_nox",
       "en": "NOx Index",
       "fi": "NOx Index",
       "ru": "NOx Index",
@@ -13757,7 +13757,7 @@
     {
       "ident_ios": "air_quality",
       "ident_android": "air_quality",
-      "ident_webui": "",
+      "ident_webui": "air_quality",
       "en": "Air Quality",
       "fi": "Ilmanlaatu",
       "ru": "",
