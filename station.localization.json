@@ -12858,13 +12858,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "share_center_description",
-      "en": "Select one or more sensors from the list, enter the email addresses to share with, and tap Add. You can add multiple email addresses at once. To share, tap the Share button.",
-      "fi": "Valitse yksi tai useampi anturi listasta, syötä sähköpostiosoitteet ja napauta Lisää. Voit lisätä useita sähköpostiosoitteita kerralla. Jaa napauttamalla Jaa-painiketta.",
+      "en": "Select one or more sensors from the list, enter the email addresses to share with, and tap Add. You can add multiple email addresses at once. To share, tap the Share button. Receiver will be notified by email. If the receiver doesn't have a Ruuvi account, a free Ruuvi account will automatically be created at first log in.",
+      "fi": "Valitse yksi tai useampi anturi listasta, syötä sähköpostiosoitteet ja napauta Lisää. Voit lisätä useita sähköpostiosoitteita kerralla. Jaa napauttamalla Jaa-painiketta. Vastaanottaja saa jakamisesta ilmoituksen sähköpostilla. Ilmainen Ruuvi-tili luodaan ensimmäisen sisäänkirjautumisen yhteydessä, mikäli vastaanottajalla ei ole vielä Ruuvi-tiliä.",
       "ru": "",
-      "sv": "Välj en eller flera sensorer från listan, ange e-postadresserna att dela med och tryck på Lägg till. Du kan lägga till flera e-postadresser samtidigt. För att dela, tryck på Dela-knappen.",
-      "fr": "Sélectionnez un ou plusieurs capteurs dans la liste, entrez les adresses e-mail pour partager, puis appuyez sur Ajouter. Vous pouvez ajouter plusieurs adresses e-mail à la fois. Pour partager, appuyez sur le bouton Partager.",
-      "de": "Wählen Sie einen oder mehrere Sensoren aus der Liste aus, geben Sie die E-Mail-Adressen ein, mit denen Sie teilen möchten, und tippen Sie auf Hinzufügen. Sie können mehrere E-Mail-Adressen auf einmal hinzufügen. Zum Teilen tippen Sie auf die Schaltfläche Teilen.",
-      "pl": "Wybierz jeden lub więcej czujników z listy, wprowadź adresy e-mail, aby udostępnić, i naciśnij Dodaj. Możesz dodać wiele adresów e-mail naraz. Aby udostępnić, naciśnij przycisk Udostępnij."
+      "sv": "Välj en eller flera sensorer från listan, ange e-postadresserna att dela med och tryck på Lägg till. Du kan lägga till flera e-postadresser samtidigt. För att dela, tryck på Dela-knappen. Mottagaren meddelas via e-post. Om mottagaren inte har ett Ruuvi-konto skapas ett gratis Ruuvi-konto automatiskt vid första inloggningen.",
+      "fr": "Sélectionnez un ou plusieurs capteurs dans la liste, entrez les adresses e-mail pour partager, puis appuyez sur Ajouter. Vous pouvez ajouter plusieurs adresses e-mail à la fois. Pour partager, appuyez sur le bouton Partager. L'utilisateur recevra une notification par mail. Le compte Ruuvi est créé en utilisant une adresse mailf si l'utilisateur n'en possède pas encore.",
+      "de": "Wählen Sie einen oder mehrere Sensoren aus der Liste aus, geben Sie die E-Mail-Adressen ein, mit denen Sie teilen möchten, und tippen Sie auf Hinzufügen. Sie können mehrere E-Mail-Adressen auf einmal hinzufügen. Zum Teilen tippen Sie auf die Schaltfläche Teilen. Der Empfänger wird per E-Mail benachrichtigt. Wenn der Empfänger kein Ruuvi-Konto hat, wird beim ersten Anmelden automatisch ein kostenloses Ruuvi-Konto erstellt.",
+      "pl": "Wybierz jeden lub więcej czujników z listy, wprowadź adresy e-mail, aby udostępnić, i naciśnij Dodaj. Możesz dodać wiele adresów e-mail naraz. Aby udostępnić, naciśnij przycisk Udostępnij. Odbiorca zostanie poinformowany wiadomością e-mail. Jeśli odbiorca nie ma konta Ruuvi, darmowe konto Ruuvi zostanie automatycznie utworzone przy pierwszym logowaniu."
     },
     {
       "ident_ios": "",
