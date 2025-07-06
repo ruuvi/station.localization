@@ -13937,7 +13937,7 @@
     {
       "ident_ios": "",
       "ident_android": "visible_measurements",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements",
       "en": "Visible measurements",
       "fi": "Näytettävät mittaukset",
       "ru": "Отображаемые измерения",
@@ -13949,7 +13949,7 @@
     {
       "ident_ios": "",
       "ident_android": "visible_measurements_description",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements_description",
       "en": "Here, you can choose which measurements you'd like to see and in what order. Switch the \"Use default\" toggle off to customise the settings.",
       "fi": "Tällä sivulla voit valita, mitkä mittaukset haluat nähdä ja missä järjestyksessä. Poista \"Käytä oletusta\" -valinta muokataksesi asetuksia.",
       "ru": "Здесь вы можете выбрать, какие измерения отображать и в каком порядке. Отключите переключатель «Использовать по умолчанию», чтобы настроить параметры.",
@@ -13961,7 +13961,7 @@
     {
       "ident_ios": "",
       "ident_android": "visible_measurements_use_default",
-      "ident_webui": "",
+      "ident_webui": "use_default",
       "en": "Use default",
       "fi": "Käytä oletusta",
       "ru": "Использовать по умолчанию",
@@ -13973,7 +13973,7 @@
     {
       "ident_ios": "",
       "ident_android": "preview",
-      "ident_webui": "",
+      "ident_webui": "preview",
       "en": "Preview",
       "fi": "Esikatselu",
       "ru": "Предпросмотр",
@@ -13985,7 +13985,7 @@
     {
       "ident_ios": "",
       "ident_android": "customisation_settings",
-      "ident_webui": "",
+      "ident_webui": "customisation_settings",
       "en": "Customisation settings",
       "fi": "Mukautusasetukset",
       "ru": "Настройки кастомизации",
@@ -13997,7 +13997,7 @@
     {
       "ident_ios": "",
       "ident_android": "customisation_settings_description",
-      "ident_webui": "",
+      "ident_webui": "customisation_settings_description",
       "en": "Drag and drop the measurements into desired ordering.",
       "fi": "Raahaa ja pudota mittaukset haluamaasi järjestykseen.",
       "ru": "Перетащите измерения в нужном порядке.",
@@ -14009,7 +14009,7 @@
     {
       "ident_ios": "",
       "ident_android": "show_measurements",
-      "ident_webui": "",
+      "ident_webui": "show_measurements",
       "en": "Visible measurements",
       "fi": "Näytettävät mittaukset",
       "ru": "Отображаемые измерения",
@@ -14021,7 +14021,7 @@
     {
       "ident_ios": "",
       "ident_android": "hide_measurements",
-      "ident_webui": "",
+      "ident_webui": "hide_measurements",
       "en": "Hidden measurements",
       "fi": "Piilotetut mittaukset",
       "ru": "Скрытые измерения",
@@ -14041,6 +14041,18 @@
       "fr": "Erreur réseau",
       "de": "Netzwerkfehler",
       "pl": "Błąd sieci"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "hide_sensor_type_alert_warning",
+      "en": "Hiding will disable an alert. Do you want to continue?",
+      "fi": "Piilottaminen poistaa hälytyksen käytöstä. Haluatko jatkaa?",
+      "ru": "",
+      "sv": "Att dölja kommer att inaktivera ett alarm. Vill du fortsätta?",
+      "fr": "Cacher désactivera une alerte. Voulez-vous continuer ?",
+      "de": "Das Ausblenden deaktiviert eine Warnung. Möchtest du fortfahren?",
+      "pl": "Ukrycie spowoduje wyłączenie alertu. Czy chcesz kontynuować?"
     }
   ]
 }
