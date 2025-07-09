@@ -13517,7 +13517,7 @@
     {
       "ident_ios": "sound_avg",
       "ident_android": "sound_avg",
-      "ident_webui": "soundLevelAvg",
+      "ident_webui": "sound_avg",
       "en": "Sound level (average)",
       "fi": "Äänitaso (keskiarvo)",
       "ru": "",
@@ -13529,7 +13529,7 @@
     {
       "ident_ios": "sound_peak",
       "ident_android": "sound_peak",
-      "ident_webui": "soundLevelPeak",
+      "ident_webui": "sound_peak",
       "en": "Sound level (peak)",
       "fi": "Äänitaso (huippu)",
       "ru": "",
@@ -13537,6 +13537,18 @@
       "fr": "Niveau sonore (crête)",
       "de": "Schalldruckpegel (Spitze)",
       "pl": "Poziom dźwięku (szczyt)"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sound_instant",
+      "en": "Sound level (instant)",
+      "fi": "Äänitaso (hetkellinen)",
+      "ru": "",
+      "sv": "Ljudnivå (momentan)",
+      "fr": "Niveau sonore (instantané)",
+      "de": "Schalldruckpegel (sofort)",
+      "pl": "Poziom dźwięku (natychmiastowy)"
     },
     {
       "ident_ios": "luminosity",
