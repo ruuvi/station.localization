@@ -13504,11 +13504,11 @@
     },
     {
       "ident_ios": "sound",
-      "ident_android": "",
+      "ident_android": "sound",
       "ident_webui": "sound",
       "en": "Sound",
       "fi": "Ääni",
-      "ru": "",
+      "ru": "Звук",
       "sv": "Ljud",
       "fr": "Son",
       "de": "Ton",
@@ -13539,7 +13539,7 @@
       "pl": "Poziom dźwięku (szczyt)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_instant",
       "ident_android": "",
       "ident_webui": "sound_instant",
       "en": "Sound level (instant)",
@@ -13863,7 +13863,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_undefined",
       "ident_android": "aqi_level_0",
       "ident_webui": "",
       "en": "Undefined",
@@ -13875,7 +13875,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_unhealthy",
       "ident_android": "aqi_level_1",
       "ident_webui": "",
       "en": "Unhealthy",
@@ -13887,7 +13887,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_poor",
       "ident_android": "aqi_level_2",
       "ident_webui": "",
       "en": "Poor",
@@ -13899,7 +13899,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_moderate",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
       "en": "Moderate",
@@ -13911,7 +13911,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_good",
       "ident_android": "aqi_level_4",
       "ident_webui": "",
       "en": "Good",
@@ -13923,7 +13923,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_excellent",
       "ident_android": "aqi_level_5",
       "ident_webui": "",
       "en": "Excellent",
@@ -13956,18 +13956,6 @@
       "sv": "Ljusstyrka",
       "fr": "Luminosité",
       "de": "Helligkeit",
-      "pl": ""
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "sound",
-      "ident_webui": "",
-      "en": "Sound",
-      "fi": "Ääni",
-      "ru": "Звук",
-      "sv": "Ljud",
-      "fr": "Son",
-      "de": "Ton",
       "pl": ""
     },
     {
