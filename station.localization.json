@@ -14286,7 +14286,7 @@
       "ident_ios": "",
       "ident_android": "description_text_temperature",
       "ident_webui": "",
-      "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "en": "&lt;title&gt;About temperature&lt;/title&gt;\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\\n\\n&lt;title&gt;How to use&lt;/title&gt;\\n\\nSome how to use text",
       "fi": "",
       "ru": "",
       "sv": "",
