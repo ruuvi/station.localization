@@ -8319,6 +8319,78 @@
       "pl": "Dźwięk jest poniżej {%@^%1$s}"
     },
     {
+      "ident_ios": "alert_notification_sound_instant_high_threshold",
+      "ident_android": "alert_notification_sound_instant_high_threshold",
+      "ident_webui": "",
+      "en": "Current sound level is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_instant_low_threshold",
+      "ident_android": "alert_notification_sound_instant_low_threshold",
+      "ident_webui": "",
+      "en": "Current sound level is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_average_high_threshold",
+      "ident_android": "alert_notification_sound_average_high_threshold",
+      "ident_webui": "",
+      "en": "Sound Average is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_average_low_threshold",
+      "ident_android": "alert_notification_sound_average_low_threshold",
+      "ident_webui": "",
+      "en": "Sound Average is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_peak_high_threshold",
+      "ident_android": "alert_notification_sound_peak_high_threshold",
+      "ident_webui": "",
+      "en": "Sound Peak is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_peak_low_threshold",
+      "ident_android": "alert_notification_sound_peak_low_threshold",
+      "ident_webui": "",
+      "en": "Sound Peak is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "alert_notification_luminosity_high_threshold",
       "ident_android": "alert_notification_luminosity_high_threshold",
       "ident_webui": "",
@@ -8341,6 +8413,30 @@
       "fr": "La luminosité est inférieure à {%@^%1$s}",
       "de": "Die Helligkeit liegt unter {%@^%1$s}",
       "pl": "Jasność jest poniżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_aqi_high_threshold",
+      "ident_android": "alert_notification_aqi_high_threshold",
+      "ident_webui": "",
+      "en": "AQI is above {%@^%1$s}",
+      "fi": "AQI on yli {%@^%1$s}",
+      "ru": "",
+      "sv": "AQI är över {%@^%1$s}",
+      "fr": "Le AQI est supérieure à {%@^%1$s}",
+      "de": "AQI liegt über {%@^%1$s}",
+      "pl": "AQI przekracza {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_aqi_low_threshold",
+      "ident_android": "alert_notification_aqi_low_threshold",
+      "ident_webui": "",
+      "en": "AQI is below {%@^%1$s}",
+      "fi": "AQI on alle {%@^%1$s}",
+      "ru": "",
+      "sv": "AQI är under {%@^%1$s}",
+      "fr": "AQI est inférieure à {%@^%1$s}",
+      "de": "AQI liegt unter {%@^%1$s}",
+      "pl": "AQI jest poniżej {%@^%1$s}"
     },
     {
       "ident_ios": "alert_notification_offline_message",
@@ -13671,6 +13767,54 @@
       "pl": "Dźwięk ({%@^%1$s})"
     },
     {
+      "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
+      "ident_android": "aqi_with_unit",
+      "ident_webui": "",
+      "en": "AQI ({%@^%1$s})",
+      "fi": "AQI ({%@^%1$s})",
+      "ru": "AQI ({%@^%1$s})",
+      "sv": "AQI ({%@^%1$s})",
+      "fr": "AQI ({%@^%1$s})",
+      "de": "AQI ({%@^%1$s})",
+      "pl": "AQI ({%@^%1$s})"
+    },
+    {
+      "ident_ios": "TagSettings.soundInstantAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Instant ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundAverageAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Average({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundPeakAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Peak ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
       "ident_android": "luminosity_with_unit",
       "ident_webui": "",
@@ -14274,7 +14418,7 @@
       "ident_ios": "",
       "ident_android": "description_text_temperature",
       "ident_webui": "",
-      "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "en": "&lt;title&gt;About temperature&lt;/title&gt;\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\\n\\n&lt;title&gt;How to use&lt;/title&gt;\\n\\nSome how to use text",
       "fi": "",
       "ru": "",
       "sv": "",
