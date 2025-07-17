@@ -13767,6 +13767,54 @@
       "pl": "Dźwięk ({%@^%1$s})"
     },
     {
+      "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
+      "ident_android": "aqi_with_unit",
+      "ident_webui": "",
+      "en": "AQI ({%@^%1$s})",
+      "fi": "AQI ({%@^%1$s})",
+      "ru": "AQI ({%@^%1$s})",
+      "sv": "AQI ({%@^%1$s})",
+      "fr": "AQI ({%@^%1$s})",
+      "de": "AQI ({%@^%1$s})",
+      "pl": "AQI ({%@^%1$s})"
+    },
+    {
+      "ident_ios": "TagSettings.soundInstantAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Instant ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundAverageAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Average({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundPeakAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Peak ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
       "ident_android": "luminosity_with_unit",
       "ident_webui": "",
