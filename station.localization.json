@@ -8319,6 +8319,78 @@
       "pl": "Dźwięk jest poniżej {%@^%1$s}"
     },
     {
+      "ident_ios": "alert_notification_sound_instant_high_threshold",
+      "ident_android": "alert_notification_sound_instant_high_threshold",
+      "ident_webui": "",
+      "en": "Current sound level is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_instant_low_threshold",
+      "ident_android": "alert_notification_sound_instant_low_threshold",
+      "ident_webui": "",
+      "en": "Current sound level is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_average_high_threshold",
+      "ident_android": "alert_notification_sound_average_high_threshold",
+      "ident_webui": "",
+      "en": "Sound Average is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_average_low_threshold",
+      "ident_android": "alert_notification_sound_average_low_threshold",
+      "ident_webui": "",
+      "en": "Sound Average is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_peak_high_threshold",
+      "ident_android": "alert_notification_sound_peak_high_threshold",
+      "ident_webui": "",
+      "en": "Sound Peak is above {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "alert_notification_sound_peak_low_threshold",
+      "ident_android": "alert_notification_sound_peak_low_threshold",
+      "ident_webui": "",
+      "en": "Sound Peak is below {%@^%1$s}",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "alert_notification_luminosity_high_threshold",
       "ident_android": "alert_notification_luminosity_high_threshold",
       "ident_webui": "",
@@ -8341,6 +8413,30 @@
       "fr": "La luminosité est inférieure à {%@^%1$s}",
       "de": "Die Helligkeit liegt unter {%@^%1$s}",
       "pl": "Jasność jest poniżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_aqi_high_threshold",
+      "ident_android": "alert_notification_aqi_high_threshold",
+      "ident_webui": "",
+      "en": "AQI is above {%@^%1$s}",
+      "fi": "AQI on yli {%@^%1$s}",
+      "ru": "",
+      "sv": "AQI är över {%@^%1$s}",
+      "fr": "Le AQI est supérieure à {%@^%1$s}",
+      "de": "AQI liegt über {%@^%1$s}",
+      "pl": "AQI przekracza {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_aqi_low_threshold",
+      "ident_android": "alert_notification_aqi_low_threshold",
+      "ident_webui": "",
+      "en": "AQI is below {%@^%1$s}",
+      "fi": "AQI on alle {%@^%1$s}",
+      "ru": "",
+      "sv": "AQI är under {%@^%1$s}",
+      "fr": "AQI est inférieure à {%@^%1$s}",
+      "de": "AQI liegt unter {%@^%1$s}",
+      "pl": "AQI jest poniżej {%@^%1$s}"
     },
     {
       "ident_ios": "alert_notification_offline_message",
@@ -13504,11 +13600,11 @@
     },
     {
       "ident_ios": "sound",
-      "ident_android": "",
+      "ident_android": "sound",
       "ident_webui": "sound",
       "en": "Sound",
       "fi": "Ääni",
-      "ru": "",
+      "ru": "Звук",
       "sv": "Ljud",
       "fr": "Son",
       "de": "Ton",
@@ -13539,7 +13635,7 @@
       "pl": "Poziom dźwięku (szczyt)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_instant",
       "ident_android": "",
       "ident_webui": "sound_instant",
       "en": "Sound level (instant)",
@@ -13669,6 +13765,54 @@
       "fr": "Son ({%@^%1$s})",
       "de": "Ton ({%@^%1$s})",
       "pl": "Dźwięk ({%@^%1$s})"
+    },
+    {
+      "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
+      "ident_android": "aqi_with_unit",
+      "ident_webui": "",
+      "en": "AQI ({%@^%1$s})",
+      "fi": "AQI ({%@^%1$s})",
+      "ru": "AQI ({%@^%1$s})",
+      "sv": "AQI ({%@^%1$s})",
+      "fr": "AQI ({%@^%1$s})",
+      "de": "AQI ({%@^%1$s})",
+      "pl": "AQI ({%@^%1$s})"
+    },
+    {
+      "ident_ios": "TagSettings.soundInstantAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Instant ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundAverageAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Average({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "TagSettings.soundPeakAlertTitleLabel.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Sound Peak ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
@@ -13863,7 +14007,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_undefined",
       "ident_android": "aqi_level_0",
       "ident_webui": "",
       "en": "Undefined",
@@ -13875,7 +14019,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_unhealthy",
       "ident_android": "aqi_level_1",
       "ident_webui": "",
       "en": "Unhealthy",
@@ -13887,7 +14031,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_poor",
       "ident_android": "aqi_level_2",
       "ident_webui": "",
       "en": "Poor",
@@ -13899,7 +14043,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_moderate",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
       "en": "Moderate",
@@ -13911,7 +14055,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_good",
       "ident_android": "aqi_level_4",
       "ident_webui": "",
       "en": "Good",
@@ -13923,7 +14067,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_level_excellent",
       "ident_android": "aqi_level_5",
       "ident_webui": "",
       "en": "Excellent",
@@ -13956,18 +14100,6 @@
       "sv": "Ljusstyrka",
       "fr": "Luminosité",
       "de": "Helligkeit",
-      "pl": ""
-    },
-    {
-      "ident_ios": "",
-      "ident_android": "sound",
-      "ident_webui": "",
-      "en": "Sound",
-      "fi": "Ääni",
-      "ru": "Звук",
-      "sv": "Ljud",
-      "fr": "Son",
-      "de": "Ton",
       "pl": ""
     },
     {
