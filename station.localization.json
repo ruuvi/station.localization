@@ -13783,36 +13783,36 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "Sound Instant ({%@^%1$s})",
-      "fi": "",
+      "fi": "Äänenvoimakkuus hetkellinen ({%@^%1$s})",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Ljud omedelbart ({%@^%1$s})",
+      "fr": "Son instantané ({%@^%1$s})",
+      "de": "Momentaner Schallwert ({%@^%1$s})",
+      "pl": "Chwilowy poziom dźwięku ({%@^%1$s})"
     },
     {
       "ident_ios": "TagSettings.soundAverageAlertTitleLabel.text",
       "ident_android": "",
       "ident_webui": "",
       "en": "Sound Average({%@^%1$s})",
-      "fi": "",
+      "fi": "Äänenvoimakkuus keskiarvo ({%@^%1$s})"",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Ljudmedelvärde ({%@^%1$s})",
+      "fr": "Moyenne sonore ({%@^%1$s})",
+      "de": "Schalldurchschnitt ({%@^%1$s})",
+      "pl": "Średni poziom dźwięku ({%@^%1$s})"
     },
     {
       "ident_ios": "TagSettings.soundPeakAlertTitleLabel.text",
       "ident_android": "",
       "ident_webui": "",
       "en": "Sound Peak ({%@^%1$s})",
-      "fi": "",
+      "fi": "Äänenvoimakkuus huippuarvo ({%@^%1$s})",
       "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Ljudtoppvärde ({%@^%1$s})",
+      "fr": "Pic sonore ({%@^%1$s})",
+      "de": "Schallspitzenwert ({%@^%1$s})",
+      "pl": "Szczytowy poziom dźwięku ({%@^%1$s})"
     },
     {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
