@@ -2173,7 +2173,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.dewPointAlertTitleLabel.text",
+      "ident_ios": "dewpoint",
       "ident_android": "",
       "ident_webui": "dewpoint",
       "en": "Dew point",
@@ -14247,7 +14247,7 @@
       "pl": "Ukrycie spowoduje wyłączenie alertu. Czy chcesz kontynuować?"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_temperature",
       "ident_android": "description_header_temperature",
       "ident_webui": "",
       "en": "About temperature",
@@ -14259,7 +14259,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_humidity",
       "ident_android": "description_header_humidity",
       "ident_webui": "",
       "en": "About humidity",
@@ -14271,7 +14271,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_pressure",
       "ident_android": "description_header_pressure",
       "ident_webui": "",
       "en": "About air pressure",
@@ -14283,7 +14283,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_movement",
       "ident_android": "description_header_movement",
       "ident_webui": "",
       "en": "About movement",
@@ -14295,7 +14295,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_battery_voltage",
       "ident_android": "description_header_battery_voltage",
       "ident_webui": "",
       "en": "About battery voltage",
@@ -14307,7 +14307,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_acceleration",
       "ident_android": "description_header_acceleration",
       "ident_webui": "",
       "en": "About acceleration",
@@ -14319,7 +14319,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_signal_strength",
       "ident_android": "description_header_signal_strength",
       "ident_webui": "",
       "en": "About signal strength",
@@ -14331,7 +14331,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_air_quality",
       "ident_android": "description_header_air_quality",
       "ident_webui": "",
       "en": "About Air Quality",
@@ -14343,7 +14343,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_luminosity",
       "ident_android": "description_header_luminosity",
       "ident_webui": "",
       "en": "About luminosity",
@@ -14355,7 +14355,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_sound_level",
       "ident_android": "description_header_sound_level",
       "ident_webui": "",
       "en": "About sound level",
@@ -14367,7 +14367,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_co2",
       "ident_android": "description_header_co2",
       "ident_webui": "",
       "en": "About CO2",
@@ -14379,7 +14379,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_voc",
       "ident_android": "description_header_voc",
       "ident_webui": "",
       "en": "About VOC",
@@ -14391,7 +14391,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_nox",
       "ident_android": "description_header_nox",
       "ident_webui": "",
       "en": "About NOX",
@@ -14403,7 +14403,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_header_pm",
       "ident_android": "description_header_pm",
       "ident_webui": "",
       "en": "About particulate matter",
@@ -14415,7 +14415,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_temperature",
       "ident_android": "description_text_temperature",
       "ident_webui": "",
       "en": "&lt;title&gt;About temperature&lt;/title&gt;\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\\n\\n&lt;title&gt;How to use&lt;/title&gt;\\n\\nSome how to use text",
@@ -14427,7 +14427,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_humidity",
       "ident_android": "description_text_humidity",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14439,7 +14439,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_pressure",
       "ident_android": "description_text_pressure",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14451,7 +14451,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_movement",
       "ident_android": "description_text_movement",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14463,7 +14463,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_battery_voltage",
       "ident_android": "description_text_battery_voltage",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14475,7 +14475,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_acceleration",
       "ident_android": "description_text_acceleration",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14487,7 +14487,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_signal_strength",
       "ident_android": "description_text_signal_strength",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14499,7 +14499,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_air_quality",
       "ident_android": "description_text_air_quality",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14511,7 +14511,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_luminosity",
       "ident_android": "description_text_luminosity",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14523,7 +14523,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_sound_level",
       "ident_android": "description_text_sound_level",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14535,7 +14535,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_co2",
       "ident_android": "description_text_co2",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14547,7 +14547,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_voc",
       "ident_android": "description_text_voc",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14559,7 +14559,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_nox",
       "ident_android": "description_text_nox",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14571,7 +14571,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_pm",
       "ident_android": "description_text_pm",
       "ident_webui": "",
       "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -14581,6 +14581,42 @@
       "fr": "",
       "de": "",
       "pl": ""
+    },
+    {
+      "ident_ios": "real_time",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Real time",
+      "fi": "Reaaliaika",
+      "ru": "Реальное время",
+      "sv": "Realtid",
+      "fr": "Temps réel",
+      "de": "Echtzeit",
+      "pl": "Czas rzeczywisty"
+    },
+    {
+      "ident_ios": "average",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Average",
+      "fi": "Keskimääräinen",
+      "ru": "Среднее",
+      "sv": "Genomsnitt",
+      "fr": "Moyenne",
+      "de": "Durchschnitt",
+      "pl": "Średnia"
+    },
+    {
+      "ident_ios": "peak",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Peak",
+      "fi": "Huippu",
+      "ru": "Пик",
+      "sv": "Topp",
+      "fr": "Pic",
+      "de": "Spitze",
+      "pl": "Szczyt"
     }
   ]
 }
