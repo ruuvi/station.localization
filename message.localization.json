@@ -148,25 +148,25 @@
       "de": "{{name}}\n\nSchallpegelwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm10_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM1.0 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM1 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm10_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM1.0 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1.0-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM1 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm10_resolved": {
-      "en": "{{name}}\n\nPM1.0 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nPM1.0-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nPM1.0-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte PM1.0 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nPM1.0-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nPM1 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nPM1-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nPM1-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte PM1 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nPM1-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm25_over": {
       "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM2.5 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
@@ -190,46 +190,46 @@
       "de": "{{name}}\n\nPM2.5-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm40_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM4.0 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM4 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm40_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM4.0 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4.0-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM4 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm40_resolved": {
-      "en": "{{name}}\n\nPM4.0 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nPM4.0-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nPM4.0-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte PM4.0 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nPM4.0-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nPM4 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nPM4-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nPM4-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte PM4 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nPM4-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm100_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM10.0 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM10 au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm100_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM10.0 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10.0-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10 level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau PM10 en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm100_resolved": {
-      "en": "{{name}}\n\nPM10.0 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nPM10.0-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nPM10.0-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte PM10.0 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nPM10.0-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nPM10 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nPM10-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nPM10-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte PM10 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nPM10-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_voc_over": {
       "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
