@@ -7323,6 +7323,18 @@
       "pl": "Pobieranie najnowszego firmware’u do aktualizacji..."
     },
     {
+      "ident_ios": "",
+      "ident_android": "prepare_your_sensor_instructions",
+      "ident_webui": "",
+      "en": "&lt;title&gt;Prepare your sensor&lt;/title&gt;\\n\\n1. Open the cover of your Ruuvi sensor\\n\\n2. Locate the small round black buttons on the white circuit board; older Ruuvi sensors have 2 buttons labelled “R” and “B” while newer ones have only one button without a label.\\n\\n3. Set the sensor to updating mode:\\n\\n3.1. If your sensor has 2 buttons: keep “B” button pressed while tapping button “R” momentarily. Release button “B”.\\n\\n3.2. If your sensor has a single button: keep the button pressed for 10 seconds.\\n\\n4. If set successfully, you will see a solid red light lit on the circuit board and the button in the app will change to “Start the update”.",
+      "fi": "&lt;title&gt;Laitteen asettaminen päivitystilaan&lt;/title&gt;\\n\\n1. Avaa Ruuvi-anturin suojakotelo\\n\\n2. Paikanna valkoisella piirilevyllä olevat pienet pyöreät mustat painikkeet; vanhemmissa Ruuvi-antureissa on 2 painiketta “R” ja “B”, kun taas uudemmissa on vain yksi nimeämätön painike.\\n\\n3. Aseta anturi päivitystilaan:\\n\\n3.1. Anturissasi on kaksi painiketta: pidä painike “B” alaspainettuna ja napauta samalla painiketta “R”. Vapauta painike “B”.\\n\\n3.2. Anturissasi on yksi painike: pidä painiketta alaspainettuna 10 sekunnin ajan.\\n\\n4. Päivitystilaan siirtyminen onnistui, mikäli piirilevyllä oleva punainen LED-valo on nyt aktiivinen ja sovelluksen painikkeen nimeksi on vaihtunut “Aloita päivitys”.",
+      "ru": "",
+      "sv": "&lt;title&gt;Förbered din sensor&lt;/title&gt;\\n\\n1. Öppna locket på din Ruuvi sensor\\n\\n2. Leta reda på små runda svarta knappar på det vita kretskortet; äldre Ruuvi-sensorer har 2 knappar märkta “R“ och “B“ medan nyare har bara en knapp utan etikett.\\n\\n3. Lägg sensorn i uppdateringsläge\\n\\n3.1. Om din sensor har två knappar: håll knappen “B” intryckt medan du trycker en gång på “R”. Släpp knapp “B”.\\n\\n3.2. Om din sensor har en knapp, håll knappen intryckt i 10 sekunder.\\n\\n4. Uppgraderingsläget lyckades om den röda lysdioden på kretskortet lyser och knappens text i appen har bytts till “Starta uppdatering“.",
+      "fr": "&lt;title&gt;Préparez votre capteur&lt;/title&gt;\\n\\n1. Ouvrez le couvercle de votre capteur Ruuvi\\n\\n2. Localisez les petits boutons ronds noirs sur la carte de circuit imprimé blanche ; les anciens capteurs Ruuvi ont 2 boutons étiquetés \"R\" et \"B\" tandis que les plus récents n'ont qu'un seul bouton sans étiquette.\\n\\n3. Mettez le capteur en mode de mise à jour :\\n\\n3.1. Si votre capteur est équipé de 2 boutons : maintenez le bouton \"B\" enfoncé tout en appuyant momentanément sur le bouton \"R\". Relâchez le bouton \"B\".\\n\\n3.2. Si votre capteur possède un seul bouton : maintenez le bouton enfoncé pendant 10 secondes.\\n\\n4. Si le réglage est réussi, vous verrez une lumière rouge fixe s'allumer sur la carte de circuit imprimé et le bouton de l'application passera à \"Démarrer la mise à jour\".",
+      "de": "&lt;title&gt;Bereiten Sie Ihren Sensor vor&lt;/title&gt;\\n\\n1. Öffnen Sie den Deckel Ihres Ruuvi-Sensors\\n\\n2. Suchen Sie die kleinen runden schwarzen Knöpfe auf der weißen Platine; ältere Ruuvi-Sensoren haben zwei Knöpfe mit den Bezeichnungen \"R\" und \"B\", während neuere nur einen Knopf ohne Beschriftung haben.\\n\\n3. Stellen Sie den Sensor in den Aktualisierungsmodus:\\n\\n3.1. Wenn Ihr Sensor 2 Tasten hat: Halten Sie die Taste \"B\" gedrückt und tippen Sie gleichzeitig kurz auf die Taste \"R\". Lassen Sie die Taste \"B\" los.\\n\\n3.2. Wenn Ihr Sensor eine einzelne Taste hat: Halten Sie die Taste 10 Sekunden lang gedrückt.\\n\\n4. Wenn die Einstellung erfolgreich war, leuchtet ein rotes Licht auf der Platine und die Schaltfläche in der App ändert sich in \"Start the update\".",
+      "pl": "&lt;title&gt;Przygotuj swój czujnik&lt;/title&gt;\\n\\n1. Otwórz osłonę swojego czujnika Ruuvi."
+    },
+    {
       "ident_ios": "DFUUIView.prepareTitle",
       "ident_android": "prepare_your_sensor",
       "ident_webui": "",
@@ -14497,6 +14509,18 @@
       "fr": "Pic",
       "de": "Spitze",
       "pl": "Szczyt"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "dfu_air_update_instructions",
+      "ident_webui": "",
+      "en": "&lt;title&gt;Device Update&lt;/title&gt;\\n\\n1. Bring your mobile device close to your Ruuvi sensor\\n\\n2. Tap the Start the update button and wait for the process to complete\\n\\n3. When the firmware update is finished, the device will reboot to complete the update.",
+      "fi": "&lt;title&gt;Laitteen päivittäminen&lt;/title&gt;\\n\\n1. Tuo mobiililaitteesi lähelle Ruuvi-anturia\\n\\n2. Napauta Käynnistä päivitys -painiketta ja odota päivityksen valmistumista\\n\\n3. Laite käynnistyy automaattisesti uudelleen, kun laiteohjelmiston päivitys on valmis.",
+      "ru": "&lt;title&gt;Обновление устройства&lt;/title&gt;\\n\\n1. Поднесите мобильное устройство к датчику Ruuvi\\n\\n2. Нажмите кнопку Начать обновление и дождитесь завершения процесса\\n\\n3. Когда обновление прошивки завершится, устройство перезагрузится и обновление будет завершено.",
+      "sv": "&lt;title&gt;Uppdatera enheten&lt;/title&gt;\\n\\n1. För din mobila enhet nära din Ruuvi-sensor\\n\\n2. Tryck på knappen Starta uppdatering och vänta tills processen är klar\\n\\n3. När uppdateringen är klar startar enheten om och uppdateringen är färdig.",
+      "fr": "&lt;title&gt;Mise à jour de l'appareil&lt;/title&gt;\\n\\n1. Approchez votre appareil mobile du capteur Ruuvi\\n\\n2. Appuyez sur le bouton Démarrer la mise à jour et attendez la fin du processus\\n\\n3. Une fois la mise à jour du firmware terminée, l'appareil redémarrera et la mise à jour sera terminée.",
+      "de": "&lt;title&gt;Geräteaktualisierung&lt;/title&gt;\\n\\n1. Bringen Sie Ihr Mobilgerät in die Nähe Ihres Ruuvi-Sensors\\n\\n2. Tippen Sie auf die Schaltfläche Update starten und warten Sie, bis der Vorgang abgeschlossen ist\\n\\n3. Wenn das Firmware-Update abgeschlossen ist, startet das Gerät neu und das Update ist beendet.",
+      "pl": "&lt;title&gt;Aktualizacja urządzenia&lt;/title&gt;\\n\\n1. Zbliż swoje urządzenie mobilne do czujnika Ruuvi\\n\\n2. Naciśnij przycisk Rozpocznij aktualizację i poczekaj na zakończenie procesu.\\n\\n3. Gdy aktualizacja oprogramowania zostanie zakończona, urządzenie uruchomi się ponownie i proces będzie zakończony."
     }
   ]
 }
