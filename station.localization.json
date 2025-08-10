@@ -14521,6 +14521,18 @@
       "fr": "&lt;title&gt;Mise à jour de l'appareil&lt;/title&gt;\\n\\n1. Approchez votre appareil mobile du capteur Ruuvi\\n\\n2. Appuyez sur le bouton Démarrer la mise à jour et attendez la fin du processus\\n\\n3. Une fois la mise à jour du firmware terminée, l'appareil redémarrera et la mise à jour sera terminée.",
       "de": "&lt;title&gt;Geräteaktualisierung&lt;/title&gt;\\n\\n1. Bringen Sie Ihr Mobilgerät in die Nähe Ihres Ruuvi-Sensors\\n\\n2. Tippen Sie auf die Schaltfläche Update starten und warten Sie, bis der Vorgang abgeschlossen ist\\n\\n3. Wenn das Firmware-Update abgeschlossen ist, startet das Gerät neu und das Update ist beendet.",
       "pl": "&lt;title&gt;Aktualizacja urządzenia&lt;/title&gt;\\n\\n1. Zbliż swoje urządzenie mobilne do czujnika Ruuvi\\n\\n2. Naciśnij przycisk Rozpocznij aktualizację i poczekaj na zakończenie procesu.\\n\\n3. Gdy aktualizacja oprogramowania zostanie zakończona, urządzenie uruchomi się ponownie i proces będzie zakończony."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "not_selected",
+      "en": "Not selected",
+      "fi": "Ei valittu",
+      "ru": "",
+      "sv": "Inte valt",
+      "fr": "Non sélectionné",
+      "de": "Nicht ausgewählt",
+      "pl": "Nie wybrano"
     }
   ]
 }
