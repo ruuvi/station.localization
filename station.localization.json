@@ -13768,7 +13768,7 @@
     },
     {
       "ident_ios": "TagSettings.soundAlertTitleLabel.text",
-      "ident_android": "sound_with_unit",
+      "ident_android": "",
       "ident_webui": "",
       "en": "Sound ({%@^%1$s})",
       "fi": "Ääni ({%@^%1$s})",
@@ -13777,6 +13777,42 @@
       "fr": "Son ({%@^%1$s})",
       "de": "Ton ({%@^%1$s})",
       "pl": "Dźwięk ({%@^%1$s})"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sound_average_with_unit",
+      "ident_webui": "",
+      "en": "Sound Average ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sound_peak_with_unit",
+      "ident_webui": "",
+      "en": "Sound Peak ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "sound_instant_with_unit",
+      "ident_webui": "",
+      "en": "Sound Instant ({%@^%1$s})",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     },
     {
       "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
