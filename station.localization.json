@@ -13813,6 +13813,7 @@
       "fr": "Son (instantané) ({%@^%1$s})",
       "de": "Ton (sofort) ({%@^%1$s})",
       "pl": "Dźwięk (natychmiastowy) ({%@^%1$s})"
+    },
     {
       "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
       "ident_android": "aqi_with_unit",
