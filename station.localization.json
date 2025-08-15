@@ -7323,7 +7323,7 @@
       "pl": "Pobieranie najnowszego firmware’u do aktualizacji..."
     },
     {
-      "ident_ios": "prepare_your_sensor_instructions",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions",
       "ident_webui": "",
       "en": "&lt;title&gt;Prepare your sensor&lt;/title&gt;\\n\\n1. Open the cover of your Ruuvi sensor\\n\\n2. Locate the small round black buttons on the white circuit board; older Ruuvi sensors have 2 buttons labelled “R” and “B” while newer ones have only one button without a label.\\n\\n3. Set the sensor to updating mode:\\n\\n3.1. If your sensor has 2 buttons: keep “B” button pressed while tapping button “R” momentarily. Release button “B”.\\n\\n3.2. If your sensor has a single button: keep the button pressed for 10 seconds.\\n\\n4. If set successfully, you will see a solid red light lit on the circuit board and the button in the app will change to “Start the update”.",
@@ -14547,7 +14547,7 @@
       "pl": "Szczyt"
     },
     {
-      "ident_ios": "dfu_air_update_instructions",
+      "ident_ios": "",
       "ident_android": "dfu_air_update_instructions",
       "ident_webui": "",
       "en": "&lt;title&gt;Device Update&lt;/title&gt;\\n\\n1. Bring your mobile device close to your Ruuvi sensor\\n\\n2. Tap the Start the update button and wait for the process to complete\\n\\n3. When the firmware update is finished, the device will reboot to complete the update.",
