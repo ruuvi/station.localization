@@ -2174,7 +2174,7 @@
     },
     {
       "ident_ios": "dewpoint",
-      "ident_android": "",
+      "ident_android": "dewpoint",
       "ident_webui": "dewpoint",
       "en": "Dew point",
       "fi": "Kastepiste",
@@ -14512,7 +14512,7 @@
     },
     {
       "ident_ios": "real_time",
-      "ident_android": "",
+      "ident_android": "real_time",
       "ident_webui": "",
       "en": "Real time",
       "fi": "Reaaliaika",
@@ -14524,7 +14524,7 @@
     },
     {
       "ident_ios": "average",
-      "ident_android": "",
+      "ident_android": "average",
       "ident_webui": "",
       "en": "Average",
       "fi": "Keskimääräinen",
@@ -14536,7 +14536,7 @@
     },
     {
       "ident_ios": "peak",
-      "ident_android": "",
+      "ident_android": "peak",
       "ident_webui": "",
       "en": "Peak",
       "fi": "Huippu",
