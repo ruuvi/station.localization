@@ -2174,7 +2174,7 @@
     },
     {
       "ident_ios": "dewpoint",
-      "ident_android": "",
+      "ident_android": "dewpoint",
       "ident_webui": "dewpoint",
       "en": "Dew point",
       "fi": "Kastepiste",
@@ -8164,7 +8164,7 @@
     },
     {
       "ident_ios": "alert_notification_pm1_high_threshold",
-      "ident_android": "alert_notification_pm1_high_threshold",
+      "ident_android": "alert_notification_pm10_high_threshold",
       "ident_webui": "",
       "en": "PM1.0 is above {%@^%1$s}",
       "fi": "PM1.0 on yli {%@^%1$s}",
@@ -8176,7 +8176,7 @@
     },
     {
       "ident_ios": "alert_notification_pm1_low_threshold",
-      "ident_android": "alert_notification_pm1_low_threshold",
+      "ident_android": "alert_notification_pm10_low_threshold",
       "ident_webui": "",
       "en": "PM1.0 is below {%@^%1$s}",
       "fi": "PM1.0 on alle {%@^%1$s}",
@@ -8212,7 +8212,7 @@
     },
     {
       "ident_ios": "alert_notification_pm4_high_threshold",
-      "ident_android": "alert_notification_pm4_high_threshold",
+      "ident_android": "alert_notification_pm40_high_threshold",
       "ident_webui": "",
       "en": "PM4.0 is above {%@^%1$s}",
       "fi": "PM4.0 on yli {%@^%1$s}",
@@ -8224,7 +8224,7 @@
     },
     {
       "ident_ios": "alert_notification_pm4_low_threshold",
-      "ident_android": "alert_notification_pm4_low_threshold",
+      "ident_android": "alert_notification_pm40_low_threshold",
       "ident_webui": "",
       "en": "PM4.0 is below {%@^%1$s}",
       "fi": "PM4.0 on alle {%@^%1$s}",
@@ -8236,7 +8236,7 @@
     },
     {
       "ident_ios": "alert_notification_pm10_high_threshold",
-      "ident_android": "alert_notification_pm10_high_threshold",
+      "ident_android": "alert_notification_pm100_high_threshold",
       "ident_webui": "",
       "en": "PM10.0 is above {%@^%1$s}",
       "fi": "PM10.0 on yli {%@^%1$s}",
@@ -8248,7 +8248,7 @@
     },
     {
       "ident_ios": "alert_notification_pm10_low_threshold",
-      "ident_android": "alert_notification_pm10_low_threshold",
+      "ident_android": "alert_notification_pm100_low_threshold",
       "ident_webui": "",
       "en": "PM10.0 is below {%@^%1$s}",
       "fi": "PM10.0 on alle {%@^%1$s}",
@@ -13528,7 +13528,7 @@
     },
     {
       "ident_ios": "pm1",
-      "ident_android": "pm1",
+      "ident_android": "pm10",
       "ident_webui": "pm10",
       "en": "PM1.0",
       "fi": "PM1",
@@ -13552,7 +13552,7 @@
     },
     {
       "ident_ios": "pm4",
-      "ident_android": "pm4",
+      "ident_android": "pm40",
       "ident_webui": "pm40",
       "en": "PM4",
       "fi": "PM4",
@@ -13564,7 +13564,7 @@
     },
     {
       "ident_ios": "pm10",
-      "ident_android": "pm10",
+      "ident_android": "pm100",
       "ident_webui": "pm100",
       "en": "PM10",
       "fi": "PM10",
@@ -13696,7 +13696,7 @@
     },
     {
       "ident_ios": "TagSettings.pm10AlertTitleLabel.text",
-      "ident_android": "pm1_with_unit",
+      "ident_android": "pm10_with_unit",
       "ident_webui": "",
       "en": "PM1 ({%@^%1$s})",
       "fi": "PM1 ({%@^%1$s})",
@@ -13720,7 +13720,7 @@
     },
     {
       "ident_ios": "TagSettings.pm40AlertTitleLabel.text",
-      "ident_android": "pm4_with_unit",
+      "ident_android": "pm40_with_unit",
       "ident_webui": "",
       "en": "PM4 ({%@^%1$s})",
       "fi": "PM4 ({%@^%1$s})",
@@ -13732,7 +13732,7 @@
     },
     {
       "ident_ios": "TagSettings.pm100AlertTitleLabel.text",
-      "ident_android": "pm10_with_unit",
+      "ident_android": "pm100_with_unit",
       "ident_webui": "",
       "en": "PM10 ({%@^%1$s})",
       "fi": "PM10 ({%@^%1$s})",
@@ -13876,7 +13876,7 @@
     },
     {
       "ident_ios": "unit_pm10",
-      "ident_android": "unit_pm1",
+      "ident_android": "unit_pm10",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13900,7 +13900,7 @@
     },
     {
       "ident_ios": "unit_pm40",
-      "ident_android": "unit_pm4",
+      "ident_android": "unit_pm40",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -13912,7 +13912,7 @@
     },
     {
       "ident_ios": "unit_pm100",
-      "ident_android": "unit_pm10",
+      "ident_android": "unit_pm100",
       "ident_webui": "",
       "en": "µg/m³",
       "fi": "µg/m³",
@@ -14512,7 +14512,7 @@
     },
     {
       "ident_ios": "real_time",
-      "ident_android": "",
+      "ident_android": "real_time",
       "ident_webui": "",
       "en": "Real time",
       "fi": "Reaaliaika",
@@ -14524,7 +14524,7 @@
     },
     {
       "ident_ios": "average",
-      "ident_android": "",
+      "ident_android": "average",
       "ident_webui": "",
       "en": "Average",
       "fi": "Keskimääräinen",
@@ -14536,7 +14536,7 @@
     },
     {
       "ident_ios": "peak",
-      "ident_android": "",
+      "ident_android": "peak",
       "ident_webui": "",
       "en": "Peak",
       "fi": "Huippu",
