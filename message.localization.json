@@ -295,25 +295,25 @@
       "de": "{{name}}\n\nNOx-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luminosity above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kirkkaus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Ljusstyrka över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luminosité au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Helligkeit über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminance above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistusvoimakkuus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminans över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Éclairement au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Beleuchtungsstärke über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luminosity below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kirkkaus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Ljusstyrka under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luminosité en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Helligkeit unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminance below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistusvoimakkuus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminans under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Éclairement en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Beleuchtungsstärke unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_resolved": {
-      "en": "{{name}}\n\nLuminosity resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nKirkkaushälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nLjusstyrkevarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de luminosité résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nHelligkeitswarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nIlluminance resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nValaistusvoimakkuushälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nIlluminansvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de éclairement résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nBeleuchtungsstärkewarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     }
   }
 }
