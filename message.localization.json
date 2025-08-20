@@ -125,7 +125,7 @@
       "sv": "{{name}}\n\nAQI-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de AQI résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\nAQI-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
-
+    },
     "alert_co2_over": {
       "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}CO2 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}CO2-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
