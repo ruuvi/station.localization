@@ -10132,6 +10132,18 @@
     },
     {
       "ident_ios": "",
+      "ident_android": "imageExt_cards",
+      "ident_webui": "",
+      "en": "Image extended cards",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "history_cards",
       "en": "History cards",
