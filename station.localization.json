@@ -10743,10 +10743,22 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "imageExt_cards",
       "ident_android": "imageExt_cards",
       "ident_webui": "",
       "en": "Image extended cards",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "simpleExt_cards",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Simple extended cards",
       "fi": "",
       "ru": "",
       "sv": "",
