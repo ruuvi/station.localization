@@ -266,18 +266,6 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "empty",
-      "ident_webui": "",
-      "en": "",
-      "fi": "",
-      "ru": "NOx",
-      "sv": "NOx",
-      "fr": "NOx",
-      "de": "NOx",
-      "pl": "NOx"
-    },
-    {
-      "ident_ios": "",
       "ident_android": "nitrogen_oxides",
       "ident_webui": "",
       "en": "Nitrogen oxides",
