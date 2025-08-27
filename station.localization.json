@@ -16,13 +16,13 @@
       "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
       "ident_android": "aqi_with_unit",
       "ident_webui": "",
-      "en": "AQI ({%@^%1$s})",
-      "fi": "AQI ({%@^%1$s})",
-      "ru": "AQI ({%@^%1$s})",
-      "sv": "AQI ({%@^%1$s})",
-      "fr": "AQI ({%@^%1$s})",
-      "de": "AQI ({%@^%1$s})",
-      "pl": "AQI ({%@^%1$s})"
+      "en": "Air Quality ({%@^%1$s})",
+      "fi": "Ilmanlaatu ({%@^%1$s})",
+      "ru": "Качество воздух ({%@^%1$s})",
+      "sv": "Luftkvalitet ({%@^%1$s})",
+      "fr": "Qualité de l'air ({%@^%1$s})",
+      "de": "Luftqualität ({%@^%1$s})",
+      "pl": "Jakość powietrza ({%@^%1$s})"
     },
     {
       "ident_ios": "aqi",
@@ -77,48 +77,48 @@
       "ident_android": "relative_humidity",
       "ident_webui": "",
       "en": "Relative humidity",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Suhteellinen kosteus",
+      "ru": "Относительная влажность",
+      "sv": "Relativ luftfuktighet",
+      "fr": "Humidité relative",
+      "de": "Relative Luftfeuchtigkeit",
+      "pl": "Wilgotność względna"
     },
     {
       "ident_ios": "",
       "ident_android": "rel_humidity",
       "ident_webui": "",
       "en": "Rel. humidity",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Suht. ilmankosteus",
+      "ru": "Отн. влажность",
+      "sv": "Rel. luftfuktighet",
+      "fr": "Hum. relative",
+      "de": "Rel. Luftfeuchtigkeit",
+      "pl": "Wilg. względna"
     },
     {
       "ident_ios": "",
       "ident_android": "absolute_humidity",
       "ident_webui": "",
       "en": "Absolute humidity",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Absoluuttinen kosteus",
+      "ru": "Абсолютная влажность",
+      "sv": "Absolut luftfuktighet",
+      "fr": "Humidité absolue",
+      "de": "Absolute Luftfeuchtigkeit",
+      "pl": "Wilgotność bezwzględna"
     },
     {
       "ident_ios": "",
       "ident_android": "abs_humidity",
       "ident_webui": "",
       "en": "Abs. humidity",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Absol. ilmankosteus",
+      "ru": "Абс. влажность",
+      "sv": "Absol. luftfuktighet",
+      "fr": "Hum. absolue",
+      "de": "Abs. Luftfeuchtigkeit",
+      "pl": "Wilg. bezwzględna"
     },
     {
       "ident_ios": "dewpoint",
@@ -130,7 +130,7 @@
       "sv": "Daggpunkt",
       "fr": "Point de rosée",
       "de": "Taupunkt",
-      "pl": ""
+      "pl": "Punkt rosy"
     },
     {
       "ident_ios": "ExportService.DewPoint",
@@ -142,19 +142,19 @@
       "sv": "Daggpunkt ({%@^%1$s})",
       "fr": "Point de rosée ({%@^%1$s})",
       "de": "Taupunkt ({%@^%1$s})",
-      "pl": ""
+      "pl": "Punkt rosy ({%@^%1$s})"
     },
     {
       "ident_ios": "TagSettings.OffsetCorrection.Pressure",
       "ident_android": "pressure",
       "ident_webui": "pressure",
-      "en": "Pressure",
-      "fi": "Paine",
-      "ru": "Давление",
-      "sv": "Lufttryck",
-      "fr": "Pression",
-      "de": "Druck",
-      "pl": "Ciśnienie"
+      "en": "Air pressure",
+      "fi": "Ilmanpaine",
+      "ru": "Атмосферное Давление",
+      "sv": "Luftfuktighet",
+      "fr": "Pression de l'air",
+      "de": "Luftdruck",
+      "pl": "Ciśnienie powietrza"
     },
     {
       "ident_ios": "WebTagSettings.PressureAlert.title",
@@ -166,7 +166,7 @@
       "sv": "Luftfuktighet",
       "fr": "Pression de l'air",
       "de": "Luftdruck",
-      "pl": ""
+      "pl": "Ciśnienie powietrza"
     },
     {
       "ident_ios": "TagSettings.PressureAlert.title",
@@ -185,12 +185,12 @@
       "ident_android": "carbon_dioxide",
       "ident_webui": "",
       "en": "Carbon dioxide",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Hiilidioksidi",
+      "ru": "Углекислый газ",
+      "sv": "Koldioxid",
+      "fr": "Dioxyde de carbone",
+      "de": "Kohlendioxid",
+      "pl": "Dwutlenek węgla"
     },
     {
       "ident_ios": "co2",
@@ -222,23 +222,23 @@
       "ident_webui": "voc",
       "en": "VOC",
       "fi": "VOC",
-      "ru": "VOC",
+      "ru": "ЛОС",
       "sv": "VOC",
-      "fr": "VOC",
+      "fr": "COV",
       "de": "VOC",
-      "pl": "VOC"
+      "pl": "LZO"
     },
     {
       "ident_ios": "",
       "ident_android": "volatile_organic_compounds",
       "ident_webui": "",
       "en": "Volatile organic compounds",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Haihtuvat orgaaniset yhdisteet",
+      "ru": "Летучие органические соединения",
+      "sv": "Flyktiga organiska föreningar",
+      "fr": "Composés organiques volatils",
+      "de": "Flüchtige organische Verbindungen",
+      "pl": "Lotne związki organiczne"
     },
     {
       "ident_ios": "TagSettings.vocAlertTitleLabel.text",
@@ -246,11 +246,11 @@
       "ident_webui": "",
       "en": "VOC ({%@^%1$s})",
       "fi": "VOC ({%@^%1$s})",
-      "ru": "VOC ({%@^%1$s})",
+      "ru": "ЛОС ({%@^%1$s})",
       "sv": "VOC ({%@^%1$s})",
-      "fr": "VOC ({%@^%1$s})",
+      "fr": "COV ({%@^%1$s})",
       "de": "VOC ({%@^%1$s})",
-      "pl": "VOC ({%@^%1$s})"
+      "pl": "LZO ({%@^%1$s})"
     },
     {
       "ident_ios": "nox",
@@ -281,12 +281,12 @@
       "ident_android": "nitrogen_oxides",
       "ident_webui": "",
       "en": "Nitrogen oxides",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Typpidioksidit",
+      "ru": "Оксиды азота",
+      "sv": "Kväveoxider",
+      "fr": "Oxydes d'azote",
+      "de": "Stickoxide",
+      "pl": "Tlenki azotu"
     },
     {
       "ident_ios": "TagSettings.noxAlertTitleLabel.text",
@@ -306,7 +306,7 @@
       "ident_webui": "luminosity",
       "en": "Illuminance",
       "fi": "Valaistusvoimakkuus",
-      "ru": "",
+      "ru": "Освещённость",
       "sv": "Illuminans",
       "fr": "Éclairement",
       "de": "Beleuchtungsstärke",
@@ -317,36 +317,36 @@
       "ident_android": "light",
       "ident_webui": "",
       "en": "Light",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Valoisuus",
+      "ru": "Яркость",
+      "sv": "Ljusstyrka",
+      "fr": "Luminosité",
+      "de": "Helligkeit",
+      "pl": "Jasność"
     },
     {
       "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
       "ident_android": "luminosity_with_unit",
       "ident_webui": "",
       "en": "Light ({%@^%1$s})",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Valoisuus ({%@^%1$s})",
+      "ru": "Яркость ({%@^%1$s})",
+      "sv": "Ljusstyrka ({%@^%1$s})",
+      "fr": "Luminosité ({%@^%1$s})",
+      "de": "Helligkeit ({%@^%1$s})",
+      "pl": "Jasność ({%@^%1$s})"
     },
     {
       "ident_ios": "",
       "ident_android": "particulate_matter_10",
       "ident_webui": "",
       "en": "Particulate matter 1",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Pienhiukkaset 1",
+      "ru": "Твердые частицы 1",
+      "sv": "Partiklar 1",
+      "fr": "Matières particulaires 1",
+      "de": "Feinstaub 1",
+      "pl": "Pył zawieszony 1"
     },
     {
       "ident_ios": "pm1",
@@ -365,12 +365,12 @@
       "ident_android": "particulate_matter_25",
       "ident_webui": "",
       "en": "Particulate matter 2.5",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Pienhiukkaset 2.5",
+      "ru": "Твердые частицы 2.5",
+      "sv": "Partiklar 2.5",
+      "fr": "Matières particulaires 2.5",
+      "de": "Feinstaub 2.5",
+      "pl": "Pył zawieszony 2.5"
     },
     {
       "ident_ios": "pm25",
@@ -389,12 +389,12 @@
       "ident_android": "particulate_matter_40",
       "ident_webui": "",
       "en": "Particulate matter 4",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Pienhiukkaset 4",
+      "ru": "Твердые частицы 4",
+      "sv": "Partiklar 4",
+      "fr": "Matières particulaires 4",
+      "de": "Feinstaub 4",
+      "pl": "Pył zawieszony 4"
     },
     {
       "ident_ios": "pm4",
@@ -413,12 +413,12 @@
       "ident_android": "particulate_matter_100",
       "ident_webui": "",
       "en": "Particulate matter 10",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Pienhiukkaset 10",
+      "ru": "Твердые частицы 10",
+      "sv": "Partiklar 10",
+      "fr": "Matières particulaires 10",
+      "de": "Feinstaub 10",
+      "pl": "Pył zawieszony 10"
     },
     {
       "ident_ios": "pm10",
@@ -497,12 +497,12 @@
       "ident_android": "movements",
       "ident_webui": "movements",
       "en": "Movements",
-      "fi": "",
+      "fi": "Liikkeet",
       "ru": "Движение",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Rörelser",
+      "fr": "Mouvements",
+      "de": "Bewegungen",
+      "pl": "Ruchy"
     },
     {
       "ident_ios": "TagSettings.batteryVoltageTitleLabel.text",
@@ -526,7 +526,7 @@
       "sv": "Batteri",
       "fr": "Batterie",
       "de": "Batterie",
-      "pl": ""
+      "pl": "Bateria"
     },
     {
       "ident_ios": "ExportService.AccelerationX",
@@ -569,36 +569,36 @@
       "ident_android": "acc_x",
       "ident_webui": "",
       "en": "Acc. X",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Kiiht. X",
+      "ru": "Уск. X",
+      "sv": "Acc. X",
+      "fr": "Accél. X",
+      "de": "Beschl. X",
+      "pl": "Przysp. X"
     },
     {
       "ident_ios": "",
       "ident_android": "acc_y",
       "ident_webui": "",
       "en": "Acc. Y",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Kiiht. Y",
+      "ru": "Уск. Y",
+      "sv": "Acc. Y",
+      "fr": "Accél. Y",
+      "de": "Beschl. Y",
+      "pl": "Przysp. Y"
     },
     {
       "ident_ios": "",
       "ident_android": "acc_z",
       "ident_webui": "",
       "en": "Acc. Z",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Kiiht. Z",
+      "ru": "Уск. Z",
+      "sv": "Acc. Z",
+      "fr": "Accél. Z",
+      "de": "Beschl. Z",
+      "pl": "Przysp. Z"
     },
     {
       "ident_ios": "",
@@ -634,7 +634,7 @@
       "sv": "Signalstyrka (dBm)",
       "fr": "Puissance du signal (dBm)",
       "de": "Signalstärke (dBm)",
-      "pl": ""
+      "pl": "Moc sygnału (dBm)"
     },
     {
       "ident_ios": "TagSettings.msnTitleLabel.text",
@@ -653,12 +653,12 @@
       "ident_android": "meas_seq_number",
       "ident_webui": "",
       "en": "Meas. seq. number",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Mittausjnro",
+      "ru": "№ изм.",
+      "sv": "Mätn.seq.nr",
+      "fr": "N° séq. mes.",
+      "de": "Messseq.nr",
+      "pl": "Nr seq. pom."
     },
     {
       "ident_ios": "sound",
@@ -678,7 +678,7 @@
       "ident_webui": "sound_avg",
       "en": "Sound (average)",
       "fi": "Ääni (keskiarvo)",
-      "ru": "",
+      "ru": "Звук (среднее)",
       "sv": "Ljud (genomsnitt)",
       "fr": "Son (moyenne)",
       "de": "Ton (durchschnitt)",
@@ -690,7 +690,7 @@
       "ident_webui": "sound_peak",
       "en": "Sound (peak)",
       "fi": "Ääni (huippu)",
-      "ru": "",
+      "ru": "Звук (пик)",
       "sv": "Ljud (topp)",
       "fr": "Son (pic)",
       "de": "Ton (spitze)",
@@ -702,7 +702,7 @@
       "ident_webui": "sound_instant",
       "en": "Sound (instant)",
       "fi": "Ääni (hetkellinen)",
-      "ru": "",
+      "ru": "Звук (мгновенный)",
       "sv": "Ljud (momentan)",
       "fr": "Son (instantané)",
       "de": "Ton (sofort)",
@@ -874,7 +874,7 @@
       "sv": "-",
       "fr": "-",
       "de": "-",
-      "pl": ""
+      "pl": "-"
     },
     {
       "ident_ios": "g",
@@ -886,7 +886,7 @@
       "sv": "g",
       "fr": "g",
       "de": "g",
-      "pl": ""
+      "pl": "g"
     },
     {
       "ident_ios": "About.Version.text",
@@ -898,7 +898,7 @@
       "sv": "Version",
       "fr": "Version",
       "de": "Version",
-      "pl": ""
+      "pl": "Wersja"
     },
     {
       "ident_ios": "Background.PresentNotifications.title",
@@ -910,7 +910,7 @@
       "sv": "Visa Notifikationer",
       "fr": "Voir les notifications",
       "de": "Zeige Benachrichtigungen",
-      "pl": ""
+      "pl": "Pokaż powiadomienia"
     },
     {
       "ident_ios": "Background.KeepConnection.title",
