@@ -292,13 +292,13 @@
       "ident_ios": "luminosity",
       "ident_android": "luminosity",
       "ident_webui": "luminosity",
-      "en": "Illuminance",
-      "fi": "Valaistusvoimakkuus",
+      "en": "Light level",
+      "fi": "Valaistustaso",
       "ru": "Освещённость",
-      "sv": "Illuminans",
-      "fr": "Éclairement",
+      "sv": "Belysningsnivå",
+      "fr": "Niveau d’éclairement",
       "de": "Beleuchtungsstärke",
-      "pl": "Natężenie światła"
+      "pl": "Poziom oświetlenia"
     },
     {
       "ident_ios": "",
