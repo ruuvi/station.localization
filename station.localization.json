@@ -13,7 +13,7 @@
       "pl": "Jakość powietrza"
     },
     {
-      "ident_ios": "TagSettings.aqiAlertTitleLabel.text",
+      "ident_ios": "aqi_with_unit",
       "ident_android": "aqi_with_unit",
       "ident_webui": "",
       "en": "Air Quality ({%@^%1$s})",
@@ -37,7 +37,7 @@
       "pl": "AQI"
     },
     {
-      "ident_ios": "TagSettings.temperatureAlertTitleLabel.text",
+      "ident_ios": "temperature_with_unit",
       "ident_android": "temperature_with_unit",
       "ident_webui": "",
       "en": "Temperature ({%@^%1$s})",
@@ -73,7 +73,7 @@
       "pl": "Wilgotność"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "relative_humidity",
       "ident_android": "relative_humidity",
       "ident_webui": "",
       "en": "Relative humidity",
@@ -85,7 +85,7 @@
       "pl": "Wilgotność względna"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "rel_humidity",
       "ident_android": "rel_humidity",
       "ident_webui": "",
       "en": "Rel. humidity",
@@ -97,7 +97,7 @@
       "pl": "Wilg. względna"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "absolute_humidity",
       "ident_android": "absolute_humidity",
       "ident_webui": "",
       "en": "Absolute humidity",
@@ -109,7 +109,7 @@
       "pl": "Wilgotność bezwzględna"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "abs_humidity",
       "ident_android": "abs_humidity",
       "ident_webui": "",
       "en": "Abs. humidity",
@@ -145,7 +145,7 @@
       "pl": "Punkt rosy ({%@^%1$s})"
     },
     {
-      "ident_ios": "TagSettings.OffsetCorrection.Pressure",
+      "ident_ios": "pressure",
       "ident_android": "pressure",
       "ident_webui": "pressure",
       "en": "Air pressure",
@@ -157,19 +157,7 @@
       "pl": "Ciśnienie powietrza"
     },
     {
-      "ident_ios": "WebTagSettings.PressureAlert.title",
-      "ident_android": "air_pressure",
-      "ident_webui": "",
-      "en": "Air pressure",
-      "fi": "Ilmanpaine",
-      "ru": "Атмосферное Давление",
-      "sv": "Luftfuktighet",
-      "fr": "Pression de l'air",
-      "de": "Luftdruck",
-      "pl": "Ciśnienie powietrza"
-    },
-    {
-      "ident_ios": "TagSettings.PressureAlert.title",
+      "ident_ios": "pressure_with_unit",
       "ident_android": "pressure_with_unit",
       "ident_webui": "",
       "en": "Air pressure ({%@^%1$s})",
@@ -181,7 +169,7 @@
       "pl": "Ciśnienie powietrza ({%@^%1$s})"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "carbon_dioxide",
       "ident_android": "carbon_dioxide",
       "ident_webui": "",
       "en": "Carbon dioxide",
@@ -205,7 +193,7 @@
       "pl": "CO2"
     },
     {
-      "ident_ios": "TagSettings.co2AlertTitleLabel.text",
+      "ident_ios": "co2_with_unit",
       "ident_android": "co2_with_unit",
       "ident_webui": "",
       "en": "CO2 ({%@^%1$s})",
@@ -229,7 +217,7 @@
       "pl": "LZO"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "volatile_organic_compounds",
       "ident_android": "volatile_organic_compounds",
       "ident_webui": "",
       "en": "Volatile organic compounds",
@@ -241,7 +229,7 @@
       "pl": "Lotne związki organiczne"
     },
     {
-      "ident_ios": "TagSettings.vocAlertTitleLabel.text",
+      "ident_ios": "voc_with_unit",
       "ident_android": "voc_with_unit",
       "ident_webui": "",
       "en": "VOC ({%@^%1$s})",
@@ -265,7 +253,7 @@
       "pl": "NOx"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "nitrogen_oxides",
       "ident_android": "nitrogen_oxides",
       "ident_webui": "",
       "en": "Nitrogen oxides",
@@ -277,7 +265,7 @@
       "pl": "Tlenki azotu"
     },
     {
-      "ident_ios": "TagSettings.noxAlertTitleLabel.text",
+      "ident_ios": "nox_with_unit",
       "ident_android": "nox_with_unit",
       "ident_webui": "",
       "en": "NOx ({%@^%1$s})",
@@ -301,7 +289,7 @@
       "pl": "Poziom oświetlenia"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "light",
       "ident_android": "light",
       "ident_webui": "",
       "en": "Light",
@@ -313,7 +301,7 @@
       "pl": "Jasność"
     },
     {
-      "ident_ios": "TagSettings.luminosityAlertTitleLabel.text",
+      "ident_ios": "luminosity_with_unit",
       "ident_android": "luminosity_with_unit",
       "ident_webui": "",
       "en": "Light ({%@^%1$s})",
@@ -325,7 +313,7 @@
       "pl": "Jasność ({%@^%1$s})"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "particulate_matter_10",
       "ident_android": "particulate_matter_10",
       "ident_webui": "",
       "en": "Particulate matter 1",
@@ -337,7 +325,7 @@
       "pl": "Pył zawieszony 1"
     },
     {
-      "ident_ios": "pm1",
+      "ident_ios": "pm10",
       "ident_android": "pm10",
       "ident_webui": "pm10",
       "en": "PM1",
@@ -349,7 +337,7 @@
       "pl": "PM1"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "particulate_matter_25",
       "ident_android": "particulate_matter_25",
       "ident_webui": "",
       "en": "Particulate matter 2.5",
@@ -373,7 +361,7 @@
       "pl": "PM2.5"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "particulate_matter_40",
       "ident_android": "particulate_matter_40",
       "ident_webui": "",
       "en": "Particulate matter 4",
@@ -385,7 +373,7 @@
       "pl": "Pył zawieszony 4"
     },
     {
-      "ident_ios": "pm4",
+      "ident_ios": "pm40",
       "ident_android": "pm40",
       "ident_webui": "pm40",
       "en": "PM4",
@@ -397,7 +385,7 @@
       "pl": "PM4"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "particulate_matter_100",
       "ident_android": "particulate_matter_100",
       "ident_webui": "",
       "en": "Particulate matter 10",
@@ -409,7 +397,7 @@
       "pl": "Pył zawieszony 10"
     },
     {
-      "ident_ios": "pm10",
+      "ident_ios": "pm100",
       "ident_android": "pm100",
       "ident_webui": "pm100",
       "en": "PM10",
@@ -421,7 +409,7 @@
       "pl": "PM10"
     },
     {
-      "ident_ios": "TagSettings.pm10AlertTitleLabel.text",
+      "ident_ios": "pm10_with_unit",
       "ident_android": "pm10_with_unit",
       "ident_webui": "",
       "en": "PM1 ({%@^%1$s})",
@@ -433,7 +421,7 @@
       "pl": "PM1 ({%@^%1$s})"
     },
     {
-      "ident_ios": "TagSettings.pm25AlertTitleLabel.text",
+      "ident_ios": "pm25_with_unit",
       "ident_android": "pm25_with_unit",
       "ident_webui": "",
       "en": "PM2.5 ({%@^%1$s})",
@@ -445,7 +433,7 @@
       "pl": "PM2.5 ({%@^%1$s})"
     },
     {
-      "ident_ios": "TagSettings.pm40AlertTitleLabel.text",
+      "ident_ios": "pm40_with_unit",
       "ident_android": "pm40_with_unit",
       "ident_webui": "",
       "en": "PM4 ({%@^%1$s})",
@@ -457,7 +445,7 @@
       "pl": "PM4 ({%@^%1$s})"
     },
     {
-      "ident_ios": "TagSettings.pm100AlertTitleLabel.text",
+      "ident_ios": "pm100_with_unit",
       "ident_android": "pm100_with_unit",
       "ident_webui": "",
       "en": "PM10 ({%@^%1$s})",
@@ -469,7 +457,7 @@
       "pl": "PM10 ({%@^%1$s})"
     },
     {
-      "ident_ios": "TagSettings.mcTitleLabel.text",
+      "ident_ios": "movement_counter",
       "ident_android": "movement_counter",
       "ident_webui": "movement_counter",
       "en": "Movement counter",
@@ -481,7 +469,7 @@
       "pl": "Licznik przesunięć"
     },
     {
-      "ident_ios": "Cards.Movements.title",
+      "ident_ios": "movements",
       "ident_android": "movements",
       "ident_webui": "movements",
       "en": "Movements",
@@ -505,7 +493,7 @@
       "pl": "Napięcie baterii"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "battery",
       "ident_android": "battery",
       "ident_webui": "",
       "en": "Battery",
@@ -553,7 +541,7 @@
       "pl": "Przyspieszenie Z"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "acc_x",
       "ident_android": "acc_x",
       "ident_webui": "",
       "en": "Acc. X",
@@ -565,7 +553,7 @@
       "pl": "Przysp. X"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "acc_y",
       "ident_android": "acc_y",
       "ident_webui": "",
       "en": "Acc. Y",
@@ -577,7 +565,7 @@
       "pl": "Przysp. Y"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "acc_z",
       "ident_android": "acc_z",
       "ident_webui": "",
       "en": "Acc. Z",
@@ -589,7 +577,7 @@
       "pl": "Przysp. Z"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "signal_strength",
       "ident_android": "signal_strength",
       "ident_webui": "",
       "en": "Signal strength",
@@ -637,7 +625,7 @@
       "pl": "Numer sekwencji pomiaru"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "meas_seq_number",
       "ident_android": "meas_seq_number",
       "ident_webui": "",
       "en": "Meas. seq. number",
@@ -3145,270 +3133,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "WebTagSettings.confirmTagRemovalDialog.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Remove virtual sensor",
-      "fi": "Poista",
-      "ru": "Удалить",
-      "sv": "Ta bort virtuell sensor",
-      "fr": "Supprimer",
-      "de": "Virtuellen Sensor entfernen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.confirmTagRemovalDialog.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure you want to remove this virtual sensor?",
-      "fi": "Haluatko varmasti poistaa?",
-      "ru": "Вы уверены что хотите удалить?",
-      "sv": "Är du säker på att du vill ta bort den här virtuella sensorn?",
-      "fr": "Êtes-vous certain de vouloir supprimer ?",
-      "de": "Möchten Sie diesen virtuellen Sensor wirklich entfernen?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Location.Current",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Your location",
-      "fi": "Nykyinen sijaintisi",
-      "ru": "Ваше текущее месторасположение",
-      "sv": "Din plats",
-      "fr": "Localisation actuelle",
-      "de": "Ihr Standort",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.confirmClearLocationDialog.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Clear location",
-      "fi": "Poista sijainti",
-      "ru": "Очистить месторасположение",
-      "sv": "Renas Plats",
-      "fr": "Supprimer la localisation",
-      "de": "Standort löschen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.confirmClearLocationDialog.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure you want to clear location for this virtual sensor? Current location will be used instead.",
-      "fi": "Oletko varma, että haluat poistaa tämän sijainnin ja käyttää nykyistä sijaintiasi?",
-      "ru": "Вы уверены, что хотите очистить месторасположение? Будет использовано текущее месторасположение.",
-      "sv": "Är du säker på att du vill rensa plats för den här virtuella sensorn? Nuvarande plats kommer att användas istället.",
-      "fr": "Êtes-vous certain de vouloir supprimer cette position et d'utiliser votre position actuelle ?",
-      "de": "Möchten Sie den Standort dieses virtuellen Sensors wirklich löschen? Stattdessen wird der aktuelle Standort verwendet.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.navigationItem.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Virtual Sensor Settings",
-      "fi": "Asetukset",
-      "ru": "Настройки",
-      "sv": "Inställningar",
-      "fr": "Réglages",
-      "de": "Virtuelle Sensoreinstellungen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Label.BackgroundImage.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Background\\nimage",
-      "fi": "Taustakuva",
-      "ru": "фоновое\\nИзображение",
-      "sv": "Bakgrundsbild",
-      "fr": "Fond d'écran",
-      "de": "Hintergrundbild",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Label.Location.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Location",
-      "fi": "Paikka",
-      "ru": "Месторасположение",
-      "sv": "Plats",
-      "fr": "Position",
-      "de": "Standort",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Button.Remove.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "REMOVE THIS VIRTUAL SENSOR",
-      "fi": "POISTA",
-      "ru": "УДАЛИТЬ",
-      "sv": "TA BORT",
-      "fr": "SUPPRIMER CE CAPTEUR VIRTUEL",
-      "de": "ENTFERNEN SIE DIESEN VIRTUELLEN SENSOR",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.SectionHeader.Name.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Name",
-      "fi": "Nimi",
-      "ru": "Имя",
-      "sv": "Namn",
-      "fr": "Nom",
-      "de": "Name",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.SectionHeader.MoreInfo.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "More info",
-      "fi": "Lisätietoja",
-      "ru": "дополнительно",
-      "sv": "Mer info",
-      "fr": "Plus d'infos",
-      "de": "Mehr info",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Alerts.Off",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Off",
-      "fi": "Pois käytöstä",
-      "ru": "Отключено",
-      "sv": "Av",
-      "fr": "Désactivé",
-      "de": "Aus",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.temperatureAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Temperature",
-      "fi": "Lämpötila",
-      "ru": "Температура",
-      "sv": "Temperatur",
-      "fr": "Température",
-      "de": "Temperatur",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Label.disabled.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Disabled?",
-      "fi": "Pois käytöstä?",
-      "ru": "недоступно?",
-      "sv": "Inaktiverad?",
-      "fr": "Désactivé ?",
-      "de": "Ausgeschaltet?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Label.alerts.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alerts",
-      "fi": "Hälytykset",
-      "ru": "Уведомления",
-      "sv": "Alarm",
-      "fr": "Notifications",
-      "de": "Warnungen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.AlertsAreDisabled.Dialog.BothNoPNPermissionAndNoLocationPermission.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "In order to enable virtual sensor alerts please always grant location and notification permissions in settings.",
-      "fi": "Virtuaalisten antureiden hälytysominaisuus tarvitsee oikeuden sekä paikkatiedon että palveluilmoitusten näyttämiseen. Tarkasta sovellusasetukset.",
-      "ru": "Чтобы включить уведомления для Виртуальных Сенсоров, пожалуйста дайте разрешение на использование геолокации в Настройках.",
-      "sv": "Den virtuella sensorns alarmfunktion kräver rätt att visa både platsinformation och push-meddelanden. Kontrollera applikationsinställningarna.",
-      "fr": "Pour activer les notifications, veuillez autoriser la géolocalisation ainsi que l'affichage des notifications dans les réglages de votre appareil.",
-      "de": "Um virtuelle Sensorwarnungen zu aktivieren, erteilen Sie bitte immer Standort- und Benachrichtigungsberechtigungen in den Einstellungen.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.AlertsAreDisabled.Dialog.Settings.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Settings",
-      "fi": "Asetukset",
-      "ru": "Настройки",
-      "sv": "Inställningar",
-      "fr": "Réglages",
-      "de": "Einstellungen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.AirHumidityAlert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Air humidity",
-      "fi": "Ilmankosteus",
-      "ru": "Относительная Влажность",
-      "sv": "Luftfuktighet",
-      "fr": "Humidité de l'air",
-      "de": "Luftfeuchtigkeit",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Alerts.Humidity.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si la valeur est inférieure à %.0f ou supérieure à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Alerts.DewPoint.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli kastepiste alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si le point de rosée est inférieur à %.0f ou supérieur à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.dewPointAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Dew point",
-      "fi": "Kastepiste",
-      "ru": "Точка Росы",
-      "sv": "Daggpunkt",
-      "fr": "Point de rosée",
-      "de": "Taupunkt",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagSettings.Alerts.Pressure.description",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alert when less than %.0f or more than %.0f",
-      "fi": "Hälytä, mikäli ilmanpaine alle %.0f tai yli %.0f",
-      "ru": "Уведомить если меньше %.0f или больше %.0f",
-      "sv": "Alarmera om mindre än %.0f eller mer än %.0f",
-      "fr": "Notifier si la pression de l'air est inférieure à %.0f ou supérieure à %.0f",
-      "de": "Warnung bei weniger als %.0f oder mehr als %.0f",
-      "pl": ""
-    },
-    {
       "ident_ios": "Welcome.description.text",
       "ident_android": "",
       "ident_webui": "",
@@ -4298,7 +4022,7 @@
       "pl": "Dni"
     },
     {
-      "ident_ios": "TagSettings.AirHumidityAlert.title",
+      "ident_ios": "humidity_with_unit",
       "ident_android": "humidity_with_unit",
       "ident_webui": "",
       "en": "Air Humidity ({%@^%1$s})",
@@ -4370,7 +4094,7 @@
       "pl": "%1$,.2f %2$s"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "humidity_relative_name",
       "ident_android": "humidity_relative_name",
       "ident_webui": "humidity_relative_name",
       "en": "Relative (%)",
@@ -4406,7 +4130,7 @@
       "pl": "Adres MAC"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "mac_copied",
       "ident_android": "mac_copied",
       "ident_webui": "",
       "en": "MAC address copied to clipboard",
@@ -5641,18 +5365,6 @@
       "fr": "Souhaitez vous importer les données du capteur ?",
       "de": "Daten vom Sensor herunterladen?",
       "pl": "Pobierz historię danych z czujnika?"
-    },
-    {
-      "ident_ios": "WebTagSettings.Label.TagName.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sensor name",
-      "fi": "Anturin nimi",
-      "ru": "Имя",
-      "sv": "Sensornamn",
-      "fr": "Nom du capteur",
-      "de": "Sensor Name",
-      "pl": ""
     },
     {
       "ident_ios": "",
@@ -14127,18 +13839,6 @@
       "pl": "Wilgotność"
     },
     {
-      "ident_ios": "pressure",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Pressure",
-      "fi": "Paine",
-      "ru": "Давление",
-      "sv": "Lufttryck",
-      "fr": "Pression",
-      "de": "Druck",
-      "pl": "Ciśnienie"
-    },
-    {
       "ident_ios": "movement_counter",
       "ident_android": "",
       "ident_webui": "",
@@ -14151,7 +13851,7 @@
       "pl": "Licznik przesunięć"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "illuminance",
       "ident_android": "",
       "ident_webui": "illuminance",
       "en": "Illuminance",
@@ -14163,19 +13863,7 @@
       "pl": "Natężenie światła"
     },
     {
-      "ident_ios": "TagSettings.soundAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound ({%@^%1$s})",
-      "fi": "Ääni ({%@^%1$s})",
-      "ru": "",
-      "sv": "Ljud ({%@^%1$s})",
-      "fr": "Son ({%@^%1$s})",
-      "de": "Ton ({%@^%1$s})",
-      "pl": "Dźwięk ({%@^%1$s})"
-    },
-    {
-      "ident_ios": "",
+      "ident_ios": "sound_average_with_unit",
       "ident_android": "sound_average_with_unit",
       "ident_webui": "",
       "en": "Sound average ({%@^%1$s})",
@@ -14187,7 +13875,7 @@
       "pl": "Dźwięk (średnia) ({%@^%1$s})"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_peak_with_unit",
       "ident_android": "sound_peak_with_unit",
       "ident_webui": "",
       "en": "Sound (peak) ({%@^%1$s})",
@@ -14199,7 +13887,7 @@
       "pl": "Dźwięk (szczyt) ({%@^%1$s})"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sound_instant_with_unit",
       "ident_android": "sound_instant_with_unit",
       "ident_webui": "",
       "en": "Sound (instant) ({%@^%1$s})",
@@ -14209,42 +13897,6 @@
       "fr": "Son (instantané) ({%@^%1$s})",
       "de": "Ton (sofort) ({%@^%1$s})",
       "pl": "Dźwięk (natychmiastowy) ({%@^%1$s})"
-    },
-    {
-      "ident_ios": "TagSettings.soundInstantAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound (instant) ({%@^%1$s})",
-      "fi": "Ääni (hetkellinen) ({%@^%1$s})",
-      "ru": "Звук (мгновенный) ({%@^%1$s})",
-      "sv": "Ljud omedelbart ({%@^%1$s})",
-      "fr": "Son (instantané) ({%@^%1$s})",
-      "de": "Ton (sofort) ({%@^%1$s})",
-      "pl": "Dźwięk (natychmiastowy) ({%@^%1$s})"
-    },
-    {
-      "ident_ios": "TagSettings.soundAverageAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound (average) ({%@^%1$s})",
-      "fi": "Ääni (keskiarvo) ({%@^%1$s})",
-      "ru": "Звук (среднее) ({%@^%1$s})",
-      "sv": "Ljud (genomsnitt) ({%@^%1$s})",
-      "fr": "Son (moyenne) ({%@^%1$s})",
-      "de": "Ton (durchschnitt) ({%@^%1$s})",
-      "pl": "Dźwięk (średnia) ({%@^%1$s})"
-    },
-    {
-      "ident_ios": "TagSettings.soundPeakAlertTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sound (peak) ({%@^%1$s})",
-      "fi": "Ääni (huippu) ({%@^%1$s})",
-      "ru": "Звук (пик) ({%@^%1$s})",
-      "sv": "Ljud (topp) ({%@^%1$s})",
-      "fr": "Son (pic) ({%@^%1$s})",
-      "de": "Ton (spitze) ({%@^%1$s})",
-      "pl": "Dźwięk (szczyt) ({%@^%1$s})"
     },
     {
       "ident_ios": "",
