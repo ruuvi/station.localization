@@ -589,7 +589,7 @@
       "pl": "Moc sygnału"
     },
     {
-      "ident_ios": "TagSettings.rssiTitleLabel.text",
+      "ident_ios": "signal_strength_with_unit",
       "ident_android": "signal_strength_rssi",
       "ident_webui": "signal_strength",
       "en": "Signal strength (RSSI)",
@@ -2941,7 +2941,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.ConnectionAlert.title",
+      "ident_ios": "alert_connection",
       "ident_android": "",
       "ident_webui": "",
       "en": "Connection",
@@ -3193,7 +3193,7 @@
       "pl": "Wyłącz alarm"
     },
     {
-      "ident_ios": "TagSettings.MovementAlert.title",
+      "ident_ios": "alert_movement",
       "ident_android": "alert_movement",
       "ident_webui": "movement",
       "en": "Movement",
