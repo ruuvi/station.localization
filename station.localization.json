@@ -6894,14 +6894,14 @@
       "ident_ios": "OffsetCorrection.Humidity.Title",
       "ident_android": "calibration_humidity_offset",
       "ident_webui": "humidity_offset",
-      "en": "Humidity offset",
-      "fi": "Kosteuspoikkeama",
-      "ru": "Калибровка по влажности",
-      "sv": "Fuktighet offset",
-      "fr": "Correction d'humidité",
-      "de": "Feuchtigkeits-Offset",
-      "pl": "Wyrównanie wilgotności"
-    },
+      "en": "Relative humidity offset",
+      "fi": "Suhteellisen kosteuden poikkeama",
+      "ru": "Калибровка по относительной влажности",
+      "sv": "Relativ fuktighet offset",
+      "fr": "Correction d'humidité relative",
+      "de": "Relative Luftfeuchtigkeits-Offset",
+      "pl": "Wyrównanie wilgotności względnej"
+  },
     {
       "ident_ios": "OffsetCorrection.Pressure.Title",
       "ident_android": "calibration_pressure_offset",
