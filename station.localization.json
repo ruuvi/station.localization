@@ -157,6 +157,18 @@
       "pl": "Ciśnienie powietrza"
     },
     {
+      "ident_ios": "air_pressure",
+      "ident_android": "air_pressure",
+      "ident_webui": "",
+      "en": "Air pressure",
+      "fi": "Ilmanpaine",
+      "ru": "Атмосферное Давление",
+      "sv": "Luftfuktighet",
+      "fr": "Pression de l'air",
+      "de": "Luftdruck",
+      "pl": "Ciśnienie powietrza"
+    },
+    {
       "ident_ios": "pressure_with_unit",
       "ident_android": "pressure_with_unit",
       "ident_webui": "",
