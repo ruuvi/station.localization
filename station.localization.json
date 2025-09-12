@@ -9138,13 +9138,13 @@
       "ident_ios": "",
       "ident_android": "no_data",
       "ident_webui": "",
-      "en": "No data",
-      "fi": "Ei historiatietoja",
-      "ru": "Нет данных",
-      "sv": "Ingen data",
-      "fr": "Pas d'informations",
-      "de": "Keine Daten",
-      "pl": ""
+      "en": "No history to show. No measurements received in this period. Load sensor memory by pressing sync in the history view.",
+      "fi": "Ei historiatietoa. Mittauksia ei saatu tältä jaksolta. Lataa anturin muisti painamalla synkronoi historianäkymässä.",
+      "ru": "Нет данных истории. За этот период нет измерений. Загрузите память датчика, нажав «Синхронизировать» в истории.",
+      "sv": "Ingen historik. Inga mätningar under perioden. Ladda sensorns minne via synk i historikvyn.",
+      "fr": "Aucune historique. Aucune mesure reçue. Chargez la mémoire du capteur via le bouton sync dans l’historique.",
+      "de": "Keine Historie. Keine Messungen in diesem Zeitraum. Laden Sie den Speicherdaten des Sensors über Synchronisieren.",
+      "pl": "Brak historii. Brak pomiarów w tym okresie. Wczytaj pamięć czujnika przez przycisk synchronizacji."
     },
     {
       "ident_ios": "",
@@ -13974,13 +13974,13 @@
       "ident_ios": "aqi_level_unhealthy",
       "ident_android": "aqi_level_1",
       "ident_webui": "",
-      "en": "Unhealthy",
-      "fi": "Epäterveellinen",
-      "ru": "Вредно",
-      "sv": "Ohälsosamt",
-      "fr": "Malsain",
-      "de": "Ungesund",
-      "pl": ""
+      "en": "Very poor",
+      "fi": "Erittäin huono",
+      "ru": "Очень плохо",
+      "sv": "Mycket dålig",
+      "fr": "Très mauvais",
+      "de": "Sehr schlecht",
+      "pl": "Bardzo zły"
     },
     {
       "ident_ios": "aqi_level_poor",
@@ -13998,13 +13998,13 @@
       "ident_ios": "aqi_level_moderate",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
-      "en": "Moderate",
-      "fi": "Kohtalainen",
-      "ru": "Умеренно",
-      "sv": "Måttlig",
-      "fr": "Modéré",
-      "de": "Mäßig",
-      "pl": ""
+      "en": "Fair",
+      "fi": "Välttävä",
+      "ru": "Удовлетворительно",
+      "sv": "Godtagbar",
+      "fr": "Passable",
+      "de": "Ausreichend",
+      "pl": "Dostateczny"
     },
     {
       "ident_ios": "aqi_level_good",
@@ -14035,12 +14035,12 @@
       "ident_android": "verypoor",
       "ident_webui": "",
       "en": "Very poor",
-      "fi": "",
+      "fi": "Erittäin huono",
       "ru": "Очень плохо",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Mycket dålig",
+      "fr": "Très mauvais",
+      "de": "Sehr schlecht",
+      "pl": "Bardzo zły"
     },
     {
       "ident_ios": "",
@@ -14058,13 +14058,13 @@
       "ident_ios": "",
       "ident_android": "moderate",
       "ident_webui": "",
-      "en": "Moderate",
-      "fi": "Kohtalainen",
-      "ru": "Умеренно",
-      "sv": "Måttlig",
-      "fr": "Modéré",
-      "de": "Mäßig",
-      "pl": ""
+      "en": "Fair",
+      "fi": "Välttävä",
+      "ru": "Удовлетворительно",
+      "sv": "Godtagbar",
+      "fr": "Passable",
+      "de": "Ausreichend",
+      "pl": "Dostateczny"
     },
     {
       "ident_ios": "",
