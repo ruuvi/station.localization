@@ -9135,7 +9135,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "popup_no_history_data",
       "ident_android": "no_data",
       "ident_webui": "",
       "en": "No history to show. No measurements received in this period. Load sensor memory by pressing sync in the history view.",
@@ -13959,7 +13959,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_undefined",
+      "ident_ios": "",
       "ident_android": "aqi_level_0",
       "ident_webui": "",
       "en": "Undefined",
@@ -13971,7 +13971,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_unhealthy",
+      "ident_ios": "",
       "ident_android": "aqi_level_1",
       "ident_webui": "",
       "en": "Very poor",
@@ -13983,7 +13983,7 @@
       "pl": "Bardzo zły"
     },
     {
-      "ident_ios": "aqi_level_poor",
+      "ident_ios": "",
       "ident_android": "aqi_level_2",
       "ident_webui": "",
       "en": "Poor",
@@ -13995,7 +13995,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_moderate",
+      "ident_ios": "",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
       "en": "Fair",
@@ -14007,7 +14007,7 @@
       "pl": "Dostateczny"
     },
     {
-      "ident_ios": "aqi_level_good",
+      "ident_ios": "",
       "ident_android": "aqi_level_4",
       "ident_webui": "",
       "en": "Good",
@@ -14019,7 +14019,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_excellent",
+      "ident_ios": "",
       "ident_android": "aqi_level_5",
       "ident_webui": "",
       "en": "Excellent",
@@ -14031,7 +14031,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "verypoor",
       "ident_android": "verypoor",
       "ident_webui": "",
       "en": "Very poor",
@@ -14043,7 +14043,7 @@
       "pl": "Bardzo zły"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "poor",
       "ident_android": "poor",
       "ident_webui": "",
       "en": "Poor",
@@ -14055,7 +14055,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "fair",
       "ident_android": "moderate",
       "ident_webui": "",
       "en": "Fair",
@@ -14067,7 +14067,7 @@
       "pl": "Dostateczny"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "good",
       "ident_android": "good",
       "ident_webui": "",
       "en": "Good",
@@ -14079,7 +14079,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "excellent",
       "ident_android": "excellent",
       "ident_webui": "",
       "en": "Excellent",
@@ -14367,7 +14367,7 @@
       "pl": "Siła sygnału (RSSI) wskazuje jakość połączenia Bluetooth. Im silniejszy sygnał (bliżej 0 dBm), tym bardziej niezawodnie dane z czujnika są aktualizowane na urządzeniu odbierającym. Jeśli sygnał jest słaby, połączenie może przerywać lub całkowicie się rozłączyć, a dane pomiarowe mogą przestać się aktualizować.\\n\\nNa jakość połączenia wpływa m.in. odległość między czujnikiem a urządzeniem odbierającym, ściany i inne przeszkody oraz zakłócenia powodowane przez elektronikę domową.\\n\\nŚledzenie siły sygnału pomaga umieścić czujnik w odpowiednim miejscu. Jeśli sygnał jest słaby, możesz poprawić połączenie, przesuwając czujnik tak, aby miał jak najbardziej bezpośrednią widoczność na urządzenie odbierające. Dzięki temu dane pomiarowe będą wyświetlane w aplikacji w sposób niezawodny.\\n\\nOptymalny wynik: -60 – 0\\nZakres pomiarowy czujnika: -100 – 0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "initial_description_text_air_quality",
       "ident_android": "initial_description_text_air_quality",
       "ident_webui": "",
       "en": "Air quality index is based on two factors: particulate matter (PM2.5) floating in the air, and carbon dioxide (CO₂) that accumulates when people spend time indoors",
@@ -14391,7 +14391,7 @@
       "pl": "Jakość powietrza jest pokazywana za pomocą jednej liczby podobnej do indeksu, która informuje, czy powietrze w pomieszczeniu jest dobre czy złe. Wynik opiera się na dwóch czynnikach: cząstkach stałych (PM2.5) unoszących się w powietrzu oraz dwutlenku węgla (CO₂), który gromadzi się, gdy ludzie przebywają w pomieszczeniach.\\n\\nOcena jakości powietrza uwzględnia oba czynniki, ale jeśli któryś z nich wzrośnie zbyt mocno, ogólna wartość spada. Na przykład podczas gotowania poziom cząstek może wzrosnąć, a wynik spadnie, nawet jeśli dwutlenek węgla jest nadal na dobrym poziomie.\\n\\nIm wyższy wynik, tym zdrowsze powietrze do oddychania. Dobre powietrze w pomieszczeniach wspiera czujność, koncentrację i jakość snu. Jeśli wartość spadnie poniżej 70, może to być spowodowane sytuacją tymczasową, np. słabą wentylacją lub gotowaniem. Jeśli spadnie poniżej 40, wyraźnie wskazuje to na potrzebę świeżego powietrza lub obecność czynnika pogarszającego jakość powietrza w pomieszczeniu.\\n\\nNajłatwiejszym sposobem poprawy jakości powietrza jest przewietrzenie pomieszczenia poprzez otwarcie okien. Użycie oczyszczacza powietrza może również pomóc utrzymać wynik na dobrym poziomie.\\n\\nOptymalny wynik: 90 – 100\\nSkala: 0 – 100"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_excellent",
       "ident_android": "aqi_advice_excellent",
       "ident_webui": "",
       "en": "Your Air Quality is excellent! Well done, enjoy the fresh air",
@@ -14403,7 +14403,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_good",
       "ident_android": "aqi_advice_good",
       "ident_webui": "",
       "en": "Your Air Quality is good! Well done, enjoy the fresh air.",
@@ -14415,7 +14415,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_co2",
       "ident_android": "aqi_advice_moderate_co2",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because CO2 is high. Consider ventilating the room",
@@ -14427,7 +14427,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_pm25",
       "ident_android": "aqi_advice_moderate_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because PM2.5 is high. Consider ventilating the room, but take in account possible outdoor air pollution",
@@ -14439,7 +14439,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_both",
       "ident_android": "aqi_advice_moderate_both",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because both CO2 and PM2.5 are high. Consider ventilating the room, but take in account possible outdoor air pollution",
@@ -14451,7 +14451,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_co2",
       "ident_android": "aqi_advice_poor_co2",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because CO2 is high. Ventilate the room for better air",
@@ -14463,7 +14463,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_pm25",
       "ident_android": "aqi_advice_poor_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because PM2.5 is high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14475,7 +14475,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_both",
       "ident_android": "aqi_advice_poor_both",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because both CO2 and PM2.5 are high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14487,7 +14487,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_co2",
       "ident_android": "aqi_advice_verypoor_co2",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because CO2 is high. Ventilate the room for better air",
@@ -14499,7 +14499,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_pm25",
       "ident_android": "aqi_advice_verypoor_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because PM2.5 is high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14511,7 +14511,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_both",
       "ident_android": "aqi_advice_verypoor_both",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because both CO2 and PM2.5 are high. Ventilate the room, but take in account possible outdoor air pollution",
