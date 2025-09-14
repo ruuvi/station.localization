@@ -493,7 +493,7 @@
       "pl": "Ruchy"
     },
     {
-      "ident_ios": "TagSettings.batteryVoltageTitleLabel.text",
+      "ident_ios": "battery_voltage",
       "ident_android": "battery_voltage",
       "ident_webui": "battery_voltage",
       "en": "Battery voltage",
