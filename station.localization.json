@@ -7827,6 +7827,30 @@
       "pl": "Zaktualizowano pomyślnie"
     },
     {
+      "ident_ios": "",
+      "ident_android": "update_successful_tag",
+      "ident_webui": "",
+      "en": "Your RuuviTag firmware was updated successfully.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "update_successful_air",
+      "ident_webui": "",
+      "en": "Your Ruuvi Air firmware was uploaded successfully, wait few moments for the Ruuvi Air to restart and finish the update.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "DFUUIView.DBMigration.Error.message",
       "ident_android": "",
       "ident_webui": "",
