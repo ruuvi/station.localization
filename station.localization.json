@@ -9172,7 +9172,7 @@
     },
     {
       "ident_ios": "popup_no_history_data",
-      "ident_android": "no_data",
+      "ident_android": "popup_no_data",
       "ident_webui": "",
       "en": "No history to show. No measurements received in this period. Load sensor memory by pressing sync in the history view.",
       "fi": "Ei historiatietoa. Mittauksia ei saatu tältä jaksolta. Lataa anturin muisti painamalla synkronoi historianäkymässä.",
@@ -9181,6 +9181,18 @@
       "fr": "Aucune historique. Aucune mesure reçue. Chargez la mémoire du capteur via le bouton sync dans l’historique.",
       "de": "Keine Historie. Keine Messungen in diesem Zeitraum. Laden Sie den Speicherdaten des Sensors über Synchronisieren.",
       "pl": "Brak historii. Brak pomiarów w tym okresie. Wczytaj pamięć czujnika przez przycisk synchronizacji."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "no_data",
+      "ident_webui": "",
+      "en": "No data",
+      "fi": "Ei historiatietoja",
+      "ru": "Нет данных",
+      "sv": "Ingen data",
+      "fr": "Pas d'informations",
+      "de": "Keine Daten",
+      "pl": ""
     },
     {
       "ident_ios": "",
