@@ -4119,8 +4119,8 @@
     },
     {
       "ident_ios": "humidity_relative_name",
-      "ident_android": "humidity_relative_name",
-      "ident_webui": "humidity_relative_name",
+      "ident_android": "",
+      "ident_webui": "",
       "en": "Relative (%%)",
       "fi": "Suhteellinen (%%)",
       "ru": "Относительная влажность (%%)",
