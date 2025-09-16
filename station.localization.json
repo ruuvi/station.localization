@@ -493,7 +493,7 @@
       "pl": "Ruchy"
     },
     {
-      "ident_ios": "TagSettings.batteryVoltageTitleLabel.text",
+      "ident_ios": "battery_voltage",
       "ident_android": "battery_voltage",
       "ident_webui": "battery_voltage",
       "en": "Battery voltage",
@@ -4106,7 +4106,7 @@
       "pl": "%1$,.2f %2$s"
     },
     {
-      "ident_ios": "humidity_relative_name",
+      "ident_ios": "",
       "ident_android": "humidity_relative_name",
       "ident_webui": "humidity_relative_name",
       "en": "Relative (%)",
@@ -4116,6 +4116,18 @@
       "fr": "Relative (%)",
       "de": "Relative (%)",
       "pl": "Względna (%)"
+    },
+    {
+      "ident_ios": "humidity_relative_name",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Relative (%%)",
+      "fi": "Suhteellinen (%%)",
+      "ru": "Относительная влажность (%%)",
+      "sv": "Relativ (%%)",
+      "fr": "Relative (%%)",
+      "de": "Relative (%%)",
+      "pl": "Względna (%%)"
     },
     {
       "ident_ios": "humidity_relative_unit",
@@ -7815,6 +7827,30 @@
       "pl": "Zaktualizowano pomyślnie"
     },
     {
+      "ident_ios": "",
+      "ident_android": "update_successful_tag",
+      "ident_webui": "",
+      "en": "Your RuuviTag firmware was updated successfully.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "update_successful_air",
+      "ident_webui": "",
+      "en": "Your Ruuvi Air firmware was uploaded successfully, wait few moments for the Ruuvi Air to restart and finish the update.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "DFUUIView.DBMigration.Error.message",
       "ident_android": "",
       "ident_webui": "",
@@ -9133,6 +9169,18 @@
       "fr": "Choisissez le capteur",
       "de": "Sensor auswählen",
       "pl": ""
+    },
+    {
+      "ident_ios": "popup_no_history_data",
+      "ident_android": "popup_no_data",
+      "ident_webui": "",
+      "en": "No history to show. No measurements received in this period. Load sensor memory by pressing sync in the history view.",
+      "fi": "Ei historiatietoa. Mittauksia ei saatu tältä jaksolta. Lataa anturin muisti painamalla synkronoi historianäkymässä.",
+      "ru": "Нет данных истории. За этот период нет измерений. Загрузите память датчика, нажав «Синхронизировать» в истории.",
+      "sv": "Ingen historik. Inga mätningar under perioden. Ladda sensorns minne via synk i historikvyn.",
+      "fr": "Aucune historique. Aucune mesure reçue. Chargez la mémoire du capteur via le bouton sync dans l’historique.",
+      "de": "Keine Historie. Keine Messungen in diesem Zeitraum. Laden Sie den Speicherdaten des Sensors über Synchronisieren.",
+      "pl": "Brak historii. Brak pomiarów w tym okresie. Wczytaj pamięć czujnika przez przycisk synchronizacji."
     },
     {
       "ident_ios": "",
@@ -13959,7 +14007,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_undefined",
+      "ident_ios": "",
       "ident_android": "aqi_level_0",
       "ident_webui": "",
       "en": "Undefined",
@@ -13971,19 +14019,19 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_unhealthy",
+      "ident_ios": "",
       "ident_android": "aqi_level_1",
       "ident_webui": "",
-      "en": "Unhealthy",
-      "fi": "Epäterveellinen",
-      "ru": "Вредно",
-      "sv": "Ohälsosamt",
-      "fr": "Malsain",
-      "de": "Ungesund",
-      "pl": ""
+      "en": "Very poor",
+      "fi": "Erittäin huono",
+      "ru": "Очень плохо",
+      "sv": "Mycket dålig",
+      "fr": "Très mauvais",
+      "de": "Sehr schlecht",
+      "pl": "Bardzo zły"
     },
     {
-      "ident_ios": "aqi_level_poor",
+      "ident_ios": "",
       "ident_android": "aqi_level_2",
       "ident_webui": "",
       "en": "Poor",
@@ -13995,19 +14043,19 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_moderate",
+      "ident_ios": "",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
-      "en": "Moderate",
-      "fi": "Kohtalainen",
-      "ru": "Умеренно",
-      "sv": "Måttlig",
-      "fr": "Modéré",
-      "de": "Mäßig",
-      "pl": ""
+      "en": "Fair",
+      "fi": "Välttävä",
+      "ru": "Удовлетворительно",
+      "sv": "Godtagbar",
+      "fr": "Passable",
+      "de": "Ausreichend",
+      "pl": "Dostateczny"
     },
     {
-      "ident_ios": "aqi_level_good",
+      "ident_ios": "",
       "ident_android": "aqi_level_4",
       "ident_webui": "",
       "en": "Good",
@@ -14019,7 +14067,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "aqi_level_excellent",
+      "ident_ios": "",
       "ident_android": "aqi_level_5",
       "ident_webui": "",
       "en": "Excellent",
@@ -14031,19 +14079,19 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "verypoor",
       "ident_android": "verypoor",
       "ident_webui": "",
       "en": "Very poor",
-      "fi": "",
+      "fi": "Erittäin huono",
       "ru": "Очень плохо",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "sv": "Mycket dålig",
+      "fr": "Très mauvais",
+      "de": "Sehr schlecht",
+      "pl": "Bardzo zły"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "poor",
       "ident_android": "poor",
       "ident_webui": "",
       "en": "Poor",
@@ -14055,19 +14103,19 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "fair",
       "ident_android": "moderate",
       "ident_webui": "",
-      "en": "Moderate",
-      "fi": "Kohtalainen",
-      "ru": "Умеренно",
-      "sv": "Måttlig",
-      "fr": "Modéré",
-      "de": "Mäßig",
-      "pl": ""
+      "en": "Fair",
+      "fi": "Välttävä",
+      "ru": "Удовлетворительно",
+      "sv": "Godtagbar",
+      "fr": "Passable",
+      "de": "Ausreichend",
+      "pl": "Dostateczny"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "good",
       "ident_android": "good",
       "ident_webui": "",
       "en": "Good",
@@ -14079,7 +14127,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "excellent",
       "ident_android": "excellent",
       "ident_webui": "",
       "en": "Excellent",
@@ -14235,7 +14283,7 @@
       "pl": "Ukrycie spowoduje wyłączenie alertu. Czy chcesz kontynuować?"
     },
     {
-      "ident_ios": "description_text_temperature",
+      "ident_ios": "description_text_temperature_celsius",
       "ident_android": "description_text_temperature_celsius",
       "ident_webui": "",
       "en": "The temperature sensor measures the ambient air temperature.\\n\\nAt home, temperature significantly affects comfort, sleep quality, concentration, and overall health. Monitoring temperature also helps optimize energy costs and improve living comfort.\\n\\nIndoors, place the sensor at eye level, away from surfaces or objects that conduct heat or cold, and from drafty areas.\\n\\nIdeally, install the sensor upright so that air can flow freely around it. For outdoor use (RuuviTag/RuuviTag Pro), place the sensor in the shade and protect it from direct rain.\\n\\nNote: Although the sensor detects and reports temperature changes very quickly, it may take up to an hour to fully reach thermal equilibrium with the surrounding environment. This is normal device behavior.\\n\\nFor ideas on suitable alert limits, see Ruuvi’s use case examples: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
@@ -14247,7 +14295,7 @@
       "pl": "Czujnik temperatury mierzy temperaturę powietrza otoczenia.\\n\\nW domu temperatura znacząco wpływa na komfort, jakość snu, koncentrację i ogólny stan zdrowia. Monitorowanie temperatury pomaga również zoptymalizować koszty energii i poprawić komfort życia.\\n\\nW pomieszczeniach czujnik należy umieścić na wysokości oczu, z dala od powierzchni lub przedmiotów przewodzących ciepło lub zimno, a także od miejsc narażonych na przeciągi.\\n\\nNajlepiej zainstalować czujnik w pozycji pionowej, aby powietrze mogło swobodnie krążyć wokół niego. Do użytku na zewnątrz (RuuviTag/RuuviTag Pro) czujnik powinien być umieszczony w cieniu i chroniony przed bezpośrednim deszczem.\\n\\nUwaga: chociaż czujnik bardzo szybko wykrywa i raportuje zmiany temperatury, osiągnięcie pełnej równowagi cieplnej z otoczeniem może zająć do godziny. Jest to normalne zachowanie urządzenia.\\n\\nPomysły na odpowiednie progi alarmowe znajdziesz w przykładach zastosowań Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_temperature_fahrenheit",
       "ident_android": "description_text_temperature_fahrenheit",
       "ident_webui": "",
       "en": "The temperature sensor measures the ambient air temperature.\\n\\nAt home, temperature significantly affects comfort, sleep quality, concentration, and overall health. Monitoring temperature also helps optimize energy costs and improve living comfort.\\n\\nIndoors, place the sensor at eye level, away from surfaces or objects that conduct heat or cold, and from drafty areas.\\n\\nIdeally, install the sensor upright so that air can flow freely around it. For outdoor use (RuuviTag/RuuviTag Pro), place the sensor in the shade and protect it from direct rain.\\n\\nNote: Although the sensor detects and reports temperature changes very quickly, it may take up to an hour to fully reach thermal equilibrium with the surrounding environment. This is normal device behavior.\\n\\nFor ideas on suitable alert limits, see Ruuvi’s use case examples: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
@@ -14259,7 +14307,7 @@
       "pl": "Czujnik temperatury mierzy temperaturę powietrza otoczenia.\\n\\nW domu temperatura znacząco wpływa na komfort, jakość snu, koncentrację i ogólny stan zdrowia. Monitorowanie temperatury pomaga również zoptymalizować koszty energii i poprawić komfort życia.\\n\\nW pomieszczeniach czujnik należy umieścić na wysokości oczu, z dala od powierzchni lub przedmiotów przewodzących ciepło lub zimno, a także od miejsc narażonych na przeciągi.\\n\\nNajlepiej zainstalować czujnik w pozycji pionowej, aby powietrze mogło swobodnie krążyć wokół niego. Do użytku na zewnątrz (RuuviTag/RuuviTag Pro) czujnik powinien być umieszczony w cieniu i chroniony przed bezpośrednim deszczem.\\n\\nUwaga: chociaż czujnik bardzo szybko wykrywa i raportuje zmiany temperatury, osiągnięcie pełnej równowagi cieplnej z otoczeniem może zająć do godziny. Jest to normalne zachowanie urządzenia.\\n\\nPomysły na odpowiednie progi alarmowe znajdziesz w przykładach zastosowań Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_temperature_kelvin",
       "ident_android": "description_text_temperature_kelvin",
       "ident_webui": "",
       "en": "The temperature sensor measures the ambient air temperature.\\n\\nAt home, temperature significantly affects comfort, sleep quality, concentration, and overall health. Monitoring temperature also helps optimize energy costs and improve living comfort.\\n\\nIndoors, place the sensor at eye level, away from surfaces or objects that conduct heat or cold, and from drafty areas.\\n\\nIdeally, install the sensor upright so that air can flow freely around it. For outdoor use (RuuviTag/RuuviTag Pro), place the sensor in the shade and protect it from direct rain.\\n\\nNote: Although the sensor detects and reports temperature changes very quickly, it may take up to an hour to fully reach thermal equilibrium with the surrounding environment. This is normal device behavior.\\n\\nFor ideas on suitable alert limits, see Ruuvi’s use case examples: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
@@ -14271,7 +14319,7 @@
       "pl": "Czujnik temperatury mierzy temperaturę powietrza otoczenia.\\n\\nW domu temperatura znacząco wpływa na komfort, jakość snu, koncentrację i ogólny stan zdrowia. Monitorowanie temperatury pomaga również zoptymalizować koszty energii i poprawić komfort życia.\\n\\nW pomieszczeniach czujnik należy umieścić na wysokości oczu, z dala od powierzchni lub przedmiotów przewodzących ciepło lub zimno, a także od miejsc narażonych na przeciągi.\\n\\nNajlepiej zainstalować czujnik w pozycji pionowej, aby powietrze mogło swobodnie krążyć wokół niego. Do użytku na zewnątrz (RuuviTag/RuuviTag Pro) czujnik powinien być umieszczony w cieniu i chroniony przed bezpośrednim deszczem.\\n\\nUwaga: chociaż czujnik bardzo szybko wykrywa i raportuje zmiany temperatury, osiągnięcie pełnej równowagi cieplnej z otoczeniem może zająć do godziny. Jest to normalne zachowanie urządzenia.\\n\\nPomysły na odpowiednie progi alarmowe znajdziesz w przykładach zastosowań Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;"
     },
     {
-      "ident_ios": "description_text_humidity",
+      "ident_ios": "",
       "ident_android": "description_text_humidity_relative",
       "ident_webui": "",
       "en": "Relative humidity (RH %) indicates how much moisture is in the air compared to the maximum amount the air can hold at a given temperature.\\n\\nA balanced humidity level at home (ideally 30–50%) makes indoor air healthier. Too much humidity promotes mold and dust mites, while too little dries out the skin and respiratory system.\\n\\nHumidity levels can vary between rooms and at different times of the day. Bathrooms and kitchens often show higher readings after showers or cooking. Place the sensor in the room you are most concerned about and track values over time to recognize recurring situations and take steps to avoid them.\\n\\nYou can manage humidity by adjusting indoor temperature and ventilating at times when outdoor humidity is lower than indoors. Once you learn to control indoor humidity, it is easier to maintain healthy air quality and also prevent potential moisture damage.\\n\\nRelative humidity (%) is the most commonly used unit, but you can also choose absolute humidity or dew point in the app settings.\\n\\nOptimal range: 40–80%\\nSensor measurement range: 0–100%\\n\\nFor ideas on suitable alert limits, see Ruuvi’s use case examples: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
@@ -14283,7 +14331,19 @@
       "pl": "Wilgotność względna (RH %) pokazuje, ile wilgoci znajduje się w powietrzu w porównaniu z maksymalną ilością, jaką powietrze może utrzymać w danej temperaturze.\\n\\nZrównoważony poziom wilgotności w domu (najlepiej 30–50%) sprawia, że powietrze w pomieszczeniach jest zdrowsze. Zbyt wysoka wilgotność sprzyja rozwojowi pleśni i roztoczy, podczas gdy zbyt niska wysusza skórę i drogi oddechowe.\\n\\nPoziom wilgotności może się różnić w zależności od pomieszczenia i pory dnia. W łazienkach i kuchniach wartości są często wyższe po kąpieli lub gotowaniu. Umieść czujnik w pomieszczeniu, które najbardziej Cię niepokoi, i monitoruj wartości w czasie, aby rozpoznać powtarzające się sytuacje i móc im zapobiegać.\\n\\nWilgotność można regulować, dostosowując temperaturę wewnętrzną i wietrząc w porach dnia, gdy wilgotność na zewnątrz jest niższa niż wewnątrz. Ucząc się kontrolować wilgotność, łatwiej jest utrzymać zdrowe powietrze w domu i zapobiec ewentualnym uszkodzeniom spowodowanym wilgocią.\\n\\nNajczęściej używaną jednostką jest wilgotność względna (%), ale w ustawieniach aplikacji można również wybrać wilgotność absolutną lub punkt rosy.\\n\\nOptymalny zakres: 40–80%\\nZakres pomiarowy czujnika: 0–100%\\n\\nPomysły na odpowiednie progi alarmowe znajdziesz w przykładach zastosowań Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_humidity_relative",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Relative humidity (RH %%) indicates how much moisture is in the air compared to the maximum amount the air can hold at a given temperature.\\n\\nA balanced humidity level at home (ideally 30–50%%) makes indoor air healthier. Too much humidity promotes mold and dust mites, while too little dries out the skin and respiratory system.\\n\\nHumidity levels can vary between rooms and at different times of the day. Bathrooms and kitchens often show higher readings after showers or cooking. Place the sensor in the room you are most concerned about and track values over time to recognize recurring situations and take steps to avoid them.\\n\\nYou can manage humidity by adjusting indoor temperature and ventilating at times when outdoor humidity is lower than indoors. Once you learn to control indoor humidity, it is easier to maintain healthy air quality and also prevent potential moisture damage.\\n\\nRelative humidity (%%) is the most commonly used unit, but you can also choose absolute humidity or dew point in the app settings.\\n\\nOptimal range: 40–80%%\\nSensor measurement range: 0–100%%\\n\\nFor ideas on suitable alert limits, see Ruuvi’s use case examples: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
+      "fi": "Suhteellinen ilmankosteus (Relative Humidity, RH %%) kertoo, kuinka monta prosenttia ilman kosteuspitoisuus on kosteuden maksimimäärästä kyseisessä lämpötilassa.\\n\\nTasapainoinen ilmankosteus kotona (mieluiten 30-50 %%) tekee kodin ilmasta terveellisempää. Liian suuri kosteus ilmassa edistää homeen ja pölypunkkien kasvua, kun taas liian vähäinen kosteus kuivattaa ihoa ja hengitysteitä.\\n\\nKosteustaso voi vaihdella eri tiloissa ja vuorokauden eri aikoina. Kylpyhuoneissa ja keittiöissä lukemat ovat usein korkeampia suihkun tai ruoanlaiton jälkeen. Aseta anturi siihen tilaan, josta olet eniten huolissasi, ja seuraa lukemia ajan mittaan, jolloin tunnistat toistuvat tilanteet ja voit ryhtyä toimiin niiden välttämiseksi.\\n\\nIlmankosteutta voi hallita säätämällä sisälämpötilaa ja tuulettamalla siihen vuorokauden aikaan, kun ulkoilman kosteus on sisäilmaa matalampi. Kun opit hallitsemaan ilmankosteutta sisätiloissa, on sinun helpompi ylläpitää kodin terveellistä sisäilmaa. Samalla voit tehdä toimenpiteitä, jotka auttavat ehkäisemään mahdollisia kosteusvaurioita sisätiloissa.\\n\\nIlmankosteutta tarkastellessa käytetään yleisimmin suhteellisen ilmankosteuden mittayksikköä. Voit valita tarkasteltavaksi myös absoluuttisen kosteuden tai kastepisteen sovelluksen asetuksista.\\n\\nOptimaalinen alue: 40-80%%\\nAnturin mittausalue: 0-100%%\\n\\nIdeoita sopivista hälytysrajoista löydät Ruuvin käyttökohde-esimerkeistä: &lt;link url=\\\"https://ruuvi.com/ideat/\\\"&gt;ruuvi.com/ideat&lt;/link&gt;",
+      "ru": "Относительная влажность (RH %%) показывает, сколько влаги содержится в воздухе по сравнению с максимальным количеством, которое воздух может удерживать при данной температуре.\\n\\nСбалансированный уровень влажности в доме (желательно 30–50%%) делает воздух более здоровым. Слишком высокая влажность способствует появлению плесени и пылевых клещей, а слишком низкая вызывает сухость кожи и дыхательных путей.\\n\\nУровень влажности может меняться в разных помещениях и в разное время суток. В ванных комнатах и на кухнях показатели часто выше после душа или приготовления пищи. Разместите датчик в том помещении, которое вызывает наибольшие опасения, и отслеживайте значения со временем, чтобы выявить повторяющиеся ситуации и предотвратить их.\\n\\nВлажностью можно управлять, регулируя температуру в помещении и проветривая в то время суток, когда влажность на улице ниже, чем в помещении. Освоив контроль влажности, вы сможете легче поддерживать здоровый воздух и предотвращать возможные повреждения от влаги.\\n\\nЧаще всего используется относительная влажность (%%), но в настройках приложения можно также выбрать абсолютную влажность или точку росы.\\n\\nОптимальный диапазон: 40–80%%\\nДиапазон измерений датчика: 0–100%%\\n\\nИдеи по подходящим порогам сигнализации можно найти в примерах использования Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
+      "sv": "Relativ luftfuktighet (RH %%) visar hur mycket fukt luften innehåller jämfört med den maximala mängd den kan hålla vid en viss temperatur.\\n\\nEn balanserad luftfuktighet i hemmet (helst 30–50 %%) gör inomhusluften hälsosammare. För hög luftfuktighet gynnar mögel och kvalster, medan för låg torkar ut hud och andningsvägar.\\n\\nFuktnivån kan variera mellan olika rum och vid olika tider på dygnet. I badrum och kök är värdena ofta högre efter dusch eller matlagning. Placera sensorn i det rum du är mest orolig för och följ värdena över tid för att upptäcka återkommande situationer och kunna förebygga dem.\\n\\nDu kan reglera luftfuktigheten genom att justera inomhustemperaturen och vädra när luftfuktigheten utomhus är lägre än inomhus. När du lär dig kontrollera luftfuktigheten blir det lättare att upprätthålla en hälsosam inomhusmiljö och förebygga fuktskador.\\n\\nRelativ luftfuktighet (%%) används oftast, men du kan även välja absolut luftfuktighet eller daggpunkt i appens inställningar.\\n\\nOptimalt område: 40–80%%\\nSensorns mätområde: 0–100%%\\n\\nFör idéer om lämpliga larmgränser, se Ruuvins användningsexempel: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
+      "fr": "L’humidité relative (HR %%) indique la quantité d’humidité présente dans l’air par rapport à la quantité maximale que l’air peut contenir à une température donnée.\\n\\nUn taux d’humidité équilibré à la maison (idéalement 30–50 %%) rend l’air intérieur plus sain. Trop d’humidité favorise la moisissure et les acariens, tandis qu’un air trop sec assèche la peau et les voies respiratoires.\\n\\nLe niveau d’humidité peut varier selon les pièces et les moments de la journée. Les salles de bains et les cuisines affichent souvent des valeurs plus élevées après une douche ou la préparation des repas. Placez le capteur dans la pièce qui vous préoccupe le plus et suivez les valeurs dans le temps pour identifier les situations récurrentes et agir en conséquence.\\n\\nVous pouvez gérer l’humidité en ajustant la température intérieure et en aérant lorsque l’humidité extérieure est inférieure à celle de l’intérieur. En apprenant à contrôler l’humidité, il est plus facile de maintenir un air intérieur sain et de prévenir d’éventuels dommages dus à l’humidité.\\n\\nL’humidité relative (%%) est l’unité la plus couramment utilisée, mais vous pouvez aussi choisir l’humidité absolue ou le point de rosée dans les paramètres de l’application.\\n\\nPlage optimale : 40–80%%\\nPlage de mesure du capteur : 0–100%%\\n\\nPour des idées de seuils d’alerte adaptés, consultez les exemples d’utilisation de Ruuvi : &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
+      "de": "Die relative Luftfeuchtigkeit (RH %%) gibt an, wie viel Feuchtigkeit die Luft im Vergleich zur maximal möglichen Menge bei einer bestimmten Temperatur enthält.\\n\\nEin ausgewogener Feuchtigkeitswert im Haus (idealerweise 30–50 %%) macht die Raumluft gesünder. Zu hohe Luftfeuchtigkeit begünstigt Schimmel und Hausstaubmilben, während zu niedrige die Haut und die Atemwege austrocknet.\\n\\nDie Feuchtigkeitswerte können je nach Raum und Tageszeit variieren. In Badezimmern und Küchen sind die Werte nach dem Duschen oder Kochen oft höher. Platzieren Sie den Sensor in dem Raum, der Ihnen am meisten Sorgen bereitet, und beobachten Sie die Werte über längere Zeit, um wiederkehrende Situationen zu erkennen und Gegenmaßnahmen zu ergreifen.\\n\\nDie Luftfeuchtigkeit lässt sich regulieren, indem man die Innentemperatur anpasst und zu Zeiten lüftet, in denen die Außenluftfeuchtigkeit niedriger ist als drinnen. Wenn Sie lernen, die Luftfeuchtigkeit zu kontrollieren, können Sie leichter eine gesunde Raumluft erhalten und mögliche Feuchtigkeitsschäden verhindern.\\n\\nAm häufigsten wird die relative Luftfeuchtigkeit (%%) verwendet, Sie können jedoch in den App-Einstellungen auch die absolute Feuchtigkeit oder den Taupunkt auswählen.\\n\\nOptimaler Bereich: 40–80%%\\nMessbereich des Sensors: 0–100%%\\n\\nIdeen für geeignete Alarmgrenzen finden Sie in den Anwendungsbeispielen von Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;",
+      "pl": "Wilgotność względna (RH %%) pokazuje, ile wilgoci znajduje się w powietrzu w porównaniu z maksymalną ilością, jaką powietrze może utrzymać w danej temperaturze.\\n\\nZrównoważony poziom wilgotności w domu (najlepiej 30–50%%) sprawia, że powietrze w pomieszczeniach jest zdrowsze. Zbyt wysoka wilgotność sprzyja rozwojowi pleśni i roztoczy, podczas gdy zbyt niska wysusza skórę i drogi oddechowe.\\n\\nPoziom wilgotności może się różnić w zależności od pomieszczenia i pory dnia. W łazienkach i kuchniach wartości są często wyższe po kąpieli lub gotowaniu. Umieść czujnik w pomieszczeniu, które najbardziej Cię niepokoi, i monitoruj wartości w czasie, aby rozpoznać powtarzające się sytuacje i móc im zapobiegać.\\n\\nWilgotność można regulować, dostosowując temperaturę wewnętrzną i wietrząc w porach dnia, gdy wilgotność na zewnątrz jest niższa niż wewnątrz. Ucząc się kontrolować wilgotność, łatwiej jest utrzymać zdrowe powietrze w domu i zapobiec ewentualnym uszkodzeniom spowodowanym wilgocią.\\n\\nNajczęściej używaną jednostką jest wilgotność względna (%%), ale w ustawieniach aplikacji można również wybrać wilgotność absolutną lub punkt rosy.\\n\\nOptymalny zakres: 40–80%%\\nZakres pomiarowy czujnika: 0–100%%\\n\\nPomysły na odpowiednie progi alarmowe znajdziesz w przykładach zastosowań Ruuvi: &lt;link url=\\\"https://ruuvi.com/ideas/\\\"&gt;ruuvi.com/ideas&lt;/link&gt;"
+    },
+    {
+      "ident_ios": "description_text_humidity_absolute",
       "ident_android": "description_text_humidity_absolute",
       "ident_webui": "",
       "en": "Absolute humidity indicates the amount of water vapor in grams per cubic meter of air (g/m³). Unlike relative humidity, it tells the actual amount of water vapor in the air.\\n\\nMeasuring absolute humidity is important in environments where temperature varies greatly and moisture control is critical. Accurate moisture readings benefit industries like manufacturing and storage by helping to prevent spoilage or degradation. At home, understanding actual moisture load helps determine when a humidifier, dehumidifier, or improved ventilation is needed.\\n\\nAbsolute humidity is most informative when viewed over time or alongside temperature and relative humidity. It helps identify conditions where air may feel dry despite moderate relative humidity — or the opposite.\\n\\nSince comfort and air quality issues often relate more closely to the actual water content in the air than to percentage-based values, tracking this metric can reveal hidden indoor air balance trends that may be missed by relying solely on relative humidity.",
@@ -14295,7 +14355,7 @@
       "pl": "Wilgotność absolutna określa ilość pary wodnej w gramach na metr sześcienny powietrza (g/m³). W przeciwieństwie do wilgotności względnej pokazuje rzeczywistą zawartość pary wodnej w powietrzu.\\n\\nPomiar wilgotności absolutnej jest ważny w miejscach, gdzie temperatura znacznie się waha i kontrola wilgoci jest kluczowa. Dokładne pomiary są istotne w przemyśle i magazynowaniu – pomagają zapobiegać zepsuciu lub uszkodzeniom. W domu zrozumienie rzeczywistego obciążenia wilgocią pozwala zdecydować, kiedy potrzebny jest nawilżacz, osuszacz lub lepsza wentylacja.\\n\\nWilgotność absolutna jest najbardziej użyteczna, gdy obserwuje się ją w czasie lub w połączeniu z temperaturą i wilgotnością względną. Pomaga wykrywać sytuacje, gdy powietrze wydaje się suche mimo umiarkowanej wilgotności względnej – lub odwrotnie.\\n\\nPonieważ problemy z komfortem i jakością powietrza często wiążą się bardziej z rzeczywistą ilością wody w powietrzu niż z wartościami procentowymi, monitorowanie tego wskaźnika może ujawnić ukryte trendy w równowadze powietrza w pomieszczeniu, które nie byłyby widoczne przy samej analizie wilgotności względnej."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "description_text_humidity_dewpoint",
       "ident_android": "description_text_humidity_dewpoint",
       "ident_webui": "",
       "en": "The dew point is the temperature at which water vapor condenses (dew forms), and it is measured in °C, °F, or K.\\n\\nDew point temperature directly indicates the risk of condensation and significantly affects indoor comfort. A higher dew point means more moisture in the air, often leading to a humid or stuffy indoor environment. A low dew point indicates drier air.\\n\\nCondensation on surfaces occurs when air cools to its dew point. This is a major concern for preventing mold growth, corrosion, and water damage in both residential and commercial spaces. If the temperature of a window or wall drops to or below the dew point, moisture condenses on the surface and may cause damage over time.\\n\\nDew point values change more slowly than relative humidity, making them a reliable indicator for identifying ventilation issues or sources of excess indoor moisture.\\n\\nBy monitoring the dew point together with absolute and relative humidity, you gain a more complete picture of humidity dynamics in real time. This helps protect your home's structure, furnishings, and electronics while improving indoor air quality.",
@@ -14367,7 +14427,7 @@
       "pl": "Siła sygnału (RSSI) wskazuje jakość połączenia Bluetooth. Im silniejszy sygnał (bliżej 0 dBm), tym bardziej niezawodnie dane z czujnika są aktualizowane na urządzeniu odbierającym. Jeśli sygnał jest słaby, połączenie może przerywać lub całkowicie się rozłączyć, a dane pomiarowe mogą przestać się aktualizować.\\n\\nNa jakość połączenia wpływa m.in. odległość między czujnikiem a urządzeniem odbierającym, ściany i inne przeszkody oraz zakłócenia powodowane przez elektronikę domową.\\n\\nŚledzenie siły sygnału pomaga umieścić czujnik w odpowiednim miejscu. Jeśli sygnał jest słaby, możesz poprawić połączenie, przesuwając czujnik tak, aby miał jak najbardziej bezpośrednią widoczność na urządzenie odbierające. Dzięki temu dane pomiarowe będą wyświetlane w aplikacji w sposób niezawodny.\\n\\nOptymalny wynik: -60 – 0\\nZakres pomiarowy czujnika: -100 – 0"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "initial_description_text_air_quality",
       "ident_android": "initial_description_text_air_quality",
       "ident_webui": "",
       "en": "Air quality index is based on two factors: particulate matter (PM2.5) floating in the air, and carbon dioxide (CO₂) that accumulates when people spend time indoors",
@@ -14391,7 +14451,7 @@
       "pl": "Jakość powietrza jest pokazywana za pomocą jednej liczby podobnej do indeksu, która informuje, czy powietrze w pomieszczeniu jest dobre czy złe. Wynik opiera się na dwóch czynnikach: cząstkach stałych (PM2.5) unoszących się w powietrzu oraz dwutlenku węgla (CO₂), który gromadzi się, gdy ludzie przebywają w pomieszczeniach.\\n\\nOcena jakości powietrza uwzględnia oba czynniki, ale jeśli któryś z nich wzrośnie zbyt mocno, ogólna wartość spada. Na przykład podczas gotowania poziom cząstek może wzrosnąć, a wynik spadnie, nawet jeśli dwutlenek węgla jest nadal na dobrym poziomie.\\n\\nIm wyższy wynik, tym zdrowsze powietrze do oddychania. Dobre powietrze w pomieszczeniach wspiera czujność, koncentrację i jakość snu. Jeśli wartość spadnie poniżej 70, może to być spowodowane sytuacją tymczasową, np. słabą wentylacją lub gotowaniem. Jeśli spadnie poniżej 40, wyraźnie wskazuje to na potrzebę świeżego powietrza lub obecność czynnika pogarszającego jakość powietrza w pomieszczeniu.\\n\\nNajłatwiejszym sposobem poprawy jakości powietrza jest przewietrzenie pomieszczenia poprzez otwarcie okien. Użycie oczyszczacza powietrza może również pomóc utrzymać wynik na dobrym poziomie.\\n\\nOptymalny wynik: 90 – 100\\nSkala: 0 – 100"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_excellent",
       "ident_android": "aqi_advice_excellent",
       "ident_webui": "",
       "en": "Your Air Quality is excellent! Well done, enjoy the fresh air",
@@ -14403,7 +14463,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_good",
       "ident_android": "aqi_advice_good",
       "ident_webui": "",
       "en": "Your Air Quality is good! Well done, enjoy the fresh air.",
@@ -14415,7 +14475,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_co2",
       "ident_android": "aqi_advice_moderate_co2",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because CO2 is high. Consider ventilating the room",
@@ -14427,7 +14487,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_pm25",
       "ident_android": "aqi_advice_moderate_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because PM2.5 is high. Consider ventilating the room, but take in account possible outdoor air pollution",
@@ -14439,7 +14499,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_fair_both",
       "ident_android": "aqi_advice_moderate_both",
       "ident_webui": "",
       "en": "Your Air Quality is moderate, because both CO2 and PM2.5 are high. Consider ventilating the room, but take in account possible outdoor air pollution",
@@ -14451,7 +14511,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_co2",
       "ident_android": "aqi_advice_poor_co2",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because CO2 is high. Ventilate the room for better air",
@@ -14463,7 +14523,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_pm25",
       "ident_android": "aqi_advice_poor_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because PM2.5 is high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14475,7 +14535,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_poor_both",
       "ident_android": "aqi_advice_poor_both",
       "ident_webui": "",
       "en": "Your Air Quality is poor, because both CO2 and PM2.5 are high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14487,7 +14547,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_co2",
       "ident_android": "aqi_advice_verypoor_co2",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because CO2 is high. Ventilate the room for better air",
@@ -14499,7 +14559,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_pm25",
       "ident_android": "aqi_advice_verypoor_pm25",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because PM2.5 is high. Ventilate the room, but take in account possible outdoor air pollution",
@@ -14511,7 +14571,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "aqi_advice_verypoor_both",
       "ident_android": "aqi_advice_verypoor_both",
       "ident_webui": "",
       "en": "Your Air Quality is very poor, because both CO2 and PM2.5 are high. Ventilate the room, but take in account possible outdoor air pollution",
