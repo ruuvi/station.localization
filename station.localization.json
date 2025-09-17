@@ -615,7 +615,7 @@
     {
       "ident_ios": "signal_strength_with_unit",
       "ident_android": "signal_strength_rssi",
-      "ident_webui": "signal_strength",
+      "ident_webui": "signal_strength_rssi",
       "en": "Signal strength (RSSI)",
       "fi": "Signaalin voimakkuus (RSSI)",
       "ru": "Сила сигнала (RSSI)",
