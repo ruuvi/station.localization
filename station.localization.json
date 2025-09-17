@@ -75,7 +75,7 @@
     {
       "ident_ios": "relative_humidity",
       "ident_android": "relative_humidity",
-      "ident_webui": "",
+      "ident_webui": "relative_humidity",
       "en": "Relative humidity",
       "fi": "Suhteellinen kosteus",
       "ru": "Относительная влажность",
@@ -87,7 +87,7 @@
     {
       "ident_ios": "rel_humidity",
       "ident_android": "rel_humidity",
-      "ident_webui": "",
+      "ident_webui": "rel_humidity",
       "en": "Rel. humidity",
       "fi": "Suht. ilmankosteus",
       "ru": "Отн. влажность",
@@ -99,7 +99,7 @@
     {
       "ident_ios": "absolute_humidity",
       "ident_android": "absolute_humidity",
-      "ident_webui": "",
+      "ident_webui": "absolute_humidity",
       "en": "Absolute humidity",
       "fi": "Absoluuttinen kosteus",
       "ru": "Абсолютная влажность",
@@ -111,7 +111,7 @@
     {
       "ident_ios": "abs_humidity",
       "ident_android": "abs_humidity",
-      "ident_webui": "",
+      "ident_webui": "abs_humidity",
       "en": "Abs. humidity",
       "fi": "Absol. ilmankosteus",
       "ru": "Абс. влажность",
@@ -159,7 +159,7 @@
     {
       "ident_ios": "air_pressure",
       "ident_android": "air_pressure",
-      "ident_webui": "",
+      "ident_webui": "air_pressure",
       "en": "Air pressure",
       "fi": "Ilmanpaine",
       "ru": "Атмосферное Давление",
@@ -183,7 +183,7 @@
     {
       "ident_ios": "carbon_dioxide",
       "ident_android": "carbon_dioxide",
-      "ident_webui": "",
+      "ident_webui": "carbon_dioxide",
       "en": "Carbon dioxide",
       "fi": "Hiilidioksidi",
       "ru": "Углекислый газ",
@@ -231,7 +231,7 @@
     {
       "ident_ios": "volatile_organic_compounds",
       "ident_android": "volatile_organic_compounds",
-      "ident_webui": "",
+      "ident_webui": "volatile_organic_compounds",
       "en": "Volatile organic compounds index",
       "fi": "Haihtuvien orgaanisten yhdisteiden indeksi",
       "ru": "Индекс летучих органических соединений",
@@ -239,6 +239,18 @@
       "fr": "Indice des composés organiques volatils",
       "de": "Index flüchtiger organischer Verbindungen",
       "pl": "Indeks lotnych związków organicznych"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "total_volatile_organic_compounds",
+      "en": "Total volatile organic compounds",
+      "fi": "Haihtuvat orgaaniset yhdisteet yhteensä",
+      "ru": "",
+      "sv": "Totalt flyktiga organiska föreningar",
+      "fr": "Composés organiques volatils totaux",
+      "de": "Gesamtflüchtige organische Verbindungen",
+      "pl": "Całkowite lotne związki organiczne"
     },
     {
       "ident_ios": "voc_with_unit",
@@ -267,7 +279,7 @@
     {
       "ident_ios": "nitrogen_oxides",
       "ident_android": "nitrogen_oxides",
-      "ident_webui": "",
+      "ident_webui": "nitrogen_oxides",
       "en": "Nitrogen oxides index",
       "fi": "Typen oksidien indeksi",
       "ru": "Индекс оксидов азота",
@@ -303,7 +315,7 @@
     {
       "ident_ios": "light",
       "ident_android": "light",
-      "ident_webui": "",
+      "ident_webui": "light",
       "en": "Light",
       "fi": "Valoisuus",
       "ru": "Яркость",
@@ -327,7 +339,7 @@
     {
       "ident_ios": "particulate_matter_10",
       "ident_android": "particulate_matter_10",
-      "ident_webui": "",
+      "ident_webui": "particulate_matter_10",
       "en": "Particulate matter 1",
       "fi": "Pienhiukkaset 1",
       "ru": "Твердые частицы 1",
@@ -351,7 +363,7 @@
     {
       "ident_ios": "particulate_matter_25",
       "ident_android": "particulate_matter_25",
-      "ident_webui": "",
+      "ident_webui": "particulate_matter_25",
       "en": "Particulate matter 2.5",
       "fi": "Pienhiukkaset 2.5",
       "ru": "Твердые частицы 2.5",
@@ -375,7 +387,7 @@
     {
       "ident_ios": "particulate_matter_40",
       "ident_android": "particulate_matter_40",
-      "ident_webui": "",
+      "ident_webui": "particulate_matter_40",
       "en": "Particulate matter 4",
       "fi": "Pienhiukkaset 4",
       "ru": "Твердые частицы 4",
@@ -399,7 +411,7 @@
     {
       "ident_ios": "particulate_matter_100",
       "ident_android": "particulate_matter_100",
-      "ident_webui": "",
+      "ident_webui": "particulate_matter_100",
       "en": "Particulate matter 10",
       "fi": "Pienhiukkaset 10",
       "ru": "Твердые частицы 10",
@@ -507,7 +519,7 @@
     {
       "ident_ios": "battery",
       "ident_android": "battery",
-      "ident_webui": "",
+      "ident_webui": "battery",
       "en": "Battery",
       "fi": "Paristo",
       "ru": "Батарея",
@@ -555,7 +567,7 @@
     {
       "ident_ios": "acc_x",
       "ident_android": "acc_x",
-      "ident_webui": "",
+      "ident_webui": "acc_x",
       "en": "Acc. X",
       "fi": "Kiiht. X",
       "ru": "Уск. X",
@@ -567,7 +579,7 @@
     {
       "ident_ios": "acc_y",
       "ident_android": "acc_y",
-      "ident_webui": "",
+      "ident_webui": "acc_y",
       "en": "Acc. Y",
       "fi": "Kiiht. Y",
       "ru": "Уск. Y",
@@ -579,7 +591,7 @@
     {
       "ident_ios": "acc_z",
       "ident_android": "acc_z",
-      "ident_webui": "",
+      "ident_webui": "acc_z",
       "en": "Acc. Z",
       "fi": "Kiiht. Z",
       "ru": "Уск. Z",
@@ -591,7 +603,7 @@
     {
       "ident_ios": "signal_strength",
       "ident_android": "signal_strength",
-      "ident_webui": "",
+      "ident_webui": "signal_strength",
       "en": "Signal strength",
       "fi": "Signaalin voimakkuus",
       "ru": "Сила сигнала",
@@ -639,7 +651,7 @@
     {
       "ident_ios": "meas_seq_number",
       "ident_android": "meas_seq_number",
-      "ident_webui": "",
+      "ident_webui": "meas_seq_number",
       "en": "Meas. seq. number",
       "fi": "Mittausjnro",
       "ru": "№ изм.",
