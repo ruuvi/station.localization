@@ -218,7 +218,7 @@
     },
     {
       "ident_ios": "voc",
-      "ident_android": "voc",
+      "ident_android": "voc_index",
       "ident_webui": "voc",
       "en": "VOC index",
       "fi": "VOC-indeksi",
@@ -254,7 +254,7 @@
     },
     {
       "ident_ios": "nox",
-      "ident_android": "nox",
+      "ident_android": "nox_index",
       "ident_webui": "nox",
       "en": "NOx index",
       "fi": "NOx-indeksi",
