@@ -13972,7 +13972,7 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "export_csv_header_formatE0",
+      "ident_android": "export_csv_header_format_air",
       "ident_webui": "",
       "en": "Date,AQI,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance(lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V),Movement counter (movements),Measurement sequence number,TX power (dBm)",
       "fi": "Päivämäärä,AQI,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),Lähetysteho,Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V),Liikelaskuri (liikettä),Mittausjärjestysnumero,Lähetysteho (dBm)",
