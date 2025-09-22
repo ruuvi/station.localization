@@ -13972,15 +13972,15 @@
     },
     {
       "ident_ios": "",
-      "ident_android": "export_csv_header_formatE0",
+      "ident_android": "export_csv_header_format_air",
       "ident_webui": "",
-      "en": "Date,AQI,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance(lx),dB Avg(dBA),dB peak(dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Voltage (V),Movement counter (movements),Measurement sequence number,TX power (dBm)",
-      "fi": "Päivämäärä,AQI,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),Ääni keskiarvo(dBA),Ääni huippu (dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),Lähetysteho,Kiihtyvyys X (g),Kiihtyvyys Y (g),Kiihtyvyys Z (g),Jännite (V),Liikelaskuri (liikettä),Mittausjärjestysnumero,Lähetysteho (dBm)",
-      "ru": "Дата,AQI,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Освещённость (lx),Средний звук (dBA),Пиковый звук (dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Ускорение X (g),Ускорение Y (g),Ускорение Z (g),Напряжение (V),Счётчик движений,Порядковый номер измерения,Мощность передачи (dBm)",
-      "sv": "Datum,AQI,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Illuminans (lx),Ljud medel(dBA),Ljud topp(dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Acceleration X (g),Acceleration Y (g),Acceleration Z (g),Spänning (V),Räknare rörelser,Mätningssekvensnummer,Sändningseffekt (dBm)",
-      "fr": "Date,AQI,Température (%1$s),Humidité (%2$s),Pression (%3$s),Éclairement (lx),Son moyen(dBA),Son pic(dBA),CO2(ppm),COV,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Accélération X (g),Accélération Y (g),Accélération Z (g),Tension (V),Compteur de mouvements,Numéro de mesure,Puissance TX (dBm)",
-      "de": "Datum,AQI,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),Beleuchtungsstärke (lx),Schall Mittelwert(dBA),Schall Spitze(dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Beschleunigung X (g),Beschleunigung Y (g),Beschleunigung Z (g),Spannung (V),Bewegungszähler,Messfolgenummer,Sendeleistung (dBm)",
-      "pl": "Data,AQI,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),Natężenie światła (lx),Dźwięk średni(dBA),Dźwięk szczytowy(dBA),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Przyspieszenie X (g),Przyspieszenie Y (g),Przyspieszenie Z (g),Napięcie (V),Licznik ruchów,Numer sekwencji pomiarowej,Moc TX (dBm)"
+      "en": "Date,AQI,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance(lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Measurement sequence number",
+      "fi": "Päivämäärä,AQI,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),Lähetysteho,Mittausjärjestysnumero",
+      "ru": "Дата,AQI,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Освещённость (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Порядковый номер измерения",
+      "sv": "Datum,AQI,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Illuminans (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Mätningssekvensnummer",
+      "fr": "Date,AQI,Température (%1$s),Humidité (%2$s),Pression (%3$s),Éclairement (lx),CO2(ppm),COV,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Numéro de mesure",
+      "de": "Datum,AQI,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),Beleuchtungsstärke (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Messfolgenummer",
+      "pl": "Data,AQI,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),Natężenie światła (lx),CO2(ppm),VOC,NOX,PM1(µg/m³),PM2.5(µg/m³),PM4(µg/m³),PM10(µg/m³),RSSI (dBm),Numer sekwencji pomiarowej"
     },
     {
       "ident_ios": "",
