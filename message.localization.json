@@ -15,7 +15,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Temperatur unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_temperature_resolved": {
-      "en": "{{name}}\n\nTemperature resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nTemperature alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nLämpöhälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nTemperaturvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de température résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -36,7 +36,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Druck unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pressure_resolved": {
-      "en": "{{name}}\n\nPressure resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nPressure alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nPainehälytys ratkaistu\n\n Nykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nTryckvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de pression résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -57,7 +57,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Feuchtigkeit unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_humidity_resolved": {
-      "en": "{{name}}\n\nHumidity resolved\n\n Current reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nHumidity alert resolved\n\n Current reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nKosteushälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nFuktvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte d'humidité résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -78,7 +78,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_signal_resolved": {
-      "en": "{{name}}\n\nSignal resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nSignal alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nSignal-hälytys ratkaistu\n\n Nykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nSignal-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte signal résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -106,25 +106,25 @@
       "de": "{{name}}\n\nCloud-Verbindung wiederhergestellt\n\nDer Sensor ist wieder online."
     },
     "alert_aqi_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Air quality above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Ilmanlaatu yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luftkvalitet över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Qualité de l'air au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luftqualität über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_aqi_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}AQI unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Air quality below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Ilmanlaatu alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luftkvalitet under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Qualité de l'air en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Luftqualität unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_aqi_resolved": {
-      "en": "{{name}}\n\nAQI resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nAQI-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nAQI-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de AQI résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nAQI-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nAir quality alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nIlmanlaatuhälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nLuftkvalitetvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte sur la qualité de l’air résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nLuftqualitätWarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_co2_over": {
       "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}CO2 level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
@@ -141,7 +141,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}CO2-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_co2_resolved": {
-      "en": "{{name}}\n\nCO2 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nCO2 alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nCO2-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nCO2-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de CO2 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -162,7 +162,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Schallpegel unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_sound_resolved": {
-      "en": "{{name}}\n\nSound level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nSound level alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nÄänitasohälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nLjudvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte sonore résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -183,7 +183,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM1-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm10_resolved": {
-      "en": "{{name}}\n\nPM1 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nPM1 alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nPM1-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nPM1-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte PM1 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -204,7 +204,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM2.5-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm25_resolved": {
-      "en": "{{name}}\n\nPM2.5 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nPM2.5 alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nPM2.5-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nPM2.5-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte PM2.5 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -225,7 +225,7 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM4-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm40_resolved": {
-      "en": "{{name}}\n\nPM4 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nPM4 alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nPM4-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nPM4-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte PM4 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
@@ -246,74 +246,74 @@
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}PM10-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_pm100_resolved": {
-      "en": "{{name}}\n\nPM10 level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\nPM10 alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\nPM10-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
       "sv": "{{name}}\n\nPM10-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte PM10 résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\nPM10-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_voc_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau de COV au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC index level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-indeksin taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-indexnivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’indice COV au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-Indexstufe über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_voc_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau de COV en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC index level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-indeksin taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-indexnivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’indice COV en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}VOC-Indexstufe unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_voc_resolved": {
-      "en": "{{name}}\n\nVOC level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nVOC-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nVOC-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de COV résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nVOC-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nVOC index alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nVOC-indeksin hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nVOC-indexnivåvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de niveau d’indice COV résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nVOC-Indexstufenwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_nox_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-nivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau NOx au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-Wert über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx index level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-indeksin taso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-indexnivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’indice NOx au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-Indexstufe über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_nox_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-nivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau NOx en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-Wert unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx index level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-indeksin taso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-indexnivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’indice NOx en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}NOx-Indexstufe unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_nox_resolved": {
-      "en": "{{name}}\n\nNOx level resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nNOx-hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nNOx-varning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte NOx résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nNOx-Warnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nNOx index alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nNOx-indeksin hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nNOx-indexnivåvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de niveau d’indice NOx résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nNOx-Indexstufenwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_over": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminance above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistusvoimakkuus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminans över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Éclairement au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Light level above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistustaso yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Belysningsnivå över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’éclairement au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Beleuchtungsstärke über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_under": {
-      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminance below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistusvoimakkuus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Illuminans under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Éclairement en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Light level below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Valaistustaso alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Belysningsnivå under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Niveau d’éclairement en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Beleuchtungsstärke unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
     "alert_luminosity_resolved": {
-      "en": "{{name}}\n\nIlluminance resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
-      "fi": "{{name}}\n\nValaistusvoimakkuushälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
-      "sv": "{{name}}\n\nIlluminansvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
-      "fr": "{{name}}\n\nAlerte de éclairement résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
-      "de": "{{name}}\n\nBeleuchtungsstärkewarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+      "en": "{{name}}\n\nLight level alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nValaistustasohälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nBelysningsnivåvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de niveau d’éclairement résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\neleuchtungsstärkewarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     }
   }
 }
