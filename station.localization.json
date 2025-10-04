@@ -7563,18 +7563,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "DfuFlash.FinishGuide.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Firmware update process has been completed successfully.\n\n\n\nYour Ruuvi sensor is ready for use!",
-      "fi": "Laiteohjelmiston päivitys onnistui.\n\n\n\nRuuvi-anturisi on valmis käyttöön!",
-      "ru": "Обновление прошивки завершилось успешно\n\n\n\nВаш Ruuvi готов к использованию!",
-      "sv": "Uppdateringsprocessen har slutförts.\n\n\n\nRuuvi-sensorn är redo att användas!",
-      "fr": "Mise à jour réussie.\n\n\n\nRuuviTag est prêt à être utilisé !",
-      "de": "Der Firmware-Update-Prozess wurde erfolgreich abgeschlossen.\n\n\n\nIhr Ruuvi-Sensor ist einsatzbereit!",
-      "pl": ""
-    },
-    {
       "ident_ios": "DfuFlash.CancelAlert.text",
       "ident_android": "",
       "ident_webui": "",
@@ -7827,7 +7815,7 @@
       "pl": "Nie wyłączaj aplikacji ani czujnika podczas aktualizacji."
     },
     {
-      "ident_ios": "DFUUIView.successfulTitle",
+      "ident_ios": "",
       "ident_android": "update_successful",
       "ident_webui": "",
       "en": "Update successful",
@@ -7839,7 +7827,7 @@
       "pl": "Zaktualizowano pomyślnie"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "update_successful_tag",
       "ident_android": "update_successful_tag",
       "ident_webui": "",
       "en": "Your RuuviTag firmware was updated successfully.",
@@ -7851,7 +7839,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "update_successful_air",
       "ident_android": "update_successful_air",
       "ident_webui": "",
       "en": "Your Ruuvi Air firmware was uploaded successfully, wait few moments for the Ruuvi Air to restart and finish the update.",
