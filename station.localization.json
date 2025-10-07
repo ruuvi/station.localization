@@ -13962,13 +13962,13 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format_air",
       "ident_webui": "",
-      "en": "Date,Air quality,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance (lx),CO2 (ppm),VOC index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Measurement sequence number",
-      "fi": "Päivämäärä,Ilmanlaatu,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),CO2 (ppm),VOC-indeksi,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),Lähetysteho (dBm),Mittausjärjestysnumero",
-      "ru": "Дата,Качество воздуха,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Освещённость (lx),CO2 (ppm),Индекс ЛОС,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Порядковый номер измерения",
-      "sv": "Datum,Luftkvalitet,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Illuminans (lx),CO2 (ppm),VOC-index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Mätningssekvensnummer",
-      "fr": "Date,Qualité de l'air,Température (%1$s),Humidité (%2$s),Pression (%3$s),Éclairement (lx),CO2 (ppm),Indice COV,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numéro de mesure",
-      "de": "Datum,Luftqualität,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),Beleuchtungsstärke (lx),CO2 (ppm),VOC-Index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Messfolgenummer",
-      "pl": "Data,Jakość powietrza,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),Natężenie światła (lx),CO2 (ppm),Indeks LZO,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numer sekwencji pomiarowej"
+      "en": "Date,Air quality,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance (lx),CO₂ (ppm),VOC index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Measurement sequence number",
+      "fi": "Päivämäärä,Ilmanlaatu,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),CO₂ (ppm),VOC-indeksi,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),Lähetysteho (dBm),Mittausjärjestysnumero",
+      "ru": "Дата,Качество воздуха,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Освещённость (lx),CO₂ (ppm),Индекс ЛОС,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Порядковый номер измерения",
+      "sv": "Datum,Luftkvalitet,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Illuminans (lx),CO₂ (ppm),VOC-index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Mätningssekvensnummer",
+      "fr": "Date,Qualité de l'air,Température (%1$s),Humidité (%2$s),Pression (%3$s),Éclairement (lx),CO₂ (ppm),Indice COV,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numéro de mesure",
+      "de": "Datum,Luftqualität,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),Beleuchtungsstärke (lx),CO₂ (ppm),VOC-Index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Messfolgenummer",
+      "pl": "Data,Jakość powietrza,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),Natężenie światła (lx),CO₂ (ppm),Indeks LZO,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numer sekwencji pomiarowej"
     },
     {
       "ident_ios": "",
