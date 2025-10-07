@@ -1549,16 +1549,28 @@
       "pl": ""
     },
     {
-      "ident_ios": "DiscoverTable.RuuviDevice.prefix",
+      "ident_ios": "ruuvi_tag",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Ruuvi",
-      "fi": "Ruuvi",
-      "ru": "Ruuvi",
-      "sv": "Ruuvi",
-      "fr": "Ruuvi",
-      "de": "Ruuvi",
-      "pl": ""
+      "en": "RuuviTag",
+      "fi": "RuuviTag",
+      "ru": "RuuviTag",
+      "sv": "RuuviTag",
+      "fr": "RuuviTag",
+      "de": "RuuviTag",
+      "pl": "RuuviTag"
+    },
+    {
+      "ident_ios": "ruuvi_air",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Ruuvi Air",
+      "fi": "Ruuvi Air",
+      "ru": "Ruuvi Air",
+      "sv": "Ruuvi Air",
+      "fr": "Ruuvi Air",
+      "de": "Ruuvi Air",
+      "pl": "Ruuvi Air"
     },
     {
       "ident_ios": "ErrorPresenterAlert.Error",
