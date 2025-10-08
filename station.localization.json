@@ -1549,6 +1549,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "DiscoverTable.RuuviDevice.prefix",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Ruuvi",
+      "fi": "Ruuvi",
+      "ru": "Ruuvi",
+      "sv": "Ruuvi",
+      "fr": "Ruuvi",
+      "de": "Ruuvi",
+      "pl": ""
+    },
+    {
       "ident_ios": "ruuvi_tag",
       "ident_android": "",
       "ident_webui": "",
