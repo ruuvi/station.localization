@@ -14451,6 +14451,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "description_text_measurement_sequence_number",
+      "ident_android": "description_text_measurement_sequence_number",
+      "ident_webui": "",
+      "en": "",
+      "fi": "Mittausjärjestysnumero kertoo, monesko mittausnäyte on kyseessä. Tämä on [b]tekninen tieto[/b], mitä ei tavallisessa käytössä tarvitse seurata.\\n\\n[title]Mittauksen tarkoitus[/title]\\n\\nMittausjärjestysnumero auttaa tunnistamaan mahdollisia yhteyskatkoksia tai uudelleenkäynnistyksiä. Tasaisesti kasvava numero kertoo, että mittausten vastaanotto toimii tasaisesti ilman katkoksia. Numeron [b]nollaantuminen[/b] ennen normaalin syklin loppua viittaa yleensä siihen, että laite on [b]käynnistynyt uudelleen[/b]. RuuviTag-anturissa numeron usein tapahtuva nollaantuminen viittaa yleensä pariston loppuunkulumiseen.\\n\\n[title]Vinkkejä ja lisätietoja[/title]\\n\\n[b]Syklin pituus:[/b]\\n\\n• RuuviTag: 0 – 65 534\\n• Ruuvi Air: 0 – 16 777 214",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "description_text_air_quality",
       "ident_android": "description_text_air_quality",
       "ident_webui": "",
