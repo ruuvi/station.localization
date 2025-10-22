@@ -15257,6 +15257,18 @@
       "fr": "Non sélectionné",
       "de": "Nicht ausgewählt",
       "pl": "Nie wybrano"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "tutorial_chart_long_tap",
+      "ident_webui": "",
+      "en": "Long press chart to show detailed info.",
+      "fi": "Paina kaaviota pitkään, jotta näet yksityiskohtaiset tiedot.",
+      "ru": "Нажмите и удерживайте график, чтобы увидеть подробную информацию.",
+      "sv": "Tryck länge på diagrammet för att visa detaljerad information.",
+      "fr": "Maintenez appuyé sur le graphique pour afficher des informations détaillées.",
+      "de": "Drücken Sie lange auf das Diagramm, um detaillierte Informationen anzuzeigen.",
+      "pl": "Przytrzymaj wykres, aby wyświetlić szczegółowe informacje."
     }
   ]
 }
