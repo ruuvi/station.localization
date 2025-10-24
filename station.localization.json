@@ -7831,7 +7831,7 @@
       "ident_android": "dfu_update_do_not_close_app",
       "ident_webui": "",
       "en": "Do not close the app or power off the sensor during the update.",
-      "fi": "Älä sulje sovellusta tai poista paristoa laitteesta päivityksen aikana.",
+      "fi": "Älä sulje sovellusta tai katkaise anturin virransyöttöä päivityksen aikana.",
       "ru": "Не закрывайте приложение и не отключайте сенсор во время обновления.",
       "sv": "Stäng inte appen eller stäng av sensorn under uppdateringen.",
       "fr": "Ne pas fermer l'application ou enlever la pile du capteur pendant la mise à jour.",
