@@ -13986,13 +13986,13 @@
       "ident_ios": "",
       "ident_android": "export_csv_header_format_air",
       "ident_webui": "",
-      "en": "Date,Air quality,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),Illuminance (lx),CO₂ (ppm),VOC index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Measurement sequence number",
-      "fi": "Päivämäärä,Ilmanlaatu,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),Valoisuus (lx),CO₂ (ppm),VOC-indeksi,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),Lähetysteho (dBm),Mittausjärjestysnumero",
-      "ru": "Дата,Качество воздуха,Температура (%1$s),Влажность (%2$s),Давление (%3$s),Освещённость (lx),CO₂ (ppm),Индекс ЛОС,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Порядковый номер измерения",
-      "sv": "Datum,Luftkvalitet,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),Illuminans (lx),CO₂ (ppm),VOC-index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Mätningssekvensnummer",
-      "fr": "Date,Qualité de l'air,Température (%1$s),Humidité (%2$s),Pression (%3$s),Éclairement (lx),CO₂ (ppm),Indice COV,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numéro de mesure",
-      "de": "Datum,Luftqualität,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),Beleuchtungsstärke (lx),CO₂ (ppm),VOC-Index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Messfolgenummer",
-      "pl": "Data,Jakość powietrza,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),Natężenie światła (lx),CO₂ (ppm),Indeks LZO,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numer sekwencji pomiarowej"
+      "en": "Date,Air quality,Temperature (%1$s),Humidity (%2$s),Pressure (%3$s),CO₂ (ppm),VOC index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Measurement sequence number",
+      "fi": "Päivämäärä,Ilmanlaatu,Lämpötila (%1$s),Ilmankosteus (%2$s),Ilmanpaine (%3$s),CO₂ (ppm),VOC-indeksi,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),Lähetysteho (dBm),Mittausjärjestysnumero",
+      "ru": "Дата,Качество воздуха,Температура (%1$s),Влажность (%2$s),Давление (%3$s),CO₂ (ppm),Индекс ЛОС,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Порядковый номер измерения",
+      "sv": "Datum,Luftkvalitet,Temperatur (%1$s),Luftfuktighet (%2$s),Lufttryck (%3$s),CO₂ (ppm),VOC-index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Mätningssekvensnummer",
+      "fr": "Date,Qualité de l'air,Température (%1$s),Humidité (%2$s),Pression (%3$s),CO₂ (ppm),Indice COV,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numéro de mesure",
+      "de": "Datum,Luftqualität,Temperatur (%1$s),Luftfeuchtigkeit (%2$s),Luftdruck (%3$s),CO₂ (ppm),VOC-Index,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Messfolgenummer",
+      "pl": "Data,Jakość powietrza,Temperatura (%1$s),Wilgotność (%2$s),Ciśnienie (%3$s),CO₂ (ppm),Indeks LZO,NOX,PM1 (µg/m³),PM2.5 (µg/m³),PM4 (µg/m³),PM10 (µg/m³),RSSI (dBm),Numer sekwencji pomiarowej"
     },
     {
       "ident_ios": "",
@@ -15281,6 +15281,42 @@
       "fr": "Appuyez longuement sur le graphique pour afficher un curseur avec les détails des mesures.",
       "de": "Drücken Sie lange auf das Diagramm, um einen Cursor mit Messdetails anzuzeigen.",
       "pl": "Przytrzymaj wykres, aby wyświetlić kursor ze szczegółami pomiaru."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "warning",
+      "ident_webui": "",
+      "en": "Warning",
+      "fi": "Varoitus",
+      "ru": "Предупреждение",
+      "sv": "Varning",
+      "fr": "Avertissement",
+      "de": "Warnung",
+      "pl": "Ostrzeżenie"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "visible_measurements_last_element_message",
+      "ident_webui": "",
+      "en": "Can't delete the last visible measurement. At least one measurement must remain.",
+      "fi": "Viimeistä näkyvää mittausta ei voi poistaa. Vähintään yhden mittauksen on jäätävä.",
+      "ru": "Нельзя удалить последнее видимое измерение. Должно оставаться как минимум одно измерение.",
+      "sv": "Det går inte att ta bort den sista synliga mätningen. Minst en mätning måste finnas kvar.",
+      "fr": "Impossible de supprimer la dernière mesure visible. Au moins une mesure doit rester.",
+      "de": "Die letzte sichtbare Messung kann nicht gelöscht werden. Mindestens eine Messung muss verbleiben.",
+      "pl": "Nie można usunąć ostatniego widocznego pomiaru. Co najmniej jeden pomiar musi pozostać."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "visible_measurements_active_alert_confirmation",
+      "ident_webui": "",
+      "en": "You are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
+      "fi": "Olet piilottamassa {%@^%1$s} näkyvistä mittauksista. Tämä myös poistaa käytöstä tällä hetkellä aktiivisen hälytyksen ja piilottaa tämän mittauksen hälytysasetukset.",
+      "ru": "Вы скрываете {%@^%1$s} из видимых измерений. Это также отключит текущее активное оповещение и скроет настройки оповещения для этого измерения.",
+      "sv": "Du döljer {%@^%1$s} från de synliga mätningarna. Detta inaktiverar också den aktuellt aktiva varningen och döljer varningsinställningarna för denna mätning.",
+      "fr": "Vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également l’alerte actuellement active et masquera les paramètres d’alerte pour cette mesure.",
+      "de": "Sie blenden {%@^%1$s} aus den sichtbaren Messungen aus. Dadurch wird auch die derzeit aktive Warnung deaktiviert und die Warnungseinstellungen für diese Messung ausgeblendet.",
+      "pl": "Ukrywasz {%@^%1$s} z widocznych pomiarów. Spowoduje to również dezaktywację aktualnie aktywnego alertu i ukryje ustawienia alertu dla tego pomiaru."
     }
   ]
 }
