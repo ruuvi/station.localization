@@ -6963,7 +6963,7 @@
       "pl": "Wyrównanie ciśnienia"
     },
     {
-      "ident_ios": "OffsetCorrection.Calibrate.button",
+      "ident_ios": "offset_correction",
       "ident_android": "offset_correction",
       "ident_webui": "offset_correction",
       "en": "Offset correction",
@@ -6985,18 +6985,6 @@
       "fr": "Synchronisation",
       "de": "Synchronisieren",
       "pl": "Synchronizacja"
-    },
-    {
-      "ident_ios": "TagSettings.SectionHeader.OffsetCorrection.Title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "OFFSET CORRECTION",
-      "fi": "KALIBROINTI",
-      "ru": "КАЛИБРОВКИ",
-      "sv": "KALIBRERING",
-      "fr": "CORRECTION",
-      "de": "OFFSET-KORREKTUR",
-      "pl": ""
     },
     {
       "ident_ios": "PhotoPicker.Sheet.files",
