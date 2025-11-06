@@ -2737,18 +2737,6 @@
       "pl": "Moc nadawania"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.Remove.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Remove",
-      "fi": "Poista",
-      "ru": "удали́ть",
-      "sv": "Ta bort",
-      "fr": "Supprimer",
-      "de": "Löschen",
-      "pl": ""
-    },
-    {
       "ident_ios": "TagSettings.Label.noValues.text",
       "ident_android": "",
       "ident_webui": "",
@@ -2758,18 +2746,6 @@
       "sv": "Inga värden?",
       "fr": "Pas de valeurs ?",
       "de": "Keine werte?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.SectionHeader.Calibration.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Calibration",
-      "fi": "Kalibrointi",
-      "ru": "Калибровка",
-      "sv": "Kalibrering",
-      "fr": "Calibrage",
-      "de": "Kalibrierung",
       "pl": ""
     },
     {
@@ -3001,7 +2977,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.Firmware.title",
+      "ident_ios": "firmware",
       "ident_android": "firmware",
       "ident_webui": "",
       "en": "Firmware",
@@ -4418,7 +4394,7 @@
       "pl": "Minuty"
     },
     {
-      "ident_ios": "TagSettings.Label.moreInfo.text",
+      "ident_ios": "more_info",
       "ident_android": "more_info",
       "ident_webui": "more_info",
       "en": "More info",
