@@ -14151,7 +14151,7 @@
       "pl": "Wyczyść wszystko"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements",
       "ident_android": "visible_measurements",
       "ident_webui": "visible_measurements",
       "en": "Visible measurements",
@@ -14175,7 +14175,19 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements_description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Here, you can choose which measurements you'd like to see and in what order. Switch the \\\"Use default\\\" toggle off to customise the settings.",
+      "fi": "Tällä sivulla voit valita, mitkä mittaukset haluat nähdä ja missä järjestyksessä. Poista \\\"Käytä oletusta\\\" -valinta muokataksesi asetuksia.",
+      "ru": "Здесь вы можете выбрать, какие измерения отображать и в каком порядке. Отключите переключатель «Использовать по умолчанию», чтобы настроить параметры.",
+      "sv": "Här kan du välja vilka mätvärden du vill se och i vilken ordning. Stäng av \\\"Använd standard\\\" för att anpassa inställningarna.",
+      "fr": "Ici, vous pouvez choisir quelles mesures afficher et dans quel ordre. Désactivez l’option « Utiliser par défaut » pour personnaliser les paramètres.",
+      "de": "Hier kannst du auswählen, welche Messwerte du sehen möchtest und in welcher Reihenfolge. Deaktiviere den Schalter „Standard verwenden“, um die Einstellungen anzupassen.",
+      "pl": ""
+    },
+    {
+      "ident_ios": "visible_measurements_use_default",
       "ident_android": "visible_measurements_use_default",
       "ident_webui": "use_default",
       "en": "Use default",
@@ -14187,7 +14199,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "preview",
       "ident_android": "preview",
       "ident_webui": "preview",
       "en": "Preview",
@@ -14199,7 +14211,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "customisation_settings",
       "ident_android": "customisation_settings",
       "ident_webui": "customisation_settings",
       "en": "Customisation settings",
@@ -14211,7 +14223,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "customisation_settings_description",
       "ident_android": "customisation_settings_description",
       "ident_webui": "customisation_settings_description",
       "en": "Drag and drop the measurements into desired ordering.",
@@ -14223,7 +14235,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "show_measurements",
       "ident_android": "show_measurements",
       "ident_webui": "show_measurements",
       "en": "Visible measurements",
@@ -14235,7 +14247,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "hide_measurements",
       "ident_android": "hide_measurements",
       "ident_webui": "hide_measurements",
       "en": "Hidden measurements",
@@ -15247,7 +15259,7 @@
       "pl": "Przytrzymaj wykres, aby wyświetlić kursor ze szczegółami pomiaru."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "warning",
       "ident_android": "warning",
       "ident_webui": "",
       "en": "Warning",
@@ -15259,7 +15271,7 @@
       "pl": "Ostrzeżenie"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements_last_element_message",
       "ident_android": "visible_measurements_last_element_message",
       "ident_webui": "",
       "en": "Can't delete the last visible measurement. At least one measurement must remain.",
@@ -15271,7 +15283,7 @@
       "pl": "Nie można usunąć ostatniego widocznego pomiaru. Co najmniej jeden pomiar musi pozostać."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements_active_alert_confirmation",
       "ident_android": "visible_measurements_active_alert_confirmation",
       "ident_webui": "",
       "en": "You are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
@@ -15283,7 +15295,7 @@
       "pl": "Ukrywasz {%@^%1$s} z widocznych pomiarów. Spowoduje to również dezaktywację aktualnie aktywnego alertu i ukryje ustawienia alertu dla tego pomiaru."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements_change_use_default_confirmation",
       "ident_android": "visible_measurements_change_use_default_confirmation",
       "ident_webui": "",
       "en": "By switching 'Use default' you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
@@ -15295,7 +15307,7 @@
       "pl": "Po przełączeniu opcji „Use default” ukryjesz {%@^%1$s} z listy widocznych pomiarów. Spowoduje to również dezaktywację aktualnie aktywnego alertu i ukrycie ustawień alertu dla tego pomiaru."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_android": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_webui": "",
       "en": "By switching 'Use default' you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alerts and hide the alert settings for these measurements.",
