@@ -14034,13 +14034,13 @@
       "ident_ios": "",
       "ident_android": "aqi_level_3",
       "ident_webui": "",
-      "en": "Fair",
-      "fi": "Välttävä",
+      "en": "Moderate",
+      "fi": "Kohtalainen",
       "ru": "Удовлетворительно",
-      "sv": "Godtagbar",
-      "fr": "Passable",
-      "de": "Ausreichend",
-      "pl": "Dostateczny"
+      "sv": "Måttlig",
+      "fr": "Moyenne",
+      "de": "Mittelmäßig",
+      "pl": "Umiarkowana"
     },
     {
       "ident_ios": "",
@@ -14094,13 +14094,13 @@
       "ident_ios": "fair",
       "ident_android": "fair",
       "ident_webui": "",
-      "en": "Fair",
-      "fi": "Välttävä",
+      "en": "Moderate",
+      "fi": "Kohtalainen",
       "ru": "Удовлетворительно",
-      "sv": "Godtagbar",
-      "fr": "Passable",
-      "de": "Ausreichend",
-      "pl": "Dostateczny"
+      "sv": "Måttlig",
+      "fr": "Moyenne",
+      "de": "Mittelmäßig",
+      "pl": "Umiarkowana"
     },
     {
       "ident_ios": "good",
