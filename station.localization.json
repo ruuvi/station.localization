@@ -15298,25 +15298,26 @@
       "ident_ios": "visible_measurements_change_use_default_confirmation",
       "ident_android": "visible_measurements_change_use_default_confirmation",
       "ident_webui": "",
-      "en": "By switching 'Use default' you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
-      "fi": "Vaihtamalla asetuksen 'Use default' piilotat kohteen {%@^%1$s} näkyvistä mittauksista. Tämä myös poistaa käytöstä parhaillaan aktiivisen hälytyksen ja piilottaa tämän mittauksen hälytysasetukset.",
-      "ru": "Переключив «Use default», вы скрываете {%@^%1$s} из видимых измерений. Это также деактивирует текущее активное оповещение и скроет настройки оповещений для этого измерения.",
-      "sv": "Genom att slå på ”Use default” döljer du {%@^%1$s} från synliga mätningar. Det här inaktiverar också den för närvarande aktiva varningen och döljer varningsinställningarna för denna mätning.",
-      "fr": "En activant « Use default », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également l’alerte actuellement active et masquera les paramètres d’alerte pour cette mesure.",
-      "de": "Durch das Umschalten von „Use default“ blendest du {%@^%1$s} aus den sichtbaren Messungen aus. Dadurch wird auch der aktuell aktive Alarm deaktiviert und die Alarmeinstellungen für diese Messung werden ausgeblendet.",
-      "pl": "Po przełączeniu opcji „Use default” ukryjesz {%@^%1$s} z listy widocznych pomiarów. Spowoduje to również dezaktywację aktualnie aktywnego alertu i ukrycie ustawień alertu dla tego pomiaru."
+      "en": "By switching 'Use default' off you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
+      "fi": "Kun poistat käytöstä asetuksen 'Käytä oletusta', piilotat mittauksen {%@^%1$s} näkyvistä. Tämä poistaa myös käytöstä aktiivisen hälytyksen ja piilottaa sen asetukset.",
+      "ru": "Отключив параметр «Использовать по умолчанию», вы скрываете измерение {%@^%1$s} из видettävistä mittauksista. Это также отключит активное предупреждение и скроет его настройки.",
+      "sv": "Genom att stänga av ’Använd standard’ döljer du {%@^%1$s} från de synliga mätningarna. Detta inaktiverar också den aktiva varningen och döljer dess inställningar.",
+      "fr": "En désactivant « Utiliser par défaut », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également l’alerte active et masquera ses paramètres.",
+      "de": "Wenn Sie „Standard verwenden“ deaktivieren, wird {%@^%1$s} aus den sichtbaren Messwerten ausgeblendet. Dadurch wird auch der aktuell aktive Alarm deaktiviert und dessen Einstellungen werden ausgeblendet.",
+      "pl": "Wyłączając opcję „Użyj domyślnych”, ukrywasz pomiar {%@^%1$s} z widocznych pomiarów. Spowoduje to także dezaktywację aktywnego alertu i ukrycie jego ustawień."
+    },
     },
     {
       "ident_ios": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_android": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_webui": "",
       "en": "By switching 'Use default' you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alerts and hide the alert settings for these measurements.",
-      "fi": "Vaihtamalla asetuksen 'Use default' piilotat kohteen {%@^%1$s} näkyvistä mittauksista. Tämä myös poistaa käytöstä parhaillaan aktiiviset hälytykset ja piilottaa näiden mittausten hälytysasetukset.",
-      "ru": "Переключив «Use default», вы скрываете {%@^%1$s} из видимых измерений. Это также деактивирует текущие активные оповещения и скроет настройки оповещений для этих измерений.",
-      "sv": "Genom att slå på ”Use default” döljer du {%@^%1$s} från synliga mätningar. Det här inaktiverar också de för närvarande aktiva varningarna och döljer varningsinställningarna för dessa mätningar.",
-      "fr": "En activant « Use default », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également les alertes actuellement actives et masquera les paramètres d’alerte pour ces mesures.",
-      "de": "Durch das Umschalten von „Use default“ blendest du {%@^%1$s} aus den sichtbaren Messungen aus. Dadurch werden auch die aktuell aktiven Alarme deaktiviert und die Alarmeinstellungen für diese Messungen ausgeblendet.",
-      "pl": "Po przełączeniu opcji „Use default” ukryjesz {%@^%1$s} z listy widocznych pomiarów. Spowoduje to również dezaktywację aktualnie aktywnych alertów i ukrycie ustawień alertów dla tych pomiarów."
+      "fi": "Kun vaihdat asetuksen 'Käytä oletusta' pois päältä, piilotat {%@^%1$s} näkyvistä mittauksista. Tämä poistaa myös käytöstä nykyiset aktiiviset hälytykset ja piilottaa näiden mittausten hälytysasetukset.",
+      "ru": "Отключив настройку «Использовать по умолчанию», вы скрываете {%@^%1$s} из видимых измерений. Это также деактивирует текущие активные оповещения и скроет настройки оповещений для этих измерений.",
+      "sv": "När du inaktiverar alternativet 'Använd standard' döljer du {%@^%1$s} från de synliga mätningarna. Detta inaktiverar även aktuella aktiva larm och döljer larminställningarna för dessa mätningar.",
+      "fr": "En désactivant l’option « Utiliser par défaut », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également les alertes actives et masquera les réglages d’alerte pour ces mesures.",
+      "de": "Wenn Sie die Option „Standard verwenden“ deaktivieren, blenden Sie {%@^%1$s} aus den sichtbaren Messungen aus. Dadurch werden auch die aktuell aktiven Warnungen deaktiviert und die Warnungseinstellungen für diese Messungen ausgeblendet.",
+      "pl": "Wyłączając opcję „Użyj domyślnych”, ukrywasz {%@^%1$s} z widocznych pomiarów. Spowoduje to również dezaktywację aktualnych aktywnych alertów oraz ukrycie ustawień alertów dla tych pomiarów."
     }
   ]
 }
