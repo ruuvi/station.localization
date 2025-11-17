@@ -15298,25 +15298,26 @@
       "ident_ios": "visible_measurements_change_use_default_confirmation",
       "ident_android": "visible_measurements_change_use_default_confirmation",
       "ident_webui": "",
-      "en": "By switching 'Use default' off you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
-      "fi": "Kun poistat käytöstä asetuksen 'Käytä oletusta', piilotat mittauksen {%@^%1$s} näkyvistä. Tämä poistaa myös käytöstä aktiivisen hälytyksen ja piilottaa sen asetukset.",
-      "ru": "Отключив параметр «Использовать по умолчанию», вы скрываете измерение {%@^%1$s} из видettävistä mittauksista. Это также отключит активное предупреждение и скроет его настройки.",
-      "sv": "Genom att stänga av ’Använd standard’ döljer du {%@^%1$s} från de synliga mätningarna. Detta inaktiverar också den aktiva varningen och döljer dess inställningar.",
-      "fr": "En désactivant « Utiliser par défaut », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également l’alerte active et masquera ses paramètres.",
-      "de": "Wenn Sie „Standard verwenden“ deaktivieren, wird {%@^%1$s} aus den sichtbaren Messwerten ausgeblendet. Dadurch wird auch der aktuell aktive Alarm deaktiviert und dessen Einstellungen werden ausgeblendet.",
-      "pl": "Wyłączając opcję „Użyj domyślnych”, ukrywasz pomiar {%@^%1$s} z widocznych pomiarów. Spowoduje to także dezaktywację aktywnego alertu i ukrycie jego ustawień."
+      "en": "You have an active alert configured for {%@^%1$s}. If you adjust this setting, it will be deactivated. Would you like to continue?",
+      "fi": "Sinulla on asetettuna hälytys seuraavalle mittaukselle: {%@^%1$s}. Jos muutat tätä asetusta, hälytys poistetaan käytöstä. Haluatko jatkaa?",
+      "ru": "У вас настроено активное оповещение для {%@^%1$s}. Если вы измените этот параметр, оно будет отключено. Продолжить?",
+      "sv": "Du har en aktiv avisering konfigurerad för {%@^%1$s}. Om du ändrar den här inställningen inaktiveras den. Vill du fortsätta?",
+      "fr": "Vous avez une alerte active configurée pour {%@^%1$s}. Si vous modifiez ce paramètre, elle sera désactivée. Voulez-vous continuer ?",
+      "de": "Sie haben eine aktive Benachrichtigung für {%@^%1$s} konfiguriert. Wenn Sie diese Einstellung ändern, wird sie deaktiviert. Möchten Sie fortfahren?",
+      "pl": "Masz aktywne powiadomienie skonfigurowane dla {%@^%1$s}. Jeśli zmienisz to ustawienie, zostanie ono dezaktywowane. Czy chcesz kontynuować?"
     },
+
     {
       "ident_ios": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_android": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_webui": "",
-      "en": "By switching 'Use default' you are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alerts and hide the alert settings for these measurements.",
-      "fi": "Kun vaihdat asetuksen 'Käytä oletusta' pois päältä, piilotat {%@^%1$s} näkyvistä mittauksista. Tämä poistaa myös käytöstä nykyiset aktiiviset hälytykset ja piilottaa näiden mittausten hälytysasetukset.",
-      "ru": "Отключив настройку «Использовать по умолчанию», вы скрываете {%@^%1$s} из видимых измерений. Это также деактивирует текущие активные оповещения и скроет настройки оповещений для этих измерений.",
-      "sv": "När du inaktiverar alternativet 'Använd standard' döljer du {%@^%1$s} från de synliga mätningarna. Detta inaktiverar även aktuella aktiva larm och döljer larminställningarna för dessa mätningar.",
-      "fr": "En désactivant l’option « Utiliser par défaut », vous masquez {%@^%1$s} des mesures visibles. Cela désactivera également les alertes actives et masquera les réglages d’alerte pour ces mesures.",
-      "de": "Wenn Sie die Option „Standard verwenden“ deaktivieren, blenden Sie {%@^%1$s} aus den sichtbaren Messungen aus. Dadurch werden auch die aktuell aktiven Warnungen deaktiviert und die Warnungseinstellungen für diese Messungen ausgeblendet.",
-      "pl": "Wyłączając opcję „Użyj domyślnych”, ukrywasz {%@^%1$s} z widocznych pomiarów. Spowoduje to również dezaktywację aktualnych aktywnych alertów oraz ukrycie ustawień alertów dla tych pomiarów."
+      "en": "You have active alerts configured for {%@^%1$s}. If you adjust this setting, they will be deactivated. Would you like to continue?",
+      "fi": "Sinulla on hälytykset asetettuina seuraaville mittauksille: {%@^%1$s}. Jos muutat tätä asetusta, kaikki hälytykset poistetaan käytöstä. Haluatko jatkaa?",
+      "ru": "У вас настроены активные оповещения для {%@^%1$s}. Если вы измените этот параметр, они будут отключены. Продолжить?",
+      "sv": "Du har aktiva aviseringar konfigurerade för {%@^%1$s}. Om du ändrar den här inställningen inaktiveras de. Vill du fortsätta?",
+      "fr": "Vous avez des alertes actives configurées pour {%@^%1$s}. Si vous modifiez ce paramètre, elles seront désactivées. Voulez-vous continuer ?",
+      "de": "Sie haben aktive Benachrichtigungen für {%@^%1$s} konfiguriert. Wenn Sie diese Einstellung ändern, werden sie deaktiviert. Möchten Sie fortfahren?",
+      "pl": "Masz aktywne powiadomienia skonfigurowane dla {%@^%1$s}. Jeśli zmienisz to ustawienie, zostaną one dezaktywowane. Czy chcesz kontynuować?"
     }
   ]
 }
