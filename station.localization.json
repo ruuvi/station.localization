@@ -15306,7 +15306,6 @@
       "de": "Wenn Sie „Standard verwenden“ deaktivieren, wird {%@^%1$s} aus den sichtbaren Messwerten ausgeblendet. Dadurch wird auch der aktuell aktive Alarm deaktiviert und dessen Einstellungen werden ausgeblendet.",
       "pl": "Wyłączając opcję „Użyj domyślnych”, ukrywasz pomiar {%@^%1$s} z widocznych pomiarów. Spowoduje to także dezaktywację aktywnego alertu i ukrycie jego ustawień."
     },
-    },
     {
       "ident_ios": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_android": "visible_measurements_change_use_default_multiple_alerts_confirmation",
