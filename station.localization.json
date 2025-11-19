@@ -653,7 +653,7 @@
       "ident_android": "meas_seq_number",
       "ident_webui": "meas_seq_number",
       "en": "Meas. seq. number",
-      "fi": "Mittausjnro",
+      "fi": "Mittausjärjestysnumero",
       "ru": "№ изм.",
       "sv": "Mätn.seq.nr",
       "fr": "N° séq. mes.",
