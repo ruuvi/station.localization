@@ -15274,13 +15274,13 @@
       "ident_ios": "visible_measurements_last_element_message",
       "ident_android": "visible_measurements_last_element_message",
       "ident_webui": "",
-      "en": "Can't delete the last visible measurement. At least one measurement must remain.",
-      "fi": "Viimeistä näkyvää mittausta ei voi poistaa. Vähintään yhden mittauksen on jäätävä.",
-      "ru": "Нельзя удалить последнее видимое измерение. Должно оставаться как минимум одно измерение.",
-      "sv": "Det går inte att ta bort den sista synliga mätningen. Minst en mätning måste finnas kvar.",
-      "fr": "Impossible de supprimer la dernière mesure visible. Au moins une mesure doit rester.",
-      "de": "Die letzte sichtbare Messung kann nicht gelöscht werden. Mindestens eine Messung muss verbleiben.",
-      "pl": "Nie można usunąć ostatniego widocznego pomiaru. Co najmniej jeden pomiar musi pozostać."
+      "en": "The last visible measurement cannot be removed. Keep at least one measurement in the Visible measurements list.",
+      "fi": "Viimeistä näkyvää mittausta ei voi poistaa. Jätä Näytettävät mittaukset -luetteloon vähintään yksi mittaus.",
+      "ru": "Невозможно удалить последнюю видимую величину. Оставьте как минимум одно измерение в списке видимых измерений.",
+      "sv": "Den sista synliga mätningen kan inte tas bort. Lämna minst en mätning i listan över synliga mätningar.",
+      "fr": "La dernière mesure visible ne peut pas être supprimée. Gardez au moins une mesure dans la liste des mesures visibles.",
+      "de": "Die letzte sichtbare Messung kann nicht entfernt werden. Lassen Sie mindestens eine Messung in der Liste der sichtbaren Messungen.",
+      "pl": "Nie można usunąć ostatniego widocznego pomiaru. Pozostaw co najmniej jeden pomiar na liście widocznych pomiarów."
     },
     {
       "ident_ios": "visible_measurements_active_alert_confirmation",
