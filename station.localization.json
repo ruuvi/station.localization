@@ -4145,13 +4145,13 @@
       "ident_ios": "humidity_relative_unit",
       "ident_android": "humidity_relative_unit",
       "ident_webui": "",
-      "en": "%",
-      "fi": "%",
-      "ru": "%",
-      "sv": "%",
-      "fr": "%",
-      "de": "%",
-      "pl": "%"
+      "en": "{%%^%}",
+      "fi": "{%%^%}",
+      "ru": "{%%^%}",
+      "sv": "{%%^%}",
+      "fr": "{%%^%}",
+      "de": "{%%^%}",
+      "pl": "{%%^%}"
     },
     {
       "ident_ios": "TagSettings.Mac.Alert.title",
