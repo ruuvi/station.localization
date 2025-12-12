@@ -1,35 +1,44 @@
 package com.ruuvi.localizationpreviewandroid
 
+import androidx.annotation.StringRes
 import androidx.compose.foundation.text.BasicText
+import androidx.compose.foundation.text.InlineTextContent
+import androidx.compose.foundation.text.appendInlineContent
+import androidx.compose.material3.LocalTextStyle
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.LinkAnnotation
+import androidx.compose.ui.text.ParagraphStyle
+import androidx.compose.ui.text.Placeholder
+import androidx.compose.ui.text.PlaceholderVerticalAlign
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.TextLinkStyles
+import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextDecoration
+import androidx.compose.ui.text.style.TextIndent
 import androidx.compose.ui.text.withLink
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.sp
 import org.apache.commons.text.StringEscapeUtils
 
+val ruuviStationFontsSizes = RuuviStationFontSizes()
+val ruuviStationFonts = RuuviStationFonts()
+val linkColor = Color(0xFF35AD9F)
+val headerColor = Color.White
+val textColor = Color(0xCCFFFFFF)
 @Composable
 fun MarkupText(rawEscaped: String) {
 
-    val linkColor = Color(0xFF35AD9F)
-    val headerColor = Color.White
-    val textColor = Color(0xCCFFFFFF)
-
-    //val raw = StringEscapeUtils.unescapeHtml4(sanitizeMarkup(rawEscaped))
-
-    val ruuviStationFontsSizes = RuuviStationFontSizes()
-    val ruuviStationFonts = RuuviStationFonts()
-
     val raw = remember(rawEscaped) { sanitizeMarkup(rawEscaped) }
+
+
 
 
     val parsed = remember(raw) {
@@ -55,15 +64,27 @@ fun MarkupText(rawEscaped: String) {
                     textDecoration = TextDecoration.Underline
                 )
             ),
+            paragraphStyles = mapOf(
+                "li" to ParagraphStyle(
+                    textIndent = TextIndent(firstLine = 0.sp, restLine = 20.sp),
+                ),
+                "li2" to ParagraphStyle(
+                    textIndent = TextIndent(firstLine = 20.sp, restLine = 40.sp),
+                ),
+            ),
             defaultStyle = SpanStyle(
                 color = textColor,
                 fontFamily = ruuviStationFonts.mulishRegular,
                 fontSize = ruuviStationFontsSizes.compact
             ),
+
             )
     }
 
-    BasicText(text = parsed)
+    Text(
+        text = parsed.text,
+        inlineContent = parsed.inlineContent
+    )
 }
 
 private fun sanitizeMarkup(source: String): String {
@@ -124,79 +145,158 @@ data class RuuviStationFonts constructor(
 fun parseModernMarkup(
     input: String,
     tagStyles: Map<String, SpanStyle>,
+    paragraphStyles: Map<String, ParagraphStyle> = emptyMap(),
     defaultStyle: SpanStyle? = null
-): AnnotatedString {
+): ParsedMarkup  {
     val builder = AnnotatedString.Builder()
+    val inlineContent = mutableMapOf<String, InlineTextContent>()
+
+    // Provide a single reusable inline "bullet" gutter
+    val bulletId = "bullet"
+    val bulletId2 = "bullet2"
+
+    inlineContent[bulletId] = InlineTextContent(
+        Placeholder(
+            width = 20.sp,
+            height = ruuviStationFontsSizes.compact,
+            placeholderVerticalAlign = PlaceholderVerticalAlign.AboveBaseline
+        )
+    ) {
+        Text(
+            text = "•",
+            style = LocalTextStyle.current.merge(
+                TextStyle(
+                    fontFamily = ruuviStationFonts.mulishBold,
+                    fontWeight = FontWeight.Bold,
+                    fontSize = ruuviStationFontsSizes.compact,
+                    color = defaultStyle?.color ?: textColor
+                )
+            )
+        )
+    }
+
+    inlineContent[bulletId2] = InlineTextContent(
+        Placeholder(
+            width = 20.sp,
+            height = ruuviStationFontsSizes.compact,
+            placeholderVerticalAlign = PlaceholderVerticalAlign.AboveBaseline
+        )
+    ) {
+        Text(
+            text = "◦",
+            style = LocalTextStyle.current.merge(
+                TextStyle(
+                    fontFamily = ruuviStationFonts.mulishBold,
+                    fontWeight = FontWeight.Bold,
+                    fontSize = ruuviStationFontsSizes.compact,
+                    color = defaultStyle?.color ?: textColor
+                )
+            )
+        )
+    }
 
 
     var cursor = 0
-    val tagRegex = Regex("""\[(\w+)(?:\s+url\s*=\s*"([^"]+)")?]""")
+    val tagRegex = Regex("""\[(\w+)(?:\s+url\s*=\s*(?:"([^"]+)"|([^\]\s]+)))?]""")
+
+    fun appendWithDefault(text: String) {
+        if (text.isEmpty()) return
+        if (defaultStyle != null) builder.pushStyle(defaultStyle)
+        builder.append(text)
+        if (defaultStyle != null) builder.pop()
+    }
 
     while (cursor < input.length) {
         val match = tagRegex.find(input, cursor)
         if (match == null) {
-            // Append remaining text
-            val remaining = input.substring(cursor)
-            if (remaining.isNotEmpty()) {
-                defaultStyle?.let { builder.pushStyle(it) }
-                builder.append(remaining)
-                if (defaultStyle != null) builder.pop()
-            }
+            appendWithDefault(input.substring(cursor))
             break
         }
 
         val tagStart = match.range.first
         val tagEnd = match.range.last + 1
         val tag = match.groupValues[1]
-        val url = match.groupValues.getOrNull(2).takeIf { it?.isNotBlank() == true }
+        val url = match.groups[2]?.value?.takeIf { it.isNotBlank() }
+            ?: match.groups[3]?.value?.takeIf { it.isNotBlank() }
 
-        // Append plain text before tag
-        if (tagStart > cursor) {
-            val plain = input.substring(cursor, tagStart)
-            defaultStyle?.let { builder.pushStyle(it) }
-            builder.append(plain)
-            if (defaultStyle != null) builder.pop()
-        }
+        if (tagStart > cursor) appendWithDefault(input.substring(cursor, tagStart))
 
-        // Find corresponding closing tag
         val closingTag = "[/$tag]"
         val closeIndex = input.indexOf(closingTag, tagEnd)
         if (closeIndex == -1) {
-            // Malformed tag: treat as plain text
-            val fallback = input.substring(tagStart, tagEnd)
-            defaultStyle?.let { builder.pushStyle(it) }
-            builder.append(fallback)
-            if (defaultStyle != null) builder.pop()
+            appendWithDefault(input.substring(tagStart, tagEnd))
             cursor = tagEnd
             continue
         }
 
         val content = input.substring(tagEnd, closeIndex)
-        val style = tagStyles[tag]
+        val spanStyle = tagStyles[tag]
 
         when {
             tag == "link" && url != null -> {
-                builder.withLink(
-                    LinkAnnotation.Url(url, TextLinkStyles(style = style ?: SpanStyle())),
-                ) {
+                builder.withLink(LinkAnnotation.Url(url, TextLinkStyles(style = spanStyle ?: SpanStyle()))) {
                     append(content)
                 }
             }
-            style != null -> {
-                builder.pushStyle(style)
+
+            tag == "li" -> {
+                val paraStart = builder.length
+
+                builder.appendInlineContent(bulletId, "[•]")
+
+                val inner = parseModernMarkup(
+                    input = content,
+                    tagStyles = tagStyles,
+                    paragraphStyles = paragraphStyles,
+                    defaultStyle = defaultStyle
+                )
+
+                builder.append(inner.text)
+                inlineContent.putAll(inner.inlineContent)
+
+                val paraEnd = builder.length
+                paragraphStyles["li"]?.let { ps ->
+                    builder.addStyle(ps, paraStart, paraEnd)
+                }
+            }
+
+            tag == "li2" -> {
+                val paraStart = builder.length
+
+                builder.appendInlineContent(bulletId2, "[◦]")
+
+                val inner = parseModernMarkup(
+                    input = content,
+                    tagStyles = tagStyles,
+                    paragraphStyles = paragraphStyles,
+                    defaultStyle = defaultStyle
+                )
+
+                builder.append(inner.text)
+                inlineContent.putAll(inner.inlineContent)
+
+                val paraEnd = builder.length
+                paragraphStyles["li2"]?.let { ps ->
+                    builder.addStyle(ps, paraStart, paraEnd)
+                }
+            }
+
+            spanStyle != null -> {
+                builder.pushStyle(spanStyle)
                 builder.append(content)
                 builder.pop()
             }
-            else -> {
-                // Unknown tag, fallback to default style
-                defaultStyle?.let { builder.pushStyle(it) }
-                builder.append(content)
-                if (defaultStyle != null) builder.pop()
-            }
+
+            else -> appendWithDefault(content)
         }
 
         cursor = closeIndex + closingTag.length
     }
 
-    return builder.toAnnotatedString()
+    return ParsedMarkup(builder.toAnnotatedString(), inlineContent)
 }
+
+data class ParsedMarkup(
+    val text: AnnotatedString,
+    val inlineContent: Map<String, InlineTextContent> = emptyMap()
+)
