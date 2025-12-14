@@ -14319,18 +14319,6 @@
       "pl": "Błąd sieci"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
-      "ident_webui": "hide_sensor_type_alert_warning",
-      "en": "Hiding will disable an alert. Do you want to continue?",
-      "fi": "Piilottaminen poistaa hälytyksen käytöstä. Haluatko jatkaa?",
-      "ru": "",
-      "sv": "Att dölja kommer att inaktivera ett alarm. Vill du fortsätta?",
-      "fr": "Cacher désactivera une alerte. Voulez-vous continuer ?",
-      "de": "Das Ausblenden deaktiviert eine Warnung. Möchtest du fortfahren?",
-      "pl": "Ukrycie spowoduje wyłączenie alertu. Czy chcesz kontynuować?"
-    },
-    {
       "ident_ios": "description_text_temperature_celsius",
       "ident_android": "description_text_temperature_celsius",
       "ident_webui": "description_text_temperature_celsius",
@@ -15321,7 +15309,7 @@
     {
       "ident_ios": "visible_measurements_last_element_message",
       "ident_android": "visible_measurements_last_element_message",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements_last_element_message",
       "en": "The last visible measurement cannot be removed. Keep at least one measurement in the Visible measurements list.",
       "fi": "Viimeistä näkyvää mittausta ei voi poistaa. Jätä Näytettävät mittaukset -luetteloon vähintään yksi mittaus.",
       "ru": "Невозможно удалить последнюю видимую величину. Оставьте как минимум одно измерение в списке видимых измерений.",
@@ -15333,7 +15321,7 @@
     {
       "ident_ios": "visible_measurements_active_alert_confirmation",
       "ident_android": "visible_measurements_active_alert_confirmation",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements_active_alert_confirmation",
       "en": "You are hiding {%@^%1$s} from visible measurements. This will also deactivate the currently active alert and hide the alert settings for this measurement.",
       "fi": "Olet piilottamassa {%@^%1$s} näkyvistä mittauksista. Tämä myös poistaa käytöstä tällä hetkellä aktiivisen hälytyksen ja piilottaa tämän mittauksen hälytysasetukset.",
       "ru": "Вы скрываете {%@^%1$s} из видимых измерений. Это также отключит текущее активное оповещение и скроет настройки оповещения для этого измерения.",
@@ -15345,7 +15333,7 @@
     {
       "ident_ios": "visible_measurements_change_use_default_confirmation",
       "ident_android": "visible_measurements_change_use_default_confirmation",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements_change_use_default_confirmation",
       "en": "You have an active alert configured for {%@^%1$s}. If you adjust this setting, it will be deactivated. Would you like to continue?",
       "fi": "Sinulla on asetettuna hälytys seuraavalle mittaukselle: {%@^%1$s}. Jos muutat tätä asetusta, hälytys poistetaan käytöstä. Haluatko jatkaa?",
       "ru": "У вас настроено активное оповещение для {%@^%1$s}. Если вы измените этот параметр, оно будет отключено. Продолжить?",
@@ -15358,7 +15346,7 @@
     {
       "ident_ios": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "ident_android": "visible_measurements_change_use_default_multiple_alerts_confirmation",
-      "ident_webui": "",
+      "ident_webui": "visible_measurements_change_use_default_multiple_alerts_confirmation",
       "en": "You have active alerts configured for {%@^%1$s}. If you adjust this setting, they will be deactivated. Would you like to continue?",
       "fi": "Sinulla on hälytykset asetettuina seuraaville mittauksille: {%@^%1$s}. Jos muutat tätä asetusta, kaikki hälytykset poistetaan käytöstä. Haluatko jatkaa?",
       "ru": "У вас настроены активные оповещения для {%@^%1$s}. Если вы измените этот параметр, они будут отключены. Продолжить?",
