@@ -7830,13 +7830,13 @@
       "ident_ios": "update_successful_air",
       "ident_android": "update_successful_air",
       "ident_webui": "",
-      "en": "Your Ruuvi Air firmware was uploaded successfully.",
+      "en": "Your Ruuvi Air firmware was updated successfully.",
       "fi": "Ruuvi Airin laiteohjelmiston päivitys onnistui.",
-      "ru": "Прошивка Ruuvi Air была успешно загружена.",
-      "sv": "Firmware för Ruuvi Air har laddats upp.",
-      "fr": "Le micrologiciel de Ruuvi Air a été téléchargé avec succès.",
-      "de": "Die Firmware von Ruuvi Air wurde erfolgreich hochgeladen.",
-      "pl": "Oprogramowanie układowe Ruuvi Air zostało pomyślnie przesłane."
+      "ru": "Прошивка Ruuvi Air была успешно обновлена.",
+      "sv": "Firmware för Ruuvi Air har uppdaterats.",
+      "fr": "Le micrologiciel du Ruuvi Air a été mis à jour avec succès.",
+      "de": "Die Firmware des Ruuvi Air wurde erfolgreich aktualisiert.",
+      "pl": "Oprogramowanie układowe Ruuvi Air zostało pomyślnie zaktualizowane."
     },
     {
       "ident_ios": "update_air_reboot_waiting",
