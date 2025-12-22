@@ -10449,6 +10449,7 @@
       "en": "Forced ownership transfer is performed using the Near-Field Communication (NFC) feature. Make sure NFC is enabled on your mobile device.\\n\\n\\t1. Start the forced ownership transfer by tapping the Ruuvi Air sensor with your mobile device.\\n\\n\\t2. You will be redirected back to the sensor settings page once the transfer is successful.\\n\\nIf the forced transfer fails or NFC is not available on your mobile device:\\n\\n\\t1. Turn the Ruuvi Air upside down.\\n\\n\\t2. Locate the pinhole button on the bottom of the device and briefly press the button to initiate the forced transfer.\\n\\n\\t3. You will be redirected back to the sensor settings page once the transfer is successful.",
       "fi": "Omistajuuden pakotettu vaihtaminen tapahtuu Near-Field Communication (NFC) ominaisuutta käyttämällä. Varmista, että NFC on käytössä mobiililaitteessasi.\\n\\n\\t1. Aloita omistajuuden pakotettu vaihto koskettamalla Ruuvi Air -anturia mobiililaitteellasi.\\n\\n\\t2. Sinut siirretään takaisin anturin asetukset-sivulle onnistuneen vaihdon päätteeksi.\\n\\nMikäli pakotettu vaihto epäonnistui tai NFC-ominaisuutta ei ole saatavilla mobiililaitteessasi:\\n\\n\\t1. Käännä Ruuvi Air ylösalaisin.\\n\\n\\t2. Paikanna laitteen pohjassa oleva kolopainike ja paina painiketta lyhyesti pakotetun vaihdon aloittamiseksi.\\n\\n\\t3. Sinut siirretään takaisin anturin asetukset-sivulle onnistuneen vaihdon päätteeksi.",
       "ru": "Принудительная передача права собственности выполняется с помощью функции Near-Field Communication (NFC). Убедитесь, что NFC включён на вашем мобильном устройстве.\\n\\n\\t1. Начните принудительную передачу, коснувшись датчика Ruuvi Air мобильным устройством.\\n\\n\\t2. После успешной передачи вы будете перенаправлены обратно на страницу настроек датчика.\\n\\nЕсли принудительная передача не удалась или функция NFC недоступна на вашем мобильном устройстве:\\n\\n\\t1. Переверните Ruuvi Air вверх дном.\\n\\n\\t2. Найдите отверстие с кнопкой на нижней стороне устройства и кратковременно нажмите кнопку, чтобы начать принудительную передачу.\\n\\n\\t3. После успешной передачи вы будете перенаправлены обратно на страницу настроек датчика.",
+      "sv": "Tvångsregistrering görs med Near-Field Communication (NFC). Kontrollera att NFC är aktiverat på din mobila enhet.\\n\\n\\t1. Håll din mobila enhet mot din Ruuvi Air för att starta registreringsprocessen.\\n\\n\\t2. När registreringen har lyckats förs du tillbaka till sensorinställningarna.\\n\\nOm registreringen misslyckades eller om din enhet saknar NFC:\\n\\n\\t1. Håll Ruuvi Air upp och ner.\\n\\n\\t2. Leta reda på det lilla hålet som markeras med en pil och tryck kort på knappen inuti med hjälp av ett gem för att starta registreringsprocessen.\\n\\n\\t3. När registreringen har lyckats förs du tillbaka till sensorinställningarna.",
       "fr": "Le transfert forcé de propriété s’effectue à l’aide de la fonction Near-Field Communication (NFC). Assurez-vous que la NFC est activée sur votre appareil mobile.\\n\\n\\t1. Démarrez le transfert forcé de propriété en approchant votre appareil mobile du capteur Ruuvi Air.\\n\\n\\t2. Une fois le transfert réussi, vous serez redirigé vers la page des paramètres du capteur.\\n\\nSi le transfert forcé échoue ou si la fonction NFC n’est pas disponible sur votre appareil mobile :\\n\\n\\t1. Retournez le Ruuvi Air.\\n\\n\\t2. Localisez le bouton encastré situé sous l’appareil et appuyez brièvement dessus pour lancer le transfert forcé.\\n\\n\\t3. Une fois le transfert réussi, vous serez redirigé vers la page des paramètres du capteur.",
       "de": "Die erzwungene Übertragung des Besitzes erfolgt mithilfe der Near-Field Communication (NFC)-Funktion. Stellen Sie sicher, dass NFC auf Ihrem Mobilgerät aktiviert ist.\\n\\n\\t1. Starten Sie die erzwungene Besitzübertragung, indem Sie den Ruuvi Air-Sensor mit Ihrem Mobilgerät berühren.\\n\\n\\t2. Nach erfolgreicher Übertragung werden Sie zurück zur Einstellungsseite des Sensors weitergeleitet.\\n\\nFalls die erzwungene Übertragung fehlschlägt oder die NFC-Funktion auf Ihrem Mobilgerät nicht verfügbar ist:\\n\\n\\t1. Drehen Sie den Ruuvi Air um.\\n\\n\\t2. Suchen Sie die versenkte Taste an der Unterseite des Geräts und drücken Sie diese kurz, um die erzwungene Übertragung zu starten.\\n\\n\\t3. Nach erfolgreicher Übertragung werden Sie zurück zur Einstellungsseite des Sensors weitergeleitet.",
       "pl": "Wymuszona zmiana właściciela odbywa się przy użyciu funkcji Near-Field Communication (NFC). Upewnij się, że NFC jest włączone na Twoim urządzeniu mobilnym.\\n\\n\\t1. Rozpocznij wymuszoną zmianę właściciela, dotykając czujnika Ruuvi Air urządzeniem mobilnym.\\n\\n\\t2. Po pomyślnym zakończeniu zmiany zostaniesz przekierowany z powrotem na stronę ustawień czujnika.\\n\\nJeśli wymuszona zmiana się nie powiedzie lub funkcja NFC nie jest dostępna na Twoim urządzeniu mobilnym:\\n\\n\\t1. Odwróć Ruuvi Air do góry nogami.\\n\\n\\t2. Zlokalizuj przycisk w otworze na spodzie urządzenia i krótko go naciśnij, aby rozpocząć wymuszoną zmianę.\\n\\n\\t3. Po pomyślnym zakończeniu zmiany zostaniesz przekierowany z powrotem na stronę ustawień czujnika."
@@ -15348,6 +15349,90 @@
       "fr": "Vous avez des alertes actives configurées pour {%@^%1$s}. Si vous modifiez ce paramètre, elles seront désactivées. Voulez-vous continuer ?",
       "de": "Sie haben aktive Benachrichtigungen für {%@^%1$s} konfiguriert. Wenn Sie diese Einstellung ändern, werden sie deaktiviert. Möchten Sie fortfahren?",
       "pl": "Masz aktywne powiadomienia skonfigurowane dla {%@^%1$s}. Jeśli zmienisz to ustawienie, zostaną one dezaktywowane. Czy chcesz kontynuować?"
+    },
+    {
+      "ident_ios": "led_brightness_control",
+      "ident_android": "led_brightness_control",
+      "ident_webui": "",
+      "en": "LED brightness control",
+      "fi": "LED-kirkkauden säätö",
+      "ru": "Управление яркостью светодиода",
+      "sv": "Kontroll av LED-ljusstyrka",
+      "fr": "Contrôle de la luminosité de la LED",
+      "de": "Steuerung der LED-Helligkeit",
+      "pl": "Sterowanie jasnością diody LED"
+    },
+    {
+      "ident_ios": "led_level_0",
+      "ident_android": "led_level_0",
+      "ident_webui": "",
+      "en": "Off",
+      "fi": "Pois",
+      "ru": "Выкл.",
+      "sv": "Av",
+      "fr": "Désactivé",
+      "de": "Aus",
+      "pl": "Wyłączone"
+    },
+    {
+      "ident_ios": "led_level_1",
+      "ident_android": "led_level_1",
+      "ident_webui": "",
+      "en": "Dim",
+      "fi": "Himmeä",
+      "ru": "Тускло",
+      "sv": "Dämpad",
+      "fr": "Faible",
+      "de": "Gedimmt",
+      "pl": "Przyciemnione"
+    },
+    {
+      "ident_ios": "led_level_2",
+      "ident_android": "led_level_2",
+      "ident_webui": "",
+      "en": "Normal",
+      "fi": "Normaali",
+      "ru": "Нормально",
+      "sv": "Normal",
+      "fr": "Normal",
+      "de": "Normal",
+      "pl": "Normalne"
+    },
+    {
+      "ident_ios": "led_level_3",
+      "ident_android": "led_level_3",
+      "ident_webui": "",
+      "en": "Bright",
+      "fi": "Kirkas",
+      "ru": "Ярко",
+      "sv": "Ljusstark",
+      "fr": "Élevée",
+      "de": "Hell",
+      "pl": "Jasne"
+    },
+    {
+      "ident_ios": "led_brightness_fw_update_message",
+      "ident_android": "led_brightness_fw_update_message",
+      "ident_webui": "",
+      "en": "Update firmware version of your Air to use this feature",
+      "fi": "Päivitä Airin laiteohjelmistoversio käyttääksesi tätä ominaisuutta",
+      "ru": "Обновите версию прошивки вашего Air, чтобы использовать эту функцию",
+      "sv": "Uppdatera Air:s firmwareversion för att använda den här funktionen",
+      "fr": "Mettez à jour la version du firmware de votre Air pour utiliser cette fonctionnalité",
+      "de": "Aktualisieren Sie die Firmware-Version Ihres Air, um diese Funktion zu nutzen",
+      "pl": "Zaktualizuj wersję oprogramowania układowego swojego Air, aby korzystać z tej funkcji"
+    },
+    {
+      "ident_ios": "led_brightness_select_message",
+      "ident_android": "led_brightness_select_message",
+      "ident_webui": "",
+      "en": "Select desired LED brightness level. Make sure you in Bluetooth range of your Ruuvi Air",
+      "fi": "Valitse haluamasi LED-kirkkaustaso. Varmista, että olet Ruuvi Airin Bluetooth-kantaman sisällä",
+      "ru": "Выберите желаемый уровень яркости светодиода. Убедитесь, что вы находитесь в зоне действия Bluetooth вашего Ruuvi Air",
+      "sv": "Välj önskad LED-ljusstyrkenivå. Se till att du är inom Bluetooth-räckvidd för din Ruuvi Air",
+      "fr": "Sélectionnez le niveau de luminosité de la LED souhaité. Assurez-vous d’être à portée Bluetooth de votre Ruuvi Air",
+      "de": "Wählen Sie die gewünschte LED-Helligkeitsstufe. Stellen Sie sicher, dass Sie sich in Bluetooth-Reichweite Ihres Ruuvi Air befinden",
+      "pl": "Wybierz żądany poziom jasności diody LED. Upewnij się, że jesteś w zasięgu Bluetooth swojego Ruuvi Air"
     }
   ]
 }
