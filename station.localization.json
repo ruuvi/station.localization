@@ -15423,6 +15423,18 @@
       "pl": "Zaktualizuj wersję oprogramowania układowego swojego Ruuvi Air, aby korzystać z tej funkcji"
     },
     {
+      "ident_ios": "update_now",
+      "ident_android": "update_now",
+      "ident_webui": "",
+      "en": "Update now",
+      "fi": "Päivitä nyt",
+      "ru": "Обновить сейчас",
+      "sv": "Uppdatera nu",
+      "fr": "Mettre à jour maintenant",
+      "de": "Jetzt aktualisieren",
+      "pl": "Aktualizuj teraz"
+    },
+    {
       "ident_ios": "led_brightness_select_message",
       "ident_android": "led_brightness_select_message",
       "ident_webui": "",
