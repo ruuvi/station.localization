@@ -15282,13 +15282,13 @@
       "ident_ios": "",
       "ident_android": "tutorial_chart_long_tap",
       "ident_webui": "",
-      "en": "Long-press on the graph to bring up a cursor with measurement details.",
-      "fi": "Paina kaaviota pitkään saadaksesi esiin kursorin ja mittausten tarkemmat tiedot.",
-      "ru": "Нажмите и удерживайте график, чтобы отобразить курсор с подробными данными измерений.",
-      "sv": "Tryck länge på diagrammet för att visa en markör med mätinformation.",
-      "fr": "Appuyez longuement sur le graphique pour afficher un curseur avec les détails des mesures.",
-      "de": "Drücken Sie lange auf das Diagramm, um einen Cursor mit Messdetails anzuzeigen.",
-      "pl": "Przytrzymaj wykres, aby wyświetlić kursor ze szczegółami pomiaru."
+      "en": "Long press on the graph to view additional information about the selected data point.",
+      "fi": "Paina kaaviota pitkään valitun tietopisteen lisätietojen näyttämiseksi.",
+      "ru": "Нажмите и удерживайте график, чтобы просмотреть дополнительную информацию о точке данных.",
+      "sv": "Tryck länge på diagrammet för att visa mer information om datapunkten.",
+      "fr": "Appuyez longuement sur le graphique pour afficher des informations supplémentaires sur le point de données.",
+      "de": "Drücken Sie lange auf das Diagramm, um zusätzliche Informationen zum Datenpunkt anzuzeigen.",
+      "pl": "Przytrzymaj wykres, aby wyświetlić dodatkowe informacje o punkcie danych."
     },
     {
       "ident_ios": "warning",
@@ -15414,24 +15414,36 @@
       "ident_ios": "led_brightness_fw_update_message",
       "ident_android": "led_brightness_fw_update_message",
       "ident_webui": "",
-      "en": "Update firmware version of your Ruuvi Air to use this feature",
-      "fi": "Päivitä Ruuvi Airin laiteohjelmistoversio käyttääksesi tätä ominaisuutta",
-      "ru": "Обновите версию прошивки вашего Ruuvi Air, чтобы использовать эту функцию",
-      "sv": "Uppdatera Ruuvi Air:s firmwareversion för att använda den här funktionen",
-      "fr": "Mettez à jour la version du firmware de votre Ruuvi Air pour utiliser cette fonctionnalité",
-      "de": "Aktualisieren Sie die Firmware-Version Ihres Ruuvi Air, um diese Funktion zu nutzen",
-      "pl": "Zaktualizuj wersję oprogramowania układowego swojego Ruuvi Air, aby korzystać z tej funkcji"
+      "en": "Update firmware version of your Ruuvi Air to use this feature.",
+      "fi": "Päivitä Ruuvi Airin laiteohjelmistoversio käyttääksesi tätä ominaisuutta.",
+      "ru": "Обновите версию прошивки вашего Ruuvi Air, чтобы использовать эту функцию.",
+      "sv": "Uppdatera Ruuvi Air:s firmwareversion för att använda den här funktionen.",
+      "fr": "Mettez à jour la version du firmware de votre Ruuvi Air pour utiliser cette fonctionnalité.",
+      "de": "Aktualisieren Sie die Firmware-Version Ihres Ruuvi Air, um diese Funktion zu nutzen.",
+      "pl": "Zaktualizuj wersję oprogramowania układowego swojego Ruuvi Air, aby korzystać z tej funkcji."
+    },
+    {
+      "ident_ios": "update_now",
+      "ident_android": "update_now",
+      "ident_webui": "",
+      "en": "Update now",
+      "fi": "Päivitä nyt",
+      "ru": "Обновить сейчас",
+      "sv": "Uppdatera nu",
+      "fr": "Mettre à jour maintenant",
+      "de": "Jetzt aktualisieren",
+      "pl": "Aktualizuj teraz"
     },
     {
       "ident_ios": "led_brightness_select_message",
       "ident_android": "led_brightness_select_message",
       "ident_webui": "",
-      "en": "Select desired LED brightness level. Make sure you in Bluetooth range of your Ruuvi Air.",
+      "en": "Select your preferred LED brightness level. Make sure you are within the Bluetooth range of the Ruuvi Air.",
       "fi": "Valitse haluamasi LED-kirkkaustaso. Varmista, että olet Ruuvi Airin Bluetooth-kantaman sisällä.",
       "ru": "Выберите желаемый уровень яркости светодиода. Убедитесь, что вы находитесь в зоне действия Bluetooth вашего Ruuvi Air.",
-      "sv": "Välj önskad LED-ljusstyrkenivå. Se till att du är inom Bluetooth-räckvidd för din Ruuvi Air.",
+      "sv": "Välj önskad LED-ljusstyrka. Se till att du är inom Ruuvi Airs Bluetooth-räckvidd.",
       "fr": "Sélectionnez le niveau de luminosité de la LED souhaité. Assurez-vous d’être à portée Bluetooth de votre Ruuvi Air.",
-      "de": "Wählen Sie die gewünschte LED-Helligkeitsstufe. Stellen Sie sicher, dass Sie sich in Bluetooth-Reichweite Ihres Ruuvi Air befinden.",
+      "de": "Wählen Sie die gewünschte LED-Helligkeitsstufe. Stellen Sie sicher, dass Sie sich innerhalb der Bluetooth-Reichweite des Ruuvi Air befinden.",
       "pl": "Wybierz żądany poziom jasności diody LED. Upewnij się, że jesteś w zasięgu Bluetooth swojego Ruuvi Air."
     }
   ]
