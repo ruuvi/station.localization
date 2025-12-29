@@ -8847,6 +8847,78 @@
       "pl": "Jakość powietrza jest poniżej {%@^%1$s}"
     },
     {
+      "ident_ios": "alert_notification_absolute_humidity_low_threshold",
+      "ident_android": "alert_notification_absolute_humidity_low_threshold",
+      "ident_webui": "",
+      "en": "Absolute humidity is below {%@^%1$s}",
+      "fi": "Absoluuttinen kosteus on alle {%@^%1$s}",
+      "ru": "Абсолютная влажность ниже {%@^%1$s}",
+      "sv": "Absolut luftfuktighet är under {%@^%1$s}",
+      "fr": "L’humidité absolue est inférieure à {%@^%1$s}",
+      "de": "Die absolute Luftfeuchtigkeit liegt unter {%@^%1$s}",
+      "pl": "Wilgotność bezwzględna jest poniżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_absolute_humidity_high_threshold",
+      "ident_android": "alert_notification_absolute_humidity_high_threshold",
+      "ident_webui": "",
+      "en": "Absolute humidity is above {%@^%1$s}",
+      "fi": "Absoluuttinen kosteus on yli {%@^%1$s}",
+      "ru": "Абсолютная влажность выше {%@^%1$s}",
+      "sv": "Absolut luftfuktighet är över {%@^%1$s}",
+      "fr": "L’humidité absolue est supérieure à {%@^%1$s}",
+      "de": "Die absolute Luftfeuchtigkeit liegt über {%@^%1$s}",
+      "pl": "Wilgotność bezwzględna jest powyżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_dew_point_low_threshold",
+      "ident_android": "alert_notification_dew_point_low_threshold",
+      "ident_webui": "",
+      "en": "Dew point is below {%@^%1$s}",
+      "fi": "Kastepiste on alle {%@^%1$s}",
+      "ru": "Точка росы ниже {%@^%1$s}",
+      "sv": "Daggpunkten är under {%@^%1$s}",
+      "fr": "Le point de rosée est inférieur à {%@^%1$s}",
+      "de": "Der Taupunkt liegt unter {%@^%1$s}",
+      "pl": "Punkt rosy jest poniżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_dew_point_high_threshold",
+      "ident_android": "alert_notification_dew_point_high_threshold",
+      "ident_webui": "",
+      "en": "Dew point is above {%@^%1$s}",
+      "fi": "Kastepiste on yli {%@^%1$s}",
+      "ru": "Точка росы выше {%@^%1$s}",
+      "sv": "Daggpunkten är över {%@^%1$s}",
+      "fr": "Le point de rosée est supérieur à {%@^%1$s}",
+      "de": "Der Taupunkt liegt über {%@^%1$s}",
+      "pl": "Punkt rosy jest powyżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_battery_voltage_low_threshold",
+      "ident_android": "alert_notification_battery_voltage_low_threshold",
+      "ident_webui": "",
+      "en": "Battery voltage is below {%@^%1$s}",
+      "fi": "Akun jännite on alle {%@^%1$s}",
+      "ru": "Напряжение батареи ниже {%@^%1$s}",
+      "sv": "Batterispänningen är under {%@^%1$s}",
+      "fr": "La tension de la batterie est inférieure à {%@^%1$s}",
+      "de": "Die Batteriespannung liegt unter {%@^%1$s}",
+      "pl": "Napięcie baterii jest poniżej {%@^%1$s}"
+    },
+    {
+      "ident_ios": "alert_notification_battery_voltage_high_threshold",
+      "ident_android": "alert_notification_battery_voltage_high_threshold",
+      "ident_webui": "",
+      "en": "Battery voltage is above {%@^%1$s}",
+      "fi": "Akun jännite on yli {%@^%1$s}",
+      "ru": "Напряжение батареи выше {%@^%1$s}",
+      "sv": "Batterispänningen är över {%@^%1$s}",
+      "fr": "La tension de la batterie est supérieure à {%@^%1$s}",
+      "de": "Die Batteriespannung liegt über {%@^%1$s}",
+      "pl": "Napięcie baterii jest powyżej {%@^%1$s}"
+    },
+    {
       "ident_ios": "alert_notification_offline_message",
       "ident_android": "alert_notification_offline_message",
       "ident_webui": "",
