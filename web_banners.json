@@ -2,10 +2,10 @@
     {
         "plan": "",
         "key": "20260108",
-        "version": "1.3.0",
-        "en": "Version 1.3.0 is released. This version includes a new Visible Measurements feature, adds informative popups for measurements on the full sensor card, and includes other minor fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.0 on julkaistu. Tämä versio sisältää uuden näytettävät mittaukset -ominaisuuden, tuo informatiiviset lisätiedot mittauksille täydelle anturikortille sekä muita pieniä korjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.0 har släppts. Den här versionen innehåller den nya funktionen Synliga mätvärden, ger informativ tilläggsinformation för mätvärden på det fullständiga sensorkortet samt andra mindre buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "version": "1.3.1",
+        "en": "Version 1.3.1 is released. This version includes an new option to disable or enable adaptive card sizing on dashboard. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.3.1 on julkaistu. Tämä versio sisältää uuden ominaisuuden, jonka avulla voit ottaa mukautuvan korttien koon käyttöön tai pois käytöstä koontinäytöllä. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.3.1 har släppts. Den här versionen innehåller ett nytt funktionen för att aktivera eller inaktivera adaptiv kortstorlek på översikt vy. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
