@@ -15529,6 +15529,30 @@
       "fr": "Sélectionnez le niveau de luminosité de la LED souhaité. Assurez-vous d’être à portée Bluetooth de votre Ruuvi Air.",
       "de": "Wählen Sie die gewünschte LED-Helligkeitsstufe. Stellen Sie sicher, dass Sie sich innerhalb der Bluetooth-Reichweite des Ruuvi Air befinden.",
       "pl": "Wybierz żądany poziom jasności diody LED. Upewnij się, że jesteś w zasięgu Bluetooth swojego Ruuvi Air."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "disable_adaptive_layout",
+      "en": "Disable adaptive card sizing",
+      "fi": "Poista mukautuva kortin koko käytöstä",
+      "ru": "",
+      "sv": "Inaktivera adaptiv kortstorlek",
+      "fr": "Désactiver le redimensionnement adaptatif des cartes",
+      "de": "Adaptive Kartengrößenanpassung deaktivieren",
+      "pl": "Wyłącz adaptacyjne rozmiary kart"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "enable_adaptive_layout",
+      "en": "Enable adaptive card sizing",
+      "fi": "Ota mukautuva kortin koko käyttöön",
+      "ru": "",
+      "sv": "Aktivera adaptiv kortstorlek",
+      "fr": "Activer le redimensionnement adaptatif des cartes",
+      "de": "Adaptive Kartengrößenanpassung aktivieren",
+      "pl": "Włącz adaptacyjne rozmiary kart"
     }
   ]
 }
