@@ -63,6 +63,48 @@
       "fr": "{{name}}\n\nAlerte d'humidité résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\nFeuchtigkeitswarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     },
+    "alert_absolute_humidity_over": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolute Humidity above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absoluuttinen kosteus yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolut luftfuktighet över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité absolue au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolute Luftfeuchtigkeit über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_absolute_humidity_under": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolute Humidity below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absoluuttinen kosteus alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolut luftfuktighet under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Humidité absolue en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Absolute Luftfeuchtigkeit unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_absolute_humidity_resolved": {
+      "en": "{{name}}\n\nAbsolute Humidity alert resolved\n\n Current reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nAbsoluuttisen kosteuden hälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nVarning för absolut luftfuktighet återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte d'humidité absolue résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nWarnung zur absoluten Luftfeuchtigkeit gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_dew_point_over": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Dew Point above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kastepiste yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Daggpunkt över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Point de rosée au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Taupunkt über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_dew_point_under": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Dew Point below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Kastepiste alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Daggpunkt under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Point de rosée en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Taupunkt unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_dew_point_resolved": {
+      "en": "{{name}}\n\nDew Point alert resolved\n\n Current reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nKastepistehälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nDaggpunktsvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte point de rosée résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nTaupunktwarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
     "alert_signal_over": {
       "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signal above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
       "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Signaali yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
@@ -314,6 +356,27 @@
       "sv": "{{name}}\n\nBelysningsnivåvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
       "fr": "{{name}}\n\nAlerte de niveau d’éclairement résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
       "de": "{{name}}\n\neleuchtungsstärkewarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_battery_over": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Battery voltage above {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paristojännite yli {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batterispänning över {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tension de la pile au-dessus de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batteriespannung über {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_battery_under": {
+      "en": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Battery voltage below {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Paristojännite alle {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batterispänning under {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Tension de la pile en dessous de {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\n{{#if alertData}}{{alertData}}{{else}}Batteriespannung unter {{thresholdValue}}{{alertUnit_symbol}}{{/if}}\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
+    },
+    "alert_battery_resolved": {
+      "en": "{{name}}\n\nBattery voltage alert resolved\n\nCurrent reading is {{currentValue}}{{alertUnit_symbol}}.",
+      "fi": "{{name}}\n\nParistojännitehälytys ratkaistu\n\nNykyinen lukema on {{currentValue}}{{alertUnit_symbol}}.",
+      "sv": "{{name}}\n\nBatterispänningsvarning återställd\n\nNuvarande avläsning är {{currentValue}}{{alertUnit_symbol}}.",
+      "fr": "{{name}}\n\nAlerte de tension de pile résolue\n\nLa lecture actuelle est {{currentValue}}{{alertUnit_symbol}}.",
+      "de": "{{name}}\n\nBatteriespannungswarnung gelöst\n\nDer aktuelle Messwert ist {{currentValue}}{{alertUnit_symbol}}."
     }
   }
 }
