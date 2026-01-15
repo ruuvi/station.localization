@@ -1,7 +1,7 @@
 [
     {
         "plan": "",
-        "key": "20260108",
+        "key": "20260115",
         "version": "1.3.1",
         "en": "Version 1.3.1 is released. This version includes an new option to disable or enable adaptive card sizing on dashboard. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
         "fi": "Versio 1.3.1 on julkaistu. Tämä versio sisältää uuden ominaisuuden, jonka avulla voit ottaa mukautuvan korttien koon käyttöön tai pois käytöstä koontinäytöllä. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
