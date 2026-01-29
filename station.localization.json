@@ -15363,7 +15363,7 @@
       "pl": "Nie wybrano"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "tutorial_chart_long_tap",
       "ident_android": "tutorial_chart_long_tap",
       "ident_webui": "",
       "en": "Long press on the graph to view additional information about the selected data point.",
