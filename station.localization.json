@@ -14974,7 +14974,7 @@
       "fi": "CO₂ on erinomaisella tasolla, mutta PM2.5 on heikko. Harkitse ilmanpuhdistimen käyttöä ja rajoita pienhiukkasten pääsyä sisälle.",
       "ru": "С CO₂ всё отлично, но PM2.5 — плохие. Рассмотрите очистку воздуха или снижение частиц в помещении.",
       "sv": "CO₂ är utmärkt, men PM2.5 är dålig. Överväg luftrening eller att begränsa partiklar inomhus.",
-      "fr": "Le CO₂ est excellent, mais les PM2,5 sont faibles. Envisagez de purifier l’air ou de limiter les particules à l’intérieur.",
+      "fr": "Le CO₂ est excellent, mais les PM2.5 sont faibles. Envisagez de purifier l’air ou de limiter les particules à l’intérieur.",
       "de": "CO₂ ist sehr gut, aber PM2.5 ist schlecht. Ziehe einen Luftreiniger oder weniger Partikel in Innenräumen in Betracht.",
       "pl": "CO₂ jest świetne, ale PM2.5 słabe. Rozważ oczyszczacz powietrza lub ograniczenie cząstek w pomieszczeniu."
     },
@@ -14985,7 +14985,7 @@
       "en": "CO₂ is excellent, but PM2.5 levels are very high. The air needs filtering to be healthier.",
       "fi": "CO₂ on erinomaisella tasolla, mutta PM2.5-tasot ovat erittäin korkeat. Ilma tarvitsee nyt suodatusta, jotta siitä saadaan terveellisempää.",
       "ru": "CO₂ отличный, но уровень PM2.5 очень высокий. Нужна фильтрация воздуха для более здоровой среды.",
-      "sv": "CO₂ är utmärkt, men PM2,5 är mycket höga. Luften behöver filtreras för att vara hälsosammare.",
+      "sv": "CO₂ är utmärkt, men PM2.5 är mycket höga. Luften behöver filtreras för att vara hälsosammare.",
       "fr": "Le CO₂ est excellent, mais les PM2.5 sont très élevés. L’air doit être filtré pour être plus sain.",
       "de": "CO₂ ist ausgezeichnet, aber PM2.5 ist sehr hoch. Die Luft braucht Filterung, um gesünder zu sein.",
       "pl": "CO₂ jest doskonałe, ale poziom PM2.5 jest bardzo wysoki. Powietrze wymaga filtracji, aby było zdrowsze."
@@ -15105,9 +15105,9 @@
       "en": "CO₂ is fair, but PM2.5 is very high. The air would benefit from brief ventilation and more efficient purifying.",
       "fi": "CO₂ on kohtalaisella tasolla, mutta PM2.5 on erittäin korkealla. Ilmanlaatu kohentuisi nyt tehokkaammalla ilmanpuhdistuksella.",
       "ru": "CO₂ — посредственный, но PM2.5 очень высокий. Нужна более интенсивная очистка.",
-      "sv": "CO₂ är medel, men PM2,5 är mycket höga. Luften skulle må bra av kraftigare rengöring.",
-      "fr": "Le CO₂ est moyen, mais les PM2,5 sont très élevés. L’air bénéficierait d’un nettoyage plus puissant.",
-      "de": "CO₂ ist mittelmäßig, aber PM2,5 ist sehr hoch. Die Luft braucht stärkere Reinigung.",
+      "sv": "CO₂ är medel, men PM2.5 är mycket höga. Luften skulle må bra av kraftigare rengöring.",
+      "fr": "Le CO₂ est moyen, mais les PM2.5 sont très élevés. L’air bénéficierait d’un nettoyage plus puissant.",
+      "de": "CO₂ ist mittelmäßig, aber PM2.5 ist sehr hoch. Die Luft braucht stärkere Reinigung.",
       "pl": "CO₂ jest przeciętne, ale PM2.5 bardzo wysokie. Potrzebne jest silniejsze oczyszczanie."
     },
     {
@@ -15117,9 +15117,9 @@
       "en": "It seems that your PM2.5 is excellent, but CO₂ is high. Ventilate the room for fresher air.",
       "fi": "PM2.5 on erinomaisella tasolla, mutta CO₂ on korkealla. Tuuleta tätä tilaa sen ilman raikastamiseksi.",
       "ru": "Похоже, PM2.5 в отличном состоянии, но CO₂ высокий. Проветрите комнату для более свежего воздуха.",
-      "sv": "PM2,5 är utmärkt men CO₂ är hög. Vädring ger friskare luft.",
-      "fr": "Les PM2,5 sont excellents, mais le CO₂ est élevé. Aérez la pièce pour un air plus frais.",
-      "de": "PM2,5 ist ausgezeichnet, aber CO₂ ist hoch. Lüfte den Raum für frischere Luft.",
+      "sv": "PM2.5 är utmärkt men CO₂ är hög. Vädring ger friskare luft.",
+      "fr": "Les PM2.5 sont excellents, mais le CO₂ est élevé. Aérez la pièce pour un air plus frais.",
+      "de": "PM2.5 ist ausgezeichnet, aber CO₂ ist hoch. Lüfte den Raum für frischere Luft.",
       "pl": "PM2.5 jest doskonałe, ale CO₂ wysokie. Przewietrz pomieszczenie dla świeższego powietrza."
     },
     {
@@ -15129,9 +15129,9 @@
       "en": "PM2.5 is good, but CO₂ is high. Some ventilation would improve the air.",
       "fi": "PM2.5 on hyvällä tasolla, mutta CO₂ on korkealla. Tuuletus parantaisi tämän tilan ilmanlaatua.",
       "ru": "PM2.5 хороший, но CO₂ высокий. Немного проветривания улучшит воздух.",
-      "sv": "PM2,5 är bra men CO₂ är hög. Lite vädring skulle förbättra luften.",
-      "fr": "Les PM2,5 sont bons, mais le CO₂ est élevé. Un peu de ventilation améliorerait l’air.",
-      "de": "PM2,5 ist gut, aber CO₂ ist hoch. Etwas Lüften würde die Luft verbessern.",
+      "sv": "PM2.5 är bra men CO₂ är hög. Lite vädring skulle förbättra luften.",
+      "fr": "Les PM2.5 sont bons, mais le CO₂ est élevé. Un peu de ventilation améliorerait l’air.",
+      "de": "PM2.5 ist gut, aber CO₂ ist hoch. Etwas Lüften würde die Luft verbessern.",
       "pl": "PM2.5 jest dobre, ale CO₂ wysokie. Trochę wietrzenia poprawi jakość powietrza."
     },
     {
@@ -15141,9 +15141,9 @@
       "en": "PM2.5 is fair and CO₂ is high. Ventilate the room, but be mindful of outside particle levels.",
       "fi": "PM2.5 on kohtalaisella tasolla ja CO₂ korkealla. Tuuleta huonetta, mutta ota huomioon myös ulkoilman hiukkastasot.",
       "ru": "PM2.5 посредственный, а CO₂ высокий. Проветривайте комнату, учитывая уровень частиц снаружи.",
-      "sv": "PM2,5 är medel och CO₂ är hög. Vädrar du, tänk på partikelhalterna utomhus.",
-      "fr": "Les PM2,5 sont moyens et le CO₂ est élevé. Aérez la pièce, en tenant compte des particules extérieures.",
-      "de": "PM2,5 ist mittelmäßig und CO₂ ist hoch. Lüfte den Raum, aber achte auf die Außenpartikel.",
+      "sv": "PM2.5 är medel och CO₂ är hög. Vädrar du, tänk på partikelhalterna utomhus.",
+      "fr": "Les PM2.5 sont moyens et le CO₂ est élevé. Aérez la pièce, en tenant compte des particules extérieures.",
+      "de": "PM2.5 ist mittelmäßig und CO₂ ist hoch. Lüfte den Raum, aber achte auf die Außenpartikel.",
       "pl": "PM2.5 jest przeciętne, a CO₂ wysokie. Wietrz pomieszczenie, zwracając uwagę na poziom pyłów na zewnątrz."
     },
     {
@@ -15153,9 +15153,9 @@
       "en": "Both CO₂ and PM2.5 are poor. Ventilation and air purifying would help the air.",
       "fi": "Sekä CO₂ että PM2.5 ovat heikolla tasolla. Tilan tuuletus ja ilman puhdistus auttaisivat.",
       "ru": "И CO₂, и PM2.5 — плохие. Проветривание и очистка воздуха помогут.",
-      "sv": "Både CO₂ och PM2,5 är dåliga. Vädring och luftrening skulle hjälpa.",
-      "fr": "Le CO₂ et les PM2,5 sont faibles. La ventilation et la purification aideraient l’air.",
-      "de": "Sowohl CO₂ als auch PM2,5 sind schlecht. Lüften und Reinigen würden helfen.",
+      "sv": "Både CO₂ och PM2.5 är dåliga. Vädring och luftrening skulle hjälpa.",
+      "fr": "Le CO₂ et les PM2.5 sont faibles. La ventilation et la purification aideraient l’air.",
+      "de": "Sowohl CO₂ als auch PM2.5 sind schlecht. Lüften und Reinigen würden helfen.",
       "pl": "Zarówno CO₂, jak i PM2.5 są słabe. Wietrzenie i oczyszczanie pomogą."
     },
     {
@@ -15165,9 +15165,9 @@
       "en": "PM2.5 is very high and CO₂ is also high. The air needs both freshening and filtering.",
       "fi": "PM2.5 on erittäin korkealla ja CO₂ on myös korkealla tasolla. Tämä tila tarvitsee nyt sekä raikastusta että ilmanpuhdistusta.",
       "ru": "PM2.5 очень высокий, и CO₂ тоже высокий. Нужны и проветривание, и фильтрация.",
-      "sv": "PM2,5 är mycket höga och CO₂ är också hög. Luften behöver både vädring och filtrering.",
-      "fr": "Les PM2,5 sont très élevés et le CO₂ est également élevé. L’air a besoin d’être à la fois aéré et filtré.",
-      "de": "PM2,5 ist sehr hoch und CO₂ ebenfalls hoch. Die Luft braucht frische Zufuhr und Filterung.",
+      "sv": "PM2.5 är mycket höga och CO₂ är också hög. Luften behöver både vädring och filtrering.",
+      "fr": "Les PM2.5 sont très élevés et le CO₂ est également élevé. L’air a besoin d’être à la fois aéré et filtré.",
+      "de": "PM2.5 ist sehr hoch und CO₂ ebenfalls hoch. Die Luft braucht frische Zufuhr und Filterung.",
       "pl": "PM2.5 jest bardzo wysokie, a CO₂ także wysokie. Potrzebne jest zarówno wietrzenie, jak i filtracja."
     },
     {
@@ -15177,9 +15177,9 @@
       "en": "CO₂ is very high, even though PM2.5 is excellent. Strong ventilation is needed.",
       "fi": "CO₂ on erittäin korkealla tasolla, vaikka PM2.5 on erinomainen. Nyt tarvitaan tehokasta tuuletusta.",
       "ru": "CO₂ очень высокий, хотя PM2.5 — отличные. Нужна интенсивная вентиляция.",
-      "sv": "CO₂ är mycket hög, även om PM2,5 är utmärkt. Kraftig vädring behövs.",
-      "fr": "Le CO₂ est très élevé, même si les PM2,5 sont excellents. Une ventilation soutenue est nécessaire.",
-      "de": "CO₂ ist sehr hoch, obwohl PM2,5 ausgezeichnet ist. Starke Lüftung ist erforderlich.",
+      "sv": "CO₂ är mycket hög, även om PM2.5 är utmärkt. Kraftig vädring behövs.",
+      "fr": "Le CO₂ est très élevé, même si les PM2.5 sont excellents. Une ventilation soutenue est nécessaire.",
+      "de": "CO₂ ist sehr hoch, obwohl PM2.5 ausgezeichnet ist. Starke Lüftung ist erforderlich.",
       "pl": "CO₂ jest bardzo wysokie, choć PM2.5 są doskonałe. Potrzebna jest intensywna wentylacja."
     },
     {
@@ -15189,9 +15189,9 @@
       "en": "PM2.5 is good, but CO₂ is very high. Fresh air is needed to make the room healthier.",
       "fi": "PM2.5 on hyvällä tasolla, mutta CO₂ on erittäin korkealla. Raitista ilmaa tarvitaan, jotta tilan ilmasta saadaan terveellisempää.",
       "ru": "PM2.5 — хорошие, но CO₂ очень высокий. Нужен приток свежего воздуха для здорового микроклимата.",
-      "sv": "PM2,5 är bra, men CO₂ är mycket hög. Frisk luft behövs för att göra rummet hälsosammare.",
-      "fr": "Les PM2,5 sont bons, mais le CO₂ est très élevé. Il faut de l’air frais pour assainir la pièce.",
-      "de": "PM2,5 ist gut, aber CO₂ ist sehr hoch. Frische Luft ist nötig, um den Raum gesünder zu machen.",
+      "sv": "PM2.5 är bra, men CO₂ är mycket hög. Frisk luft behövs för att göra rummet hälsosammare.",
+      "fr": "Les PM2.5 sont bons, mais le CO₂ est très élevé. Il faut de l’air frais pour assainir la pièce.",
+      "de": "PM2.5 ist gut, aber CO₂ ist sehr hoch. Frische Luft ist nötig, um den Raum gesünder zu machen.",
       "pl": "PM2.5 jest dobre, ale CO₂ bardzo wysokie. Potrzeba świeżego powietrza, by poprawić zdrowotność pomieszczenia."
     },
     {
@@ -15201,9 +15201,9 @@
       "en": "PM2.5 is fair and CO₂ is very high. Ventilation is strongly recommended.",
       "fi": "PM2.5 on kohtalaisella ja CO₂ erittäin korkealla tasolla. Tuulettaminen on nyt erittäin suositeltavaa.",
       "ru": "PM2.5 — посредственные, а CO₂ очень высокий. Настоятельно рекомендовано проветривание.",
-      "sv": "PM2,5 är medel och CO₂ är mycket hög. Ventilation rekommenderas starkt.",
-      "fr": "Les PM2,5 sont moyens et le CO₂ est très élevé. Une ventilation est fortement recommandée.",
-      "de": "PM2,5 ist mittelmäßig und CO₂ ist sehr hoch. Lüften wird dringend empfohlen.",
+      "sv": "PM2.5 är medel och CO₂ är mycket hög. Ventilation rekommenderas starkt.",
+      "fr": "Les PM2.5 sont moyens et le CO₂ est très élevé. Une ventilation est fortement recommandée.",
+      "de": "PM2.5 ist mittelmäßig und CO₂ ist sehr hoch. Lüften wird dringend empfohlen.",
       "pl": "PM2.5 jest przeciętne, a CO₂ bardzo wysokie. Zdecydowanie zalecana jest wentylacja."
     },
     {
@@ -15213,9 +15213,9 @@
       "en": "Both CO₂ and PM2.5 are poor. Air quality needs urgent improvement by ventilation and air purifying.",
       "fi": "Sekä CO₂ että PM2.5 ovat heikolla tasolla, ja CO₂ on erittäin korkealla. Tämän tilan ilmanlaatua pitäisi parantaa pikimmiten.",
       "ru": "И CO₂, и PM2.5 — плохие, при этом CO₂ очень высокий. Требуется срочно улучшить качество воздуха.",
-      "sv": "Både CO₂ och PM2,5 är dåliga, och CO₂ är mycket hög. Luftkvaliteten behöver förbättras omgående.",
-      "fr": "Le CO₂ et les PM2,5 sont faibles, et le CO₂ est très élevé. Il faut améliorer la qualité de l’air de toute urgence.",
-      "de": "CO₂ und PM2,5 sind schlecht, und CO₂ ist sehr hoch. Die Luftqualität muss dringend verbessert werden.",
+      "sv": "Både CO₂ och PM2.5 är dåliga, och CO₂ är mycket hög. Luftkvaliteten behöver förbättras omgående.",
+      "fr": "Le CO₂ et les PM2.5 sont faibles, et le CO₂ est très élevé. Il faut améliorer la qualité de l’air de toute urgence.",
+      "de": "CO₂ und PM2.5 sind schlecht, und CO₂ ist sehr hoch. Die Luftqualität muss dringend verbessert werden.",
       "pl": "Zarówno CO₂, jak i PM2.5 są słabe, a CO₂ bardzo wysokie. Konieczna jest pilna poprawa jakości powietrza."
     },
     {
@@ -15225,9 +15225,9 @@
       "en": "Both CO₂ and PM2.5 are very poor. The air is unhealthy — ventilate and purify as soon as possible.",
       "fi": "Sekä CO₂ että PM2.5 ovat erittäin heikolla tasolla. Tämä ilma on epäterveellistä, joten tuuleta ja puhdista tilan ilma mahdollisimman pian.",
       "ru": "И CO₂, и PM2.5 — очень плохие. Воздух нездоровый — проветрите и очистите как можно скорее.",
-      "sv": "Både CO₂ och PM2,5 är mycket dåliga. Luften är ohälsosam — vädra och rena så snart som möjligt.",
-      "fr": "Le CO₂ et les PM2,5 sont très mauvais. L’air est malsain — aérez et purifiez dès que possible.",
-      "de": "Sowohl CO₂ als auch PM2,5 sind sehr schlecht. Die Luft ist ungesund — lüften und reinigen Sie so bald wie möglich.",
+      "sv": "Både CO₂ och PM2.5 är mycket dåliga. Luften är ohälsosam — vädra och rena så snart som möjligt.",
+      "fr": "Le CO₂ et les PM2.5 sont très mauvais. L’air est malsain — aérez et purifiez dès que possible.",
+      "de": "Sowohl CO₂ als auch PM2.5 sind sehr schlecht. Die Luft ist ungesund — lüften und reinigen Sie so bald wie möglich.",
       "pl": "Zarówno CO₂, jak i PM2.5 są bardzo słabe. Powietrze jest niezdrowe — wietrz i oczyszczaj jak najszybciej."
     },
     {
