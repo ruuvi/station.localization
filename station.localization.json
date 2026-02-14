@@ -15565,6 +15565,18 @@
       "fr": "Vous disposez de {%@^%1$s}/{%@^%2$s} partages au total sur votre compte. Si vous devez ajuster votre limite de partage, contactez support@ruuvi.com.",
       "de": "Sie haben insgesamt {%@^%1$s}/{%@^%2$s} Freigaben in Ihrem Konto verfügbar. Wenn Sie das Freigabelimit anpassen möchten, wenden Sie sich an support@ruuvi.com.",
       "pl": "Na Twoim koncie dostępnych jest łącznie {%@^%1$s}/{%@^%2$s} udostępnień. Jeśli musisz zmienić limit udostępnień, skontaktuj się z support@ruuvi.com."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "notes",
+      "en": "Notes",
+      "fi": "Muistiinpanot",
+      "ru": "",
+      "sv": "Anteckningar",
+      "fr": "Notes",
+      "de": "Notizen",
+      "pl": "Notatki"
     }
   ]
 }
