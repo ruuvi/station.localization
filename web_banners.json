@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260115",
-        "version": "1.3.2",
-        "en": "Version 1.3.2 is released. This version includes new alert types for absolute humidity, dew point and battery, along with other minor bug fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.2 on julkaistu. Tämä versio sisältää uudet hälytykset absoluuttiselle kosteudelle, kastepisteelle ja pariston varaukselle sekä muita pieniä bugikorjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.2 har släppts. Den här versionen innehåller nya larm för absolut luftfuktighet, daggpunkt och batterinivå samt andra mindre buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20260218",
+        "version": "1.3.3",
+        "en": "Version 1.3.3 is released. This version includes improvements to file export, a re-ordered unit selection on the sensor comparison page, the ability to add notes to sensor cards, and other minor improvements and bug fixes. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.3.3 on julkaistu. Tämä versio sisältää parannuksia tiedostoon vientiin, uudelleen järjestetyn yksikkövalinnan anturin vertailusivulla, mahdollisuuden lisätä muistiinpanoja anturikortteihin sekä muita pieniä parannuksia ja bugikorjauksia. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.3.3 har släppts. Den här versionen innehåller förbättringar av filexport, omordnad enhetsval på sensorns jämförelsesida, möjlighet att lägga till anteckningar på sensorkort samt andra mindre förbättringar och buggfixar. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
