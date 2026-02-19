@@ -12147,7 +12147,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sensor_search_placeholder",
       "ident_android": "",
       "ident_webui": "sensor_search_placeholder",
       "en": "Search...",
