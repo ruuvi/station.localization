@@ -9582,13 +9582,13 @@
       "ident_ios": "Widgets.Description.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Create widgets of your favourite Ruuvi sensors. Widgets update from the Ruuvi Cloud. A Ruuvi Gateway router is required.",
-      "fi": "Luo widgettejä Ruuvi-antureistasi. Widgetit päivittyvät Ruuvin pilvipalvelun kautta ja vaativat toimiakseen Ruuvi Gateway -reitittimen.",
-      "ru": "",
-      "sv": "Skapa widgets av dina favorit Ruuvi-sensorer. Widgetdatan kommer från Ruuvi Cloud och kräver en Ruuvi Gateway-router.",
-      "fr": "Créez des widgets de vos capteurs Ruuvi préférés. Les widgets sont mis à jour depuis le Ruuvi Cloud. Un routeur Ruuvi Gateway est nécessaire.",
-      "de": "Erstellen Sie Widgets mit Ihren bevorzugten Ruuvi-Sensoren. Widgets werden über die Ruuvi Cloud aktualisiert. Ein Ruuvi Gateway-Router ist erforderlich.",
-      "pl": ""
+      "en": "Create widgets for your Ruuvi sensors. Widgets update via Bluetooth or Ruuvi Cloud. Cloud updates require a Ruuvi Gateway.",
+      "fi": "Luo widgettejä Ruuvi-antureillesi. Widgetit päivittyvät Bluetoothin kautta tai Ruuvi Cloud -pilvipalvelusta. Pilvipäivitykset vaativat Ruuvi Gateway -reitittimen.",
+      "ru": "Создавайте виджеты для датчиков Ruuvi. Виджеты обновляются по Bluetooth или через Ruuvi Cloud. Для обновлений из облака требуется Ruuvi Gateway.",
+      "sv": "Skapa widgetar för dina Ruuvi-sensorer. Widgetar uppdateras via Bluetooth eller Ruuvi Cloud. Molnuppdateringar kräver en Ruuvi Gateway.",
+      "fr": "Créez des widgets pour vos capteurs Ruuvi. Les widgets se mettent à jour via Bluetooth ou Ruuvi Cloud. Les mises à jour cloud nécessitent une passerelle Ruuvi.",
+      "de": "Erstellen Sie Widgets für Ihre Ruuvi-Sensoren. Widgets werden per Bluetooth oder über die Ruuvi Cloud aktualisiert. Cloud-Updates erfordern ein Ruuvi Gateway.",
+      "pl": "Twórz widżety dla swoich czujników Ruuvi. Widżety aktualizują się przez Bluetooth lub Ruuvi Cloud. Aktualizacje z chmury wymagają bramki Ruuvi Gateway."
     },
     {
       "ident_ios": "",
