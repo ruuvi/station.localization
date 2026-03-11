@@ -15579,7 +15579,7 @@
       "pl": "Na Twoim koncie dostępnych jest łącznie {%@^%1$s}/{%@^%2$s} udostępnień. Jeśli musisz zmienić limit udostępnień, skontaktuj się z support@ruuvi.com."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "notes",
       "ident_android": "",
       "ident_webui": "notes",
       "en": "Notes",
