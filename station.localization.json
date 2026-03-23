@@ -3385,6 +3385,18 @@
       "pl": "Ostrzeżenia"
     },
     {
+      "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Alerts are now part of top menu, tap here to show alerts",
+      "fi": "Hälytykset ovat nyt ylävalikossa, napauta tästä nähdäksesi hälytykset",
+      "ru": "Уведомления теперь находятся в верхнем меню, нажмите здесь, чтобы открыть уведомления",
+      "sv": "Larm finns nu i toppmenyn, tryck här för att visa larm",
+      "fr": "Les alertes se trouvent maintenant dans le menu supérieur, touchez ici pour afficher les alertes",
+      "de": "Warnungen befinden sich jetzt im oberen Menü. Tippen Sie hier, um die Warnungen anzuzeigen",
+      "pl": "Ostrzeżenia są teraz częścią górnego menu, stuknij tutaj, aby je wyświetlić"
+    },
+    {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
       "ident_webui": "",
