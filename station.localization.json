@@ -3385,6 +3385,18 @@
       "pl": "Ostrzeżenia"
     },
     {
+      "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Alerts are now part of top menu, tap here to show alerts",
+      "fi": "Hälytykset ovat nyt ylävalikossa, napauta tästä nähdäksesi hälytykset",
+      "ru": "Уведомления теперь находятся в верхнем меню, нажмите здесь, чтобы открыть уведомления",
+      "sv": "Larm finns nu i toppmenyn, tryck här för att visa larm",
+      "fr": "Les alertes se trouvent maintenant dans le menu supérieur, touchez ici pour afficher les alertes",
+      "de": "Warnungen befinden sich jetzt im oberen Menü. Tippen Sie hier, um die Warnungen anzuzeigen",
+      "pl": "Ostrzeżenia są teraz częścią górnego menu, stuknij tutaj, aby je wyświetlić"
+    },
+    {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
       "ident_webui": "",
@@ -3648,6 +3660,18 @@
       "fr": "Connexion...",
       "de": "Verbinden...",
       "pl": "Łączenie..."
+    },
+    {
+      "ident_ios": "TagCharts.Status.Queued",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Queued...",
+      "fi": "Jonossa...",
+      "ru": "В очереди...",
+      "sv": "I kö...",
+      "fr": "En file d'attente...",
+      "de": "In Warteschlange...",
+      "pl": "W kolejce..."
     },
     {
       "ident_ios": "",
@@ -8007,7 +8031,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "update",
       "ident_android": "",
       "ident_webui": "update",
       "en": "Update",
@@ -9570,13 +9594,13 @@
       "ident_ios": "Widgets.Description.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Create widgets of your favourite Ruuvi sensors. Widgets update from the Ruuvi Cloud. A Ruuvi Gateway router is required.",
-      "fi": "Luo widgettejä Ruuvi-antureistasi. Widgetit päivittyvät Ruuvin pilvipalvelun kautta ja vaativat toimiakseen Ruuvi Gateway -reitittimen.",
-      "ru": "",
-      "sv": "Skapa widgets av dina favorit Ruuvi-sensorer. Widgetdatan kommer från Ruuvi Cloud och kräver en Ruuvi Gateway-router.",
-      "fr": "Créez des widgets de vos capteurs Ruuvi préférés. Les widgets sont mis à jour depuis le Ruuvi Cloud. Un routeur Ruuvi Gateway est nécessaire.",
-      "de": "Erstellen Sie Widgets mit Ihren bevorzugten Ruuvi-Sensoren. Widgets werden über die Ruuvi Cloud aktualisiert. Ein Ruuvi Gateway-Router ist erforderlich.",
-      "pl": ""
+      "en": "Create widgets for your Ruuvi sensors. Widgets update via Bluetooth or Ruuvi Cloud. Cloud updates require a Ruuvi Gateway.",
+      "fi": "Luo widgettejä Ruuvi-antureillesi. Widgetit päivittyvät Bluetoothin kautta tai Ruuvi Cloud -pilvipalvelusta. Pilvipäivitykset vaativat Ruuvi Gateway -reitittimen.",
+      "ru": "Создавайте виджеты для датчиков Ruuvi. Виджеты обновляются по Bluetooth или через Ruuvi Cloud. Для обновлений из облака требуется Ruuvi Gateway.",
+      "sv": "Skapa widgetar för dina Ruuvi-sensorer. Widgetar uppdateras via Bluetooth eller Ruuvi Cloud. Molnuppdateringar kräver en Ruuvi Gateway.",
+      "fr": "Créez des widgets pour vos capteurs Ruuvi. Les widgets se mettent à jour via Bluetooth ou Ruuvi Cloud. Les mises à jour cloud nécessitent une passerelle Ruuvi.",
+      "de": "Erstellen Sie Widgets für Ihre Ruuvi-Sensoren. Widgets werden per Bluetooth oder über die Ruuvi Cloud aktualisiert. Cloud-Updates erfordern ein Ruuvi Gateway.",
+      "pl": "Twórz widżety dla swoich czujników Ruuvi. Widżety aktualizują się przez Bluetooth lub Ruuvi Cloud. Aktualizacje z chmury wymagają bramki Ruuvi Gateway."
     },
     {
       "ident_ios": "",
@@ -12135,7 +12159,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "",
+      "ident_ios": "sensor_search_placeholder",
       "ident_android": "",
       "ident_webui": "sensor_search_placeholder",
       "en": "Search...",
@@ -15567,7 +15591,7 @@
       "pl": "Na Twoim koncie dostępnych jest łącznie {%@^%1$s}/{%@^%2$s} udostępnień. Jeśli musisz zmienić limit udostępnień, skontaktuj się z support@ruuvi.com."
     },
     {
-      "ident_ios": "",
+      "ident_ios": "notes",
       "ident_android": "",
       "ident_webui": "notes",
       "en": "Notes",
