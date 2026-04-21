@@ -14463,6 +14463,30 @@
       "pl": ""
     },
     {
+      "ident_ios": "show_more",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show more",
+      "fi": "Näytä lisää",
+      "ru": "Показать больше",
+      "sv": "Visa mer",
+      "fr": "Afficher plus",
+      "de": "Mehr anzeigen",
+      "pl": "Pokaż więcej"
+    },
+    {
+      "ident_ios": "show_less",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show less",
+      "fi": "Näytä vähemmän",
+      "ru": "Показать меньше",
+      "sv": "Visa mindre",
+      "fr": "Afficher moins",
+      "de": "Weniger anzeigen",
+      "pl": "Pokaż mniej"
+    },
+    {
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "network_error",
