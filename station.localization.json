@@ -3388,13 +3388,13 @@
       "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Alerts are now part of top menu, tap here to show alerts",
-      "fi": "Hälytykset ovat nyt ylävalikossa, napauta tästä nähdäksesi hälytykset",
-      "ru": "Уведомления теперь находятся в верхнем меню, нажмите здесь, чтобы открыть уведомления",
-      "sv": "Larm finns nu i toppmenyn, tryck här för att visa larm",
-      "fr": "Les alertes se trouvent maintenant dans le menu supérieur, touchez ici pour afficher les alertes",
-      "de": "Warnungen befinden sich jetzt im oberen Menü. Tippen Sie hier, um die Warnungen anzuzeigen",
-      "pl": "Ostrzeżenia są teraz częścią górnego menu, stuknij tutaj, aby je wyświetlić"
+      "en": "Notifications are now located in a new place. Go to notification settings from the bell icon in the top menu or tap here.",
+      "fi": "Hälytykset löytyvät nyt uudesta sijainnista. Siirry hälytysasetuksiin ylävalikon kellokuvakkeesta tai napauttamalla tästä.",
+      "ru": "",
+      "sv": "Aviseringarna finns nu på en ny plats. Gå till aviseringsinställningarna via klockikonen i toppmenyn eller tryck här.",
+      "fr": "Les notifications se trouvent désormais à un nouvel emplacement. Accédez aux paramètres de notification via l’icône en forme de cloche dans le menu supérieur ou appuyez ici.",
+      "de": "Die Benachrichtigungen befinden sich jetzt an einem neuen Ort. Gehe zu den Benachrichtigungseinstellungen über das Glockensymbol im oberen Menü oder tippe hier.",
+      "pl": ""
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
