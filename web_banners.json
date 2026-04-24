@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260409",
-        "version": "1.3.5",
-        "en": "Version 1.3.5 is released with performance improvements and bug fixes for dashboard, comparison charts, and Safari. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.5 on julkaistu suorituskykyparannuksilla ja bugikorjauksilla kojelautaan, vertailukaavioihin ja Safariin. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.5 har släppts med prestandaförbättringar och buggfixar för instrumentpanelen, jämförelsediagram och Safari. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20260424",
+        "version": "1.3.6",
+        "en": "Version 1.3.6 has been released, resolving an issue where alert settings did not correctly follow visibility settings in Safari. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.3.6 on julkaistu. Tämä versio korjaa ongelman, jossa hälytysasetukset eivät noudattaneet näkyvyysasetuksia Safari-selaimessa. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.3.6 har släppts och åtgärdar ett problem där aviseringsinställningar inte följde synlighetsinställningarna korrekt i Safari. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
