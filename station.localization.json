@@ -3388,13 +3388,13 @@
       "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Alerts are now part of top menu, tap here to show alerts",
-      "fi": "Hälytykset ovat nyt ylävalikossa, napauta tästä nähdäksesi hälytykset",
-      "ru": "Уведомления теперь находятся в верхнем меню, нажмите здесь, чтобы открыть уведомления",
-      "sv": "Larm finns nu i toppmenyn, tryck här för att visa larm",
-      "fr": "Les alertes se trouvent maintenant dans le menu supérieur, touchez ici pour afficher les alertes",
-      "de": "Warnungen befinden sich jetzt im oberen Menü. Tippen Sie hier, um die Warnungen anzuzeigen",
-      "pl": "Ostrzeżenia są teraz częścią górnego menu, stuknij tutaj, aby je wyświetlić"
+      "en": "Notifications are now located in a new place. Go to notification settings from the bell icon in the top menu or tap here.",
+      "fi": "Hälytykset löytyvät nyt uudesta sijainnista. Siirry hälytysasetuksiin ylävalikon kellokuvakkeesta tai napauttamalla tästä.",
+      "ru": "",
+      "sv": "Aviseringarna finns nu på en ny plats. Gå till aviseringsinställningarna via klockikonen i toppmenyn eller tryck här.",
+      "fr": "Les notifications se trouvent désormais à un nouvel emplacement. Accédez aux paramètres de notification via l’icône en forme de cloche dans le menu supérieur ou appuyez ici.",
+      "de": "Die Benachrichtigungen befinden sich jetzt an einem neuen Ort. Gehe zu den Benachrichtigungseinstellungen über das Glockensymbol im oberen Menü oder tippe hier.",
+      "pl": ""
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
@@ -6361,6 +6361,54 @@
       "fr": "Vous avez utilisé {%d^%1$,d}/{%d^%2$,d} du nombre maximum de divisions pour ce capteur. Le capteur est partagé avec les utilisateurs suivants :",
       "de": "Sie haben {%d^%1$,d}/{%d^%2$,d} der maximalen Teilungszahl für diesen Sensor verwendet. Der Sensor wird mit den folgenden Benutzern geteilt:",
       "pl": ""
+    },
+    {
+      "ident_ios": "share_active_access_section_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Users with active access to this sensor:",
+      "fi": "Käyttäjät, joilla on aktiivinen pääsy tähän anturiin:",
+      "ru": "Пользователи, у которых есть активный доступ к этому датчику:",
+      "sv": "Användare med aktiv åtkomst till denna sensor:",
+      "fr": "Utilisateurs ayant un accès actif à ce capteur :",
+      "de": "Benutzer mit aktivem Zugriff auf diesen Sensor:",
+      "pl": "Użytkownicy z aktywnym dostępem do tego czujnika:"
+    },
+    {
+      "ident_ios": "share_active_access_empty_value",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Not shared to anyone yet",
+      "fi": "Ei vielä jaettu kenellekään",
+      "ru": "Пока ни с кем не поделились",
+      "sv": "Inte delad med någon ännu",
+      "fr": "Pas encore partagé avec qui que ce soit",
+      "de": "Noch mit niemandem geteilt",
+      "pl": "Jeszcze nikomu nie udostępniono"
+    },
+    {
+      "ident_ios": "share_sensor_shared_to_count_message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Used shares for this sensor: {%d^%1$,d}/{%d^%2$,d}\n\nTotal used shares for your account: {%d^%3$,d}/{%d^%4$,d}",
+      "fi": "Tälle anturille käytetyt jaot: {%d^%1$,d}/{%d^%2$,d}\n\nTilillesi käytetyt jaot yhteensä: {%d^%3$,d}/{%d^%4$,d}",
+      "ru": "Использовано доступов для этого датчика: {%d^%1$,d}/{%d^%2$,d}\n\nВсего использовано доступов для вашей учетной записи: {%d^%3$,d}/{%d^%4$,d}",
+      "sv": "Använda delningar för denna sensor: {%d^%1$,d}/{%d^%2$,d}\n\nTotalt antal använda delningar för ditt konto: {%d^%3$,d}/{%d^%4$,d}",
+      "fr": "Partages utilisés pour ce capteur : {%d^%1$,d}/{%d^%2$,d}\n\nTotal des partages utilisés pour votre compte : {%d^%3$,d}/{%d^%4$,d}",
+      "de": "Verwendete Freigaben für diesen Sensor: {%d^%1$,d}/{%d^%2$,d}\n\nInsgesamt verwendete Freigaben für Ihr Konto: {%d^%3$,d}/{%d^%4$,d}",
+      "pl": "Wykorzystane udostępnienia dla tego czujnika: {%d^%1$,d}/{%d^%2$,d}\n\nŁączna liczba wykorzystanych udostępnień dla Twojego konta: {%d^%3$,d}/{%d^%4$,d}"
+    },
+    {
+      "ident_ios": "share_pending_section_title",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "The following users have been invited and the sensor has been shared with them, but access is still pending as they have not yet created a free Ruuvi account. Invitations have been sent, and access will be granted once their accounts are set up:",
+      "fi": "Seuraavat käyttäjät on kutsuttu ja anturi on jaettu heille, mutta käyttöoikeus odottaa vielä, koska he eivät ole vielä luoneet ilmaista Ruuvi-tiliä. Kutsut on lähetetty, ja käyttöoikeus myönnetään, kun heidän tilinsä on luotu:",
+      "ru": "Следующие пользователи были приглашены, и датчик уже открыт для них, но доступ все еще ожидает подтверждения, поскольку они еще не создали бесплатную учетную запись Ruuvi. Приглашения отправлены, и доступ будет предоставлен, как только их учетные записи будут созданы:",
+      "sv": "Följande användare har bjudits in och sensorn har delats med dem, men åtkomsten väntar fortfarande eftersom de ännu inte har skapat ett gratis Ruuvi-konto. Inbjudningar har skickats och åtkomst ges när deras konton har skapats:",
+      "fr": "Les utilisateurs suivants ont été invités et le capteur a été partagé avec eux, mais l'accès est encore en attente car ils n'ont pas encore créé de compte Ruuvi gratuit. Les invitations ont été envoyées et l'accès leur sera accordé une fois leurs comptes créés :",
+      "de": "Die folgenden Benutzer wurden eingeladen und der Sensor wurde mit ihnen geteilt, aber der Zugriff steht noch aus, da sie noch kein kostenloses Ruuvi-Konto erstellt haben. Einladungen wurden versendet und der Zugriff wird gewährt, sobald ihre Konten eingerichtet sind:",
+      "pl": "Następujący użytkownicy zostali zaproszeni i czujnik został im udostępniony, ale dostęp nadal oczekuje, ponieważ nie utworzyli jeszcze bezpłatnego konta Ruuvi. Zaproszenia zostały wysłane, a dostęp zostanie przyznany po utworzeniu ich kont:"
     },
     {
       "ident_ios": "Share.Send.button",
@@ -14413,6 +14461,30 @@
       "fr": "Mesures cachées",
       "de": "Versteckte Messwerte",
       "pl": ""
+    },
+    {
+      "ident_ios": "show_more",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show more",
+      "fi": "Näytä lisää",
+      "ru": "Показать больше",
+      "sv": "Visa mer",
+      "fr": "Afficher plus",
+      "de": "Mehr anzeigen",
+      "pl": "Pokaż więcej"
+    },
+    {
+      "ident_ios": "show_less",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Show less",
+      "fi": "Näytä vähemmän",
+      "ru": "Показать меньше",
+      "sv": "Visa mindre",
+      "fr": "Afficher moins",
+      "de": "Weniger anzeigen",
+      "pl": "Pokaż mniej"
     },
     {
       "ident_ios": "",
