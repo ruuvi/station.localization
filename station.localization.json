@@ -12339,30 +12339,6 @@
       "pl": "Użyj ulepszonego wykresu"
     },
     {
-      "ident_ios": "Defaults.HistorySyncLegacy.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sync history with sign in",
-      "fi": "Synkronoi historia kirjautumisen yhteydessä",
-      "ru": "Синхронизировать историю при входе",
-      "sv": "Synkronisera historik vid inloggning",
-      "fr": "Synchroniser l'historique lors de la connexion",
-      "de": "Verlauf beim Anmelden synchronisieren",
-      "pl": "Zsynchronizuj historię podczas logowania"
-    },
-    {
-      "ident_ios": "Defaults.HistorySyncDashboard.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sync history after sign in",
-      "fi": "Synkronoi historia kirjautumisen jälkeen",
-      "ru": "Синхронизировать историю после входа",
-      "sv": "Synkronisera historik efter inloggning",
-      "fr": "Synchroniser l'historique après la connexion",
-      "de": "Verlauf nach dem Anmelden synchronisieren",
-      "pl": "Zsynchronizuj historię po zalogowaniu"
-    },
-    {
       "ident_ios": "Defaults.HistorySyncPerSensor.title",
       "ident_android": "",
       "ident_webui": "",
