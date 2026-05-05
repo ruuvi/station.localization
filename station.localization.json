@@ -14441,7 +14441,7 @@
     {
       "ident_ios": "show_more",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "show_more",
       "en": "Show more",
       "fi": "Näytä lisää",
       "ru": "Показать больше",
@@ -14453,7 +14453,7 @@
     {
       "ident_ios": "show_less",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "show_less",
       "en": "Show less",
       "fi": "Näytä vähemmän",
       "ru": "Показать меньше",
