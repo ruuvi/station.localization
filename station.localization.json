@@ -12783,6 +12783,18 @@
       "pl": "Ostrzegaj, jeśli dane z czujników nie były aktualizowane w chmurze przez dłużej niż {%d^%1$,d} minut."
     },
     {
+      "ident_ios": "alert_cloud_connection_delay_summary",
+      "ident_android": "alert_cloud_connection_delay_summary",
+      "ident_webui": "",
+      "en": "{%d^%1$,d} minutes",
+      "fi": "{%d^%1$,d} minuuttia",
+      "ru": "{%d^%1$,d} минут",
+      "sv": "{%d^%1$,d} minuter",
+      "fr": "{%d^%1$,d} minutes",
+      "de": "{%d^%1$,d} Minuten",
+      "pl": "{%d^%1$,d} minut"
+    },
+    {
       "ident_ios": "alert_cloud_connection_dialog_description",
       "ident_android": "alert_cloud_connection_dialog_description",
       "ident_webui": "alert_offline_dialog_description",
