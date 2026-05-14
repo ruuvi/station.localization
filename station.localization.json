@@ -5334,13 +5334,13 @@
       "ident_ios": "Settings.ChooseTemperatureUnit.text",
       "ident_android": "settings_temperature_unit_details",
       "ident_webui": "",
-      "en": "Choose the temperature unit you want to be displayed.",
-      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö.",
-      "ru": "Выберите единицу измерения температуры для отображения.",
-      "sv": "Välj den temperaturenhet som du vill ska visas.",
-      "fr": "Choisissez l'unité souhaitée pour la température.",
-      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll.",
-      "pl": "Wyświetl wybraną jednostkę temperatury."
+      "en": "Choose the temperature unit you want to be displayed. These global unit settings apply to all sensor cards by default. They do not apply to sensor cards that use custom Visible measurements settings under Sensor settings.",
+      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö. Nämä yleiset yksikköasetukset koskevat oletuksena kaikkia anturikortteja. Ne eivät koske anturikortteja, joissa käytetään mukautettuja Näytettävät mittaukset -asetuksia anturiasetuksissa.",
+      "ru": "Выберите единицу измерения температуры для отображения. Эти глобальные настройки единиц измерения по умолчанию применяются ко всем карточкам датчиков. Они не применяются к карточкам датчиков, в которых используются пользовательские настройки видимых измерений в настройках датчика.",
+      "sv": "Välj den temperaturenhet som du vill ska visas. Dessa globala enhetsinställningar gäller som standard för alla sensorkort. De gäller inte sensorkort som använder anpassade inställningar för Synliga mätvärden under sensorinställningarna.",
+      "fr": "Choisissez l'unité souhaitée pour la température. Ces paramètres d’unités globaux s’appliquent par défaut à toutes les cartes de capteur. Ils ne s’appliquent pas aux cartes de capteur qui utilisent des paramètres personnalisés de mesures visibles dans les paramètres du capteur.",
+      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll. Diese globalen Einheiteneinstellungen gelten standardmäßig für alle Sensorkarten. Sie gelten nicht für Sensorkarten, die benutzerdefinierte Einstellungen für sichtbare Messwerte in den Sensoreinstellungen verwenden.",
+      "pl": "Wybierz jednostkę temperatury, która ma być wyświetlana. Te globalne ustawienia jednostek domyślnie dotyczą wszystkich kart czujników. Nie dotyczą kart czujników, które używają niestandardowych ustawień widocznych pomiarów w ustawieniach czujnika."
     },
     {
       "ident_ios": "",
