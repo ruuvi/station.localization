@@ -8394,13 +8394,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "no_data_in_range",
-      "en": "No data.",
-      "fi": "Ei historiatietoja.",
+      "en": "No data in the selected time period.",
+      "fi": "Ei tietoja valitulla aikavälillä.",
       "ru": "",
-      "sv": "Inga historikdata.",
-      "fr": "Aucune donnée d'historique.",
-      "de": "Keine Verlaufsdaten.",
-      "pl": ""
+      "sv": "Inga data för den valda tidsperioden.",
+      "fr": "Aucune donnée pour la période sélectionnée.",
+      "de": "Keine Daten im ausgewählten Zeitraum.",
+      "pl": "Brak danych w wybranym okresie czasu."
     },
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.rename.text",
