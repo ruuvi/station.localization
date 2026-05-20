@@ -10479,6 +10479,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "main_view",
+      "ident_android": "main_view",
+      "ident_webui": "main_view",
+      "en": "Main view",
+      "fi": "Päänäkymä",
+      "ru": "Основной вид",
+      "sv": "Huvudvy",
+      "fr": "Vue principale",
+      "de": "Hauptansicht",
+      "pl": "Widok główny"
+    },
+    {
       "ident_ios": "full_image_view",
       "ident_android": "full_image_view",
       "ident_webui": "",
