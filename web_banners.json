@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260424",
-        "version": "1.3.6",
-        "en": "Version 1.3.6 has been released, resolving an issue where alert settings did not correctly follow visibility settings in Safari. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.6 on julkaistu. Tämä versio korjaa ongelman, jossa hälytysasetukset eivät noudattaneet näkyvyysasetuksia Safari-selaimessa. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.6 har släppts och åtgärdar ett problem där aviseringsinställningar inte följde synlighetsinställningarna korrekt i Safari. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20260522",
+        "version": "1.3.7",
+        "en": "Version 1.3.7 has been released with UI fixes for desktop browser window resizing, Notes, and iPad Safari history. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.3.7 on julkaistu. Tämä versio sisältää käyttöliittymäkorjauksia työpöytäselaimen ikkunan koonmuutokseen, muistiinpanoihin ja iPadin Safari-historiaan. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.3.7 har släppts med gränssnittskorrigeringar för storleksändring av skrivbordsfönster, anteckningar och Safari-historik på iPad. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",

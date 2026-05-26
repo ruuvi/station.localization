@@ -5334,13 +5334,13 @@
       "ident_ios": "Settings.ChooseTemperatureUnit.text",
       "ident_android": "settings_temperature_unit_details",
       "ident_webui": "",
-      "en": "Choose the temperature unit you want to be displayed.",
-      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö.",
-      "ru": "Выберите единицу измерения температуры для отображения.",
-      "sv": "Välj den temperaturenhet som du vill ska visas.",
-      "fr": "Choisissez l'unité souhaitée pour la température.",
-      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll.",
-      "pl": "Wyświetl wybraną jednostkę temperatury."
+      "en": "Choose the temperature unit you want to be displayed. These global unit settings apply to all sensor cards by default. They do not apply to sensor cards that use custom Visible measurements settings under Sensor settings.",
+      "fi": "Valitse sovelluksessa käytettävä lämpötilayksikkö. Nämä yleiset yksikköasetukset koskevat oletuksena kaikkia anturikortteja. Ne eivät koske anturikortteja, joissa käytetään mukautettuja Näytettävät mittaukset -asetuksia anturiasetuksissa.",
+      "ru": "Выберите единицу измерения температуры для отображения. Эти глобальные настройки единиц измерения по умолчанию применяются ко всем карточкам датчиков. Они не применяются к карточкам датчиков, в которых используются пользовательские настройки видимых измерений в настройках датчика.",
+      "sv": "Välj den temperaturenhet som du vill ska visas. Dessa globala enhetsinställningar gäller som standard för alla sensorkort. De gäller inte sensorkort som använder anpassade inställningar för Synliga mätvärden under sensorinställningarna.",
+      "fr": "Choisissez l'unité souhaitée pour la température. Ces paramètres d’unités globaux s’appliquent par défaut à toutes les cartes de capteur. Ils ne s’appliquent pas aux cartes de capteur qui utilisent des paramètres personnalisés de mesures visibles dans les paramètres du capteur.",
+      "de": "Wählen Sie die Temperatureinheit, die angezeigt werden soll. Diese globalen Einheiteneinstellungen gelten standardmäßig für alle Sensorkarten. Sie gelten nicht für Sensorkarten, die benutzerdefinierte Einstellungen für sichtbare Messwerte in den Sensoreinstellungen verwenden.",
+      "pl": "Wybierz jednostkę temperatury, która ma być wyświetlana. Te globalne ustawienia jednostek domyślnie dotyczą wszystkich kart czujników. Nie dotyczą kart czujników, które używają niestandardowych ustawień widocznych pomiarów w ustawieniach czujnika."
     },
     {
       "ident_ios": "",
@@ -8394,13 +8394,13 @@
       "ident_ios": "",
       "ident_android": "",
       "ident_webui": "no_data_in_range",
-      "en": "No data.",
-      "fi": "Ei historiatietoja.",
+      "en": "No data in the selected time period.",
+      "fi": "Ei tietoja valitulla aikavälillä.",
       "ru": "",
-      "sv": "Inga historikdata.",
-      "fr": "Aucune donnée d'historique.",
-      "de": "Keine Verlaufsdaten.",
-      "pl": ""
+      "sv": "Inga data för den valda tidsperioden.",
+      "fr": "Aucune donnée pour la période sélectionnée.",
+      "de": "Keine Daten im ausgewählten Zeitraum.",
+      "pl": "Brak danych w wybranym okresie czasu."
     },
     {
       "ident_ios": "TagSettings.tagNameTitleLabel.rename.text",
@@ -10479,6 +10479,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "main_view",
+      "ident_android": "main_view",
+      "ident_webui": "main_view",
+      "en": "Main view",
+      "fi": "Päänäkymä",
+      "ru": "Основной вид",
+      "sv": "Huvudvy",
+      "fr": "Vue principale",
+      "de": "Hauptansicht",
+      "pl": "Widok główny"
+    },
+    {
       "ident_ios": "full_image_view",
       "ident_android": "full_image_view",
       "ident_webui": "",
@@ -12339,30 +12351,6 @@
       "pl": "Użyj ulepszonego wykresu"
     },
     {
-      "ident_ios": "Defaults.HistorySyncLegacy.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sync history with sign in",
-      "fi": "Synkronoi historia kirjautumisen yhteydessä",
-      "ru": "Синхронизировать историю при входе",
-      "sv": "Synkronisera historik vid inloggning",
-      "fr": "Synchroniser l'historique lors de la connexion",
-      "de": "Verlauf beim Anmelden synchronisieren",
-      "pl": "Zsynchronizuj historię podczas logowania"
-    },
-    {
-      "ident_ios": "Defaults.HistorySyncDashboard.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sync history after sign in",
-      "fi": "Synkronoi historia kirjautumisen jälkeen",
-      "ru": "Синхронизировать историю после входа",
-      "sv": "Synkronisera historik efter inloggning",
-      "fr": "Synchroniser l'historique après la connexion",
-      "de": "Verlauf nach dem Anmelden synchronisieren",
-      "pl": "Zsynchronizuj historię po zalogowaniu"
-    },
-    {
       "ident_ios": "Defaults.HistorySyncPerSensor.title",
       "ident_android": "",
       "ident_webui": "",
@@ -12805,6 +12793,18 @@
       "fr": "Alerte si les données du capteur n'ont pas été mises à jour dans le cloud depuis plus de {%d^%1$,d} minutes.",
       "de": "Warnung, wenn Sensordaten länger als {%d^%1$,d} Minuten nicht in der Cloud aktualisiert wurden.",
       "pl": "Ostrzegaj, jeśli dane z czujników nie były aktualizowane w chmurze przez dłużej niż {%d^%1$,d} minut."
+    },
+    {
+      "ident_ios": "alert_cloud_connection_delay_summary",
+      "ident_android": "alert_cloud_connection_delay_summary",
+      "ident_webui": "",
+      "en": "{%d^%1$,d} minutes",
+      "fi": "{%d^%1$,d} minuuttia",
+      "ru": "{%d^%1$,d} минут",
+      "sv": "{%d^%1$,d} minuter",
+      "fr": "{%d^%1$,d} minutes",
+      "de": "{%d^%1$,d} Minuten",
+      "pl": "{%d^%1$,d} minut"
     },
     {
       "ident_ios": "alert_cloud_connection_dialog_description",
@@ -14465,7 +14465,7 @@
     {
       "ident_ios": "show_more",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "show_more",
       "en": "Show more",
       "fi": "Näytä lisää",
       "ru": "Показать больше",
@@ -14477,7 +14477,7 @@
     {
       "ident_ios": "show_less",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "show_less",
       "en": "Show less",
       "fi": "Näytä vähemmän",
       "ru": "Показать меньше",
