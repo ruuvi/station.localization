@@ -5283,6 +5283,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "Settings.Label.GlobalUnits",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Global Units",
+      "fi": "Yleiset yksiköt",
+      "ru": "Глобальные единицы",
+      "sv": "Globala enheter",
+      "fr": "Unités globales",
+      "de": "Globale Einheiten",
+      "pl": "Jednostki globalne"
+    },
+    {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
       "ident_android": "settings_humidity_unit_details",
       "ident_webui": "",
