@@ -8092,7 +8092,7 @@
     },
     {
       "ident_ios": "update",
-      "ident_android": "",
+      "ident_android": "update",
       "ident_webui": "update",
       "en": "Update",
       "fi": "Päivitä",
@@ -14476,7 +14476,7 @@
     },
     {
       "ident_ios": "show_more",
-      "ident_android": "",
+      "ident_android": "show_more",
       "ident_webui": "show_more",
       "en": "Show more",
       "fi": "Näytä lisää",
@@ -14488,7 +14488,7 @@
     },
     {
       "ident_ios": "show_less",
-      "ident_android": "",
+      "ident_android": "show_less",
       "ident_webui": "show_less",
       "en": "Show less",
       "fi": "Näytä vähemmän",
@@ -15676,7 +15676,7 @@
     },
     {
       "ident_ios": "notes",
-      "ident_android": "",
+      "ident_android": "notes",
       "ident_webui": "notes",
       "en": "Notes",
       "fi": "Muistiinpanot",
