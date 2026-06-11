@@ -3397,6 +3397,18 @@
       "pl": ""
     },
     {
+      "ident_ios": "TagSettings.Alerts.NoCloudDataBanner.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "To receive alerts from your RuuviTag sensors while the app is running in the background, enable Connected Mode (pairing) in the Sensor Settings. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
+      "fi": "",
+      "ru": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
       "ident_android": "background_image",
       "ident_webui": "",
