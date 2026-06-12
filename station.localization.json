@@ -3401,12 +3401,12 @@
       "ident_android": "",
       "ident_webui": "",
       "en": "To receive alerts from your RuuviTag sensors while the app is running in the background, enable Connected Mode (pairing) in the Sensor Settings. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
+      "fi": "Ota Bluetooth-yhteys käyttöön anturin asetuksissa, jos haluat vastaanottaa hälytyksiä RuuviTag-antureilta sovelluksen ollessa käynnissä taustalla. Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
+      "ru": "Чтобы получать оповещения от датчиков RuuviTag, когда приложение работает в фоновом режиме, включите Подключённый режим (сопряжение) в настройках датчика. Оповещения от датчиков Ruuvi не доставляются, если приложение полностью закрыто.",
+      "sv": "För att få alarm från dina RuuviTag-sensorer när appen körs i bakgrunden, aktivera Anslutet läge (parkoppling) i sensorinställningarna. Alarm från Ruuvi-sensorer levereras inte om appen är helt stängd.",
+      "fr": "Pour recevoir des alertes de vos capteurs RuuviTag lorsque l’app fonctionne en arrière-plan, activez le mode connecté (association) dans les réglages du capteur. Les alertes des capteurs Ruuvi ne sont pas transmises si l’app est complètement fermée.",
+      "de": "Um Warnungen von deinen RuuviTag-Sensoren zu erhalten, während die App im Hintergrund läuft, aktiviere den Verbundenen Modus (Kopplung) in den Sensoreinstellungen. Warnungen von Ruuvi-Sensoren werden nicht zugestellt, wenn die App vollständig geschlossen ist.",
+      "pl": "Aby otrzymywać alarmy z czujników RuuviTag, gdy aplikacja działa w tle, włącz tryb połączenia (parowanie) w ustawieniach czujnika. Alarmy z czujników Ruuvi nie są dostarczane, jeśli aplikacja jest całkowicie zamknięta."
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
