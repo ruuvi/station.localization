@@ -601,6 +601,18 @@
       "pl": "Przysp. Z"
     },
     {
+      "ident_ios": "acceleration",
+      "ident_android": "acceleration",
+      "ident_webui": "acceleration",
+      "en": "Acceleration",
+      "fi": "Kiihtyvyys",
+      "ru": "Ускорение",
+      "sv": "Acceleration",
+      "fr": "Accélération",
+      "de": "Beschleunigung",
+      "pl": "Przyspieszenie"
+    },
+    {
       "ident_ios": "signal_strength",
       "ident_android": "signal_strength",
       "ident_webui": "signal_strength",
