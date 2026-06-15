@@ -9894,13 +9894,13 @@
       "ident_ios": "Settings.Measurement.Resolution.description",
       "ident_android": "accuracy_description",
       "ident_webui": "",
-      "en": "Select how accurately you'd like to see the sensors' live measurement values in the app. This setting doesn't affect history charts or alerts.",
-      "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin tai hälytyksiin.",
+      "en": "Select how accurately you'd like to see the sensors' live measurement values in the app. This setting doesn't affect history charts, CSV- and XLXS-file exports or alerts.",
+      "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin, CSV- ja XLXS-tiedostoon vientiin tai hälytyksiin.",
       "ru": "",
-      "sv": "Välj hur exakt du vill se sensorernas livemätvärden i appen. Den här inställningen påverkar inte histogram eller varningar.",
-      "fr": "Sélectionnez la précision avec laquelle vous souhaitez voir les valeurs de mesure en direct des capteurs dans l'application. Ce paramètre n'affecte pas les graphiques d'historique ni les alertes.",
-      "de": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme.",
-      "pl": ""
+      "sv": "Välj hur exakt du vill se sensorernas live-mätvärden i appen. Den här inställningen påverkar inte historikdiagram, export av CSV- och XLXS-filer eller alarm.",
+      "fr": "Sélectionnez la précision avec laquelle vous souhaitez voir les valeurs de mesure en direct des capteurs dans l’application. Ce paramètre n’affecte pas les graphiques d’historique, les exports de fichiers CSV et XLXS ni les alertes.",
+      "de": "Wählen Sie aus, wie genau die Live-Messwerte der Sensoren in der App angezeigt werden sollen. Diese Einstellung wirkt sich nicht auf Verlaufsdiagramme, den Export von CSV- und XLXS-Dateien oder Warnungen aus.",
+      "pl": "Wybierz, z jaką dokładnością chcesz widzieć bieżące wartości pomiarowe czujników w aplikacji. To ustawienie nie wpływa na wykresy historii, eksport plików CSV i XLXS ani na alarmy."
     },
     {
       "ident_ios": "Settings.Measurement.Unit.title",
