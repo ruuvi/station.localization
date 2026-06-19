@@ -2536,7 +2536,7 @@
       "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Notifications are now located in a new place. Go to notification settings from the bell icon in the top menu or tap here.",
+      "en": "Alert settings are now located in a new place. Go to alert settings from the bell icon in the top menu or tap here.",
       "fi": "Hälytykset löytyvät nyt uudesta sijainnista. Siirry hälytysasetuksiin ylävalikon kellokuvakkeesta tai napauttamalla tästä.",
       "ru": "",
       "sv": "Larminställningarna finns nu på en ny plats. Gå till larminställningarna via klockikonen i toppmenyn eller tryck här.",
