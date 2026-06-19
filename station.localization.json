@@ -2539,10 +2539,10 @@
       "en": "Notifications are now located in a new place. Go to notification settings from the bell icon in the top menu or tap here.",
       "fi": "Hälytykset löytyvät nyt uudesta sijainnista. Siirry hälytysasetuksiin ylävalikon kellokuvakkeesta tai napauttamalla tästä.",
       "ru": "",
-      "sv": "Aviseringarna finns nu på en ny plats. Gå till aviseringsinställningarna via klockikonen i toppmenyn eller tryck här.",
-      "fr": "Les notifications se trouvent désormais à un nouvel emplacement. Accédez aux paramètres de notification via l’icône en forme de cloche dans le menu supérieur ou appuyez ici.",
-      "de": "Die Benachrichtigungen befinden sich jetzt an einem neuen Ort. Gehe zu den Benachrichtigungseinstellungen über das Glockensymbol im oberen Menü oder tippe hier.",
-      "pl": ""
+      "sv": "Larminställningarna finns nu på en ny plats. Gå till larminställningarna via klockikonen i toppmenyn eller tryck här.",
+      "fr": "Les réglages des alertes se trouvent désormais à un nouvel emplacement. Accédez aux réglages des alertes depuis l’icône de cloche dans le menu supérieur ou appuyez ici.",
+      "de": "Die Alarmeinstellungen befinden sich jetzt an einem neuen Ort. Öffnen Sie die Alarmeinstellungen über das Glockensymbol im oberen Menü oder tippen Sie hier.",
+      "pl": "Ustawienia alarmów znajdują się teraz w nowym miejscu. Przejdź do ustawień alarmów za pomocą ikony dzwonka w górnym menu lub stuknij tutaj."
     },
     {
       "ident_ios": "TagSettings.Alerts.NoCloudDataBanner.text",
