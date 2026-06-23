@@ -4431,6 +4431,18 @@
       "pl": "Jednostki globalne"
     },
     {
+      "ident_ios": "Settings.GlobalUnits.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "These settings define the global units used across Ruuvi Station, except for values configured in visibility settings. Dew point can be configured separately in visibility settings.",
+      "fi": "Nämä asetukset määrittävät Ruuvi Stationissa käytettävät yleiset yksiköt lukuun ottamatta arvoja, jotka on määritetty näkyvyysasetuksissa. Kastepisteen voi määrittää erikseen näkyvyysasetuksissa.",
+      "ru": "Эти настройки определяют глобальные единицы измерения, используемые в Ruuvi Station, за исключением значений, настроенных в параметрах видимости. Точку росы можно настроить отдельно в параметрах видимости.",
+      "sv": "Dessa inställningar definierar de globala enheter som används i Ruuvi Station, förutom värden som konfigurerats i synlighetsinställningarna. Daggpunkt kan konfigureras separat i synlighetsinställningarna.",
+      "fr": "Ces réglages définissent les unités globales utilisées dans Ruuvi Station, sauf pour les valeurs configurées dans les paramètres de visibilité. Le point de rosée peut être configuré séparément dans les paramètres de visibilité.",
+      "de": "Diese Einstellungen legen die globalen Einheiten fest, die in Ruuvi Station verwendet werden, mit Ausnahme der Werte, die in den Sichtbarkeitseinstellungen konfiguriert sind. Der Taupunkt kann separat in den Sichtbarkeitseinstellungen konfiguriert werden.",
+      "pl": "Te ustawienia określają globalne jednostki używane w Ruuvi Station, z wyjątkiem wartości skonfigurowanych w ustawieniach widoczności. Punkt rosy można skonfigurować osobno w ustawieniach widoczności."
+    },
+    {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
       "ident_android": "settings_humidity_unit_details",
       "ident_webui": "",
