@@ -169,6 +169,54 @@
       "pl": "Ciśnienie powietrza"
     },
     {
+      "ident_ios": "air_pressure_hpa",
+      "ident_android": "air_pressure_hpa",
+      "ident_webui": "air_pressure_hpa",
+      "en": "Air pressure (hPa)",
+      "fi": "Ilmanpaine (hPa)",
+      "ru": "Атмосферное давление (hPa)",
+      "sv": "Lufttryck (hPa)",
+      "fr": "Pression atmosphérique (hPa)",
+      "de": "Luftdruck (hPa)",
+      "pl": "Ciśnienie powietrza (hPa)"
+    },
+    {
+      "ident_ios": "air_pressure_pa",
+      "ident_android": "air_pressure_pa",
+      "ident_webui": "air_pressure_pa",
+      "en": "Air pressure (Pa)",
+      "fi": "Ilmanpaine (Pa)",
+      "ru": "Атмосферное давление (Pa)",
+      "sv": "Lufttryck (Pa)",
+      "fr": "Pression atmosphérique (Pa)",
+      "de": "Luftdruck (Pa)",
+      "pl": "Ciśnienie powietrza (Pa)"
+    },
+    {
+      "ident_ios": "air_pressure_mmhg",
+      "ident_android": "air_pressure_mmhg",
+      "ident_webui": "air_pressure_mmhg",
+      "en": "Air pressure (mmHg)",
+      "fi": "Ilmanpaine (mmHg)",
+      "ru": "Атмосферное давление (mmHg)",
+      "sv": "Lufttryck (mmHg)",
+      "fr": "Pression atmosphérique (mmHg)",
+      "de": "Luftdruck (mmHg)",
+      "pl": "Ciśnienie powietrza (mmHg)"
+    },
+    {
+      "ident_ios": "air_pressure_inhg",
+      "ident_android": "air_pressure_inhg",
+      "ident_webui": "air_pressure_inhg",
+      "en": "Air pressure (inHg)",
+      "fi": "Ilmanpaine (inHg)",
+      "ru": "Атмосферное давление (inHg)",
+      "sv": "Lufttryck (inHg)",
+      "fr": "Pression atmosphérique (inHg)",
+      "de": "Luftdruck (inHg)",
+      "pl": "Ciśnienie powietrza (inHg)"
+    },
+    {
       "ident_ios": "pressure_with_unit",
       "ident_android": "pressure_with_unit",
       "ident_webui": "",
@@ -10634,7 +10682,7 @@
       "de": "Die Zwangsanforderung erfolgt über die Nahfeldkommunikation (NFC). Vergewissern Sie sich, dass NFC auf Ihrem Mobilgerät aktiviert ist.\\\n\n\n\t1. Berühren Sie Ihren Ruuvi-Sensor mit Ihrem Mobilgerät, um den Beanspruchungsprozess zu starten.\\n\n\n\t2. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt.\\\n\\\nWenn die Beanspruchung nicht erfolgreich war oder NFC auf Ihrem Gerät nicht verfügbar ist:\\n\\n\t1. Öffnen Sie die Abdeckung Ihres Ruuvi-Sensors.\\\n\n\n\t2. Suchen Sie die runde schwarze Taste (oder die Taste \\\"B\\\", falls Ihr Sensor 2 Tasten hat) auf der weißen Platine und drücken Sie sie kurz, und tippen Sie dann auf die Schaltfläche „Verwenden Sie BT“, um den Beanspruchungsprozess zu starten.\\\n\\n\\t3. Nach erfolgreicher Beanspruchung werden Sie zu den Sensoreinstellungen zurückgeschickt.",
       "pl": ""
     },
-        {
+    {
       "ident_ios": "force_claim_air_description2",
       "ident_android": "",
       "ident_webui": "",
