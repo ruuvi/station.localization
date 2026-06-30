@@ -169,54 +169,6 @@
       "pl": "Ciśnienie powietrza"
     },
     {
-      "ident_ios": "air_pressure_hpa",
-      "ident_android": "air_pressure_hpa",
-      "ident_webui": "air_pressure_hpa",
-      "en": "Air pressure (hPa)",
-      "fi": "Ilmanpaine (hPa)",
-      "ru": "Атмосферное давление (hPa)",
-      "sv": "Lufttryck (hPa)",
-      "fr": "Pression atmosphérique (hPa)",
-      "de": "Luftdruck (hPa)",
-      "pl": "Ciśnienie powietrza (hPa)"
-    },
-    {
-      "ident_ios": "air_pressure_pa",
-      "ident_android": "air_pressure_pa",
-      "ident_webui": "air_pressure_pa",
-      "en": "Air pressure (Pa)",
-      "fi": "Ilmanpaine (Pa)",
-      "ru": "Атмосферное давление (Pa)",
-      "sv": "Lufttryck (Pa)",
-      "fr": "Pression atmosphérique (Pa)",
-      "de": "Luftdruck (Pa)",
-      "pl": "Ciśnienie powietrza (Pa)"
-    },
-    {
-      "ident_ios": "air_pressure_mmhg",
-      "ident_android": "air_pressure_mmhg",
-      "ident_webui": "air_pressure_mmhg",
-      "en": "Air pressure (mmHg)",
-      "fi": "Ilmanpaine (mmHg)",
-      "ru": "Атмосферное давление (mmHg)",
-      "sv": "Lufttryck (mmHg)",
-      "fr": "Pression atmosphérique (mmHg)",
-      "de": "Luftdruck (mmHg)",
-      "pl": "Ciśnienie powietrza (mmHg)"
-    },
-    {
-      "ident_ios": "air_pressure_inhg",
-      "ident_android": "air_pressure_inhg",
-      "ident_webui": "air_pressure_inhg",
-      "en": "Air pressure (inHg)",
-      "fi": "Ilmanpaine (inHg)",
-      "ru": "Атмосферное давление (inHg)",
-      "sv": "Lufttryck (inHg)",
-      "fr": "Pression atmosphérique (inHg)",
-      "de": "Luftdruck (inHg)",
-      "pl": "Ciśnienie powietrza (inHg)"
-    },
-    {
       "ident_ios": "pressure_with_unit",
       "ident_android": "pressure_with_unit",
       "ident_webui": "",
