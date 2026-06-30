@@ -746,7 +746,7 @@
     },
     {
       "ident_ios": "sound_instant",
-      "ident_android": "",
+      "ident_android": "sound_instant",
       "ident_webui": "sound_instant",
       "en": "Sound (instant)",
       "fi": "Ääni (hetkellinen)",
