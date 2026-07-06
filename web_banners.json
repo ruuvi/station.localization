@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260522",
-        "version": "1.3.7",
-        "en": "Version 1.3.7 has been released with UI fixes for desktop browser window resizing, Notes, and iPad Safari history. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.7 on julkaistu. Tämä versio sisältää käyttöliittymäkorjauksia työpöytäselaimen ikkunan koonmuutokseen, muistiinpanoihin ja iPadin Safari-historiaan. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.7 har släppts med gränssnittskorrigeringar för storleksändring av skrivbordsfönster, anteckningar och Safari-historik på iPad. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20260706",
+        "version": "1.3.8",
+        "en": "Version 1.3.8 has been released. This update fixes an issue where the measurement sequence number was not visible in the app. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Tämä päivitys korjaa ongelman, jossa mittausjärjestysnumero ei näkynyt sovelluksessa. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.3.8 har släppts. Den här uppdateringen åtgärdar ett problem där mätsekvensnumret inte visades i appen. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
