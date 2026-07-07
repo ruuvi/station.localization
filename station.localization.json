@@ -13,7 +13,7 @@
       "pl": "Jakość powietrza"
     },
     {
-      "ident_ios": "aqi_with_unit",
+      "ident_ios": "",
       "ident_android": "aqi_with_unit",
       "ident_webui": "",
       "en": "Air quality ({%@^%1$s})",
@@ -133,7 +133,7 @@
       "pl": "Punkt rosy"
     },
     {
-      "ident_ios": "ExportService.DewPoint",
+      "ident_ios": "",
       "ident_android": "dewpoint_with_unit",
       "ident_webui": "",
       "en": "Dew point ({%@^%1$s})",
@@ -337,7 +337,7 @@
       "pl": "Jasność ({%@^%1$s})"
     },
     {
-      "ident_ios": "particulate_matter_10",
+      "ident_ios": "",
       "ident_android": "particulate_matter_10",
       "ident_webui": "particulate_matter_10",
       "en": "Particulate matter 1",
@@ -385,7 +385,7 @@
       "pl": "PM2.5"
     },
     {
-      "ident_ios": "particulate_matter_40",
+      "ident_ios": "",
       "ident_android": "particulate_matter_40",
       "ident_webui": "particulate_matter_40",
       "en": "Particulate matter 4",
@@ -529,7 +529,7 @@
       "pl": "Bateria"
     },
     {
-      "ident_ios": "ExportService.AccelerationX",
+      "ident_ios": "",
       "ident_android": "acceleration_x",
       "ident_webui": "acceleration_x",
       "en": "Acceleration X",
@@ -541,7 +541,7 @@
       "pl": "Przyspieszenie X"
     },
     {
-      "ident_ios": "ExportService.AccelerationY",
+      "ident_ios": "",
       "ident_android": "acceleration_y",
       "ident_webui": "acceleration_y",
       "en": "Acceleration Y",
@@ -553,7 +553,7 @@
       "pl": "Przyspieszenie Y"
     },
     {
-      "ident_ios": "ExportService.AccelerationZ",
+      "ident_ios": "",
       "ident_android": "acceleration_z",
       "ident_webui": "acceleration_z",
       "en": "Acceleration Z",
@@ -601,6 +601,18 @@
       "pl": "Przysp. Z"
     },
     {
+      "ident_ios": "acceleration",
+      "ident_android": "acceleration",
+      "ident_webui": "acceleration",
+      "en": "Acceleration",
+      "fi": "Kiihtyvyys",
+      "ru": "Ускорение",
+      "sv": "Acceleration",
+      "fr": "Accélération",
+      "de": "Beschleunigung",
+      "pl": "Przyspieszenie"
+    },
+    {
       "ident_ios": "signal_strength",
       "ident_android": "signal_strength",
       "ident_webui": "signal_strength",
@@ -625,7 +637,7 @@
       "pl": "Moc sygnału (RSSI)"
     },
     {
-      "ident_ios": "signal_strength_dbm",
+      "ident_ios": "",
       "ident_android": "signal_strength_dbm",
       "ident_webui": "",
       "en": "Signal strength (dBm)",
@@ -661,7 +673,7 @@
       "pl": "Nr seq. pom."
     },
     {
-      "ident_ios": "sound",
+      "ident_ios": "",
       "ident_android": "sound",
       "ident_webui": "sound",
       "en": "Sound",
@@ -817,7 +829,7 @@
       "pl": "lx"
     },
     {
-      "ident_ios": "Done",
+      "ident_ios": "",
       "ident_android": "done",
       "ident_webui": "",
       "en": "Done",
@@ -901,66 +913,6 @@
       "pl": "Wersja"
     },
     {
-      "ident_ios": "Background.PresentNotifications.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Show notifications",
-      "fi": "Näytä ilmoituksia",
-      "ru": "Показывать Уведомления",
-      "sv": "Visa Notifikationer",
-      "fr": "Voir les notifications",
-      "de": "Zeige Benachrichtigungen",
-      "pl": "Pokaż powiadomienia"
-    },
-    {
-      "ident_ios": "Background.KeepConnection.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Keep the connection",
-      "fi": "Säilytä yhteys",
-      "ru": "Держать Соединение",
-      "sv": "Håll Anslutningen",
-      "fr": "Maintenir la connexion",
-      "de": " Verbindung behalten",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Background.Interval.Every.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "every",
-      "fi": "joka",
-      "ru": "каждые",
-      "sv": "varje",
-      "fr": "Chaque",
-      "de": "Jeder",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Background.Interval.Min.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "min",
-      "fi": "min",
-      "ru": "мин",
-      "sv": "min",
-      "fr": "min",
-      "de": "min",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Background.readRSSITitle.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Read RSSI",
-      "fi": "Lue RSSI",
-      "ru": "Считывать RSSI",
-      "sv": "Läs RSSI",
-      "fr": "Lire RSSI",
-      "de": "Lese RSSI",
-      "pl": ""
-    },
-    {
       "ident_ios": "BluetoothError.disconnected",
       "ident_android": "",
       "ident_webui": "",
@@ -994,30 +946,6 @@
       "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
       "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre téléphone.",
       "de": "Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehe zu Einstellungen und schalte Bluetooth ein.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Too many requests",
-      "fi": "Liian monta pyyntöä",
-      "ru": "Слишком много запросов",
-      "sv": "För många förfrågningar",
-      "fr": "Trop de demandes simultanées",
-      "de": "Zu viele Anfragen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Cards.WebTagAPILimitExcededError.Alert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Please try again in 5 minutes",
-      "fi": "Yritä uudelleen viiden minuutin kuluttua",
-      "ru": "Пожалуйста, попробуйте через 5 минут",
-      "sv": "Försök igen om 5 minutes",
-      "fr": "Réessayez dans 5 minutes",
-      "de": "Versuche es in 5 minuten nochmal",
       "pl": ""
     },
     {
@@ -1090,30 +1018,6 @@
       "sv": "Visa uppdateringsinstruktioner",
       "fr": "Vérifie les mises à jour",
       "de": "Überprüfe auf Updates",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Cards.Connected.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Connected",
-      "fi": "Yhdistetty",
-      "ru": "Соединен",
-      "sv": "Ansluten",
-      "fr": "Connecté",
-      "de": "Verbunden",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Cards.Error.ReverseGeocodingFailed.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to load data for virtual sensor. Reverse geocode operation limit exceeded.",
-      "fi": "Virtuaalisen anturin tietojen lataaminen epäonnistui. Maantieteellisten koordinaattien käänteishaun toimintaraja ylittyi.",
-      "ru": "Не удалось загрузить данные для виртуального сенсора. Превышен лимит операций обратного геокодирования.",
-      "sv": "Det gick inte att ladda data för Virtual Sensor. Gränsen för geokodöverföring överskriden.",
-      "fr": "Echec du téléchargement des données de l'appareil.",
-      "de": "Fehler beim Laden der Daten für den virtuellen Sensor. Das Betriebslimit für umgekehrte Geokodierung wurde überschritten.",
       "pl": ""
     },
     {
@@ -1345,18 +1249,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Defaults.AlertsRepeatInterval.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alerts interval",
-      "fi": "Hälytysväli",
-      "ru": "Интервал Уведомлений",
-      "sv": "Alarmintervall",
-      "fr": "Intervalle d'alerte",
-      "de": "Benachrichtigungsintervall",
-      "pl": ""
-    },
-    {
       "ident_ios": "Defaults.WebPullInterval.title",
       "ident_android": "",
       "ident_webui": "",
@@ -1429,18 +1321,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Defaults.ShowAlertRangeInGraph.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Show alert range in graph",
-      "fi": "Näytä hälytysalue kuvaajassa",
-      "ru": "Показать диапазон предупреждений на графике",
-      "sv": "Visa varningsområde i grafen",
-      "fr": "Afficher la plage d'alerte dans le graphique",
-      "de": "Alarmbereich im Diagramm anzeigen",
-      "pl": "Pokaż zakres alarmowy na wykresie"
-    },
-    {
       "ident_ios": "Defaults.ImageCompressionQuality.title",
       "ident_android": "",
       "ident_webui": "",
@@ -1451,18 +1331,6 @@
       "fr": "Compression d'image",
       "de": "Bildkompression",
       "pl": "Kompresja obrazu"
-    },
-    {
-      "ident_ios": "DiscoverTable.SectionTitle.WebTags",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Virtual sensors",
-      "fi": "Paikkaan perustuvat virtuaaliset anturit",
-      "ru": "Виртуальные",
-      "sv": "Virtuella sensorer",
-      "fr": "Capteurs virtuels",
-      "de": "Virtuelle Sensoren",
-      "pl": ""
     },
     {
       "ident_ios": "DiscoverTable.BluetoothDisabledAlert.title",
@@ -1534,30 +1402,6 @@
       "sv": "(Bluetooth är avaktiverat)",
       "fr": "(Bluetooth désactivé)",
       "de": "(Bluetooth ist deaktiviert)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DiscoverTable.WebTagsInfoDialog.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Virtual sensors show public weather data provided by local weather stations.",
-      "fi": "Virtuaalisten antureiden avulla voidaan esittää paikallisilta sääasemilta kerättyjä säätietoja.",
-      "ru": "Виртуальные сенсоры показывают публичную информацию о погоде, предоставленную локальными станциями.",
-      "sv": "Virtuella Sensorer visar offentlig väder data som upprätthålls av lokala väderstationer.",
-      "fr": "Les capteurs virtuels permettent d'afficher des données recueillies à partir de stations météorologiques locales.",
-      "de": "Virtuelle Sensoren zeigen öffentliche Wetterdaten an, die von lokalen Wetterstationen bereitgestellt werden.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DiscoverTable.RuuviDevice.prefix",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Ruuvi",
-      "fi": "Ruuvi",
-      "ru": "Ruuvi",
-      "sv": "Ruuvi",
-      "fr": "Ruuvi",
-      "de": "Ruuvi",
       "pl": ""
     },
     {
@@ -1657,102 +1501,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "ExportService.ISO8601",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "ISO8601",
-      "fi": "ISO8601",
-      "ru": "ISO8601",
-      "sv": "ISO8601",
-      "fr": "ISO8601",
-      "de": "ISO8601",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.Temperature",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Temperature (%@)",
-      "fi": "Lämpötila (%@)",
-      "ru": "Температура (%@)",
-      "sv": "Temperatur (%@)",
-      "fr": "Température (%@)",
-      "de": "Temperatur (%@)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.Humidity",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Humidity (%@)",
-      "fi": "Kosteus (%@)",
-      "ru": "Влажность (%@)",
-      "sv": "Luftfuktighet (%@)",
-      "fr": "Humidité (%@)",
-      "de": "Feuchtigkeit (%@)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.Pressure",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Pressure (%@)",
-      "fi": "Ilmanpaine (%@)",
-      "ru": "Давление (%@)",
-      "sv": "Lufttryck (%@)",
-      "fr": "Pression (%@)",
-      "de": "Druck (%@)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.Voltage",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Voltage (V)",
-      "fi": "Jännite (V)",
-      "ru": "Напряжение (В)",
-      "sv": "Spänning (V)",
-      "fr": "Tension (V)",
-      "de": "Spannung (V)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.MovementCounter",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Movement counter",
-      "fi": "Liikelaskuri",
-      "ru": "Счетчик Движения",
-      "sv": "Rörelseräknare",
-      "fr": "Compteur de mouvements",
-      "de": "Bewegungszähler",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.MeasurementSequenceNumber",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Measurement sequence number",
-      "fi": "Mittausjärjestysnumero",
-      "ru": "Порядковый Номер Измерения",
-      "sv": "Mätningssekvensnummer",
-      "fr": "Numéro de séquence",
-      "de": "Messsequenznummer",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ExportService.TXPower",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "TX power",
-      "fi": "Lähetysteho",
-      "ru": "Мощность Передачи",
-      "sv": "Sändningseffekt",
-      "fr": "Puissance d'émission",
-      "de": "TX-Leistung",
-      "pl": ""
-    },
-    {
       "ident_ios": "ExportService.DataSource",
       "ident_android": "",
       "ident_webui": "",
@@ -1765,18 +1513,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "ForegroundRow.advertisement.section",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Advertisements",
-      "fi": "Laiteilmoitukset",
-      "ru": "Сообщения",
-      "sv": "Enhetsmeddelanden",
-      "fr": "Messages des capteurs",
-      "de": "Anzeige",
-      "pl": ""
-    },
-    {
       "ident_ios": "ForegroundRow.advertisement.title",
       "ident_android": "",
       "ident_webui": "",
@@ -1786,102 +1522,6 @@
       "sv": "Spara enhetsmeddelanden",
       "fr": "Enregistrer les messages des capteurs",
       "de": "Werbung speichern",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ForegroundRow.connection.section",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Logs",
-      "fi": "Lokitiedot",
-      "ru": "Логи",
-      "sv": "Logs",
-      "fr": "Historique",
-      "de": "Protokoll",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ForegroundRow.connection.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Connect and sync logs",
-      "fi": "Yhdistä ja tallenna lokitiedot",
-      "ru": "Соединяться и сохранять логи",
-      "sv": "Anslut och synkronisera loggar",
-      "fr": "Connecter et enregistrer l'historique",
-      "de": "Protokolle verbinden und synchronisieren",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Foreground.navigationItem.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Foreground",
-      "fi": "Prosessit",
-      "ru": "Активный Режим",
-      "sv": "Processer",
-      "fr": "Tâches actives en premier plan",
-      "de": "Vordergrund",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Foreground.Interval.Every.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Every",
-      "fi": "Joka",
-      "ru": "Каждые",
-      "sv": "Varje",
-      "fr": "Chaque",
-      "de": "Jeder",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Foreground.Interval.Min.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "min",
-      "fi": "min",
-      "ru": "мин",
-      "sv": "min",
-      "fr": "min",
-      "de": "min",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ForegroundRow.webTags.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Load and save from web",
-      "fi": "Lataa ja tallenna verkkopalvelusta",
-      "ru": "Загружать из интернета",
-      "sv": "Ladda och spara från webben",
-      "fr": "Télécharger et enregistrer depuis internet",
-      "de": "Laden und speichern aus dem Web",
-      "pl": ""
-    },
-    {
-      "ident_ios": "ForegroundRow.webTags.section",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "VIRTUAL SENSORS",
-      "fi": "VIRTUAALISET ANTURIT",
-      "ru": "ВИРТУАЛЬНЫЕ СЕНСОРЫ",
-      "sv": "VIRTUELLA SENSORER",
-      "fr": "CAPTEURS VIRTUELS",
-      "de": "VIRTUELLE SENSOREN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Foreground.Interval.All.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "All",
-      "fi": "Kaikki",
-      "ru": "Все",
-      "sv": "Alla",
-      "fr": "Tous",
-      "de": "Alle",
       "pl": ""
     },
     {
@@ -1909,30 +1549,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Heartbeat.readRSSITitle.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Read RSSI",
-      "fi": "Lue RSSI",
-      "ru": "Считывать RSSI",
-      "sv": "Läs RSSI",
-      "fr": "Lire RSSI",
-      "de": "Lese RSSI",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Heartbeat.Interval.Sec.string",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "sec",
-      "fi": "sek",
-      "ru": "сек",
-      "sv": "sek",
-      "fr": "sec",
-      "de": "sek",
-      "pl": ""
-    },
-    {
       "ident_ios": "Heartbeat.Interval.All.string",
       "ident_android": "",
       "ident_webui": "",
@@ -1942,54 +1558,6 @@
       "sv": "Alla",
       "fr": "Tous",
       "de": "Alle",
-      "pl": ""
-    },
-    {
-      "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure?",
-      "fi": "Oletko varma?",
-      "ru": "Вы уверены?",
-      "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr ?",
-      "de": "Sind Sie sicher?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "HumidityCalibration.ClearCalibrationConfirmationAlert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "You are going to clear humidity offset. This can't be undone. Tap \\\"Confirm\\\" to continue.",
-      "fi": "Olet nollaamassa kalibrointia. Tätä ei voida peruuttaa. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь очистить смещение для влажности. Вы не сможете откатить изменения. Нажмите \\\"Подтвердить\\\" для продолжения.",
-      "sv": "Du kommer att rensa luftfuktighetskalibreringen. Det går inte att ångra detta. Tryck på \\\"Bekräfta\\\" för att fortsätta.",
-      "fr": "Vous allez réinitialiser le calibrage de l'hygromètre. Cette action est irréversible. Appuyez sur \\\"confirmer\\\" pour continuer.",
-      "de": "Feuchtigkeits-Offset wird gelöscht. Dies kann nicht rückgängig gemacht werden. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure?",
-      "fi": "Oletko varma?",
-      "ru": "Вы уверены?",
-      "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr ?",
-      "de": "Sind Sie sicher?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "HumidityCalibration.CalibrationConfirmationAlert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "You are going to calibrate humidity offset. Tap \\\"Confirm\\\" to continue",
-      "fi": "Olet kalibroimassa kosteusanturia. Jatka napauttamalla \\\"Vahvista\\\" .",
-      "ru": "Вы собираетесь откалибровать смещение для влажности. Нажмите \\\"Подтвердить\\\" для продолжения.",
-      "sv": "Du kommer att kalibrera luftfuktighetssensorn. Tryck på \\\"Bekräfta\\\" för att fortsätta.",
-      "fr": "Vous allez calibrer l'hygromètre. Appuyez sur \\\"confirmer\\\" pour continuer.",
-      "de": "Feuchtigkeits-Offset wird kalibriert. Tippen Sie auf \\\"Bestätigen\\\", um fortzufahren.",
       "pl": ""
     },
     {
@@ -2101,30 +1669,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "LocalNotificationsManager.LowDewPoint.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Dew point is too low!",
-      "fi": "Kastepiste liian alhainen!",
-      "ru": "Ниже Точки Росы!",
-      "sv": "För låg Daggpunkt!",
-      "fr": "Point de rosée trop bas !",
-      "de": "Taupunkt ist zu niedrig!",
-      "pl": ""
-    },
-    {
-      "ident_ios": "LocalNotificationsManager.HighDewPoint.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Dew point is too high!",
-      "fi": "Kastepiste liian korkea!",
-      "ru": "Выше Точки Росы!",
-      "sv": "För hög Daggpunkt!",
-      "fr": "Point de rosée trop haut !",
-      "de": "Taupunkt ist zu hoch!,",
-      "pl": ""
-    },
-    {
       "ident_ios": "PermissionPresenter.NoPhotoLibraryAccess.message",
       "ident_android": "",
       "ident_webui": "",
@@ -2185,78 +1729,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "PhotoPicker.Sheet.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Pick a photo",
-      "fi": "Valitse kuva",
-      "ru": "Выбрать фотографию",
-      "sv": "Välj ett foto",
-      "fr": "Choisissez une photo",
-      "de": "Wähle ein Foto",
-      "pl": ""
-    },
-    {
-      "ident_ios": "PhotoPicker.Sheet.library",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Choose from the library",
-      "fi": "Valitse kirjastosta",
-      "ru": "Выбрать из библиотеки",
-      "sv": "Välj från bilder",
-      "fr": "Choisir dans la bibliothèque",
-      "de": "Aus der Bibliothek auswählen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "PhotoPicker.Sheet.camera",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Take photo",
-      "fi": "Ota kuva",
-      "ru": "Сделать фото",
-      "sv": "Ta ett foto",
-      "fr": "Prendre une photo",
-      "de": "Foto aufnehmen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SegmentedControl.Humidity.Relative.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Rel",
-      "fi": "Suht.",
-      "ru": "Отн",
-      "sv": "Rel",
-      "fr": "Rel",
-      "de": "Rel",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SegmentedControl.Humidity.Absolute.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Abs",
-      "fi": "Abs.",
-      "ru": "Абс",
-      "sv": "Abs",
-      "fr": "Abs",
-      "de": "Abs",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SegmentedControl.Humidity.DewPoint.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Dew",
-      "fi": "Kast.",
-      "ru": "ТР",
-      "sv": "Dew",
-      "fr": "Rosée",
-      "de": "Tau",
-      "pl": ""
-    },
-    {
       "ident_ios": "Settings.Label.Language.text",
       "ident_android": "settings_language",
       "ident_webui": "language",
@@ -2293,18 +1765,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Settings.Label.Foreground",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Foreground",
-      "fi": "Prosessit",
-      "ru": "Активный Режим",
-      "sv": "Processer",
-      "fr": "Premier plan",
-      "de": "Vordergrund",
-      "pl": ""
-    },
-    {
       "ident_ios": "Settings.Label.Defaults",
       "ident_android": "",
       "ident_webui": "",
@@ -2314,66 +1774,6 @@
       "sv": "Standardinställningar",
       "fr": "Paramètres d'usine",
       "de": "Standardeinstellungen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "OWMError.failedToParseOpenWeatherMapResponse",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to parse Open Weather Map response",
-      "fi": "Open Weather Map -vastauksen jäsentäminen epäonnistui",
-      "ru": "Не удалось распарсить ответ от OpenWeatherMap",
-      "sv": "Det gick inte att tolka Open Weather Map data",
-      "fr": "Echec lors de l'ajout de la réponse Weather Map",
-      "de": "Fehler beim Parsen der Open Weather Map-Antwort",
-      "pl": ""
-    },
-    {
-      "ident_ios": "OWMError.apiLimitExceeded",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "API limit exceeded",
-      "fi": "API-raja ylittyi",
-      "ru": "Превышен лимит запросов к API OpenWeatherMap",
-      "sv": "API gräns överskriden",
-      "fr": "Limite API dépassée",
-      "de": "API-Limit überschritten",
-      "pl": ""
-    },
-    {
-      "ident_ios": "OWMError.notAHttpResponse",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Not an HTTP response",
-      "fi": "Vastaus ei ole HTTP-muodossa",
-      "ru": "Не HTTP ответ",
-      "sv": "Ingen HTTP respons",
-      "fr": "La réponse n'est pas au format HTTP",
-      "de": "Keine HTTP-Antwort",
-      "pl": ""
-    },
-    {
-      "ident_ios": "OWMError.invalidApiKey",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Invalid API Key",
-      "fi": "API-avain ei kelpaa",
-      "ru": "Некорректный API-ключ",
-      "sv": "Ogiltig API Key",
-      "fr": "Clé API invalide",
-      "de": "Ungültiger API-Schlüssel",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagCharts.NoChartData.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "No chart data available",
-      "fi": "Tietoja ei ole saatavilla",
-      "ru": "Нет данных для построения графика",
-      "sv": "Ingen histogram data",
-      "fr": "Informations indisponibles",
-      "de": "Keine Kartendaten verfügbar",
       "pl": ""
     },
     {
@@ -2409,30 +1809,6 @@
       "ru": "Очистить",
       "sv": "Rensa",
       "fr": "Effacer",
-      "de": "Löschen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagCharts.SyncConfirmationDialog.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure?",
-      "fi": "Oletko varma?",
-      "ru": "Вы уверены?",
-      "sv": "Är du säker?",
-      "fr": "Êtes-vous sûr ?",
-      "de": "Sind Sie sicher?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.button.delete.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Delete",
-      "fi": "Poista",
-      "ru": "Удалить",
-      "sv": "Radera",
-      "fr": "Supprimer",
       "de": "Löschen",
       "pl": ""
     },
@@ -2485,54 +1861,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.UUID.Alert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "UUID",
-      "fi": "UUID",
-      "ru": "UUID",
-      "sv": "UUID",
-      "fr": "UUID",
-      "de": "UUID",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.UpdateFirmware.Alert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "RAWv2 mode is required",
-      "fi": "RAWv2-formaatti vaaditaan",
-      "ru": "Необходим Режим RAWv2",
-      "sv": "RAWv2-format krävs",
-      "fr": "Format RAWv2 nécessaire",
-      "de": "RAWv2-Modus ist erforderlich",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.UpdateFirmware.Alert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "In order to see missing values:\\nIf you are using the latest firmware, set RAWv2 mode by pressing \\\"B\\\" on a sensor.\\nOr update your sensor with the latest firmware.",
-      "fi": "Puuttuvat arvot voidaan näyttää ainoastaan uudemmalla laiteohjelmistoversiolla.",
-      "ru": "Для того, чтобы увидеть отсутствующие значения:\\nЕсли вы используете последнюю прошивку, включите RAWv2 режим нажатием кнопки \\\"B\\\" на вашем сенсоре.\\nИли обновите ваш сенсор с последней прошивкой.",
-      "sv": "Värden som saknas kan bara visas i nyare enhetsmjukvara med RAWv2-format.",
-      "fr": "L'affichage des informations manquantes n'est possible qu'avec la nouvelle version système.",
-      "de": "Um fehlende Werte anzuzeigen:\\n Wenn Sie die neueste Firmware verwenden, stellen Sie den RAWv2-Modus ein, indem Sie auf einem Sensor \\\"B\\\" drücken.\\ oder aktualisieren Sie Ihren Sensor mit der neuesten Firmware.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.UpdateFirmware.Alert.Buttons.LearnMore.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Learn more",
-      "fi": "Lue lisää",
-      "ru": "Узнать больше",
-      "sv": "Läs mer",
-      "fr": "Plus d'infos",
-      "de": "Mehr erfahren",
-      "pl": ""
-    },
-    {
       "ident_ios": "TagCharts.Dismiss.Alert.message",
       "ident_android": "",
       "ident_webui": "",
@@ -2569,54 +1897,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.EmptyValue.sign",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "-",
-      "fi": "-",
-      "ru": "-",
-      "sv": "-",
-      "fr": "-",
-      "de": "-",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.HumidityIsClipped.Alert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Humidity is adjusted",
-      "fi": "Kosteus on säädetty",
-      "ru": "Датчик влажности откалиброван",
-      "sv": "Luftfuktigheten är justerad",
-      "fr": "L'hygromètre est calibré",
-      "de": "Luftfeuchtigkeit wird angepasst",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.HumidityIsClipped.Alert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Humidity value is greater than 100%% after calibration. This value doesn't make sense, so the value has been adjusted to 100%%.",
-      "fi": "Kalibroinnin jälkeinen kosteusarvo on suurempi kuin 100%%. Tämä ei käy järkeen, joten maksimiarvona näytetään 100%%.",
-      "ru": "Значение относительной влажности больше 100%% после калибровки. Это значение не имеет смысла, поэтому значение откалибровано до 100%%.",
-      "sv": "Fuktighetsvärdet efter kalibreringen är större än 100%%. Detta är inte rimligt, så det maximala värdet visas som 100%%.",
-      "fr": "L'humidité est supérieure à 100 %% après calibrage. Cela n'a pas de sens, donc la valeur max affichée est 100 %%.",
-      "de": "Der Feuchtigkeitswert ist nach der Kalibrierung größer als 100 %%. Dieser Wert ist nicht sinnvoll, daher wird der Wert auf 100 %% angepasst.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.HumidityIsClipped.Alert.Fix.button",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Fix",
-      "fi": "Korjaa",
-      "ru": "Исправить",
-      "sv": "Fixa",
-      "fr": "Réparer",
-      "de": "Reparieren",
-      "pl": ""
-    },
-    {
       "ident_ios": "TagSettings.navigationItem.title",
       "ident_android": "",
       "ident_webui": "",
@@ -2639,30 +1919,6 @@
       "fr": "Nom du capteur",
       "de": "Name",
       "pl": "Nazwa"
-    },
-    {
-      "ident_ios": "TagSettings.humidityTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Humidity",
-      "fi": "Kosteus",
-      "ru": "Влажность",
-      "sv": "Luftfuktighet",
-      "fr": "Humidité",
-      "de": "Feuchtigkeit",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.uuidTitleLabel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "UUID",
-      "fi": "UUID",
-      "ru": "UUID",
-      "sv": "UUID",
-      "fr": "UUID",
-      "de": "UUID",
-      "pl": ""
     },
     {
       "ident_ios": "TagSettings.macAddressTitleLabel.text",
@@ -2881,54 +2137,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Label.disabled.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Disabled?",
-      "fi": "Pois käytöstä?",
-      "ru": "недоступно?",
-      "sv": "Inaktiverad?",
-      "fr": "Hors service ?",
-      "de": "Ausgeshalten?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.BothNotConnectedAndNoPNPermission.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alerts are disabled because the device is not connected and missing push notification permission. Please connect to the device first.",
-      "fi": "Hälytykset ovat poissa käytöstä, sillä yhteyttä laitteeseen ei ole muodostettu ja lupa palveluviestien näyttämiseen puuttuu. Yhdistä laitteeseen ensin.",
-      "ru": "Уведомления недоступны поскольку девайс не подсоединен и нет разрешения на показ уведомлений. Пожалуйста, сперва соединитесь с устройством.",
-      "sv": "Alarm är inaktiverade eftersom enheten inte är ansluten och behörigheten att se Push-meddelanden saknas. Anslut först till enheten.",
-      "fr": "Les notifications sont désactivées car l'appareil n'est pas connecté et les notifications ne sont autorisées. Veuillez d'abord vous connecter à l'appareil.",
-      "de": "Warnungen sind deaktiviert, weil das Gerät nicht verbunden ist und die Berechtigung für Push-Benachrichtigungen fehlt. Bitte verbinden Sie sich zuerst mit dem Gerät.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.Connect.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Connect",
-      "fi": "Yhdistä",
-      "ru": "Соединиться",
-      "sv": "Anslut",
-      "fr": "Se connecter",
-      "de": "Verbinden",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagSettings.AlertsAreDisabled.Dialog.NotConnected.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Alerts are disabled because you are not connected to the device.",
-      "fi": "Hälytykset ovat poissa käytöstä, sillä yhteyttä laitteeseen ei ole muodostettu.",
-      "ru": "Уведомления недоступны поскольку вы не подсоединены к устройству.",
-      "sv": "Alarm är inaktiverade eftersom du inte är ansluten till enheten.",
-      "fr": "Les notifications sont désactivées car l'appreil n'est pas connecté.",
-      "de": "Warnungen sind deaktiviert, weil Sie nicht mit dem Gerät verbunden sind.",
-      "pl": ""
-    },
-    {
       "ident_ios": "TagSettings.Alert.CustomDescription.placeholder",
       "ident_android": "alarm_custom_title_hint",
       "ident_webui": "alarm_custom_title_hint",
@@ -3001,7 +2209,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Firmware.CurrentVersion.VeryOld",
+      "ident_ios": "",
       "ident_android": "firmware_very_old",
       "ident_webui": "",
       "en": "Very old",
@@ -3097,30 +2305,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "UnexpectedError.attemptToReadDataFromRealmWithoutLUID",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Attempt to read data from Realm without LUID",
-      "fi": "Realmin tietoja yritettiin lukea ilman LUID:tä",
-      "ru": "Attempt to read data from Realm without LUID",
-      "sv": "Försökte läsa data från Realm utan LUID",
-      "fr": "Tentative de lecture des données de Realm sans LUID",
-      "de": "Versuch, Daten aus Realm ohne LUID zu lesen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UnexpectedError.failedToFindVirtualTag",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to find virtual sensor",
-      "fi": "Virtuaalisen anturin haku epäonnistui",
-      "ru": "Failed to find virtual sensor",
-      "sv": "Hittade inte den virtuella sensorn",
-      "fr": "Echec de jumelage du capteur virtuel",
-      "de": "Virtueller Sensor konnte nicht gefunden werden",
-      "pl": ""
-    },
-    {
       "ident_ios": "HumidityUnit.Dew.title",
       "ident_android": "",
       "ident_webui": "",
@@ -3130,42 +2314,6 @@
       "sv": "Daggpunkt (%@)",
       "fr": "Point de rosée (%@)",
       "de": "Taupunkt (%@)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagLocationSource.current",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Your location",
-      "fi": "Nykyinen sijaintisi",
-      "ru": "Ваше текущее месторасположение",
-      "sv": "Din plats",
-      "fr": "Localisation actuelle",
-      "de": "Ihr Standort",
-      "pl": ""
-    },
-    {
-      "ident_ios": "WebTagLocationSource.manual",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Pick from the map",
-      "fi": "Valitse kartalta",
-      "ru": "Месторасположение на карте",
-      "sv": "Välj från karta",
-      "fr": "Choisir sur la carte",
-      "de": "Wählen Sie aus der Karte",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Welcome.description.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "To find nearby sensors and receive live sensor data, press 'scan'.",
-      "fi": "Etsi lähistöllä olevia antureita napauttamalla Skannaa.",
-      "ru": "Чтобы найти сенсор рядом и получать текущие данные, нажмите сканировать.",
-      "sv": "Klicka på Skanna för att hitta sensorer i närheten.",
-      "fr": "Appuyer sur scanner pour trouver des capteurs.",
-      "de": "Um Sensoren in der Nähe zu finden und Live-Sensordaten zu empfangen, drücken Sie Scannen.",
       "pl": ""
     },
     {
@@ -3181,7 +2329,7 @@
       "pl": "Nie wykryto czujników"
     },
     {
-      "ident_ios": "DiscoverTable.SectionTitle.Devices",
+      "ident_ios": "",
       "ident_android": "add_tag_title",
       "ident_webui": "",
       "en": "Nearby Ruuvi sensors",
@@ -3241,7 +2389,7 @@
       "pl": "Alarm ruchu jest wyzwalany w przypadku zmiany wartości wewnętrznego licznika ruchu czujnika. Alarm ten można wykorzystać na przykład do wykrycia ruchu drzwi lub wibracji w pobliżu czujnika."
     },
     {
-      "ident_ios": "LocalNotificationsManager.HighHumidity.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_humidity_high",
       "ident_webui": "",
       "en": "Humidity too high!",
@@ -3253,7 +2401,7 @@
       "pl": "Zbyt wysoka wilgotność powietrza!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.LowHumidity.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_humidity_low",
       "ident_webui": "",
       "en": "Humidity too low!",
@@ -3277,7 +2425,7 @@
       "pl": "Wykryto przesunięcie!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.HighPressure.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_pressure_high",
       "ident_webui": "",
       "en": "Pressure too high!",
@@ -3289,7 +2437,7 @@
       "pl": "Zbyt wysokie ciśnienie powietrza!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.LowPressure.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_pressure_low",
       "ident_webui": "",
       "en": "Pressure too low!",
@@ -3301,7 +2449,7 @@
       "pl": "Zbyt niskie ciśnienie powietrza!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.HighSignal.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_rssi_high",
       "ident_webui": "",
       "en": "Signal strength too high!",
@@ -3313,7 +2461,7 @@
       "pl": "Zbyt wysoki poziom sygnału!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.LowSignal.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_rssi_low",
       "ident_webui": "",
       "en": "Signal strength too low!",
@@ -3325,7 +2473,7 @@
       "pl": "Zbyt niski poziom sygnału!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.HighTemperature.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_temperature_high",
       "ident_webui": "",
       "en": "Temperature too high!",
@@ -3337,7 +2485,7 @@
       "pl": "Zbyt wysoka temperatura!"
     },
     {
-      "ident_ios": "LocalNotificationsManager.LowTemperature.title",
+      "ident_ios": "",
       "ident_android": "alert_notification_temperature_low",
       "ident_webui": "",
       "en": "Temperature too low!",
@@ -3349,7 +2497,7 @@
       "pl": "Zbyt niska temperatura!"
     },
     {
-      "ident_ios": "TagSettings.Alerts.Off",
+      "ident_ios": "",
       "ident_android": "alert_subtitle_off",
       "ident_webui": "",
       "en": "Off",
@@ -3388,13 +2536,25 @@
       "ident_ios": "TagSettings.Label.alertsTopMenuHint.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Notifications are now located in a new place. Go to notification settings from the bell icon in the top menu or tap here.",
+      "en": "Alert settings are now located in a new place. Go to alert settings from the bell icon in the top menu or tap here.",
       "fi": "Hälytykset löytyvät nyt uudesta sijainnista. Siirry hälytysasetuksiin ylävalikon kellokuvakkeesta tai napauttamalla tästä.",
       "ru": "",
-      "sv": "Aviseringarna finns nu på en ny plats. Gå till aviseringsinställningarna via klockikonen i toppmenyn eller tryck här.",
-      "fr": "Les notifications se trouvent désormais à un nouvel emplacement. Accédez aux paramètres de notification via l’icône en forme de cloche dans le menu supérieur ou appuyez ici.",
-      "de": "Die Benachrichtigungen befinden sich jetzt an einem neuen Ort. Gehe zu den Benachrichtigungseinstellungen über das Glockensymbol im oberen Menü oder tippe hier.",
-      "pl": ""
+      "sv": "Larminställningarna finns nu på en ny plats. Gå till larminställningarna via klockikonen i toppmenyn eller tryck här.",
+      "fr": "Les réglages des alertes se trouvent désormais à un nouvel emplacement. Accédez aux réglages des alertes depuis l’icône de cloche dans le menu supérieur ou appuyez ici.",
+      "de": "Die Alarmeinstellungen befinden sich jetzt an einem neuen Ort. Öffnen Sie die Alarmeinstellungen über das Glockensymbol im oberen Menü oder tippen Sie hier.",
+      "pl": "Ustawienia alarmów znajdują się teraz w nowym miejscu. Przejdź do ustawień alarmów za pomocą ikony dzwonka w górnym menu lub stuknij tutaj."
+    },
+    {
+      "ident_ios": "TagSettings.Alerts.NoCloudDataBanner.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "To receive alerts from your RuuviTag sensors while the app is running in the background, enable Connected Mode (pairing) in the Sensor Settings. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
+      "fi": "Ota Bluetooth-yhteys käyttöön anturin asetuksissa, jos haluat vastaanottaa hälytyksiä RuuviTag-antureilta sovelluksen ollessa käynnissä taustalla. Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
+      "ru": "Чтобы получать оповещения от датчиков RuuviTag, когда приложение работает в фоновом режиме, включите Подключённый режим (сопряжение) в настройках датчика. Оповещения от датчиков Ruuvi не доставляются, если приложение полностью закрыто.",
+      "sv": "För att få alarm från dina RuuviTag-sensorer när appen körs i bakgrunden, aktivera Anslutet läge (parkoppling) i sensorinställningarna. Alarm från Ruuvi-sensorer levereras inte om appen är helt stängd.",
+      "fr": "Pour recevoir des alertes de vos capteurs RuuviTag lorsque l’app fonctionne en arrière-plan, activez le mode connecté (association) dans les réglages du capteur. Les alertes des capteurs Ruuvi ne sont pas transmises si l’app est complètement fermée.",
+      "de": "Um Warnungen von deinen RuuviTag-Sensoren zu erhalten, während die App im Hintergrund läuft, aktiviere den Verbundenen Modus (Kopplung) in den Sensoreinstellungen. Warnungen von Ruuvi-Sensoren werden nicht zugestellt, wenn die App vollständig geschlossen ist.",
+      "pl": "Aby otrzymywać alarmy z czujników RuuviTag, gdy aplikacja działa w tle, włącz tryb połączenia (parowanie) w ustawieniach czujnika. Alarmy z czujników Ruuvi nie są dostarczane, jeśli aplikacja jest całkowicie zamknięta."
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
@@ -3445,7 +2605,7 @@
       "pl": "Kalibruj"
     },
     {
-      "ident_ios": "HumidityCalibration.lastCalibrationDate.format",
+      "ident_ios": "",
       "ident_android": "calibrated",
       "ident_webui": "",
       "en": "Calibrated: {%@^%1$s}",
@@ -3481,7 +2641,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "HumidityCalibration.Description.text",
+      "ident_ios": "",
       "ident_android": "calibration_humidity",
       "ident_webui": "",
       "en": "In order to measure relative humidity as accurately as possible, a sodium chloride (salt) calibration is recommended. See video tutorials on how to easily do this at home.",
@@ -3505,7 +2665,7 @@
       "pl": "Skalibruj higrometr"
     },
     {
-      "ident_ios": "HumidityCalibration.Label.note.text",
+      "ident_ios": "",
       "ident_android": "calibration_humidity_disclaimer",
       "ident_webui": "",
       "en": "Note that calibration data will be stored locally in your mobile device. After Ruuvi Station uninstall and install, you may need to recalibrate.",
@@ -3517,7 +2677,7 @@
       "pl": "Miej na uwadze, że dane kalibracji będą przechowywane lokalnie na urządzeniu mobilnym. Po odinstalowaniu i zainstalowaniu Ruuvi Station konieczna może być ponowna kalibracja."
     },
     {
-      "ident_ios": "HumidityCalibration.VideoTutorials.link",
+      "ident_ios": "",
       "ident_android": "calibration_humidity_link",
       "ident_webui": "",
       "_COMMENT_": "Translated text here should be exact part of HumidityCalibration.Description.text (calibration_humidity for Android). It will be highlighted as hyperlink in app",
@@ -3614,7 +2774,7 @@
       "pl": "wyczyść"
     },
     {
-      "ident_ios": "TagCharts.DeleteHistoryConfirmationDialog.message",
+      "ident_ios": "",
       "ident_android": "clear_confirm",
       "ident_webui": "",
       "en": "Clear the local history data from the app?",
@@ -3626,7 +2786,7 @@
       "pl": "Wyczyścić lokalne dane z historii w aplikacji?"
     },
     {
-      "ident_ios": "HumidityCalibration.Button.Close.title",
+      "ident_ios": "",
       "ident_android": "close",
       "ident_webui": "close",
       "en": "Close",
@@ -3722,7 +2882,7 @@
       "pl": "%1$,d pomiary odczytane, zapisywanie..."
     },
     {
-      "ident_ios": "TagSettings.ConnectStatus.Disconnected",
+      "ident_ios": "",
       "ident_android": "disconnected",
       "ident_webui": "",
       "en": "Disconnected",
@@ -3734,7 +2894,7 @@
       "pl": "Rozłączono"
     },
     {
-      "ident_ios": "TagCharts.Export.title",
+      "ident_ios": "",
       "ident_android": "export",
       "ident_webui": "export",
       "en": "EXPORT",
@@ -4070,7 +3230,7 @@
       "pl": "Dni"
     },
     {
-      "ident_ios": "humidity_with_unit",
+      "ident_ios": "",
       "ident_android": "humidity_with_unit",
       "ident_webui": "",
       "en": "Air Humidity ({%@^%1$s})",
@@ -4154,18 +3314,6 @@
       "pl": "Względna (%)"
     },
     {
-      "ident_ios": "humidity_relative_name",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Relative (%%)",
-      "fi": "Suhteellinen (%%)",
-      "ru": "Относительная влажность (%%)",
-      "sv": "Relativ (%%)",
-      "fr": "Relative (%%)",
-      "de": "Relative (%%)",
-      "pl": "Względna (%%)"
-    },
-    {
       "ident_ios": "humidity_relative_unit",
       "ident_android": "humidity_relative_unit",
       "ident_webui": "",
@@ -4190,7 +3338,7 @@
       "pl": "Adres MAC"
     },
     {
-      "ident_ios": "mac_copied",
+      "ident_ios": "",
       "ident_android": "mac_copied",
       "ident_webui": "",
       "en": "MAC address copied to clipboard",
@@ -4298,7 +3446,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "Menu.Label.BuyRuuviGateway.text",
+      "ident_ios": "",
       "ident_android": "menu_buy_gateway",
       "ident_webui": "",
       "en": "Buy Ruuvi Gateway",
@@ -4319,18 +3467,6 @@
       "sv": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=android",
       "fr": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=android",
       "de": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=android",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Menu.BuyGateway.URL.IOS",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
-      "fi": "https://ruuvi.com/fi/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
-      "ru": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
-      "sv": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
-      "fr": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
-      "de": "https://ruuvi.com/gateway?utm_campaign=app_ua&utm_medium=referral&utm_source=ios",
       "pl": ""
     },
     {
@@ -4406,7 +3542,7 @@
       "pl": "min"
     },
     {
-      "ident_ios": "minutes",
+      "ident_ios": "",
       "ident_android": "minutes",
       "ident_webui": "",
       "en": "Minutes",
@@ -4430,7 +3566,7 @@
       "pl": "WIĘCEJ INFORMACJI"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.Name.title",
+      "ident_ios": "",
       "ident_android": "name",
       "ident_webui": "",
       "en": "NAME",
@@ -4586,7 +3722,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "Cards.NoSensors.title",
+      "ident_ios": "",
       "ident_android": "press_to_add",
       "ident_webui": "",
       "en": "No sensors added\\nPress here to add sensors",
@@ -4610,7 +3746,7 @@
       "pl": "Hektopaskale (hPa)"
     },
     {
-      "ident_ios": "hPa",
+      "ident_ios": "",
       "ident_android": "pressure_hpa_unit",
       "ident_webui": "",
       "en": "hPa",
@@ -4718,7 +3854,7 @@
       "pl": "%1$,.0f %2$s"
     },
     {
-      "ident_ios": "TagCharts.Status.ReadingHistory",
+      "ident_ios": "",
       "ident_android": "reading_history",
       "ident_webui": "",
       "en": "Reading history",
@@ -4754,7 +3890,7 @@
       "pl": "s"
     },
     {
-      "ident_ios": "Welcome.scan.title",
+      "ident_ios": "",
       "ident_android": "scan",
       "ident_webui": "",
       "en": "SCAN",
@@ -4766,7 +3902,7 @@
       "pl": "SKANOWANIE"
     },
     {
-      "ident_ios": "Background.Interval.Sec.string",
+      "ident_ios": "",
       "ident_android": "sec",
       "ident_webui": "",
       "en": "sec",
@@ -5138,7 +4274,7 @@
       "pl": "Ustaw odstęp czasu pomiędzy punktami między 1-60 minut. Mniejsze wartości pozwalają wygenerować dokładniejszy wykres, ale wymagają też większej wydajności urządzenia"
     },
     {
-      "ident_ios": "ChartSettings.Duration.title",
+      "ident_ios": "",
       "ident_android": "settings_chart_view_period",
       "ident_webui": "",
       "en": "Chart history view period",
@@ -5150,7 +4286,7 @@
       "pl": "Okres wyświetlania historii wykresu"
     },
     {
-      "ident_ios": "ChartSettings.Duration.description",
+      "ident_ios": "",
       "ident_android": "settings_chart_view_period_description",
       "ident_webui": "",
       "en": "Configure the period of history to be shown on chart from 1 to 10 days.",
@@ -5247,7 +4383,7 @@
       "pl": "Jednostka wilgotności powietrza"
     },
     {
-      "ident_ios": "Settings.Label.Temperature",
+      "ident_ios": "",
       "ident_android": "settings_temperature",
       "ident_webui": "",
       "en": "Temperature",
@@ -5259,7 +4395,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "Settings.Label.Humidity",
+      "ident_ios": "",
       "ident_android": "settings_humidity",
       "ident_webui": "",
       "en": "Humidity",
@@ -5271,7 +4407,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "Settings.Label.Pressure",
+      "ident_ios": "",
       "ident_android": "settings_pressure",
       "ident_webui": "",
       "en": "Pressure",
@@ -5293,6 +4429,18 @@
       "fr": "Unités globales",
       "de": "Globale Einheiten",
       "pl": "Jednostki globalne"
+    },
+    {
+      "ident_ios": "Settings.GlobalUnits.description",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "These settings define the global units used across Ruuvi Station, except for values configured in visible measurements settings. Dew point can be configured separately in visible measurements settings.",
+      "fi": "Nämä asetukset määrittävät Ruuvi Stationissa käytettävät yleiset yksiköt lukuun ottamatta arvoja, jotka on määritetty näytettävien mittausten asetuksissa. Kastepisteen voi määrittää erikseen näytettävät mittaukset -sivulla.",
+      "ru": "Эти настройки определяют общие единицы измерения, используемые в Ruuvi Station, за исключением значений, настроенных в параметрах отображаемых измерений. Точку росы можно настроить отдельно в параметрах отображаемых измерений.",
+      "sv": "Dessa inställningar definierar de globala enheter som används i Ruuvi Station, förutom värden som konfigureras i inställningarna för synliga mätningar. Daggpunkt kan konfigureras separat i inställningarna för synliga mätningar.",
+      "fr": "Ces réglages définissent les unités globales utilisées dans Ruuvi Station, sauf pour les valeurs configurées dans les réglages des mesures visibles. Le point de rosée peut être configuré séparément dans les réglages des mesures visibles.",
+      "de": "Diese Einstellungen legen die globalen Einheiten fest, die in Ruuvi Station verwendet werden, mit Ausnahme der Werte, die in den Einstellungen für sichtbare Messungen konfiguriert wurden. Der Taupunkt kann separat in den Einstellungen für sichtbare Messungen konfiguriert werden.",
+      "pl": "Te ustawienia określają globalne jednostki używane w Ruuvi Station, z wyjątkiem wartości skonfigurowanych w ustawieniach widocznych pomiarów. Punkt rosy można skonfigurować oddzielnie w ustawieniach widocznych pomiarów."
     },
     {
       "ident_ios": "Settings.ChooseHumidityUnit.text",
@@ -5427,7 +4575,7 @@
       "pl": "Synchronizacja zakończona"
     },
     {
-      "ident_ios": "TagCharts.SyncConfirmationDialog.message",
+      "ident_ios": "",
       "ident_android": "sync_confirm",
       "ident_webui": "",
       "en": "Download history data from the sensor?",
@@ -5463,7 +4611,7 @@
       "pl": "Usuń czujnik"
     },
     {
-      "ident_ios": "TagSettings.confirmTagRemovalDialog.message",
+      "ident_ios": "",
       "ident_android": "remove_local_sensor",
       "ident_webui": "",
       "en": "Do you want to remove the sensor? You can add it again later, if needed.",
@@ -5571,7 +4719,7 @@
       "pl": "Zaktualizowano {%@^%1$s}"
     },
     {
-      "ident_ios": "Updated",
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "updated",
       "en": "Updated",
@@ -5619,7 +4767,7 @@
       "pl": "V"
     },
     {
-      "ident_ios": "RuuviOnboard.Welcome.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_0",
       "ident_webui": "",
       "en": "Swipe to see what Ruuvi Station can do for you.",
@@ -5631,7 +4779,7 @@
       "pl": "Przeciągnij, aby zobaczyć, co Ruuvi Station może dla Ciebie zrobić."
     },
     {
-      "ident_ios": "RuuviOnboard.Measure.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_1",
       "ident_webui": "",
       "en": "Measure environmental data: temperature, relative humidity and air pressure.",
@@ -5643,7 +4791,7 @@
       "pl": "Dane dotyczące jakości powietrza: temperatura, wilgotność względna i ciśnienie powietrza."
     },
     {
-      "ident_ios": "RuuviOnboard.Access.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_2",
       "ident_webui": "",
       "en": "Access data for each linked sensor in real time and explore history graphs.",
@@ -5655,7 +4803,7 @@
       "pl": "Uzyskaj dostęp do danych dla każdego połączonego czujnika w czasie rzeczywistym i zbadaj wykresy historii."
     },
     {
-      "ident_ios": "RuuviOnboard.Alerts.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_3",
       "ident_webui": "",
       "en": "Set alerts and get notified whenever your limits are hit.",
@@ -5667,7 +4815,7 @@
       "pl": "Ustaw ostrzeżenia, by je otrzymywać, gdy twoje limity zostaną osiągnięte."
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_4",
       "ident_webui": "",
       "en": "Sign in to use the full potential of the app.",
@@ -5679,7 +4827,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.subtitle",
+      "ident_ios": "",
       "ident_android": "welcome_text_4_2",
       "ident_webui": "",
       "en": "Claim ownership of your sensors with a free Ruuvi Cloud account.",
@@ -5691,7 +4839,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.subtitle.signed",
+      "ident_ios": "",
       "ident_android": "already_signed_in",
       "ident_webui": "",
       "en": "Great! You already signed in!",
@@ -5703,7 +4851,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Start.title",
+      "ident_ios": "",
       "ident_android": "welcome_text_5",
       "ident_webui": "",
       "en": "Press SCAN to find and add nearby sensors to your Ruuvi Station.",
@@ -6003,7 +5151,7 @@
       "pl": "Wyloguj się"
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Benefits.message",
+      "ident_ios": "",
       "ident_android": "sign_in_benefits_description",
       "ident_webui": "",
       "en": "Benefits:\\n\\n ● Sensor names, background images, offsets and alert settings will be securely stored in the cloud\\n\\n ● Access sensors remotely over the Internet (requires a Ruuvi Gateway)\\n\\n ● Share sensors with friends and family (requires a Ruuvi Gateway)\\n\\n ● Browse up to 2 years of history on station.ruuvi.com (requires a Ruuvi Gateway)",
@@ -6015,7 +5163,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Details.title",
+      "ident_ios": "",
       "ident_android": "details",
       "ident_webui": "",
       "en": "Details",
@@ -6039,7 +5187,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Skip.title",
+      "ident_ios": "",
       "ident_android": "sign_in_skip_confirm_title",
       "ident_webui": "",
       "en": "Are you sure you want to skip sign in?",
@@ -6051,7 +5199,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Skip.Yes.title",
+      "ident_ios": "",
       "ident_android": "sign_in_skip_confirm_yes",
       "ident_webui": "",
       "en": "Yes, skip",
@@ -6063,7 +5211,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "RuuviOnboard.Cloud.Skip.GoBack.title",
+      "ident_ios": "",
       "ident_android": "sign_in_skip_confirm_go_back",
       "ident_webui": "",
       "en": "Go back",
@@ -6075,7 +5223,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "SignIn.EmailPlaceholder",
+      "ident_ios": "",
       "ident_android": "email",
       "ident_webui": "email",
       "en": "Email",
@@ -6099,7 +5247,7 @@
       "pl": "Logowanie"
     },
     {
-      "ident_ios": "SignIn.RequestCode",
+      "ident_ios": "",
       "ident_android": "sign_in_request_code",
       "ident_webui": "",
       "en": "Request a code",
@@ -6111,7 +5259,7 @@
       "pl": "Poproś o kod"
     },
     {
-      "ident_ios": "SignIn.SubmitCode",
+      "ident_ios": "",
       "ident_android": "sign_in_submit_button",
       "ident_webui": "submit",
       "en": "Submit",
@@ -6135,7 +5283,7 @@
       "pl": "Wpisz ręcznie kod"
     },
     {
-      "ident_ios": "SignIn.EmailSent",
+      "ident_ios": "",
       "ident_android": "sign_in_email_sent",
       "ident_webui": "",
       "en": "Email sent",
@@ -6159,7 +5307,7 @@
       "pl": "Sprawdź swoją skrzynkę mailową {%@^%1$s}, aby uzyskać kod aktywacyjny."
     },
     {
-      "ident_ios": "SignIn.CodeHint",
+      "ident_ios": "",
       "ident_android": "sign_in_code_hint",
       "ident_webui": "",
       "en": "Code",
@@ -6183,7 +5331,7 @@
       "pl": "Po wylogowaniu czujniki użytkownika, których własność została przez niego zastrzeżona na stronie Ustawienia czujników, zostaną automatycznie usunięte. Przy ponownym zalogowaniu z użyciem tego samego adresu e-mail, czujniki zostaną przywrócone z chmury.\\n\\nChcesz się wylogować?"
     },
     {
-      "ident_ios": "TagSettings.ClaimTagButton.Claim",
+      "ident_ios": "",
       "ident_android": "tagsettings_claim_button",
       "ident_webui": "",
       "en": "Claim ownership",
@@ -6195,7 +5343,7 @@
       "pl": "Potwierdź prawa własności"
     },
     {
-      "ident_ios": "TagSettings.ShareButton",
+      "ident_ios": "",
       "ident_android": "share",
       "ident_webui": "share",
       "en": "Share",
@@ -6207,7 +5355,7 @@
       "pl": "Udostępnij"
     },
     {
-      "ident_ios": "Syncing...",
+      "ident_ios": "",
       "ident_android": "network_syncing",
       "ident_webui": "",
       "en": "Loading history from the cloud...",
@@ -6219,19 +5367,7 @@
       "pl": "Synchronizacja..."
     },
     {
-      "ident_ios": "Synchronized",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Synchronised",
-      "fi": "Synkronoitu",
-      "ru": "Синхронизировано",
-      "sv": "Synkronisering klar",
-      "fr": "Synchronisé",
-      "de": "Synchronisiert",
-      "pl": ""
-    },
-    {
-      "ident_ios": "TagChartsPresenter.NumberOfPointsSynchronizedOverNetwork",
+      "ident_ios": "",
       "ident_android": "network_synced",
       "ident_webui": "",
       "en": "Synchronised: {%@^%1$s}",
@@ -6255,7 +5391,7 @@
       "pl": "nigdy"
     },
     {
-      "ident_ios": "MenuTableViewController.None",
+      "ident_ios": "",
       "ident_android": "none",
       "ident_webui": "",
       "en": "none",
@@ -6267,7 +5403,7 @@
       "pl": "żaden"
     },
     {
-      "ident_ios": "MenuTableViewController.User",
+      "ident_ios": "",
       "ident_android": "network_user",
       "ident_webui": "",
       "en": "User: {%@^%1$s}",
@@ -6363,7 +5499,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "ShareViewController.sharedEmails.Title",
+      "ident_ios": "",
       "ident_android": "share_sensor_already_shared",
       "ident_webui": "share_sensor_already_shared",
       "en": "You have used {%d^%1$,d}/{%d^%2$,d} of maximum shares of this sensor. The sensor has been shared to following users:",
@@ -6423,7 +5559,7 @@
       "pl": "Następujący użytkownicy zostali zaproszeni i czujnik został im udostępniony, ale dostęp nadal oczekuje, ponieważ nie utworzyli jeszcze bezpłatnego konta Ruuvi. Zaproszenia zostały wysłane, a dostęp zostanie przyznany po utworzeniu ich kont:"
     },
     {
-      "ident_ios": "Share.Send.button",
+      "ident_ios": "",
       "ident_android": "share_sensor_send_button",
       "ident_webui": "",
       "en": "Send",
@@ -6447,7 +5583,7 @@
       "pl": "Czy chcesz cofnąć udostępnienie czujnika dla {%@^%1$s}?"
     },
     {
-      "ident_ios": "TagSettings.SectionHeader.NetworkInfo.title",
+      "ident_ios": "",
       "ident_android": "tagsettings_network_info",
       "ident_webui": "",
       "en": "NETWORK INFO",
@@ -6471,7 +5607,7 @@
       "pl": "Właściciel"
     },
     {
-      "ident_ios": "Menu.RuuviNetworkStatus.text",
+      "ident_ios": "",
       "ident_android": "network_status_title",
       "ident_webui": "",
       "en": "Ruuvi Cloud status",
@@ -6483,7 +5619,7 @@
       "pl": "Status chmury Ruuvi"
     },
     {
-      "ident_ios": "SignIn.TitleLabel.text",
+      "ident_ios": "",
       "ident_android": "login_to_ruuvi_network",
       "ident_webui": "login_to_ruuvi_network",
       "en": "Sign in to\\nRuuvi\\nStation",
@@ -6495,7 +5631,7 @@
       "pl": "Zaloguj się do\\nRuuvi\\nStation"
     },
     {
-      "ident_ios": "SignIn.SubtitleLabel.text",
+      "ident_ios": "",
       "ident_android": "login_description",
       "ident_webui": "",
       "en": "To enjoy all the features, create a free account or sign in to your existing Ruuvi account by entering your email address.",
@@ -6529,18 +5665,6 @@
       "fr": "beta",
       "de": "beta",
       "pl": "beta"
-    },
-    {
-      "ident_ios": "SignIn.VerificationCodePlaceholder",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "verification code in format: CJSM",
-      "fi": "vahvistuskoodi muodossa: CJSM",
-      "ru": "код подтверждения в формате: CJSM",
-      "sv": "verifieringskod i format CJSM",
-      "fr": "verification du code au format CJSM",
-      "de": "Verifizierungscode im Format: CJSM",
-      "pl": ""
     },
     {
       "ident_ios": "UserApiError.ER_FORBIDDEN",
@@ -7047,30 +6171,6 @@
       "pl": "Synchronizacja"
     },
     {
-      "ident_ios": "PhotoPicker.Sheet.files",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Choose from files",
-      "fi": "Valitse tiedostoista",
-      "ru": "Выбрать из файлов",
-      "sv": "Välj från filer",
-      "fr": "Choisir parmis les fichiers",
-      "de": "Aus Dateien auswählen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "SignIn.EnterVerificationCode",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Please enter verification code",
-      "fi": "Syötä vahvistuskoodi",
-      "ru": "Пожалуйста, введите код подтверждения",
-      "sv": "Ange verifieringskod",
-      "fr": "Entrez le code de vérification",
-      "de": "Bitte Bestätigungscode eingeben",
-      "pl": ""
-    },
-    {
       "ident_ios": "UnexpectedError.failedToFindOrGenerateBackgroundImage",
       "ident_android": "",
       "ident_webui": "",
@@ -7287,78 +6387,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "UpdateFirmware.Title.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Update firmware",
-      "fi": "Päivitä laiteohjelmisto",
-      "ru": "Обновить Прошивку",
-      "sv": "Uppdatera programvara",
-      "fr": "Mettre à jour le programme",
-      "de": "Firmware aktualisieren",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UpdateFirmware.Download.header",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "DOWNLOAD LATEST FIRMWARE",
-      "fi": "LATAA UUSIN LAITEOHJELMISTO",
-      "ru": "СКАЧАТЬ ПОСЛЕДНЮЮ ПРОШИВКУ",
-      "sv": "LADDA NER NYASTE PROGRAMVARA",
-      "fr": "TÉLÉCHARGER LA DÉRNIÈRE VERSION",
-      "de": "AKTUELLE FIRMWARE HERUNTERLADEN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UpdateFirmware.Download.content",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "To start with the update process, first download the latest software package on the device you're going to use for updates. Latest version is available on ruuvi.com/software-update",
-      "fi": "Lataa uusin saatavilla oleva ohjelmistopaketti ennen päivityksen aloittamista. Uusin versio on ladattavissa osoitteesta ruuvi.com/fi/ohjelmistopaivitys",
-      "ru": "Чтобы начать процесс обновления, скачайте последнюю прошивку для целевого устройства. Последняя версия прошивки доступна на сайте ruuvi.com/software-update",
-      "sv": "Ladda ner det senaste tillgängliga programvarupaketet innan du startar uppgraderingen. Den senaste versionen kan laddas ner från ruuvi.com/software-update",
-      "fr": "Pour commencer la mise à jour, télécharger la dérnière version sur l'appareil que vous utiliserez pour mettre à jour le capteur. Fichier disponible sur ruuvi.com/software-update",
-      "de": "Um mit dem Update-Vorgang zu beginnen, laden Sie zuerst das neueste Softwarepaket auf das Gerät herunter, das Sie für die Aktualisierung verwenden möchten. Die neueste Version ist auf ruuvi.com/software-update verfügbar",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UpdateFirmware.SetDfu.header",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "SET RUUVI TAG TO DFU MODE",
-      "fi": "ASETA RUUVI-ANTURI DFU-TILAAN",
-      "ru": "ПЕРЕВЕДИТЕ RUUVI TAG В DFU-РЕЖИМ",
-      "sv": "STÄLL IN RUUVI TAG I DFU-LÄGE",
-      "fr": "METTRE LE CAPTEUR EN MODE DFU",
-      "de": "RUUVI-TAG AUF DFU-MODUS EINSTELLEN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UpdateFirmware.SetDfu.content",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Open the RuuviTag's enclosure by pulling it open with your fingers or gently with a flat head screw driver.\\n\\nSet RuuviTag to bootloader mode by holding down button B and pressing reset button R. Red indicator LED light will light up and stay on. If your device has only 1 button, keep it pressed 10 seconds to enter the bootloader.",
-      "fi": "Avaa anturin suojakotelo vetämällä kansiosa erilleen kotelon pohjasta sormin tai tasapäisen ruuvimeisselin avulla.\\n\\nAseta RuuviTag päivitystilaan pitämällä painiketta B alaspainettuna ja painamalla samalla nollauspainiketta R. Punainen LED-valo on aktiivinen laitteen ollessa bootloader-tilassa. Pidä painiketta alaspainettuna 10 sekunnin ajan, mikäli laitteessa on vain yksi painike.",
-      "ru": "Осторожно откройте RuuviTag пальцами или отверткой.\\n\\nВведите RuuviTag в режим обновления прошивки, зажав кнопку B и нажав на кнопку перезагрузки R. Красная лампочка загорится и будет продолжать гореть. Если на вашем устройстве только одна кнопка, зажмите ее на 10 секунд.",
-      "sv": "Öppna sensorn genom att dra upp den med fingrarna eller försiktigt med en platt skruvmejsel.\\n\\nStäll RuuviTag i uppdateringsläge genom att hålla ned knappen B och trycka på återställningsknappen R. Den röda indikatorlampan tänds och fortsätter att lysa. Om din enhet bara har en knapp, håll den intryckt i 10 sekunder för att komma in i uppdateringsläge.",
-      "fr": "Ouvrez le boitier du capteur, aidez-vous d'un tournevis plat si besoin.\\n\\nAppuyez sur le bouton B pendant quelques secondespuis sur le bouton R en gradant le bouton B enfoncé. La LED rouge doit s'allumer lorsqu'il est en mode bootloader. S'il n'y a qu'un bouton appuyez dessus pendant 10 secondes.",
-      "de": "Öffnen Sie das Gehäuse des RuuviTag, indem Sie es mit den Fingern oder vorsichtig mit einem Flachkopfschraubendreher aufziehen.\\n\\nSetzen Sie den RuuviTag in den Bootloader-Modus, indem Sie die Taste B gedrückt halten und die Reset-Taste R drücken. Die rote LED-Anzeige leuchtet und bleibt An. Wenn Ihr Gerät nur über 1 Taste verfügt, halten Sie diese 10 Sekunden lang gedrückt, um den Bootloader aufzurufen.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "UpdateFirmware.NextButton.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "NEXT",
-      "fi": "SEURAAVA",
-      "ru": "ДАЛЕЕ",
-      "sv": "NÄSTA",
-      "fr": "SUIVANT",
-      "de": "NÄCHSTE",
-      "pl": ""
-    },
-    {
       "ident_ios": "DfuDevicesScanner.Title.text",
       "ident_android": "",
       "ident_webui": "",
@@ -7368,174 +6396,6 @@
       "sv": "Enheter",
       "fr": "Appareils",
       "de": "Geräte",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuDevicesScanner.Description.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Find and select sensor \\\"RuuviBoot\\\".",
-      "fi": "Etsi ja valitse päivitettävä anturi \\\"RuuviBoot\\\".",
-      "ru": "Найдите и выберите сенсор \\\"RuuviBoot\\\".",
-      "sv": "Hitta ock välj sensor \\\"RuuviBoot\\\"",
-      "fr": "Chercher et choisir un capteur \\\"RuuviBoot\\\".",
-      "de": "Suchen und wählen Sie den Sensor \\\"RuuviBoot\\\".",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuDevicesScanner.NoDevice.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "(No sensors in Bluetooth range)",
-      "fi": "(Ei havaittuja antureita Bluetooth-verkon alueella)",
-      "ru": "(Bluetooth устройства не найдены)",
-      "sv": "(Inga sensorer inom Bluetooths räckvidd)",
-      "fr": "(Pas de capteurs à portée du Bluetooth)",
-      "de": "(Keine Sensoren in Bluetooth-Reichweite)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuDevicesScanner.BluetoothDisabled.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "(Bluetooth is disabled)",
-      "fi": "(Bluetooth ei ole käytössä)",
-      "ru": "(Bluetooth отключен)",
-      "sv": "(Bluetooth är avaktiverat)",
-      "fr": "(Bluetooth désactivé)",
-      "de": "(Bluetooth ist deaktiviert)",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Bluetooth is not enabled",
-      "fi": "Bluetooth ei ole käytössä",
-      "ru": "Bluetooth выключен",
-      "sv": "Bluetooth är inte aktiverat",
-      "fr": "Bluetooth désactivé",
-      "de": "Bluetooth ist nicht aktiviert",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuDevicesScanner.BluetoothDisabledAlert.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Ruuvi Station needs Bluetooth to be able to listen for sensors. Go to settings and turn Bluetooth on.",
-      "fi": "Ruuvi Station tarvitsee Bluetooth-yhteyden toimiakseen. Ota Bluetooth käyttöön laitteen asetuksista.",
-      "ru": "Ruuvi Station необходим bluetooth чтобы слушать сенсоры. Откройте Настройки и включите Bluetooth.",
-      "sv": "Ruuvi Station behöver bluetooth för att fungera. Gå till Inställningar och aktivera Bluetooth.",
-      "fr": "Ruuvi Station a besoin du Bluetooth pour fonctionner. Activez-le dans les paramètres de votre appareil.",
-      "de": "Die Ruuvi Station benötigt Bluetooth, um Sensoren zu verbinden. Gehen Sie zu Einstellungen und schalten Sie Bluetooth ein.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Title.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "DFU Flash",
-      "fi": "DFU-päivitys",
-      "ru": "DFU",
-      "sv": "DFU-uppdatering",
-      "fr": "Mise à jour DFU",
-      "de": "DFU Flash",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Progress.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Progress",
-      "fi": "Edistyminen",
-      "ru": "Прогресс",
-      "sv": "Framsteg",
-      "fr": "Avancement",
-      "de": "Fortschritt",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Step.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Step",
-      "fi": "Vaihe",
-      "ru": "Шаг",
-      "sv": "Steg",
-      "fr": "Étape",
-      "de": "Schritt",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Steps.PackageSelection.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Package selection",
-      "fi": "Valitse päivityspaketti",
-      "ru": "Выбор Прошивки",
-      "sv": "Välj uppdateringspaket",
-      "fr": "Choisir le fichier de mise à jour",
-      "de": "Paketauswahl",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Steps.ReadyForUpload.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Ready For upload",
-      "fi": "Valmis ladattavaksi",
-      "ru": "Готово к Загрузке",
-      "sv": "Redo för uppladdning",
-      "fr": "Prêt pour la mise à jour",
-      "de": "Bereit zum Hochladen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Steps.Uploading.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Uploading",
-      "fi": "Ladataan",
-      "ru": "Загружаю",
-      "sv": "Uppladdning",
-      "fr": "Chargement",
-      "de": "Hochladen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Steps.Completed.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Completed",
-      "fi": "Valmis",
-      "ru": "Успешно",
-      "sv": "Klar",
-      "fr": "Prêt",
-      "de": "Fertig",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.OpenDocumentPicker.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "OPEN DOCUMENT PICKER",
-      "fi": "AVAA TIEDOSTOVALITSIN",
-      "ru": "ОТКРЫТЬ ФАЙЛ",
-      "sv": "ÖPPET DOKUMENTVÄLJARE",
-      "fr": "OUVRIR LE GESTIONNAIRE DE FICHIERS",
-      "de": "DOKUMENTENAUSWAHL ÖFFNEN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.FirmwareSelectionGuide.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Locate the previously downloaded ZIP file on your mobile device.",
-      "fi": "Etsi aiemmin mobiililaitteelle tallentamasi ZIP-tiedosto.",
-      "ru": "Выберите ранее загруженный ZIP файл.",
-      "sv": "Hitta ZIP-filen som du laddade ner.",
-      "fr": "Chercher le fichier ZIP.",
-      "de": "Suchen Sie die zuvor heruntergeladene ZIP-Datei auf Ihrem Handy.",
       "pl": ""
     },
     {
@@ -7599,30 +6459,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "DfuFlash.Cancel.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "CANCEL",
-      "fi": "PERUUTA",
-      "ru": "ОТМЕНА",
-      "sv": "AVBRYT",
-      "fr": "ANNULER",
-      "de": "ABBRECHEN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.Start.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Start",
-      "fi": "Aloita",
-      "ru": "Начать",
-      "sv": "Börja",
-      "fr": "Commencer",
-      "de": "Start",
-      "pl": ""
-    },
-    {
       "ident_ios": "DfuFlash.Finish.text",
       "ident_android": "",
       "ident_webui": "",
@@ -7632,30 +6468,6 @@
       "sv": "KLAR",
       "fr": "PRÊT",
       "de": "BEENDEN",
-      "pl": ""
-    },
-    {
-      "ident_ios": "DfuFlash.CancelAlert.text",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Are you sure you want to cancel the firmware update process?",
-      "fi": "Haluatko varmasti peruuttaa laiteohjelmistopäivityksen?",
-      "ru": "Вы уверены что хотите прервать процесс обновления прошивки?",
-      "sv": "Är du säker på att du vill avbryta uppdateringsprocessen?",
-      "fr": "Voulez-vous annuler la mise à jour ?",
-      "de": "Möchten Sie den Firmware-Aktualisierungsvorgang wirklich abbrechen?",
-      "pl": ""
-    },
-    {
-      "ident_ios": "RuuviDfuError.invalidFirmwareFile",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Invalid firmware file",
-      "fi": "Tiedosto ei sisällä sopivaa laiteohjelmistoa",
-      "ru": "Некорректный файл прошивки",
-      "sv": "Ogiltig programvaruuppdateringsfil",
-      "fr": "Fichier de mise à jour invalide",
-      "de": "Ungültige Firmware-Datei",
       "pl": ""
     },
     {
@@ -7755,7 +6567,7 @@
       "pl": "[title]Przygotuj swój czujnik[/title]\\n\\n1. Otwórz osłonę swojego czujnika Ruuvi."
     },
     {
-      "ident_ios": "DFUUIView.prepareTitle",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor",
       "ident_webui": "",
       "en": "Prepare your sensor",
@@ -7767,7 +6579,7 @@
       "pl": "Przygotuj swój czujnik"
     },
     {
-      "ident_ios": "DFUUIView.openCoverTitle",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_1",
       "ident_webui": "",
       "en": "1. Open the cover of your Ruuvi sensor",
@@ -7779,7 +6591,7 @@
       "pl": "1. Otwórz osłonę swojego czujnika Ruuvi."
     },
     {
-      "ident_ios": "DFUUIView.locateBootButtonTitle",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_2",
       "ident_webui": "",
       "en": "2. Locate the small round black buttons on the white circuit board; older Ruuvi sensors have 2 buttons labelled “R” and “B” while newer ones have only one button without a label.",
@@ -7791,7 +6603,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "DFUUIView.setUpdatingModeTitle",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_3",
       "ident_webui": "",
       "en": "3. Set the sensor to updating mode:",
@@ -7803,7 +6615,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "DFUUIView.toBootModeTwoButtonsDescription",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_4",
       "ident_webui": "",
       "en": "3.1. If your sensor has 2 buttons: keep “B” button pressed while tapping button “R” momentarily. Release button “B”.",
@@ -7815,7 +6627,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "DFUUIView.toBootModeOneButtonDescription",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_5",
       "ident_webui": "",
       "en": "3.2. If your sensor has a single button: keep the button pressed for 10 seconds.",
@@ -7827,7 +6639,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "DFUUIView.toBootModeSuccessTitle",
+      "ident_ios": "",
       "ident_android": "prepare_your_sensor_instructions_6",
       "ident_webui": "",
       "en": "4. If set successfully, you will see a solid red light lit on the circuit board and the button in the app will change to “Start the update”.",
@@ -7968,18 +6780,6 @@
       "sv": "Uppdateringen lyckades, men ett oväntat databasmigreringsfel inträffade. För att fortsätta använda den här sensorn, ta bort den från appen och lägg sedan till den igen.",
       "fr": "La mise à jour a réussi, mais une erreur inattendue de migration de la base de données s'est produite. Pour continuer à utiliser ce capteur, veuillez le supprimer de l'application, puis le rajouter à nouveau.",
       "de": "Die Aktualisierung war erfolgreich, aber es ist ein unerwarteter Datenbankmigrationsfehler aufgetreten. Um diesen Sensor weiterhin zu verwenden, entfernen Sie ihn bitte aus der App und fügen Sie ihn dann erneut hinzu.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "RuuviDfuError.failedToConstructUUID",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Failed to construct UUID",
-      "fi": "UUID:n muodostaminen epäonnistui",
-      "ru": "Не удалось создать UUID",
-      "sv": "Det gick inte att skapa UUID",
-      "fr": "Echec de la création de l'UUID",
-      "de": "Fehler beim Erstellen der UUID",
       "pl": ""
     },
     {
@@ -8163,7 +6963,7 @@
       "pl": "Usuń ten czujnik"
     },
     {
-      "ident_ios": "TagSettings.Shared.title",
+      "ident_ios": "",
       "ident_android": "sensor_shared",
       "ident_webui": "sensor_shared",
       "en": "Shared",
@@ -8235,7 +7035,7 @@
       "pl": "Potwierdzono prawa własności czujnika"
     },
     {
-      "ident_ios": "TagSettings.confirmTagUnclaimAndRemoveDialog.message",
+      "ident_ios": "",
       "ident_android": "remove_claimed_sensor",
       "ident_webui": "remove_claimed_sensor",
       "en": "By removing the sensor, your sensor ownership status will be revoked. After removal, someone else can claim ownership of the sensor. Each Ruuvi sensor can have only one owner.",
@@ -8247,7 +7047,7 @@
       "pl": "Usunięcie czujnika spowoduje cofnięcie statusu własności czujnika. Po usunięciu czujnika ktoś inny może zastrzec jego własność. Każdy czujnik Ruuvi może mieć tylko jednego właściciela."
     },
     {
-      "ident_ios": "TagSettings.confirmSharedTagRemovalDialog.message",
+      "ident_ios": "",
       "ident_android": "remove_shared_sensor",
       "ident_webui": "remove_shared_sensor",
       "en": "If you remove the sensor, the owner of the sensor will be notified and you will not be able to access the sensor anymore.",
@@ -8787,7 +7587,7 @@
       "pl": "Indeks NOx jest poniżej {%@^%1$s}"
     },
     {
-      "ident_ios": "alert_notification_sound_high_threshold",
+      "ident_ios": "",
       "ident_android": "alert_notification_sound_high_threshold",
       "ident_webui": "",
       "en": "Sound is above {%@^%1$s}",
@@ -8799,7 +7599,7 @@
       "pl": "Dźwięk przekracza {%@^%1$s}"
     },
     {
-      "ident_ios": "alert_notification_sound_low_threshold",
+      "ident_ios": "",
       "ident_android": "alert_notification_sound_low_threshold",
       "ident_webui": "",
       "en": "Sound is below {%@^%1$s}",
@@ -9870,13 +8670,13 @@
       "ident_ios": "Settings.Measurement.Resolution.description",
       "ident_android": "accuracy_description",
       "ident_webui": "",
-      "en": "Select how accurately you'd like to see the sensors' live measurement values in the app. This setting doesn't affect history charts or alerts.",
-      "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin tai hälytyksiin.",
+      "en": "Select how accurately you'd like to see the sensors' live measurement values in the app. This setting doesn't affect history charts, CSV- and XLXS-file exports or alerts.",
+      "fi": "Valitse kuinka suurella tarkkuudella haluat mittaustietojen näkyvän sovelluksessa. Tämä asetus ei vaikuta historiatietoihin, CSV- ja XLXS-tiedostoon vientiin tai hälytyksiin.",
       "ru": "",
-      "sv": "Välj hur exakt du vill se sensorernas livemätvärden i appen. Den här inställningen påverkar inte histogram eller varningar.",
-      "fr": "Sélectionnez la précision avec laquelle vous souhaitez voir les valeurs de mesure en direct des capteurs dans l'application. Ce paramètre n'affecte pas les graphiques d'historique ni les alertes.",
-      "de": "Wählen Sie aus, wie genau Sie die Live-Messwerte der Sensoren in der App sehen möchten. Diese Einstellung hat keinen Einfluss auf Verlaufsdiagramme oder Alarme.",
-      "pl": ""
+      "sv": "Välj hur exakt du vill se sensorernas live-mätvärden i appen. Den här inställningen påverkar inte historikdiagram, export av CSV- och XLXS-filer eller alarm.",
+      "fr": "Sélectionnez la précision avec laquelle vous souhaitez voir les valeurs de mesure en direct des capteurs dans l’application. Ce paramètre n’affecte pas les graphiques d’historique, les exports de fichiers CSV et XLXS ni les alertes.",
+      "de": "Wählen Sie aus, wie genau die Live-Messwerte der Sensoren in der App angezeigt werden sollen. Diese Einstellung wirkt sich nicht auf Verlaufsdiagramme, den Export von CSV- und XLXS-Dateien oder Warnungen aus.",
+      "pl": "Wybierz, z jaką dokładnością chcesz widzieć bieżące wartości pomiarowe czujników w aplikacji. To ustawienie nie wpływa na wykresy historii, eksport plików CSV i XLXS ani na alarmy."
     },
     {
       "ident_ios": "Settings.Measurement.Unit.title",
@@ -9927,7 +8727,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Alert.SetTemperature.title",
+      "ident_ios": "",
       "ident_android": "alert_dialog_title_temperature",
       "ident_webui": "alert_dialog_title_temperature",
       "en": "Set temperature alert",
@@ -9939,7 +8739,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Alert.SetHumidity.title",
+      "ident_ios": "",
       "ident_android": "alert_dialog_title_humidity",
       "ident_webui": "alert_dialog_title_humidity",
       "en": "Set humidity alert",
@@ -9951,7 +8751,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Alert.SetPressure.title",
+      "ident_ios": "",
       "ident_android": "alert_dialog_title_pressure",
       "ident_webui": "alert_dialog_title_pressure",
       "en": "Set pressure alert",
@@ -9963,7 +8763,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "TagSettings.Alert.SetRSSI.title",
+      "ident_ios": "",
       "ident_android": "alert_dialog_title_rssi",
       "ident_webui": "alert_dialog_title_signal",
       "en": "Set signal strength alert",
@@ -10383,7 +9183,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "bluetooth_download",
+      "ident_ios": "",
       "ident_android": "bluetooth_download",
       "ident_webui": "",
       "en": "Bluetooth download",
@@ -10395,7 +9195,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "bluetooth_download_description",
+      "ident_ios": "",
       "ident_android": "bluetooth_download_description",
       "ident_webui": "",
       "en": "Local sensor data can be downloaded, when you're within its Bluetooth range.",
@@ -10407,7 +9207,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "download",
+      "ident_ios": "",
       "ident_android": "download",
       "ident_webui": "",
       "en": "Download",
@@ -10479,7 +9279,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "support",
+      "ident_ios": "",
       "ident_android": "",
       "ident_webui": "support",
       "en": "Support",
@@ -10503,7 +9303,7 @@
       "pl": "Widok główny"
     },
     {
-      "ident_ios": "full_image_view",
+      "ident_ios": "",
       "ident_android": "full_image_view",
       "ident_webui": "",
       "en": "Full image view",
@@ -10527,7 +9327,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "settings_and_alerts",
+      "ident_ios": "",
       "ident_android": "settings_and_alerts",
       "ident_webui": "settings_and_alerts",
       "en": "Settings & alerts",
@@ -10551,7 +9351,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "check_claim_state",
+      "ident_ios": "",
       "ident_android": "check_claim_state",
       "ident_webui": "",
       "en": "Checking claim state",
@@ -10563,7 +9363,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "claim_in_progress",
+      "ident_ios": "",
       "ident_android": "claim_in_progress",
       "ident_webui": "",
       "en": "Claiming in progress",
@@ -10719,22 +9519,10 @@
       "pl": ""
     },
     {
-      "ident_ios": "imageExt_cards",
+      "ident_ios": "",
       "ident_android": "imageExt_cards",
       "ident_webui": "",
       "en": "Image extended cards",
-      "fi": "",
-      "ru": "",
-      "sv": "",
-      "fr": "",
-      "de": "",
-      "pl": ""
-    },
-    {
-      "ident_ios": "simpleExt_cards",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Simple extended cards",
       "fi": "",
       "ru": "",
       "sv": "",
@@ -10971,30 +9759,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Widgets.Unauthorized.Regular.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sign in to use the widget.",
-      "fi": "Kirjaudu sisään käyttääksesi widgettiä.",
-      "ru": "",
-      "sv": "Logga in för att använda widgeten.",
-      "fr": "Connectez-vous pour utiliser le widget.Connectez-vous pour utiliser le widget.",
-      "de": "Melden Sie sich an, um das Widget zu verwenden.",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Widgets.Unauthorized.Inline.message",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Sign in to Ruuvi Station",
-      "fi": "Kirjaudu Ruuvi Stationiin",
-      "ru": "",
-      "sv": "Logga in till Ruuvi Station",
-      "fr": "Connectez-vous à la station Ruuvi",
-      "de": "Anmeldung bei Ruuvi Station",
-      "pl": ""
-    },
-    {
       "ident_ios": "Widgets.Unconfigured.Simple.message",
       "ident_android": "",
       "ident_webui": "",
@@ -11043,18 +9807,6 @@
       "pl": ""
     },
     {
-      "ident_ios": "Widgets.Select.Sensor.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Selected Ruuvi sensor",
-      "fi": "Valittu anturi",
-      "ru": "",
-      "sv": "Vald Ruuvi sensor",
-      "fr": "Capteur Ruuvi sélectionné",
-      "de": "Ausgewählter Ruuvi-Sensor",
-      "pl": ""
-    },
-    {
       "ident_ios": "Widgets.Refresh.Manual.title",
       "ident_android": "",
       "ident_webui": "",
@@ -11065,30 +9817,6 @@
       "fr": "Actualiser le widget",
       "de": "Widget aktualisieren",
       "pl": "Odśwież widget"
-    },
-    {
-      "ident_ios": "Widgets.Sensor.Type.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Selected sensor type",
-      "fi": "Valitse anturin tyyppi",
-      "ru": "",
-      "sv": "Vald sensortyp",
-      "fr": "Type de capteur sélectionné",
-      "de": "Ausgewählter Sensortyp",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Settings.SectionHeader.Application.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "APPLICATION",
-      "fi": "OHJELMA",
-      "ru": "ПРИЛОЖЕНИЕ",
-      "sv": "APPLIKATION",
-      "fr": "APPLICATION",
-      "de": "ANWENDUNG",
-      "pl": ""
     },
     {
       "ident_ios": "",
@@ -11175,7 +9903,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "onboarding_read_sensors_data",
+      "ident_ios": "",
       "ident_android": "onboarding_read_sensors_data",
       "ident_webui": "",
       "en": "Read Your Ruuvi Sensors",
@@ -11187,7 +9915,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "onboarding_via_bluetooth_or_cloud",
+      "ident_ios": "",
       "ident_android": "onboarding_via_bluetooth_or_cloud",
       "ident_webui": "",
       "en": "using Bluetooth or Ruuvi Cloud",
@@ -11427,7 +10155,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "onboarding_go_to_sign_in",
+      "ident_ios": "",
       "ident_android": "onboarding_go_to_sign_in",
       "ident_webui": "",
       "en": "Ruuvi experience is better when you're signed in. Do it now or continue without cloud features.",
@@ -11439,7 +10167,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "onboarding_go_to_sign_in_already_signed_in",
+      "ident_ios": "",
       "ident_android": "onboarding_lets_get_started_description",
       "ident_webui": "",
       "en": "Let's start measuring!",
@@ -11631,7 +10359,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "benefits_sign_in",
+      "ident_ios": "",
       "ident_android": "benefits_sign_in",
       "ident_webui": "",
       "en": "Read more about Ruuvi account benefits or sign in later",
@@ -11775,7 +10503,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "lets_do_it",
+      "ident_ios": "",
       "ident_android": "lets_do_it",
       "ident_webui": "",
       "en": "Let's Sign In",
@@ -11919,7 +10647,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "chart_stat_avg",
+      "ident_ios": "",
       "ident_android": "chart_stat_avg",
       "ident_webui": "graph_stat_avg",
       "en": "Average",
@@ -11943,7 +10671,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "chart_latest_min_max_avg",
+      "ident_ios": "",
       "ident_android": "chart_latest_min_max_avg",
       "ident_webui": "",
       "en": "Min: {%@^%1$s} Max: {%@^%2$s} Average: {%@^%3$s} Latest: {%@^%4$s}",
@@ -12301,30 +11029,6 @@
       "fr": "Pour appliquer les modifications, synchronisez simplement les données du tableau de bord ou attendez la prochaine synchronisation.",
       "de": "Um Änderungen zu übernehmen, synchronisieren Sie einfach die Daten vom Dashboard oder warten Sie bis zur nächsten Synchronisierung.",
       "pl": "Aby zastosować zmiany, po prostu zsynchronizuj dane z pulpitu nawigacyjnego lub poczekaj do następnej synchronizacji."
-    },
-    {
-      "ident_ios": "Defaults.ShowEmailAlertsSettings.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Show email alerts settings",
-      "fi": "Näytä sähköpostihälytysasetukset",
-      "ru": "",
-      "sv": "Visa inställningar för e-postvarningar",
-      "fr": "Afficher les paramètres d'alertes par e-mail",
-      "de": "Einstellungen für E-Mail-Benachrichtigungen anzeigen",
-      "pl": ""
-    },
-    {
-      "ident_ios": "Defaults.ShowPushAlertsSettings.title",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Show push alerts settings",
-      "fi": "Näytä push-hälytysasetukset",
-      "ru": "",
-      "sv": "Visa push-varningsinställningar",
-      "fr": "Afficher les paramètres des alertes push",
-      "de": "Einstellungen für Push-Benachrichtigungen anzeigen",
-      "pl": ""
     },
     {
       "ident_ios": "Defaults.ShowStatusLabelSettings.title",
@@ -12843,7 +11547,7 @@
       "pl": "Ustaw alarm połączenia z chmurą"
     },
     {
-      "ident_ios": "rename",
+      "ident_ios": "",
       "ident_android": "rename",
       "ident_webui": "rename",
       "en": "Rename",
@@ -13011,7 +11715,7 @@
       "pl": "Ta operacja nie może zostać cofnięta."
     },
     {
-      "ident_ios": "remove_cloud_history_title",
+      "ident_ios": "",
       "ident_android": "remove_cloud_history_title",
       "ident_webui": "remove_cloud_history_switch",
       "en": "Remove cloud history",
@@ -14451,7 +13155,7 @@
       "pl": ""
     },
     {
-      "ident_ios": "show_measurements",
+      "ident_ios": "",
       "ident_android": "show_measurements",
       "ident_webui": "show_measurements",
       "en": "Visible measurements",
@@ -14643,7 +13347,7 @@
       "pl": "Siła sygnału (RSSI) pokazuje moc pakietów danych odbieranych przez urządzenie mobilne z czujnika. Im bliżej wartość znajduje się zera, tym silniejszy jest sygnał. Jest to [b]informacja techniczna[/b], której nie trzeba śledzić podczas zwykłego użytkowania.\\n\\n[title]Cel pomiaru[/title]\\n\\nSłaby sygnał może powodować przerwy w połączeniu i opóźnienia w aktualizacji danych z czujnika. Możesz obserwować siłę sygnału podczas umieszczania czujnika w nowym miejscu. [b]Optymalna siła sygnału[/b] mieści się w zakresie od –80 do 0 dBm. Pamiętaj jednak, że siła sygnału stale się zmienia z powodu odbić. Różne urządzenia mobilne mogą również raportować wartości w nieco inny sposób, więc liczby nie zawsze są bezpośrednio porównywalne.\\n\\n[title]Wskazówki i dodatkowe informacje[/title]\\n[li]Na jakość sygnału wpływają [b]odległość, ściany, inne przeszkody oraz zakłócenia powodowane przez inne urządzenia bezprzewodowe.[/b][/li][li]Jeśli sygnał jest słaby, [b]przenieś czujnik[/b] w miejsce z lepszą widocznością odbiornika. Wysokość umieszczenia czujnika również wpływa na zasięg – wyżej zamontowany czujnik zazwyczaj odbiera sygnał silniej.[/li]"
     },
     {
-      "ident_ios": "initial_description_text_air_quality",
+      "ident_ios": "",
       "ident_android": "initial_description_text_air_quality",
       "ident_webui": "",
       "en": "",
@@ -15411,7 +14115,7 @@
       "pl": "Pyły zawieszone (particulate matter, PM) to drobne, niewidoczne gołym okiem cząstki i zanieczyszczenia unoszące się w powietrzu. Najczęściej monitorowanym wskaźnikiem jest [b]PM2.5[/b], ale w ustawieniach aplikacji można również sprawdzić wartości [b]PM1, PM4 i PM10[/b].\\n\\n[title]Klasy stężenia[/title]\\n[li][b]Doskonała:[/b] poniżej 5 µg/m³[/li][li][b]Dobra:[/b] 5 - 11.9 µg/m³[/li][li][b]Umiarkowana:[/b] 12 - 29.9 µg/m³[/li][li][b]Zła:[/b] 30 - 54.9 µg/m³[/li][li][b]Bardzo zła:[/b] 55 µg/m³ lub więcej[/li]\\n[title]Zakres docelowy[/title]\\n\\nŚwiatowa Organizacja Zdrowia (WHO) zaleca następujące limity dla PM2.5: [b]5 µg/m³[/b] (średnia roczna) i [b]15 µg/m³[/b] (średnia dobowa).\\n\\n[title]Zalecane działania[/title]\\n[li]Wietrz pomieszczenie lub użyj oczyszczacza powietrza, gdy wartości rosną.[/li][li]Unikaj czynności powodujących emisję pyłów, takich jak palenie świec lub palenie tytoniu w pomieszczeniu.[/li][li]Zapewnij odpowiednią wentylację, zwłaszcza podczas gotowania i sprzątania.[/li][li]Regularnie wymieniaj filtry wentylacyjne i upewnij się, że stosujesz właściwy typ filtra.[/li]\\n[title]Wpływ na samopoczucie[/title]\\n\\nBardzo drobne cząstki (PM2.5 i mniejsze) przedostają się głęboko do płuc i mogą dostać się do krwiobiegu. Mogą [b]nasilać alergie[/b] oraz powodować [b]problemy z układem oddechowym i sercem[/b]. Stężenia mogą wzrastać w wyniku gotowania, palenia świec lub zanieczyszczenia powietrza na zewnątrz.\\n\\n[title]Wskazówki i dodatkowe informacje[/title]\\n[li]Umieść czujnik z dala od bezpośrednich [b]źródeł emisji[/b], takich jak kuchenki lub wentylatory.[/li][li]Zapewnij swobodny przepływ powietrza wokół czujnika, aby uzyskać jak najdokładniejsze pomiary.[/li][li]Czujnik nie wykrywa pyłków ani zwykłego kurzu domowego, ponieważ ich cząstki są zwykle większe niż 10 mikrometrów. Nie rozpoznaje także zarodników pleśni, bakterii ani wirusów.[/li][li]Wartość PM2.5 obejmuje cząstki o średnicy 2,5 mikrometra i mniejsze. Na tej samej zasadzie wartość PM10 obejmuje cząstki o średnicy 10 µm i mniejsze.[/li][li]Rekomendacja WHO: [link url=https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants]https://www.who.int/teams/environment-climate-change-and-health/air-quality-and-health/health-impacts/types-of-pollutants[/link][/li]"
     },
     {
-      "ident_ios": "real_time",
+      "ident_ios": "",
       "ident_android": "real_time",
       "ident_webui": "",
       "en": "Real time",
@@ -15423,7 +14127,7 @@
       "pl": "Czas rzeczywisty"
     },
     {
-      "ident_ios": "average",
+      "ident_ios": "",
       "ident_android": "average",
       "ident_webui": "",
       "en": "Average",
@@ -15435,7 +14139,7 @@
       "pl": "Średnia"
     },
     {
-      "ident_ios": "peak",
+      "ident_ios": "",
       "ident_android": "peak",
       "ident_webui": "",
       "en": "Peak",
@@ -15483,7 +14187,7 @@
       "pl": "Przytrzymaj wykres, aby wyświetlić dodatkowe informacje o punkcie danych."
     },
     {
-      "ident_ios": "warning",
+      "ident_ios": "",
       "ident_android": "warning",
       "ident_webui": "",
       "en": "Warning",
