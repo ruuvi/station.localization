@@ -7,7 +7,6 @@ data class TranslationString (
     val ident_android: String,
     var en: String,
     var fi: String,
-    var ru: String,
     var sv: String,
     var fr: String,
     var de: String,
@@ -19,7 +18,6 @@ data class TranslationString (
         if (en.isNotEmpty()) writers["en"]?.println(prepareString(en))
         if (fi.isNotEmpty()) writers["fi"]?.println(prepareString(fi))
         if (sv.isNotEmpty()) writers["sv"]?.println(prepareString(sv))
-        if (ru.isNotEmpty()) writers["ru"]?.println(prepareString(ru))
         if (fr.isNotEmpty()) writers["fr"]?.println(prepareString(fr))
         if (de.isNotEmpty()) writers["de"]?.println(prepareString(de))
         if (pl.isNotEmpty()) writers["pl"]?.println(prepareString(pl))

@@ -236,7 +236,7 @@ fun FastLocalizerApp() {
                 ) {
                     Text("Details", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold, color = Color.White)
                     foundJson?.let { obj ->
-                        val fields = listOf("ident_android","en","fi","ru","sv","fr","de")
+                        val fields = listOf("ident_android","en","fi","sv","fr","de","pl")
                         fields.forEach { key ->
                             if (obj.has(key)) KeyValue(key, obj.optString(key))
                         }
