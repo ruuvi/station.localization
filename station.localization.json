@@ -2661,7 +2661,7 @@
       "sv": "EXPORTERA",
       "fr": "EXPORTER",
       "de": "EXPORT",
-      "pl": "EKSPORT"
+      "pl": "Eksport"
     },
     {
       "ident_ios": "",
@@ -2760,7 +2760,7 @@
       "sv": "Om / Hjälp",
       "fr": "Infos / Aide",
       "de": "Über / Hilfe",
-      "pl": "O APLIKACJI / POMOC"
+      "pl": "O aplikacji / Pomoc"
     },
     {
       "ident_ios": "About.TagsCount.text",
@@ -2837,7 +2837,7 @@
       "sv": "Läs mer",
       "fr": "Plus d'infos",
       "de": "Mehr erfahren",
-      "pl": "DOWIEDZ SIĘ WIĘCEJ"
+      "pl": "Dowiedz się więcej"
     },
     {
       "ident_ios": "About.OpenSource.contents",
@@ -2881,7 +2881,7 @@
       "sv": "Bruksanvisning",
       "fr": "Notice d'utilisation",
       "de": "Anleitung",
-      "pl": "INSTRUKCJA OBSŁUGI"
+      "pl": "Instrukcja obsługi"
     },
     {
       "ident_ios": "About.Privacy.contents",
@@ -2903,7 +2903,7 @@
       "sv": "Integritetspolicy",
       "fr": "Protection des données personnelles",
       "de": "Datenschutz-bestimmungen",
-      "pl": "POLITYKA PRYWATNOŚCI"
+      "pl": "Polityka prywatności"
     },
     {
       "ident_ios": "",
@@ -2936,7 +2936,7 @@
       "sv": "Felsökning",
       "fr": "Dépannage technique",
       "de": "Fehlerbehebung",
-      "pl": "ROZWIĄZYWANIE PROBLEMÓW"
+      "pl": "Rozwiązywanie problemów"
     },
     {
       "ident_ios": "hours",
@@ -3266,7 +3266,7 @@
       "sv": "Mer info",
       "fr": "Plus d'infos",
       "de": "Mehr info",
-      "pl": "WIĘCEJ INFORMACJI"
+      "pl": "Więcej informacji"
     },
     {
       "ident_ios": "",
@@ -3277,7 +3277,7 @@
       "sv": "NAMN",
       "fr": "NOM",
       "de": "NAME",
-      "pl": "NAZWA"
+      "pl": "Nazwa"
     },
     {
       "ident_ios": "",
@@ -3574,7 +3574,7 @@
       "sv": "SKANNA",
       "fr": "BALAYAGE EN COURS",
       "de": "SCANNEN",
-      "pl": "SKANOWANIE"
+      "pl": "Skanowanie"
     },
     {
       "ident_ios": "",
@@ -5203,7 +5203,7 @@
       "sv": "NÄTVERKSINFO",
       "fr": "RÉSEAU",
       "de": "NETZWERK INFORMATION",
-      "pl": "INFORMACJA O SIECI"
+      "pl": "Informacja o sieci"
     },
     {
       "ident_ios": "TagSettings.NetworkInfo.Owner",
@@ -5258,7 +5258,7 @@
       "sv": "SKIPPA",
       "fr": "PASSER",
       "de": "ÜBERSPRINGEN",
-      "pl": "POMIŃ"
+      "pl": "Pomiń"
     },
     {
       "ident_ios": "",
@@ -6006,7 +6006,7 @@
       "sv": "KLAR",
       "fr": "PRÊT",
       "de": "BEENDEN",
-      "pl": "ZAKOŃCZ"
+      "pl": "Zakończ"
     },
     {
       "ident_ios": "DFUUIView.navigationTitle",
@@ -7744,7 +7744,7 @@
       "sv": "STARTA OM",
       "fr": "REDÉMARRER",
       "de": "NEUSTART",
-      "pl": "URUCHOM PONOWNIE"
+      "pl": "Uruchom ponownie"
     },
     {
       "ident_ios": "",
