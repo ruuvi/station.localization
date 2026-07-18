@@ -4052,7 +4052,7 @@
     },
     {
       "ident_ios": "Settings.Label.GlobalUnits",
-      "ident_android": "",
+      "ident_android": "settings_global_units",
       "ident_webui": "global_units",
       "en": "Global Units",
       "fi": "Yleiset yksiköt",
@@ -4063,7 +4063,7 @@
     },
     {
       "ident_ios": "Settings.GlobalUnits.description",
-      "ident_android": "",
+      "ident_android": "settings_global_units_description",
       "ident_webui": "global_units_description",
       "en": "These settings define the global units used across Ruuvi Station, except for values configured in visible measurements settings. Dew point can be configured separately in visible measurements settings.",
       "fi": "Nämä asetukset määrittävät Ruuvi Stationissa käytettävät yleiset yksiköt lukuun ottamatta arvoja, jotka on määritetty näytettävien mittausten asetuksissa. Kastepisteen voi määrittää erikseen näytettävät mittaukset -sivulla.",
@@ -8122,7 +8122,7 @@
     },
     {
       "ident_ios": "Settings.Measurement.Resolution.title",
-      "ident_android": "",
+      "ident_android": "settings_resolution",
       "ident_webui": "",
       "en": "Resolution",
       "fi": "Resoluutio",
