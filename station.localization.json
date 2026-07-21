@@ -873,12 +873,12 @@
       "ident_ios": "Cards.KeepConnectionDialog.message",
       "ident_android": "",
       "ident_webui": "",
-      "en": "Seems like you are running a connectable firmware on your Ruuvi device. Would you like to keep the connection open to this Ruuvi device in the background? This will allow histograms and alerts to work even when the application is minimised.",
-      "fi": "Laitteessasi on yhteyden säilyttämiseen pystyvä laiteohjelmisto. Haluatko pitää yhteyden avoinna tähän Ruuvi-laitteeseen ohjelman ollessa taustalla? Tämä mahdollistaa historian ja hälytysten toiminnan ohjelman ollessa pienennettynä.",
-      "sv": "Det ser ut som din Ruuvi enhet har anslutningsbar firmware. Vill du att anslutningen till enheten skall hållas öppen i bakgrunden? Detta gör att histogram och alarm fungerar även om applikationen är minimerad.",
-      "fr": "Votre appareil est programmé pour rester connecté. Souhaitez-vous maintenir la connexion en arrière plan? Cela permettra de tracer les histogrammes et de recevoir les alertes même lorsque l'application est fermée.",
-      "de": "Scheint, als ob Sie eine verbindbare Firmware auf Ihrem Ruuvi-Gerät ausführen. Möchten Sie die Verbindung zu diesem Ruuvi-Gerät im Hintergrund offen halten? Dadurch können Histogramme und Warnungen auch dann angezeigt werden, wenn die Anwendung minimiert ist.",
-      "pl": "Wygląda na to, że Twoje urządzenie Ruuvi używa oprogramowania układowego obsługującego połączenie. Czy chcesz utrzymywać połączenie z tym urządzeniem Ruuvi w tle? Dzięki temu histogramy i alerty będą działać także wtedy, gdy aplikacja jest zminimalizowana."
+      "en": "Enable Connected mode (pair) in order to receive alert notifications when app is minimised.",
+      "fi": "Ota yhteystila (paritus) käyttöön saadaksesi hälytysilmoituksia sovelluksen ollessa pienennettynä.",
+      "sv": "Aktivera anslutet läge (parkoppling) för att få varningsmeddelanden när appen är minimerad.",
+      "fr": "Activez le mode connecté (appairage) afin de recevoir les notifications d’alerte lorsque l’application est réduite.",
+      "de": "Aktivieren Sie den Verbindungsmodus (Kopplung), um Alarmbenachrichtigungen zu erhalten, wenn die App minimiert ist.",
+      "pl": "Włącz tryb połączenia (parowanie), aby otrzymywać powiadomienia o alertach, gdy aplikacja jest zminimalizowana."
     },
     {
       "ident_ios": "Cards.KeepConnectionDialog.Dismiss.title",
