@@ -2,7 +2,7 @@ var fs = require('fs');
 var obj = JSON.parse(fs.readFileSync('../station.localization.json', 'utf8'));
 
 // languages we want
-var getLangs = ["en","fi","sv","fr","de"];
+var getLangs = ["en","fi","sv","fr","de", "pl"];
 
 var output = {};
 for (var i = 0; i < getLangs.length; i++) {
@@ -14,6 +14,8 @@ for (var i = 0; i < obj.translations.length; i++) {
         if (t.ident_webui) {
             if (t[getLangs[j]]) {
                 output[getLangs[j]].translation[t.ident_webui] = t[getLangs[j]]
+            } else if (t[getLangs[j]] === "") {
+                console.log("EMPTY " + t.ident_webui + " in " + getLangs[j])
             } else {
                 console.log("MISSING " + t.ident_webui +" in " + getLangs[j])
             }
