@@ -3786,6 +3786,17 @@
       "pl": "Ważna uwaga: rejestrowanie historii w tle Bluetooth i alerty Bluetooth działają tylko wtedy, gdy włączone jest skanowanie w tle. Jeśli wyłączysz skanowanie w tle, wszystkie sparowane czujniki Ruuvi zostaną automatycznie rozparowane i konieczne będzie ich ponowne sparowanie na stronach ustawień. Należy pamiętać, że wybranie krótkiego interwału rejestrowania danych może spowodować znaczne zużycie baterii urządzenia mobilnego, gdy aplikacja jest zminimalizowana i działa w tle."
     },
     {
+      "ident_ios": "Settings.BackgroundScanning.DisableConfirmation.message",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Are you sure you want to turn off background scanning? If you disable it, you’ll need to pair the sensors again on the Sensor settings page to enable alerts and background scanning.",
+      "fi": "Haluatko varmasti poistaa taustaskannauksen käytöstä? Jos poistat sen käytöstä, sinun on paritettava anturit uudelleen Anturin asetukset -sivulla ottaaksesi hälytykset ja taustaskannauksen käyttöön.",
+      "sv": "Är du säker på att du vill stänga av bakgrundsskanning? Om du inaktiverar den måste du parkoppla sensorerna igen på sidan Sensorinställningar för att aktivera varningar och bakgrundsskanning.",
+      "fr": "Voulez-vous vraiment désactiver le balayage en arrière-plan ? Si vous le désactivez, vous devrez à nouveau appairer les capteurs sur la page des paramètres du capteur pour activer les alertes et le balayage en arrière-plan.",
+      "de": "Möchten Sie das Scannen im Hintergrund wirklich deaktivieren? Wenn Sie es deaktivieren, müssen Sie die Sensoren auf der Seite „Sensoreinstellungen“ erneut koppeln, um Warnungen und das Scannen im Hintergrund zu aktivieren.",
+      "pl": "Czy na pewno chcesz wyłączyć skanowanie w tle? Jeśli je wyłączysz, konieczne będzie ponowne sparowanie czujników na stronie Ustawienia czujnika, aby włączyć alerty i skanowanie w tle."
+    },
+    {
       "ident_ios": "",
       "ident_android": "settings_background_scan_details",
       "ident_webui": "",
