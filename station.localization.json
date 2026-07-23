@@ -4,7 +4,7 @@
       "ident_ios": "air_quality",
       "ident_android": "air_quality",
       "ident_webui": "air_quality",
-      "en": "Air quality",
+      "en": "Air Quality",
       "fi": "Ilmanlaatu",
       "sv": "Luftkvalitet",
       "fr": "Qualité de l'air",
@@ -584,7 +584,7 @@
       "pl": "Moc sygnału (RSSI)"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "signal_strength_dbm",
       "ident_android": "signal_strength_dbm",
       "ident_webui": "",
       "en": "Signal strength (dBm)",
@@ -631,34 +631,34 @@
       "ident_ios": "sound_avg",
       "ident_android": "sound_avg",
       "ident_webui": "sound_avg",
-      "en": "Sound (average)",
-      "fi": "Ääni (keskiarvo)",
-      "sv": "Ljud (genomsnitt)",
-      "fr": "Son (moyenne)",
-      "de": "Ton (durchschnitt)",
-      "pl": "Dźwięk (średnia)"
+      "en": "Sound average",
+      "fi": "Äänen keskiarvo",
+      "sv": "Genomsnittligt ljud",
+      "fr": "Son moyen",
+      "de": "Durchschnittlicher Ton",
+      "pl": "Średni dźwięk"
     },
     {
       "ident_ios": "sound_peak",
       "ident_android": "sound_peak",
       "ident_webui": "sound_peak",
-      "en": "Sound (peak)",
-      "fi": "Ääni (huippu)",
-      "sv": "Ljud (topp)",
-      "fr": "Son (pic)",
-      "de": "Ton (spitze)",
-      "pl": "Dźwięk (szczyt)"
+      "en": "Sound peak",
+      "fi": "Äänen huippuarvo",
+      "sv": "Ljudtopp",
+      "fr": "Pic sonore",
+      "de": "Tonspitze",
+      "pl": "Szczyt dźwięku"
     },
     {
       "ident_ios": "sound_instant",
       "ident_android": "sound_instant",
       "ident_webui": "sound_instant",
-      "en": "Sound (instant)",
-      "fi": "Ääni (hetkellinen)",
-      "sv": "Ljud (momentan)",
-      "fr": "Son (instantané)",
-      "de": "Ton (sofort)",
-      "pl": "Dźwięk (natychmiastowy)"
+      "en": "Sound real time",
+      "fi": "Ääni reaaliajassa",
+      "sv": "Ljud i realtid",
+      "fr": "Son en temps réel",
+      "de": "Ton in Echtzeit",
+      "pl": "Dźwięk w czasie rzeczywistym"
     },
     {
       "ident_ios": "unit_pm10",
@@ -11931,33 +11931,33 @@
       "ident_android": "sound_average_with_unit",
       "ident_webui": "",
       "en": "Sound average ({%@^%1$s})",
-      "fi": "Ääni (keskiarvo) ({%@^%1$s})",
-      "sv": "Ljud (medel) ({%@^%1$s})",
-      "fr": "Son (moyenne) ({%@^%1$s})",
-      "de": "Ton (durchschnitt) ({%@^%1$s})",
-      "pl": "Dźwięk (średnia) ({%@^%1$s})"
+      "fi": "Äänen keskiarvo ({%@^%1$s})",
+      "sv": "Genomsnittligt ljud ({%@^%1$s})",
+      "fr": "Son moyen ({%@^%1$s})",
+      "de": "Durchschnittlicher Ton ({%@^%1$s})",
+      "pl": "Średni dźwięk ({%@^%1$s})"
     },
     {
       "ident_ios": "sound_peak_with_unit",
       "ident_android": "sound_peak_with_unit",
       "ident_webui": "",
-      "en": "Sound (peak) ({%@^%1$s})",
-      "fi": "Ääni (huippu) ({%@^%1$s})",
-      "sv": "Ljud (topp) ({%@^%1$s})",
-      "fr": "Son (pic) ({%@^%1$s})",
-      "de": "Ton (spitze) ({%@^%1$s})",
-      "pl": "Dźwięk (szczyt) ({%@^%1$s})"
+      "en": "Sound peak ({%@^%1$s})",
+      "fi": "Äänen huippuarvo ({%@^%1$s})",
+      "sv": "Ljudtopp ({%@^%1$s})",
+      "fr": "Pic sonore ({%@^%1$s})",
+      "de": "Tonspitze ({%@^%1$s})",
+      "pl": "Szczyt dźwięku ({%@^%1$s})"
     },
     {
       "ident_ios": "sound_instant_with_unit",
       "ident_android": "sound_instant_with_unit",
       "ident_webui": "",
-      "en": "Sound (instant) ({%@^%1$s})",
-      "fi": "Ääni (hetkellinen) ({%@^%1$s})",
-      "sv": "Ljud (momentan) ({%@^%1$s})",
-      "fr": "Son (instantané) ({%@^%1$s})",
-      "de": "Ton (sofort) ({%@^%1$s})",
-      "pl": "Dźwięk (natychmiastowy) ({%@^%1$s})"
+      "en": "Sound real time ({%@^%1$s})",
+      "fi": "Ääni reaaliajassa ({%@^%1$s})",
+      "sv": "Ljud i realtid ({%@^%1$s})",
+      "fr": "Son en temps réel ({%@^%1$s})",
+      "de": "Ton in Echtzeit ({%@^%1$s})",
+      "pl": "Dźwięk w czasie rzeczywistym ({%@^%1$s})"
     },
     {
       "ident_ios": "",
