@@ -2333,15 +2333,59 @@
       "pl": "Ustawienia alarmów znajdują się teraz w nowym miejscu. Przejdź do ustawień alarmów za pomocą ikony dzwonka w górnym menu lub stuknij tutaj."
     },
     {
-      "ident_ios": "TagSettings.Alerts.NoCloudDataBanner.text",
+      "ident_ios": "TagSettings.Alerts.DeliveryPrompt.RuuviTagUnpaired.text",
       "ident_android": "",
       "ident_webui": "",
-      "en": "To receive alerts from your RuuviTag sensors while the app is running in the background, enable Connected Mode (pairing) in the Sensor Settings. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
-      "fi": "Ota Bluetooth-yhteys käyttöön anturin asetuksissa, jos haluat vastaanottaa hälytyksiä RuuviTag-antureilta sovelluksen ollessa käynnissä taustalla. Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
-      "sv": "För att få alarm från dina RuuviTag-sensorer när appen körs i bakgrunden, aktivera Anslutet läge (parkoppling) i sensorinställningarna. Alarm från Ruuvi-sensorer levereras inte om appen är helt stängd.",
-      "fr": "Pour recevoir des alertes de vos capteurs RuuviTag lorsque l’app fonctionne en arrière-plan, activez le mode connecté (association) dans les réglages du capteur. Les alertes des capteurs Ruuvi ne sont pas transmises si l’app est complètement fermée.",
-      "de": "Um Warnungen von deinen RuuviTag-Sensoren zu erhalten, während die App im Hintergrund läuft, aktiviere den Verbundenen Modus (Kopplung) in den Sensoreinstellungen. Warnungen von Ruuvi-Sensoren werden nicht zugestellt, wenn die App vollständig geschlossen ist.",
-      "pl": "Aby otrzymywać alarmy z czujników RuuviTag, gdy aplikacja działa w tle, włącz tryb połączenia (parowanie) w ustawieniach czujnika. Alarmy z czujników Ruuvi nie są dostarczane, jeśli aplikacja jest całkowicie zamknięta."
+      "en": "Currently your app is not delivering alert notifications from this sensor. To receive alert notifications from your RuuviTag sensors while the app is running in the background, enable Connected Mode (pairing) in the Sensor Settings. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
+      "fi": "Sovellus ei tällä hetkellä toimita hälytysilmoituksia tältä anturilta. Jos haluat vastaanottaa hälytysilmoituksia RuuviTag-antureiltasi sovelluksen ollessa käynnissä taustalla, ota Yhdistetty tila (pariliitos) käyttöön anturin asetuksissa. Huomaa, että Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
+      "sv": "Appen levererar för närvarande inga larmnotiser från den här sensorn. För att få larmnotiser från dina RuuviTag-sensorer när appen körs i bakgrunden, aktivera Anslutet läge (parkoppling) i sensorinställningarna. Observera att larm från Ruuvi-sensorer inte levereras om appen är helt stängd.",
+      "fr": "Votre application ne transmet actuellement aucune notification d’alerte provenant de ce capteur. Pour recevoir les notifications d’alerte de vos capteurs RuuviTag lorsque l’application fonctionne en arrière-plan, activez le mode connecté (association) dans les réglages du capteur. Veuillez noter que les alertes des capteurs Ruuvi ne seront pas transmises si l’application est complètement fermée.",
+      "de": "Deine App stellt derzeit keine Alarmbenachrichtigungen von diesem Sensor zu. Um Alarmbenachrichtigungen von deinen RuuviTag-Sensoren zu erhalten, während die App im Hintergrund läuft, aktiviere den Verbundenen Modus (Kopplung) in den Sensoreinstellungen. Bitte beachte, dass Alarme von Ruuvi-Sensoren nicht zugestellt werden, wenn die App vollständig beendet wurde.",
+      "pl": "Aplikacja nie dostarcza obecnie powiadomień o alarmach z tego czujnika. Aby otrzymywać powiadomienia o alarmach z czujników RuuviTag, gdy aplikacja działa w tle, włącz tryb połączenia (parowanie) w ustawieniach czujnika. Pamiętaj, że alarmy z czujników Ruuvi nie będą dostarczane, jeśli aplikacja zostanie całkowicie zamknięta."
+    },
+    {
+      "ident_ios": "TagSettings.Alerts.DeliveryPrompt.RuuviTagBackgroundScanningDisabled.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Currently your app is not delivering alert notifications via Bluetooth, because your background scanning is turned off. Background scanning will be enabled automatically once you enable Connected Mode (pairing) in Sensor Settings for one or more sensors. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
+      "fi": "Sovellus ei tällä hetkellä toimita hälytysilmoituksia Bluetoothin kautta, koska taustaskannaus on poistettu käytöstä. Taustaskannaus otetaan automaattisesti käyttöön, kun otat Yhdistetyn tilan (pariliitoksen) käyttöön yhden tai useamman anturin asetuksissa. Huomaa, että Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
+      "sv": "Appen levererar för närvarande inga larmnotiser via Bluetooth eftersom bakgrundsskanning är avstängd. Bakgrundsskanning aktiveras automatiskt när du aktiverar Anslutet läge (parkoppling) i sensorinställningarna för en eller flera sensorer. Observera att larm från Ruuvi-sensorer inte levereras om appen är helt stängd.",
+      "fr": "Votre application ne transmet actuellement aucune notification d’alerte via Bluetooth, car l’analyse en arrière-plan est désactivée. L’analyse en arrière-plan sera activée automatiquement lorsque vous activerez le mode connecté (association) dans les réglages d’un ou de plusieurs capteurs. Veuillez noter que les alertes des capteurs Ruuvi ne seront pas transmises si l’application est complètement fermée.",
+      "de": "Deine App stellt derzeit keine Alarmbenachrichtigungen über Bluetooth zu, da das Scannen im Hintergrund deaktiviert ist. Das Scannen im Hintergrund wird automatisch aktiviert, sobald du den Verbundenen Modus (Kopplung) in den Sensoreinstellungen für einen oder mehrere Sensoren aktivierst. Bitte beachte, dass Alarme von Ruuvi-Sensoren nicht zugestellt werden, wenn die App vollständig beendet wurde.",
+      "pl": "Aplikacja nie dostarcza obecnie powiadomień o alarmach przez Bluetooth, ponieważ skanowanie w tle jest wyłączone. Skanowanie w tle zostanie włączone automatycznie po włączeniu trybu połączenia (parowania) w ustawieniach co najmniej jednego czujnika. Pamiętaj, że alarmy z czujników Ruuvi nie będą dostarczane, jeśli aplikacja zostanie całkowicie zamknięta."
+    },
+    {
+      "ident_ios": "TagSettings.Alerts.DeliveryPrompt.RuuviAirBackgroundScanningDisabled.text",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Currently your app is not delivering alert notifications via Bluetooth, because your background scanning is turned off. Turn background scanning on in App Settings to receive alert notifications. Please note that alerts from Ruuvi sensors will not be delivered if the app is completely terminated.",
+      "fi": "Sovellus ei tällä hetkellä toimita hälytysilmoituksia Bluetoothin kautta, koska taustaskannaus on poistettu käytöstä. Ota taustaskannaus käyttöön sovelluksen asetuksissa vastaanottaaksesi hälytysilmoituksia. Huomaa, että Ruuvi-antureiden hälytyksiä ei toimiteta, jos sovellus on suljettu kokonaan.",
+      "sv": "Appen levererar för närvarande inga larmnotiser via Bluetooth eftersom bakgrundsskanning är avstängd. Aktivera bakgrundsskanning i appinställningarna för att få larmnotiser. Observera att larm från Ruuvi-sensorer inte levereras om appen är helt stängd.",
+      "fr": "Votre application ne transmet actuellement aucune notification d’alerte via Bluetooth, car l’analyse en arrière-plan est désactivée. Activez l’analyse en arrière-plan dans les réglages de l’application pour recevoir les notifications d’alerte. Veuillez noter que les alertes des capteurs Ruuvi ne seront pas transmises si l’application est complètement fermée.",
+      "de": "Deine App stellt derzeit keine Alarmbenachrichtigungen über Bluetooth zu, da das Scannen im Hintergrund deaktiviert ist. Aktiviere das Scannen im Hintergrund in den App-Einstellungen, um Alarmbenachrichtigungen zu erhalten. Bitte beachte, dass Alarme von Ruuvi-Sensoren nicht zugestellt werden, wenn die App vollständig beendet wurde.",
+      "pl": "Aplikacja nie dostarcza obecnie powiadomień o alarmach przez Bluetooth, ponieważ skanowanie w tle jest wyłączone. Włącz skanowanie w tle w ustawieniach aplikacji, aby otrzymywać powiadomienia o alarmach. Pamiętaj, że alarmy z czujników Ruuvi nie będą dostarczane, jeśli aplikacja zostanie całkowicie zamknięta."
+    },
+    {
+      "ident_ios": "TagSettings.Alerts.DeliveryPrompt.GoToSensorSettings.button",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Go to Sensor Settings",
+      "fi": "Siirry anturin asetuksiin",
+      "sv": "Gå till sensorinställningar",
+      "fr": "Accéder aux réglages du capteur",
+      "de": "Zu den Sensoreinstellungen",
+      "pl": "Przejdź do ustawień czujnika"
+    },
+    {
+      "ident_ios": "TagSettings.Alerts.DeliveryPrompt.GoToBackgroundScanning.button",
+      "ident_android": "",
+      "ident_webui": "",
+      "en": "Go to Background Scanning",
+      "fi": "Siirry taustaskannaukseen",
+      "sv": "Gå till bakgrundsskanning",
+      "fr": "Accéder à l’analyse en arrière-plan",
+      "de": "Zum Scannen im Hintergrund",
+      "pl": "Przejdź do skanowania w tle"
     },
     {
       "ident_ios": "TagSettings.backgroundImageLabel.text",
