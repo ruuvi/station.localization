@@ -13401,26 +13401,70 @@
       "pl": "Notatki"
     },
     {
+      "ident_ios": "newsletter_card_title",
+      "ident_android": "newsletter_card_title",
+      "ident_webui": "",
+      "en": "Subscribe for promotions!",
+      "fi": "Tilaa tarjoukset!",
+      "sv": "Prenumerera på erbjudanden!",
+      "fr": "Abonnez-vous aux promotions !",
+      "de": "Angebote abonnieren!",
+      "pl": "Subskrybuj promocje!"
+    },
+    {
+      "ident_ios": "newsletter_card_description",
+      "ident_android": "newsletter_card_description",
+      "ident_webui": "",
+      "en": "Subscribe to Ruuvi’s newsletter and always get sensors at the best price.",
+      "fi": "Tilaa Ruuvin uutiskirje ja hanki sensorit aina parhaaseen hintaan.",
+      "sv": "Prenumerera på Ruuvís nyhetsbrev och få alltid sensorer till bästa pris.",
+      "fr": "Abonnez-vous à la newsletter de Ruuvi et profitez toujours du meilleur prix sur les capteurs.",
+      "de": "Abonniere den Ruuvi-Newsletter und erhalte Sensoren immer zum besten Preis.",
+      "pl": "Subskrybuj newsletter Ruuvi i kupuj sensory zawsze w najlepszej cenie."
+    },
+    {
+      "ident_ios": "newsletter_subscribe",
+      "ident_android": "newsletter_subscribe",
+      "ident_webui": "",
+      "en": "Subscribe",
+      "fi": "Tilaa",
+      "sv": "Prenumerera",
+      "fr": "S’abonner",
+      "de": "Abonnieren",
+      "pl": "Subskrybuj"
+    },
+    {
+      "ident_ios": "newsletter_subscription",
+      "ident_android": "newsletter_subscription",
+      "ident_webui": "",
+      "en": "Subscription",
+      "fi": "Tilaus",
+      "sv": "Prenumeration",
+      "fr": "Abonnement",
+      "de": "Abonnement",
+      "pl": "Subskrypcja"
+    },
+    {
       "ident_ios": "communication_channels",
       "ident_android": "communication_channels",
       "ident_webui": "",
-      "en": "Communication channels",
-      "fi": "Viestintäkanavat",
-      "sv": "Kommunikationskanaler",
-      "fr": "Canaux de communication",
-      "de": "Kommunikationskanäle",
-      "pl": "Kanały komunikacji"
+      "en": "Ruuvi newsletter",
+      "fi": "Ruuvin uutiskirje",
+      "sv": "Ruuvís nyhetsbrev",
+      "fr": "Newsletter Ruuvi",
+      "de": "Ruuvi-Newsletter",
+      "pl": "Newsletter Ruuvi"
     },
     {
       "ident_ios": "communication_channels_description",
       "ident_android": "communication_channels_description",
       "ident_webui": "",
-      "en": "I may be sent tips and other useful information regarding Ruuvi products.",
-      "fi": "Minulle voidaan lähettää vinkkejä ja muuta hyödyllistä tietoa Ruuvi-tuotteista.",
-      "sv": "Jag kan komma att få tips och annan användbar information om Ruuvi-produkter.",
-      "fr": "Je peux recevoir des conseils et d'autres informations utiles concernant les produits Ruuvi.",
-      "de": "Mir können Tipps und andere nützliche Informationen zu Ruuvi-Produkten zugesendet werden.",
-      "pl": "Mogę otrzymywać wskazówki i inne przydatne informacje dotyczące produktów Ruuvi."
+      "en": "Get useful Ruuvi tips, product updates, feature news, and occasional special offers straight to your inbox.",
+      "fi": "Saat hyödyllisiä Ruuvi-vinkkejä, tuotepäivityksiä, ominaisuusuutisia ja satunnaisia erikoistarjouksia suoraan sähköpostiisi.",
+      "sv": "Få användbara Ruuvi-tips, produktuppdateringar, funktionsnyheter och enstaka specialerbjudanden direkt till din inkorg.",
+      "fr": "Recevez des conseils Ruuvi utiles, des actualités sur les produits et les fonctionnalités, ainsi que des offres spéciales occasionnelles directement dans votre boîte de réception.",
+      "de": "Erhalte nützliche Ruuvi-Tipps, Produkt-Updates, Neuigkeiten zu Funktionen und gelegentliche Sonderangebote direkt in dein Postfach.",
+      "pl": "Otrzymuj przydatne wskazówki Ruuvi, aktualizacje produktów, informacje o funkcjach i okazjonalne oferty specjalne prosto na swoją skrzynkę."
     }
   ]
 }
