@@ -13434,6 +13434,17 @@
       "pl": "Subskrybuj"
     },
     {
+      "ident_ios": "newsletter_url",
+      "ident_android": "newsletter_url",
+      "ident_webui": "",
+      "en": "https://ruuvi.com/join",
+      "fi": "https://ruuvi.com/fi/liity",
+      "sv": "https://ruuvi.com/join",
+      "fr": "https://ruuvi.com/join",
+      "de": "https://ruuvi.com/de/beitreten",
+      "pl": "https://ruuvi.com/join"
+    },
+    {
       "ident_ios": "newsletter_subscription",
       "ident_android": "newsletter_subscription",
       "ident_webui": "",
