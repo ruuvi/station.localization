@@ -342,6 +342,17 @@
       "pl": "Pył zawieszony 2.5"
     },
     {
+      "ident_ios": "pm",
+      "ident_android": "pm",
+      "ident_webui": "pm",
+      "en": "PM",
+      "fi": "PM",
+      "sv": "PM",
+      "fr": "PM",
+      "de": "PM",
+      "pl": "PM"
+    },
+    {
       "ident_ios": "pm25",
       "ident_android": "pm25",
       "ident_webui": "pm25",
