@@ -8198,6 +8198,17 @@
       "pl": "Rozdzielczość"
     },
     {
+      "ident_ios": "Settings.Measurement.Resolution.empty",
+      "ident_android": "settings_resolution_empty",
+      "ident_webui": "",
+      "en": "Add a sensor to see the available resolution settings",
+      "fi": "Lisää anturi nähdäksesi käytettävissä olevat resoluutioasetukset",
+      "sv": "Lägg till en sensor för att se tillgängliga upplösningsinställningar",
+      "fr": "Ajoutez un capteur pour voir les paramètres de résolution disponibles",
+      "de": "Fügen Sie einen Sensor hinzu, um die verfügbaren Auflösungseinstellungen anzuzeigen",
+      "pl": "Dodaj czujnik, aby zobaczyć dostępne ustawienia rozdzielczości"
+    },
+    {
       "ident_ios": "MyRuuvi.Settings.DeleteAccount.title",
       "ident_android": "delete_account",
       "ident_webui": "delete_account",
