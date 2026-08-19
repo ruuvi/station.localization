@@ -162,7 +162,6 @@
 // Language
 "Language.English" = "English";
 "Language.Finnish" = "Suomi";
-"Language.Russian" = "Русский";
 "Language.Swedish" = "Svenska";
 
 // LocalNotificationsManager
