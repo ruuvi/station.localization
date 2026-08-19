@@ -10007,7 +10007,6 @@
       "ident_webui": "",
       "en": "Min: {%@^%1$s} Max: {%@^%2$s} Average: {%@^%3$s}",
       "fi": "Min: {%@^%1$s} Max: {%@^%2$s} Keskiarvo: {%@^%3$s}",
-      "ru": "Мин: {%@^%1$s} Макс: {%@^%2$s} Среднее: {%@^%3$s}",
       "sv": "Min: {%@^%1$s} Max: {%@^%2$s} Medelvärde: {%@^%3$s}",
       "fr": "Min: {%@^%1$s} Max: {%@^%2$s} Moyenne: {%@^%3$s}",
       "de": "Min: {%@^%1$s} Max: {%@^%2$s} Durchschnitt: {%@^%3$s}",
