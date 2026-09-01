@@ -5196,7 +5196,7 @@
     },
     {
       "ident_ios": "share_active_access_section_title",
-      "ident_android": "",
+      "ident_android": "share_active_access_section_title",
       "ident_webui": "",
       "en": "Users with active access to this sensor:",
       "fi": "Käyttäjät, joilla on aktiivinen pääsy tähän anturiin:",
@@ -5207,7 +5207,7 @@
     },
     {
       "ident_ios": "share_active_access_empty_value",
-      "ident_android": "",
+      "ident_android": "share_active_access_empty_value",
       "ident_webui": "",
       "en": "Not shared to anyone yet",
       "fi": "Ei vielä jaettu kenellekään",
@@ -5218,7 +5218,7 @@
     },
     {
       "ident_ios": "share_sensor_shared_to_count_message",
-      "ident_android": "",
+      "ident_android": "share_sensor_shared_to_count_message",
       "ident_webui": "",
       "en": "Used shares for this sensor: {%d^%1$,d}/{%d^%2$,d}\n\nTotal used shares for your account: {%d^%3$,d}/{%d^%4$,d}",
       "fi": "Tälle anturille käytetyt jaot: {%d^%1$,d}/{%d^%2$,d}\n\nTilillesi käytetyt jaot yhteensä: {%d^%3$,d}/{%d^%4$,d}",
@@ -5229,7 +5229,7 @@
     },
     {
       "ident_ios": "share_pending_section_title",
-      "ident_android": "",
+      "ident_android": "share_pending_section_title",
       "ident_webui": "",
       "en": "The following users have been invited and the sensor has been shared with them, but access is still pending as they have not yet created a free Ruuvi account. Invitations have been sent, and access will be granted once their accounts are set up:",
       "fi": "Seuraavat käyttäjät on kutsuttu ja anturi on jaettu heille, mutta käyttöoikeus odottaa vielä, koska he eivät ole vielä luoneet ilmaista Ruuvi-tiliä. Kutsut on lähetetty, ja käyttöoikeus myönnetään, kun heidän tilinsä on luotu:",
