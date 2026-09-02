@@ -13498,6 +13498,105 @@
       "fr": "Recevez des conseils Ruuvi utiles, des actualités sur les produits et les fonctionnalités, ainsi que des offres spéciales occasionnelles directement dans votre boîte de réception.",
       "de": "Erhalte nützliche Ruuvi-Tipps, Produkt-Updates, Neuigkeiten zu Funktionen und gelegentliche Sonderangebote direkt in dein Postfach.",
       "pl": "Otrzymuj przydatne wskazówki Ruuvi, aktualizacje produktów, informacje o funkcjach i okazjonalne oferty specjalne prosto na swoją skrzynkę."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "copy_link",
+      "en": "Copy link",
+      "fi": "Kopioi linkki",
+      "sv": "Kopiera länk",
+      "fr": "Copier le lien",
+      "de": "Link kopieren",
+      "pl": "Skopiuj link"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "link_copied",
+      "en": "Link copied to clipboard",
+      "fi": "Linkki kopioitu leikepöydälle",
+      "sv": "Länken kopierad till urklippet",
+      "fr": "Lien copié dans le presse-papiers",
+      "de": "Link in Zwischenablage kopiert",
+      "pl": "Link skopiowany do schowka"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "qr_code",
+      "en": "QR code",
+      "fi": "QR-koodi",
+      "sv": "QR-kod",
+      "fr": "Code QR",
+      "de": "QR-Code",
+      "pl": "Kod QR"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "download_qr",
+      "en": "Download QR",
+      "fi": "Lataa QR",
+      "sv": "Ladda ner QR",
+      "fr": "Télécharger le QR",
+      "de": "QR herunterladen",
+      "pl": "Pobierz QR"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "copied",
+      "en": "Copied",
+      "fi": "Kopioitu",
+      "sv": "Kopierad",
+      "fr": "Copié",
+      "de": "Kopiert",
+      "pl": "Skopiowano"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "fullscreen",
+      "en": "Fullscreen",
+      "fi": "Koko näyttö",
+      "sv": "Helskärm",
+      "fr": "Plein écran",
+      "de": "Vollbild",
+      "pl": "Pełny ekran"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "exit_fullscreen",
+      "en": "Exit fullscreen",
+      "fi": "Poistu koko näytön tilasta",
+      "sv": "Avsluta helskärm",
+      "fr": "Quitter le plein écran",
+      "de": "Vollbild beenden",
+      "pl": "Wyjdź z pełnego ekranu"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "copy_link_failed",
+      "en": "Failed to copy link",
+      "fi": "Linkin kopiointi epäonnistui",
+      "sv": "Kunde inte kopiera länken",
+      "fr": "Échec de la copie du lien",
+      "de": "Link konnte nicht kopiert werden",
+      "pl": "Nie udało się skopiować linku"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "unnamed_sensor",
+      "en": "Unnamed sensor",
+      "fi": "Nimetön anturi",
+      "sv": "Namnlös sensor",
+      "fr": "Capteur sans nom",
+      "de": "Unbenannter Sensor",
+      "pl": "Nienazwany czujnik"
     }
   ]
 }
