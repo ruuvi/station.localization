@@ -13478,6 +13478,17 @@
       "pl": "Subskrypcja"
     },
     {
+      "ident_ios": "newsletter_subscription_confirmation",
+      "ident_android": "newsletter_subscription_confirmation",
+      "ident_webui": "",
+      "en": "Check your email to confirm your newsletter subscription.",
+      "fi": "Vahvista uutiskirjeen tilaus sähköpostistasi.",
+      "sv": "Kontrollera din e-post för att bekräfta din prenumeration på nyhetsbrevet.",
+      "fr": "Consultez votre messagerie pour confirmer votre abonnement à la newsletter.",
+      "de": "Prüfe deine E-Mails, um dein Newsletter-Abonnement zu bestätigen.",
+      "pl": "Sprawdź swoją pocztę e-mail, aby potwierdzić subskrypcję newslettera."
+    },
+    {
       "ident_ios": "communication_channels",
       "ident_android": "communication_channels",
       "ident_webui": "",
