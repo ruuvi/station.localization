@@ -13469,7 +13469,7 @@
     {
       "ident_ios": "newsletter_subscription",
       "ident_android": "newsletter_subscription",
-      "ident_webui": "",
+      "ident_webui": "newsletter_subscription",
       "en": "Subscription",
       "fi": "Tilaus",
       "sv": "Prenumeration",
@@ -13480,7 +13480,7 @@
     {
       "ident_ios": "newsletter_subscription_confirmation",
       "ident_android": "newsletter_subscription_confirmation",
-      "ident_webui": "",
+      "ident_webui": "newsletter_subscription_confirmation",
       "en": "Check your email to confirm your newsletter subscription.",
       "fi": "Vahvista uutiskirjeen tilaus sähköpostistasi.",
       "sv": "Kontrollera din e-post för att bekräfta din prenumeration på nyhetsbrevet.",
@@ -13491,7 +13491,7 @@
     {
       "ident_ios": "communication_channels",
       "ident_android": "communication_channels",
-      "ident_webui": "",
+      "ident_webui": "communication_channels",
       "en": "Ruuvi newsletter",
       "fi": "Ruuvin uutiskirje",
       "sv": "Ruuvís nyhetsbrev",
@@ -13502,7 +13502,7 @@
     {
       "ident_ios": "communication_channels_description",
       "ident_android": "communication_channels_description",
-      "ident_webui": "",
+      "ident_webui": "communication_channels_description",
       "en": "Get useful Ruuvi tips, product updates, feature news, and occasional special offers straight to your inbox.",
       "fi": "Saat hyödyllisiä Ruuvi-vinkkejä, tuotepäivityksiä, ominaisuusuutisia ja satunnaisia erikoistarjouksia suoraan sähköpostiisi.",
       "sv": "Få användbara Ruuvi-tips, produktuppdateringar, funktionsnyheter och enstaka specialerbjudanden direkt till din inkorg.",
