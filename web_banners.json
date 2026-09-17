@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260819",
-        "version": "1.3.10",
-        "en": "Version 1.3.10 has been released. This update fixes issue where custom dashboard ordering was not respected after sign in. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.3.10 on julkaistu. Tämä päivitys korjaa ongelman, jossa koontinäytön mukautettua korttijärjestystä ei näytetty sisäänkirjautumisen jälkeen. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.3.10 har släppts. Den här uppdateringen åtgärdar ett problem där den anpassade kortordningen på översiktsvyn inte visades efter inloggning. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20260917",
+        "version": "1.4.0",
+        "en": "Version 1.4.0 has been released. This update adds a newsletter subscription link and improves data exports: air pressure in inHg now retains full resolution, and dew point values are available in all supported units. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.4.0 on julkaistu. Tämä päivitys lisää linkin uutiskirjeen tilaamiseen ja parantaa tietojen vientiä: ilmanpaineen inHg-arvot viedään nyt täydellä resoluutiolla, ja kastepistearvot ovat saatavilla kaikissa tuetuissa yksiköissä. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.4.0 har släppts. Den här uppdateringen lägger till en länk för att prenumerera på nyhetsbrevet och förbättrar dataexporten: lufttryck i inHg behåller nu full upplösning, och daggpunktsvärden finns i alla enheter som stöds. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
