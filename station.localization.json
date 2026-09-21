@@ -10552,6 +10552,28 @@
       "pl": "Szczegóły czujnika"
     },
     {
+      "ident_ios": "previous_sensor",
+      "ident_android": "previous_sensor",
+      "ident_webui": "",
+      "en": "Previous sensor",
+      "fi": "Edellinen anturi",
+      "sv": "Föregående sensor",
+      "fr": "Capteur précédent",
+      "de": "Vorheriger Sensor",
+      "pl": "Poprzedni czujnik"
+    },
+    {
+      "ident_ios": "next_sensor",
+      "ident_android": "next_sensor",
+      "ident_webui": "",
+      "en": "Next sensor",
+      "fi": "Seuraava anturi",
+      "sv": "Nästa sensor",
+      "fr": "Capteur suivant",
+      "de": "Nächster Sensor",
+      "pl": "Następny czujnik"
+    },
+    {
       "ident_ios": "add_sensor",
       "ident_android": "nfc_dialog_add_sensor",
       "ident_webui": "",
