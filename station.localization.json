@@ -13531,6 +13531,61 @@
       "fr": "Recevez des conseils Ruuvi utiles, des actualités sur les produits et les fonctionnalités, ainsi que des offres spéciales occasionnelles directement dans votre boîte de réception.",
       "de": "Erhalte nützliche Ruuvi-Tipps, Produkt-Updates, Neuigkeiten zu Funktionen und gelegentliche Sonderangebote direkt in dein Postfach.",
       "pl": "Otrzymuj przydatne wskazówki Ruuvi, aktualizacje produktów, informacje o funkcjach i okazjonalne oferty specjalne prosto na swoją skrzynkę."
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "enable_background_service",
+      "ident_webui": "",
+      "en": "Enable background service",
+      "fi": "Ota taustapalvelu käyttöön",
+      "sv": "Aktivera bakgrundstjänst",
+      "fr": "Activer le service en arrière-plan",
+      "de": "Hintergrunddienst aktivieren",
+      "pl": "Włącz usługę działającą w tle"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "use_web_version_of_share",
+      "ident_webui": "",
+      "en": "Use web version of share",
+      "fi": "Käytä jakamisen verkkoversiota",
+      "sv": "Använd webbversionen för delning",
+      "fr": "Utiliser la version Web du partage",
+      "de": "Webversion der Freigabe verwenden",
+      "pl": "Użyj internetowej wersji udostępniania"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "font_scaling",
+      "ident_webui": "",
+      "en": "Font scaling %1$s%%",
+      "fi": "Fontin skaalaus %1$s%%",
+      "sv": "Teckenskalning %1$s%%",
+      "fr": "Mise à l'échelle de la police %1$s%%",
+      "de": "Schriftskalierung %1$s%%",
+      "pl": "Skalowanie czcionki %1$s%%"
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "disable_developer_mode",
+      "ident_webui": "",
+      "en": "Disable developer mode",
+      "fi": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
+    },
+    {
+      "ident_ios": "",
+      "ident_android": "registered_fcm_tokens",
+      "ident_webui": "",
+      "en": "Registered FCM tokens",
+      "fi": "",
+      "sv": "",
+      "fr": "",
+      "de": "",
+      "pl": ""
     }
   ]
 }
