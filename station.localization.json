@@ -13762,6 +13762,50 @@
       "fr": "Capteur sans nom",
       "de": "Unbenannter Sensor",
       "pl": "Nienazwany czujnik"
+    },
+    {
+      "ident_ios": "marketing_consent_prompt_title",
+      "ident_android": "marketing_consent_prompt_title",
+      "ident_webui": "",
+      "en": "May we send you emails?",
+      "fi": "Saammeko lähettää sinulle sähköpostia?",
+      "sv": "Får vi skicka e-post till dig?",
+      "fr": "Pouvons-nous vous envoyer des e-mails ?",
+      "de": "Dürfen wir dir E-Mails senden?",
+      "pl": "Czy możemy wysyłać Ci e-maile?"
+    },
+    {
+      "ident_ios": "marketing_consent_prompt_message",
+      "ident_android": "marketing_consent_prompt_message",
+      "ident_webui": "",
+      "en": "From time to time, we have news to share about the app, our products and current offers.",
+      "fi": "Silloin tällöin meillä on kerrottavaa sovelluksesta, tuotteistamme ja ajankohtaisista tarjouksista.",
+      "sv": "Då och då har vi nyheter att dela om appen, våra produkter och aktuella erbjudanden.",
+      "fr": "De temps en temps, nous avons des nouveautés à partager sur l’application, nos produits et nos offres du moment.",
+      "de": "Von Zeit zu Zeit haben wir Neuigkeiten über die App, unsere Produkte und aktuelle Angebote.",
+      "pl": "Od czasu do czasu mamy wiadomości o aplikacji, naszych produktach i aktualnych ofertach."
+    },
+    {
+      "ident_ios": "marketing_consent_prompt_decline",
+      "ident_android": "marketing_consent_prompt_decline",
+      "ident_webui": "",
+      "en": "No thanks",
+      "fi": "En halua kirjeitä",
+      "sv": "Nej tack",
+      "fr": "Non merci",
+      "de": "Nein danke",
+      "pl": "Nie, dziękuję"
+    },
+    {
+      "ident_ios": "marketing_consent_prompt_saved",
+      "ident_android": "marketing_consent_prompt_saved",
+      "ident_webui": "",
+      "en": "Thank you, saved successfully.",
+      "fi": "Kiitos, tallennettu onnistuneesti.",
+      "sv": "Tack, sparat.",
+      "fr": "Merci, votre préférence a été enregistrée.",
+      "de": "Vielen Dank, erfolgreich gespeichert.",
+      "pl": "Dziękujemy, zapisano pomyślnie."
     }
   ]
 }
