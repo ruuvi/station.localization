@@ -31,3 +31,6 @@ jobs:
             echo "Checking $file"
             jq empty $file
           done
+
+      - name: Check backend strings
+        run: python3 .github/scripts/check_backend_strings.py

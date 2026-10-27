@@ -1,0 +1,178 @@
+{
+  "subject": {
+    "en": "Confirm your Ruuvi account deletion",
+    "fi": "Vahvista Ruuvi-tilisi poistaminen",
+    "sv": "Bekräfta raderingen av ditt Ruuvi-konto",
+    "de": "Bestätigen Sie die Löschung Ihres Ruuvi-Kontos",
+    "fr": "Confirmez la suppression de votre compte Ruuvi",
+    "pl": "Potwierdź usunięcie konta Ruuvi"
+  },
+  "preheader": {
+    "en": "Open the link within {{minutes}} minutes. Nothing is deleted until you confirm.",
+    "fi": "Avaa linkki {{minutes}} minuutin kuluessa. Mitään ei poisteta ennen kuin vahvistat.",
+    "sv": "Öppna länken inom {{minutes}} minuter. Inget raderas förrän du bekräftar.",
+    "de": "Öffnen Sie den Link innerhalb von {{minutes}} Minuten. Ohne Ihre Bestätigung wird nichts gelöscht.",
+    "fr": "Ouvrez le lien dans les {{minutes}} minutes. Rien n'est supprimé tant que vous n'avez pas confirmé.",
+    "pl": "Otwórz link w ciągu {{minutes}} min. Nic nie zostanie usunięte, dopóki tego nie potwierdzisz."
+  },
+  "title": {
+    "en": "Delete your account?",
+    "fi": "Poistetaanko tilisi?",
+    "sv": "Vill du radera ditt konto?",
+    "de": "Ihr Konto löschen?",
+    "fr": "Supprimer votre compte ?",
+    "pl": "Usunąć konto?"
+  },
+  "intro": {
+    "en": "Before you go, here's what will happen to the Ruuvi account associated with this email address.",
+    "fi": "Ennen kuin jatkat, katso mitä tähän sähköpostiosoitteeseen liitetylle Ruuvi-tilille tapahtuu.",
+    "sv": "Innan du fortsätter: så här påverkas det Ruuvi-konto som är kopplat till den här e-postadressen.",
+    "de": "Bevor Sie fortfahren: So wirkt sich die Löschung auf das Ruuvi-Konto aus, das mit dieser E-Mail-Adresse verknüpft ist.",
+    "fr": "Avant de partir, voici ce qui arrivera au compte Ruuvi associé à cette adresse e-mail.",
+    "pl": "Zanim odejdziesz, sprawdź, co stanie się z kontem Ruuvi powiązanym z tym adresem e-mail."
+  },
+  "item1Title": {
+    "en": "Sensor sharing will stop",
+    "fi": "Anturien jakaminen loppuu",
+    "sv": "Delningen av dina sensorer upphör",
+    "de": "Ihre Sensorfreigaben enden",
+    "fr": "Le partage de vos capteurs s'arrêtera",
+    "pl": "Udostępnianie czujników zostanie zakończone"
+  },
+  "item1Text": {
+    "en": "Your sensors will no longer be shared with others.",
+    "fi": "Antureitasi ei enää jaeta muille.",
+    "sv": "Dina sensorer delas inte längre med andra.",
+    "de": "Ihre Sensoren werden nicht mehr mit anderen geteilt.",
+    "fr": "Vos capteurs ne seront plus partagés avec d'autres personnes.",
+    "pl": "Twoje czujniki nie będą już udostępniane innym."
+  },
+  "item2Title": {
+    "en": "Shared sensors will be removed",
+    "fi": "Sinulle jaetut anturit poistetaan",
+    "sv": "Sensorer som delats med dig tas bort",
+    "de": "Mit Ihnen geteilte Sensoren werden entfernt",
+    "fr": "Les capteurs partagés avec vous seront retirés",
+    "pl": "Udostępnione Ci czujniki zostaną usunięte"
+  },
+  "item2Text": {
+    "en": "You'll lose access to sensors shared with you.",
+    "fi": "Menetät pääsyn sinulle jaettuihin antureihin.",
+    "sv": "Du förlorar åtkomsten till sensorer som andra har delat med dig.",
+    "de": "Sie verlieren den Zugriff auf Sensoren, die mit Ihnen geteilt wurden.",
+    "fr": "Vous n'aurez plus accès aux capteurs partagés avec vous.",
+    "pl": "Stracisz dostęp do czujników, które Ci udostępniono."
+  },
+  "item3Title": {
+    "en": "Your account data will be deleted",
+    "fi": "Tilisi tiedot poistetaan",
+    "sv": "Dina kontodata raderas",
+    "de": "Ihre Kontodaten werden gelöscht",
+    "fr": "Les données de votre compte seront supprimées",
+    "pl": "Dane Twojego konta zostaną usunięte"
+  },
+  "item3Text": {
+    "en": "This includes your sensor claims and settings.",
+    "fi": "Tämä koskee myös anturiesi omistajuuksia ja asetuksia.",
+    "sv": "Det gäller även ditt sensorägande och dina inställningar.",
+    "de": "Dazu gehören Ihr Sensorbesitz und Ihre Einstellungen.",
+    "fr": "Cela inclut la propriété de vos capteurs et vos paramètres.",
+    "pl": "Obejmuje to Twoje prawa własności do czujników oraz ustawienia."
+  },
+  "item4Title": {
+    "en": "Your subscription will end",
+    "fi": "Tilauksesi päättyy",
+    "sv": "Din prenumeration avslutas",
+    "de": "Ihr Abonnement endet",
+    "fr": "Votre abonnement prendra fin",
+    "pl": "Twoja subskrypcja zakończy się"
+  },
+  "item4Text": {
+    "en": "Any remaining subscription time will be lost.",
+    "fi": "Jäljellä oleva tilausaika menetetään.",
+    "sv": "Eventuell återstående prenumerationstid går förlorad.",
+    "de": "Die verbleibende Laufzeit Ihres Abonnements verfällt.",
+    "fr": "Le temps d'abonnement restant sera perdu.",
+    "pl": "Pozostały czas subskrypcji przepadnie."
+  },
+  "warning": {
+    "en": "This can't be undone",
+    "fi": "Tätä ei voi perua",
+    "sv": "Detta kan inte ångras",
+    "de": "Dies kann nicht rückgängig gemacht werden",
+    "fr": "Cette action ne peut pas être annulée",
+    "pl": "Tej operacji nie można cofnąć"
+  },
+  "warningDetail": {
+    "en": "Account deletion is permanent.",
+    "fi": "Tilin poistaminen on pysyvää.",
+    "sv": "Kontot raderas permanent.",
+    "de": "Die Kontolöschung ist dauerhaft.",
+    "fr": "La suppression du compte est définitive.",
+    "pl": "Usunięcie konta jest trwałe."
+  },
+  "button": {
+    "en": "Continue to account deletion",
+    "fi": "Jatka tilin poistamiseen",
+    "sv": "Fortsätt till radering av konto",
+    "de": "Weiter zur Kontolöschung",
+    "fr": "Continuer vers la suppression",
+    "pl": "Przejdź do usuwania konta"
+  },
+  "buttonNote": {
+    "en": "Nothing is deleted until you confirm on the next page.",
+    "fi": "Mitään ei poisteta ennen kuin vahvistat seuraavalla sivulla.",
+    "sv": "Inget raderas förrän du bekräftar på nästa sida.",
+    "de": "Ohne Ihre Bestätigung auf der nächsten Seite wird nichts gelöscht.",
+    "fr": "Rien n'est supprimé tant que vous n'avez pas confirmé sur la page suivante.",
+    "pl": "Nic nie zostanie usunięte, dopóki nie potwierdzisz na następnej stronie."
+  },
+  "linkHelp": {
+    "en": "Button not working? Use this link:",
+    "fi": "Eikö painike toimi? Käytä tätä linkkiä:",
+    "sv": "Fungerar inte knappen? Använd den här länken:",
+    "de": "Funktioniert die Schaltfläche nicht? Verwenden Sie diesen Link:",
+    "fr": "Le bouton ne fonctionne pas ? Utilisez ce lien :",
+    "pl": "Przycisk nie działa? Użyj tego linku:"
+  },
+  "expiry": {
+    "en": "The link expires in {{minutes}} minutes.",
+    "fi": "Linkki vanhenee {{minutes}} minuutissa.",
+    "sv": "Länken går ut om {{minutes}} minuter.",
+    "de": "Der Link läuft in {{minutes}} Minuten ab.",
+    "fr": "Le lien expire dans {{minutes}} minutes.",
+    "pl": "Link wygaśnie za {{minutes}} min."
+  },
+  "ignore": {
+    "en": "Didn't request this? Ignore this email and your account stays as it is.",
+    "fi": "Etkö pyytänyt tätä? Jätä viesti huomiotta, niin tilisi säilyy ennallaan.",
+    "sv": "Har du inte begärt detta? Ignorera det här meddelandet, så förblir ditt konto oförändrat.",
+    "de": "Sie haben dies nicht angefordert? Dann ignorieren Sie diese E-Mail. Ihr Konto bleibt unverändert.",
+    "fr": "Vous n'avez pas fait cette demande ? Ignorez cet e-mail et votre compte restera inchangé.",
+    "pl": "To nie Ty? Zignoruj tę wiadomość, a Twoje konto pozostanie bez zmian."
+  },
+  "support": {
+    "en": "Need help? Contact us at",
+    "fi": "Tarvitsetko apua? Ota yhteyttä:",
+    "sv": "Behöver du hjälp? Kontakta oss på",
+    "de": "Benötigen Sie Hilfe? Kontaktieren Sie uns unter",
+    "fr": "Besoin d'aide ? Contactez-nous à l'adresse",
+    "pl": "Potrzebujesz pomocy? Skontaktuj się z nami:"
+  },
+  "supportEmail": {
+    "en": "support@ruuvi.com",
+    "fi": "asiakaspalvelu@ruuvi.com",
+    "sv": "support@ruuvi.com",
+    "de": "support@ruuvi.com",
+    "fr": "support@ruuvi.com",
+    "pl": "support@ruuvi.com"
+  },
+  "footer": {
+    "en": "You received this email because deletion was requested for your Ruuvi account.",
+    "fi": "Saat tämän viestin, koska Ruuvi-tilisi poistamista pyydettiin.",
+    "sv": "Du får det här meddelandet eftersom en radering av ditt Ruuvi-konto har begärts.",
+    "de": "Sie erhalten diese E-Mail, weil die Löschung Ihres Ruuvi-Kontos angefordert wurde.",
+    "fr": "Vous recevez cet e-mail car la suppression de votre compte Ruuvi a été demandée.",
+    "pl": "Otrzymujesz tę wiadomość, ponieważ poproszono o usunięcie Twojego konta Ruuvi."
+  }
+}
