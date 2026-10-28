@@ -20,7 +20,7 @@
     "fi": "Poistetaanko tilisi?",
     "sv": "Vill du radera ditt konto?",
     "de": "Ihr Konto löschen?",
-    "fr": "Supprimer votre compte ?",
+    "fr": "Supprimer votre compte\u00a0?",
     "pl": "Usunąć konto?"
   },
   "intro": {
@@ -132,7 +132,7 @@
     "fi": "Eikö painike toimi? Käytä tätä linkkiä:",
     "sv": "Fungerar inte knappen? Använd den här länken:",
     "de": "Funktioniert die Schaltfläche nicht? Verwenden Sie diesen Link:",
-    "fr": "Le bouton ne fonctionne pas ? Utilisez ce lien :",
+    "fr": "Le bouton ne fonctionne pas\u00a0? Utilisez ce lien\u00a0:",
     "pl": "Przycisk nie działa? Użyj tego linku:"
   },
   "expiry": {
@@ -148,7 +148,7 @@
     "fi": "Etkö pyytänyt tätä? Jätä viesti huomiotta, niin tilisi säilyy ennallaan.",
     "sv": "Har du inte begärt detta? Ignorera det här meddelandet, så förblir ditt konto oförändrat.",
     "de": "Sie haben dies nicht angefordert? Dann ignorieren Sie diese E-Mail. Ihr Konto bleibt unverändert.",
-    "fr": "Vous n'avez pas fait cette demande ? Ignorez cet e-mail et votre compte restera inchangé.",
+    "fr": "Vous n'avez pas fait cette demande\u00a0? Ignorez cet e-mail et votre compte restera inchangé.",
     "pl": "To nie Ty? Zignoruj tę wiadomość, a Twoje konto pozostanie bez zmian."
   },
   "support": {
@@ -156,7 +156,7 @@
     "fi": "Tarvitsetko apua? Ota yhteyttä:",
     "sv": "Behöver du hjälp? Kontakta oss på",
     "de": "Benötigen Sie Hilfe? Kontaktieren Sie uns unter",
-    "fr": "Besoin d'aide ? Contactez-nous à l'adresse",
+    "fr": "Besoin d'aide\u00a0? Contactez-nous à l'adresse",
     "pl": "Potrzebujesz pomocy? Skontaktuj się z nami:"
   },
   "supportEmail": {

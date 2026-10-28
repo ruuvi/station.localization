@@ -12,6 +12,7 @@ from pathlib import Path
 LANGUAGES = ('en', 'fi', 'sv', 'de', 'fr', 'pl')
 KEY_PATTERN = re.compile(r'^[a-z][A-Za-z0-9]*$')
 PLACEHOLDER = re.compile(r'\{\{\{?\s*([^}]+?)\s*\}?\}\}')
+FRENCH_SPACE = re.compile(r' [?!:;]')
 
 errors = 0
 warnings = 0
@@ -59,6 +60,10 @@ def check_file(path):
         for lang, text in translations.items():
             if lang != 'en' and isinstance(text, str) and sorted(PLACEHOLDER.findall(text)) != expected:
                 error(path, f'"{key}" ({lang}) placeholders {sorted(PLACEHOLDER.findall(text))} differ from English {expected}')
+        # A plain space lets "?" or ":" wrap onto its own line; French needs a non-breaking space.
+        french = translations.get('fr')
+        if isinstance(french, str) and FRENCH_SPACE.search(french):
+            warning(path, f'"{key}" (fr) has a plain space before ? ! : or ; (use \\u00a0 instead)')
         missing = [lang for lang in LANGUAGES if lang not in translations]
         if missing:
             warning(path, f'"{key}" is missing {", ".join(missing)} (English is used instead)')
