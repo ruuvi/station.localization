@@ -19,6 +19,9 @@ Main file of repository containing all localized strings
 #### Directory localize.converter.android
 Tool we use to convert from *station.localization.json* to *strings.xml* files for Android project
 
+#### Directory backend
+Texts that Ruuvi Cloud sends to users, such as emails. See [backend/README.md](backend/README.md)
+
 ## Branches
 **master** - main branch for confirmed translations
 
