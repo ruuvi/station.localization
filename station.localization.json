@@ -5593,7 +5593,7 @@
     {
       "ident_ios": "UserApiError.ER_THROTTLED",
       "ident_android": "",
-      "ident_webui": "",
+      "ident_webui": "UserApiError.ER_THROTTLED",
       "en": "Too many requests",
       "fi": "Liian monta pyyntöä",
       "sv": "För många förfrågningar",
