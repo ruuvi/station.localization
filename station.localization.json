@@ -13811,12 +13811,12 @@
       "ident_ios": "sensor_measurements_outdated",
       "ident_android": "sensor_measurements_outdated",
       "ident_webui": "",
-      "en": "Measurements may be outdated. Check the sensor connection.",
-      "fi": "Mittaustiedot saattavat olla vanhentuneita. Tarkista anturin yhteys.",
-      "sv": "Mätvärdena kan vara inaktuella. Kontrollera anslutningen till sensorn.",
-      "fr": "Les données de mesure ne sont peut-être plus à jour. Vérifiez la connexion du capteur.",
-      "de": "Die Messwerte sind möglicherweise veraltet. Überprüfen Sie die Sensorverbindung.",
-      "pl": "Pomiary mogą być nieaktualne. Sprawdź połączenie z czujnikiem."
+      "en": "Measurements may be outdated.",
+      "fi": "Mittaustiedot saattavat olla vanhentuneita.",
+      "sv": "Mätvärdena kan vara inaktuella.",
+      "fr": "Les données de mesure ne sont peut-être plus à jour.",
+      "de": "Die Messwerte sind möglicherweise veraltet.",
+      "pl": "Pomiary mogą być nieaktualne."
     }
   ]
 }
