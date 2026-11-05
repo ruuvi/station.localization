@@ -64,20 +64,20 @@
     "pl": "Stracisz dostęp do czujników, które Ci udostępniono."
   },
   "item3Title": {
-    "en": "Your account data will be deleted",
-    "fi": "Tilisi tiedot poistetaan",
-    "sv": "Dina kontodata raderas",
-    "de": "Ihre Kontodaten werden gelöscht",
-    "fr": "Les données de votre compte seront supprimées",
-    "pl": "Dane Twojego konta zostaną usunięte"
+    "en": "All your account data will be deleted",
+    "fi": "Kaikki tilisi tiedot poistetaan",
+    "sv": "Alla dina kontodata raderas",
+    "de": "Alle Ihre Kontodaten werden gelöscht",
+    "fr": "Toutes les données de votre compte seront supprimées",
+    "pl": "Wszystkie dane Twojego konta zostaną usunięte"
   },
   "item3Text": {
-    "en": "This includes your sensor claims and settings.",
-    "fi": "Tämä koskee myös anturiesi omistajuuksia ja asetuksia.",
-    "sv": "Det gäller även ditt sensorägande och dina inställningar.",
-    "de": "Dazu gehören Ihr Sensorbesitz und Ihre Einstellungen.",
-    "fr": "Cela inclut la propriété de vos capteurs et vos paramètres.",
-    "pl": "Obejmuje to Twoje prawa własności do czujników oraz ustawienia."
+    "en": "This includes your sensors, sensor background images, custom notes, and other account settings. Data for all sensors in your account will also be deleted from the cloud.",
+    "fi": "Tämä koskee antureitasi, anturien taustakuvia, omia muistiinpanoja ja muita tilin asetuksia. Myös kaikkien tilisi anturien tiedot poistetaan pilvestä.",
+    "sv": "Det gäller dina sensorer, sensorernas bakgrundsbilder, egna anteckningar och övriga kontoinställningar. Data för alla sensorer i ditt konto raderas också från molnet.",
+    "de": "Dazu gehören Ihre Sensoren, Sensor-Hintergrundbilder, eigene Notizen und weitere Kontoeinstellungen. Die Daten aller Sensoren in Ihrem Konto werden ebenfalls aus der Cloud gelöscht.",
+    "fr": "Cela inclut vos capteurs, les images d'arrière-plan des capteurs, vos notes personnalisées et les autres paramètres du compte. Les données de tous les capteurs de votre compte seront également supprimées du cloud.",
+    "pl": "Obejmuje to Twoje czujniki, obrazy tła czujników, własne notatki i pozostałe ustawienia konta. Dane wszystkich czujników na Twoim koncie zostaną również usunięte z chmury."
   },
   "item4Title": {
     "en": "Your subscription will end",
