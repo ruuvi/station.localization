@@ -1530,17 +1530,6 @@
       "pl": "Rozłączono"
     },
     {
-      "ident_ios": "LocalNotificationsManager.Disable.button",
-      "ident_android": "",
-      "ident_webui": "",
-      "en": "Turn off",
-      "fi": "Poista käytöstä",
-      "sv": "Stäng av",
-      "fr": "Supprimer",
-      "de": "Ausschalten",
-      "pl": "Wyłącz"
-    },
-    {
       "ident_ios": "PermissionPresenter.NoPhotoLibraryAccess.message",
       "ident_android": "",
       "ident_webui": "",
@@ -2168,7 +2157,7 @@
       "pl": "temu"
     },
     {
-      "ident_ios": "",
+      "ident_ios": "alarm_notification_disable",
       "ident_android": "alarm_notification_disable",
       "ident_webui": "",
       "en": "Disable this alarm",
