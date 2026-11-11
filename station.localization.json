@@ -2160,12 +2160,12 @@
       "ident_ios": "alarm_notification_disable",
       "ident_android": "alarm_notification_disable",
       "ident_webui": "",
-      "en": "Disable this alarm",
+      "en": "Disable this alert",
       "fi": "Poista tämä hälytys käytöstä",
-      "sv": "Inaktivera alarm",
-      "fr": "Désactiver cette notification",
+      "sv": "Inaktivera detta larm",
+      "fr": "Désactiver cette alerte",
       "de": "Diesen Alarm deaktivieren",
-      "pl": "Wyłącz alarm"
+      "pl": "Wyłącz ten alarm"
     },
     {
       "ident_ios": "alert_movement",
