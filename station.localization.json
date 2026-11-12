@@ -5591,6 +5591,50 @@
       "pl": "Zbyt wiele żądań"
     },
     {
+      "ident_ios": "UserApiError.ER_SUB_INVALID_CODE",
+      "ident_android": "cloud_er_sub_invalid_code",
+      "ident_webui": "UserApiError.ER_SUB_INVALID_CODE",
+      "en": "That code is incorrect. Check the code in your email and try again.",
+      "fi": "Koodi on väärä. Tarkista sähköpostiisi saamasi koodi ja yritä uudelleen.",
+      "sv": "Koden är felaktig. Kontrollera koden i ditt e-postmeddelande och försök igen.",
+      "fr": "Ce code est incorrect. Vérifiez le code reçu par e-mail et réessayez.",
+      "de": "Dieser Code ist falsch. Bitte überprüfen Sie den Code in Ihrer E-Mail und versuchen Sie es erneut.",
+      "pl": "Ten kod jest nieprawidłowy. Sprawdź kod w wiadomości e-mail i spróbuj ponownie."
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_CODE_USED",
+      "ident_android": "cloud_er_sub_code_used",
+      "ident_webui": "UserApiError.ER_SUB_CODE_USED",
+      "en": "This code has already been used. Request a new code to sign in.",
+      "fi": "Tämä koodi on jo käytetty. Pyydä uusi koodi kirjautuaksesi sisään.",
+      "sv": "Den här koden har redan använts. Begär en ny kod för att logga in.",
+      "fr": "Ce code a déjà été utilisé. Demandez un nouveau code pour vous connecter.",
+      "de": "Dieser Code wurde bereits verwendet. Fordern Sie einen neuen Code an, um sich anzumelden.",
+      "pl": "Ten kod został już użyty. Poproś o nowy kod, aby się zalogować."
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_CODE_EXPIRED",
+      "ident_android": "cloud_er_sub_code_expired",
+      "ident_webui": "UserApiError.ER_SUB_CODE_EXPIRED",
+      "en": "This code has expired. Request a new code to sign in.",
+      "fi": "Tämä koodi on vanhentunut. Pyydä uusi koodi kirjautuaksesi sisään.",
+      "sv": "Den här koden har gått ut. Begär en ny kod för att logga in.",
+      "fr": "Ce code a expiré. Demandez un nouveau code pour vous connecter.",
+      "de": "Dieser Code ist abgelaufen. Fordern Sie einen neuen Code an, um sich anzumelden.",
+      "pl": "Ten kod wygasł. Poproś o nowy kod, aby się zalogować."
+    },
+    {
+      "ident_ios": "UserApiError.ER_SUB_TOO_MANY_ATTEMPTS",
+      "ident_android": "cloud_er_sub_too_many_attempts",
+      "ident_webui": "UserApiError.ER_SUB_TOO_MANY_ATTEMPTS",
+      "en": "Too many incorrect codes. Please wait 15 minutes and try again.",
+      "fi": "Liian monta väärää koodia. Odota 15 minuuttia ja yritä uudelleen.",
+      "sv": "För många felaktiga koder. Vänta 15 minuter och försök igen.",
+      "fr": "Trop de codes incorrects. Veuillez patienter 15 minutes et réessayer.",
+      "de": "Zu viele falsche Codes. Bitte warten Sie 15 Minuten und versuchen Sie es erneut.",
+      "pl": "Zbyt wiele nieprawidłowych kodów. Odczekaj 15 minut i spróbuj ponownie."
+    },
+    {
       "ident_ios": "",
       "ident_android": "settings_experimental",
       "ident_webui": "",
