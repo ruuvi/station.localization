@@ -7450,6 +7450,17 @@
       "pl": "Problem z połączeniem internetowym"
     },
     {
+      "ident_ios": "",
+      "ident_android": "",
+      "ident_webui": "sensor_refresh_unavailable",
+      "en": "Couldn’t refresh sensor data. Check your connection. We’ll try again automatically.",
+      "fi": "Anturitietojen päivitys epäonnistui. Tarkista verkkoyhteytesi. Yritämme uudelleen automaattisesti.",
+      "sv": "Det gick inte att uppdatera sensordata. Kontrollera din anslutning. Vi försöker igen automatiskt.",
+      "fr": "Impossible d’actualiser les données du capteur. Vérifiez votre connexion. Nous réessaierons automatiquement.",
+      "de": "Die Sensordaten konnten nicht aktualisiert werden. Bitte prüfen Sie Ihre Verbindung. Wir versuchen es automatisch erneut.",
+      "pl": "Nie udało się odświeżyć danych z czujnika. Sprawdź połączenie z internetem. Spróbujemy ponownie automatycznie."
+    },
+    {
       "ident_ios": "Settings.BackgroundScanning.Bluetooth.title",
       "ident_android": "background_scanning",
       "ident_webui": "",
