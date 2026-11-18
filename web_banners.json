@@ -1,11 +1,11 @@
 [
     {
         "plan": "",
-        "key": "20260917",
-        "version": "1.4.0",
-        "en": "Version 1.4.0 has been released. This update adds a newsletter subscription link and improves data exports: air pressure in inHg now retains full resolution, and dew point values are available in all supported units. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
-        "fi": "Versio 1.4.0 on julkaistu. Tämä päivitys lisää linkin uutiskirjeen tilaamiseen ja parantaa tietojen vientiä: ilmanpaineen inHg-arvot viedään nyt täydellä resoluutiolla, ja kastepistearvot ovat saatavilla kaikissa tuetuissa yksiköissä. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
-        "sv": "Version 1.4.0 har släppts. Den här uppdateringen lägger till en länk för att prenumerera på nyhetsbrevet och förbättrar dataexporten: lufttryck i inHg behåller nu full upplösning, och daggpunktsvärden finns i alla enheter som stöds. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
+        "key": "20261118",
+        "version": "1.4.1",
+        "en": "Version 1.4.1 has been released. This update adds support for public sensors, fixes missing chart data when comparing sensors, and updates the VOC and NOx alert ranges to 1–500. For details, <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>click here</a>.",
+        "fi": "Versio 1.4.1 on julkaistu. Tämä päivitys lisää tuen julkisille antureille, korjaa anturien vertailussa esiintyneen ongelman, jossa tiedot eivät aina näkyneet kuvaajassa, ja päivittää VOC- ja NOx-hälytysten asetusalueeksi 1–500. Täyden muutoshistorian löydät <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>täältä</a>.",
+        "sv": "Version 1.4.1 har släppts. Den här uppdateringen lägger till stöd för offentliga sensorer, åtgärdar ett problem där data ibland saknades i diagrammet vid jämförelse av sensorer och uppdaterar inställningsområdena för VOC- och NOx-larm till 1–500. Se vad som har ändrats <a href='https://f.ruuvi.com/t/5039/9999' style='text-decoration: underline;' target='_blank'>här</a>."
     },
     {
         "plan": "Free",
