@@ -6691,8 +6691,8 @@
       "pl": "Dzień"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "week",
+      "ident_android": "week",
       "ident_webui": "week",
       "en": "Week",
       "fi": "viikko",
@@ -6702,8 +6702,8 @@
       "pl": "Tydzień"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "weeks",
+      "ident_android": "weeks",
       "ident_webui": "weeks",
       "en": "Weeks",
       "fi": "viikkoa",
@@ -6713,8 +6713,8 @@
       "pl": "Tygodnie"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "month",
+      "ident_android": "month",
       "ident_webui": "month",
       "en": "Month",
       "fi": "kuukausi",
@@ -6724,8 +6724,8 @@
       "pl": "Miesiąc"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "months",
+      "ident_android": "months",
       "ident_webui": "months",
       "en": "Months",
       "fi": "kuukautta",
@@ -6746,8 +6746,8 @@
       "pl": "Godzina"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "year",
+      "ident_android": "year",
       "ident_webui": "year",
       "en": "Year",
       "fi": "vuosi",
@@ -6757,8 +6757,8 @@
       "pl": "Rok"
     },
     {
-      "ident_ios": "",
-      "ident_android": "",
+      "ident_ios": "years",
+      "ident_android": "years",
       "ident_webui": "years",
       "en": "Years",
       "fi": "vuotta",
