@@ -1,6 +1,17 @@
 {
   "translations": [
     {
+      "ident_ios": "TagCharts.Sync.downloading",
+      "ident_android": "history_downloading_progress",
+      "ident_webui": "",
+      "en": "Downloading ({%@^%1$s})",
+      "fi": "Ladataan ({%@^%1$s})",
+      "sv": "Laddar ned ({%@^%1$s})",
+      "fr": "Téléchargement ({%@^%1$s})",
+      "de": "Wird geladen ({%@^%1$s})",
+      "pl": "Pobieranie ({%@^%1$s})"
+    },
+    {
       "ident_ios": "air_quality",
       "ident_android": "air_quality",
       "ident_webui": "air_quality",
